@@ -16,7 +16,7 @@ jobs:
         node-version: '16'
 
     - name: Install dependencies
-      run: npm install
+      run: npm install express mysql2 cors
 
     - name: Run Node Server
       run: node server.js
