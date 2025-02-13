@@ -5,7 +5,7 @@ USE lgu_go;
 
 -- 比赛基础信息表
 CREATE TABLE Competition_bases (
-    competition_base_id INT,
+    competition_base_id INT DEFAULT NULL,
     competition_name VARCHAR(100) PRIMARY KEY,
     competition_first_year INT DEFAULT NULL,
     competition_last_year INT DEFAULT NULL,
@@ -58,6 +58,7 @@ CREATE TABLE Competitions_without_teams (
 
 -- 选手基本信息表
 CREATE TABLE Players (
+    player_id INT DEFAULT NULL,
     player_name VARCHAR(50) PRIMARY KEY,
     player_sex VARCHAR(10) DEFAULT NULL,
     player_birthplace VARCHAR(50) DEFAULT NULL,
