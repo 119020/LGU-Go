@@ -48,9 +48,9 @@ function renderPlayers(players) {
         playerDiv.className = 'player-card';
         playerDiv.innerHTML = `
             <h3>${player.name}</h3>
-            <p>入学年份: ${player.enroll_year}</p>
-            <p>所在书院: ${player.college}</p>
-            <p>业余段位: ${player.amateur_dan}</p>
+            <p>入学年份: ${player.enroll_year}年</p>
+            <p>所在书院: ${player.college}书院</p>
+            <p>业余段位: ${player.amateur_dan}段</p>
             <button onclick="fetchRecords(${player.id})">查看对局记录</button>
         `;
         playersContainer.appendChild(playerDiv);
@@ -102,7 +102,7 @@ function renderRecords(records) {
         <tbody>
             ${records.map(record => `
                 <tr>
-                    <td>${record.date}</td>
+                    <td>${record.date.getDate()}</td>
                     <td>${record.opponent}</td>
                     <td>${record.competition}</td>
                     <td>${record.edition}</td>
