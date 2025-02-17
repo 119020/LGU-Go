@@ -125,6 +125,17 @@ th {
 }
 
 /* 页脚 */
+footer {
+    text-align: center;
+
+    padding: 10px 0;
+
+    background-color: #333;
+    color: #fff;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
 
 footer .social-links {
     margin-top: 10px;
@@ -139,18 +150,6 @@ footer .social-links a {
 footer .social-links a:hover {
     color: #ff6347;
 }
-}
-
-footer {
-    text-align: center;
-
-    padding: 10px 0;
-
-    background-color: #333;
-    color: #fff;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
 }
 
 
