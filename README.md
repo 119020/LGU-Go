@@ -2,7 +2,10 @@
 
 CUHKSZ Go competitions website (www.cuhksz-go-team.com), starting from Sep 2019.
 
-You can also use the website (https://119020.github.io/LGU-Go/) if the above is not findable.
+You can also use the following websites if the above is not available:
+
+- https://lgu-go.vercel.app/
+- https://119020.github.io/LGU-Go/
 
 这是一个展示香港中文大学（深圳）围棋队信息的官方网站，提供队员介绍、比赛记录、最新动态等功能。
 
