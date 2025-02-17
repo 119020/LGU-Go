@@ -1,22 +1,19 @@
-name: Run Node Server
+name: Install Packages
 
-on: [push]
+on: [push, pull_request]
 
 jobs:
-  build:
+  install-packages:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: Check out repository
       uses: actions/checkout@v2
 
-    - name: Setup Node.js
+    - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
         node-version: '16'
 
     - name: Install dependencies
       run: npm install express mysql2 cors
-
-    - name: Run Node Server
-      run: node server.js
