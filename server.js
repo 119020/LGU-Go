@@ -20,7 +20,7 @@ const pool = mysql.createPool({
 });
 
 // 连接数据库
-db.connect((err) => {
+pool.connect((err) => {
   if (err) {
     console.error('数据库连接失败:', err);
     return;
