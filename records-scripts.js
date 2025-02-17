@@ -1,13 +1,18 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // 从 URL 参数中获取 player_id
+    // 从 URL 参数中获取 player_id 和 player_name
     const urlParams = new URLSearchParams(window.location.search);
     const playerId = urlParams.get('player_id');
+    const playerName = urlParams.get('player_name');
 
-    if (playerId) {
+    if (playerId && playerName) {
+        // 显示队员姓名
+        const recordsTitle = document.getElementById('records-title');
+        recordsTitle.textContent = `${playerName} 的对局记录`;
+
         // 获取对局记录并渲染
         fetchRecords(playerId);
     } else {
-        alert('未找到队员 ID');
+        alert('未找到队员 ID 或姓名');
     }
 });
 
