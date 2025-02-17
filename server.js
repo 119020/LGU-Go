@@ -8,6 +8,7 @@ const port = 3000;
 // 启用 CORS
 app.use(cors());
 
+/*
 // 创建 MySQL 连接池
 const pool = mysql.createPool({
     host: process.env.DB_HOST,
@@ -18,8 +19,16 @@ const pool = mysql.createPool({
     connectionLimit: 10,
     queueLimit: 0
 });
+*/
 
-/*
+// 从环境变量中获取 MySQL 连接信息
+const pool = mysql.createConnection({
+  host: process.env.DB_HOST,
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  database: process.env.DB_NAME,
+});
+
 // 连接数据库
 pool.connect((err) => {
   if (err) {
@@ -28,7 +37,6 @@ pool.connect((err) => {
   }
   console.log('成功连接到 MySQL 数据库');
 });
-*/
 
 // 获取所有队员信息
 app.get('/api/players', (req, res) => {
