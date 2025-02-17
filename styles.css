@@ -106,13 +106,25 @@ nav ul li a:hover {
     color: #555;
 }
 
-/* 页脚 */
-footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px 0;
+/* 表格 */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
     text-align: center;
 }
+
+th {
+    background-color: #333;
+    color: #fff;
+}
+
+/* 页脚 */
 
 footer .social-links {
     margin-top: 10px;
@@ -129,22 +141,10 @@ footer .social-links a:hover {
 }
 }
 
-nav ul li a {
-    color: #fff;
-    text-decoration: none;
-}
-
-section {
-    padding: 20px;
-    margin: 20px;
-    background-color: #fff;
-    border-radius: 5px;
-}
-
 footer {
     text-align: center;
 
-    padding: 0 0;
+    padding: 10px 0;
 
     background-color: #333;
     color: #fff;
@@ -152,3 +152,5 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+
