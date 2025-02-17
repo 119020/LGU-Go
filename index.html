@@ -3,39 +3,57 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>围棋队网站</title>
+    <title>香港中文大学（深圳）围棋队</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 <body>
     <header>
-        <h1>香港中文大学（深圳）围棋队</h1>
-        <nav>
-            <ul>
-                <li><a href="index.html">首页</a></li>
-                <li><a href="players.html">队员介绍</a></li>
-                <li><a href="records.html">比赛记录</a></li>
-                <li><a href="contact.html">联系我们</a></li>
-            </ul>
-        </nav>
+        <div class="container">
+            <h1>香港中文大学（深圳）围棋队</h1>
+            <nav>
+                <ul>
+                    <li><a href="index.html">首页</a></li>
+                    <li><a href="players.html">队员介绍</a></li>
+                    <li><a href="records.html">比赛记录</a></li>
+                    <li><a href="contact.html">联系我们</a></li>
+                </ul>
+            </nav>
+        </div>
     </header>
 
-    <section id="home">
-        <h2>欢迎来到香港中文大学（深圳）围棋队</h2>
-        <p>这里是围棋队的官方网站，您可以在这里了解我们的队员、比赛记录以及联系我们。</p>
+    <section id="hero">
+        <div class="container">
+            <h2>欢迎来到香港中文大学（深圳）围棋队</h2>
+            <p>这里是围棋队的官方网站，您可以在这里了解我们的队员、比赛记录以及联系我们。</p>
+        </div>
     </section>
 
-    <section id="players">
-        <h2>队员介绍</h2>
-        <div id="players-container"></div>
+    <section id="latest-news">
+        <div class="container">
+            <h2>最新动态</h2>
+            <div class="news-carousel">
+                <div class="news-item">
+                    <img src="images/news1.jpg" alt="新闻1">
+                    <p>2022年首届深圳高校联赛冠军</p>
+                </div>
+                <div class="news-item">
+                    <img src="images/news2.jpg" alt="新闻2">
+                    <p>2024年第二届湾区（深圳）高校联赛冠军</p>
+                </div>
+            </div>
+        </div>
     </section>
-
-    <section id="records">
-        <h2>比赛记录</h2>
-        <div id="records-container"></div>
-    </section>
-
+    
     <footer>
-        <p>&copy; 2025 香港中文大学（深圳）围棋队</p>
+        <div class="container">
+            <p>&copy; 2025 香港中文大学（深圳）围棋队</p>
+            <div class="social-links">
+                <a href="#"><i class="fab fa-weixin"></i></a>
+                <a href="#"><i class="fab fa-weibo"></i></a>
+                <a href="#"><i class="fab fa-qq"></i></a>
+            </div>
+        </div>
     </footer>
 
     <script src="scripts.js"></script>
