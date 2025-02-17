@@ -1,3 +1,14 @@
+// 轮播图功能（示例）
+let currentNewsIndex = 0;
+const newsItems = document.querySelectorAll('.news-item');
+
+function showNextNews() {
+    newsItems[currentNewsIndex].style.display = 'none';
+    currentNewsIndex = (currentNewsIndex + 1) % newsItems.length;
+    newsItems[currentNewsIndex].style.display = 'block';
+}
+setInterval(showNextNews, 5000); // 每5秒切换一次
+
 // 可以在这里添加一些交互功能，比如动态加载数据
 document.addEventListener('DOMContentLoaded', function() {
     console.log('页面加载完成');
