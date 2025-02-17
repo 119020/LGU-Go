@@ -19,6 +19,17 @@ const pool = mysql.createPool({
     queueLimit: 0
 });
 
+/*
+// 连接数据库
+pool.connect((err) => {
+  if (err) {
+    console.error('数据库连接失败:', err);
+    return;
+  }
+  console.log('成功连接到 MySQL 数据库');
+});
+*/
+
 // 获取所有队员信息
 app.get('/api/players', (req, res) => {
     pool.query('SELECT \
