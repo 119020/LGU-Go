@@ -34,9 +34,10 @@ function renderPlayers(players) {
         const playerElement = document.createElement('div');
         playerElement.innerHTML = `
             <h3>${player.name}</h3>
-            <p>等级分: ${player.rank}</p>
-            <p>简介: ${player.bio}</p>
-            <img src="${player.photo}" alt="${player.name}" width="100">
+            <p>序号: ${player.id}</p>
+            <p>业余段位: ${player.amateur_dan}</p>
+            <p>入学年份: ${player.enroll_year}</p>
+            <p>所在书院: ${player.college}</p>
         `;
         container.appendChild(playerElement);
     });
@@ -61,9 +62,11 @@ function renderRecords(records) {
     records.forEach(record => {
         const recordElement = document.createElement('div');
         recordElement.innerHTML = `
-            <h4>${record.tournament_name}</h4>
+            <h4>${record.competition}</h4>
             <p>日期: ${record.date}</p>
-            <p>地点: ${record.location}</p>
+            <p>对手: ${record.opponent}</p>
+            <p>届数: ${record.edition}</p>
+            <p>轮次: ${record.round}</p>
             <p>结果: ${record.result}</p>
         `;
         container.appendChild(recordElement);
