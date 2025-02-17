@@ -102,7 +102,7 @@ function renderRecords(records) {
         <tbody>
             ${records.map(record => `
                 <tr>
-                    <td>${record.date.getDate()}</td>
+                    <td>${record.date}</td>
                     <td>${record.opponent}</td>
                     <td>${record.competition}</td>
                     <td>${record.edition}</td>
