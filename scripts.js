@@ -47,6 +47,7 @@ function renderPlayers(players) {
             <p>入学年份: ${player.enroll_year}年</p>
             <p>所在书院: ${player.college}书院</p>
             <p>业余段位: ${player.amateur_dan}段</p>
+            <button onclick="fetchAwards(${player.id}, '${player.name}')">查询获奖记录</button>
             <button onclick="viewRecords(${player.id}, '${player.name}')">查看对局记录</button>
         `;
         playersContainer.appendChild(playerDiv);
