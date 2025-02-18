@@ -6,43 +6,43 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (playerId && playerName) {
         // 显示队员姓名
-        const recordsTitle = document.getElementById('records-title');
-        recordsTitle.textContent = `${playerName} 的对局记录`;
+        const awardsTitle = document.getElementById('awards-title');
+        awardsTitle.textContent = `${playerName} 的对局记录`;
 
         // 获取对局记录并渲染
-        fetchRecords(playerId);
+        fetchAwards(playerId);
     } else {
         alert('未找到队员 ID 或姓名');
     }
 });
 
-// 获取某个队员的对局记录
-function fetchRecords(playerId) {
-    fetch(`http://localhost:3000/api/records?player_id=${playerId}`)
+// 获取某个队员的获奖记录
+function fetchAwards(playerId) {
+    fetch(`http://localhost:3000/api/awards?player_id=${playerId}`)
         .then(response => {
             if (!response.ok) {
-                throw new Error('获取对局记录失败');
+                throw new Error('获取获奖记录失败');
             }
             return response.json();
         })
-        .then(records => {
-            renderRecords(records);
+        .then(awards => {
+            renderAwards(awards);
         })
         .catch(error => {
             console.error('Error:', error);
-            alert('获取对局记录失败，请稍后重试');
+            alert('获取获奖记录失败，请稍后重试');
         });
 }
 
-// 渲染对局记录
-function renderRecords(records) {
-    const recordsContainer = document.getElementById('records-list');
-    if (!recordsContainer) return;
+// 渲染获奖记录
+function renderAwards(awards) {
+    const awardsContainer = document.getElementById('awards-list');
+    if (!awardsContainer) return;
 
-    recordsContainer.innerHTML = ''; // 清空容器
+    awardsContainer.innerHTML = ''; // 清空容器
 
-    if (records.length === 0) {
-        recordsContainer.innerHTML = '<p>暂无对局记录</p>';
+    if (awards.length === 0) {
+        awardsContainer.innerHTML = `<p>暂无获奖记录</p>`;
         return;
     }
 
@@ -50,26 +50,20 @@ function renderRecords(records) {
     table.innerHTML = `
         <thead>
             <tr>
-                <th>日期</th>
-                <th>对手</th>
+                <th>年份</th>
                 <th>比赛名称</th>
-                <th>届次</th>
-                <th>轮次</th>
-                <th>结果</th>
+                <th>荣誉</th>
             </tr>
         </thead>
         <tbody>
-            ${records.map(record => `
+            ${awards.map(award => `
                 <tr>
-                    <td>${record.date}</td>
-                    <td>${record.opponent}</td>
-                    <td>${record.competition}</td>
-                    <td>${record.edition}</td>
-                    <td>${record.round}</td>
-                    <td>${record.result}</td>
+                    <td>${award.year}</td>
+                    <td>${award.competition}</td>
+                    <td>${award.honor}</td>
                 </tr>
             `).join('')}
         </tbody>
     `;
-    recordsContainer.appendChild(table);
+    awardsContainer.appendChild(table);
 }
