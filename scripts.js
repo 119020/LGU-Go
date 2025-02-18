@@ -106,6 +106,7 @@ function renderPlayers(players) {
             <p>所在书院: ${player.college}书院</p>
             <p>业余段位: ${player.amateur_dan}段</p>
             <button onclick="viewAwards(${player.id}, '${player.name}')">查询获奖记录</button>
+            <button onclick="viewHistory(${player.id}, '${player.name}')">查看历史战绩</button>
             <button onclick="viewRecords(${player.id}, '${player.name}')">查看对局记录</button>
         `;
         playersContainer.appendChild(playerDiv);
@@ -122,4 +123,10 @@ function viewAwards(playerId, playerName) {
 function viewRecords(playerId, playerName) {
     // 跳转到 records.html，并将 player_id 和 player_name 作为 URL 参数
     window.location.href = `records.html?player_id=${playerId}&player_name=${encodeURIComponent(playerName)}`;
+}
+
+// 跳转到 history.html 页面，并传递 player_id 和 player_name
+function viewHistory(playerId, playerName) {
+    // 跳转到 records.html，并将 player_id 和 player_name 作为 URL 参数
+    window.location.href = `history.html?player_id=${playerId}&player_name=${encodeURIComponent(playerName)}`;
 }
