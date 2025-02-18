@@ -58,3 +58,59 @@ function viewRecords(playerId, playerName) {
     // 跳转到 record.html，并将 player_id 和 player_name 作为 URL 参数
     window.location.href = `records.html?player_id=${playerId}&player_name=${encodeURIComponent(playerName)}`;
 }
+
+// 获取某个队员的获奖记录
+function fetchAwards(playerId, playerName) {
+    fetch(`http://localhost:3000/api/awards?player_id=${playerId}`)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('获取获奖记录失败');
+            }
+            return response.json();
+        })
+        .then(awards => {
+            renderAwards(awards, playerName);
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('获取获奖记录失败，请稍后重试');
+        });
+}
+
+// 渲染获奖记录
+function renderAwards(awards, playerName) {
+    const awardsContainer = document.getElementById('awards-list');
+    if (!awardsContainer) return;
+
+    awardsContainer.innerHTML = ''; // 清空容器
+
+    if (awards.length === 0) {
+        awardsContainer.innerHTML = `<p>${playerName} 暂无获奖记录</p>`;
+        return;
+    }
+
+    const title = document.createElement('h3');
+    title.textContent = `${playerName} 的获奖记录`;
+    awardsContainer.appendChild(title);
+
+    const table = document.createElement('table');
+    table.innerHTML = `
+        <thead>
+            <tr>
+                <th>年份</th>
+                <th>比赛名称</th>
+                <th>荣誉</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${awards.map(award => `
+                <tr>
+                    <td>${award.year}</td>
+                    <td>${award.competition}</td>
+                    <td>${award.honor}</td>
+                </tr>
+            `).join('')}
+        </tbody>
+    `;
+    awardsContainer.appendChild(table);
+}
