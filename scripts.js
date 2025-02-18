@@ -40,13 +40,6 @@ function renderCompetitions(competitions) {
     if (!competitionsContainer) return;
 
     competitionsContainer.innerHTML = ''; // 清空容器
-
-    // 确保 competition_base_id 存在
-    competitions.forEach(competition => {
-        if (!competition.competition_base_id) {
-            console.error('competition_base_id 未定义:', competition);
-        }
-    });
     
     if (competitions.length === 0) {
         competitionsContainer.innerHTML = '<p>暂无赛事信息</p>';
@@ -67,7 +60,7 @@ function renderCompetitions(competitions) {
         <tbody>
             ${competitions.map(competition => `
                 <tr>
-                    <td><a href="competitions.html?competition_base_id=${competition.competition_base_id}">${competition.competition}</a></td>
+                    <td><a href="competitions.html?competition_base_id=${encodeURIComponent(competition.competition_base_id)}">${competition.competition}</a></td>
                     <td>${competition.first_year}</td>
                     <td>${competition.last_year}</td>
                     <td>${competition.level}</td>
