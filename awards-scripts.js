@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (playerId && playerName) {
         // 显示队员姓名
         const awardsTitle = document.getElementById('awards-title');
-        awardsTitle.textContent = `${playerName} 的对局记录`;
+        awardsTitle.textContent = `${playerName} 的获奖记录`;
 
         // 获取对局记录并渲染
         fetchAwards(playerId);
