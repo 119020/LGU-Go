@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (playerId && playerName) {
         // 获取对局记录并渲染
-        fetchHistoryAndOpponent(playerId);
+        fetchHistoryAndOpponent(playerId, playerName);
     } else {
         alert('未找到队员 ID 或姓名');
     }
@@ -60,7 +60,7 @@ function renderHistory(history, playerName) {
     }
 
     const title = document.createElement('h3');
-    title.textContent = `${playerName} 的历史战绩`;
+    title.textContent = `${playerName}`;
     historyTable.appendChild(title);
 
     const table = document.createElement('table');
@@ -100,7 +100,7 @@ function renderOpponents(opponents, playerName) {
     }
 
     const title = document.createElement('h3');
-    title.textContent = `${playerName} 的对手交战记录`;
+    title.textContent = `${playerName}`;
     opponentTable.appendChild(title);
 
     const table = document.createElement('table');
