@@ -108,6 +108,55 @@ app.get('/api/players', (req, res) => {
     });
 });
 
+// 获取某个队员的历史战绩
+app.get('/api/history', (req, res) => {
+    const playerId = req.query.player_id;
+    if (!playerId) {
+        return res.status(400).json({ error: '缺少 player_id 参数' });
+    }
+    pool.query('SELECT \
+    c.competition_year as `year`,\
+    SUM(pic.player_win_count) as total_wins, \
+    SUM(pic.player_lose_count) as total_losses, \
+    ROUND(SUM(pic.player_win_count) * 100.0 / (SUM(pic.player_win_count) + SUM(pic.player_lose_count)), 2) as win_rate \
+    FROM Players p \
+    NATURAL JOIN Players_in_competitions pic \
+    NATURAL JOIN Competitions c \
+    WHERE p.player_id = ? \
+    GROUP BY c.competition_year WITH ROLLUP \
+    ORDER BY c.competition_year IS NOT NULL DESC', [playerId], (err, results) => { 
+        if (err) {
+            console.error(err);
+            return res.status(500).json({ error: '数据库查询失败' });
+        }
+        res.json(results);
+    });
+});
+
+// 获取某个队员的对手交战记录
+app.get('/api/opponent', (req, res) => {
+    const playerId = req.query.player_id;
+    if (!playerId) {
+        return res.status(400).json({ error: '缺少 player_id 参数' });
+    }
+    pool.query('SELECT \
+    (CASE WHEN g.school_player_color = "黑" THEN g.white_player ELSE g.black_player END) as opponent, \
+    SUM(CASE WHEN g.school_player_result = "胜" THEN 1 ELSE 0 END) as total_win, \
+    SUM(CASE WHEN g.school_player_result = "负" THEN 1 ELSE 0 END) as total_lose, \
+    COUNT(*) as total_game \
+	FROM GameRecords as g \
+    INNER JOIN Players p ON p.player_name = g.school_player_name \
+    WHERE p.player_id = ? \
+    GROUP BY opponent \
+    ORDER BY total_game DESC, total_win DESC', [playerId], (err, results) => { 
+        if (err) {
+            console.error(err);
+            return res.status(500).json({ error: '数据库查询失败' });
+        }
+        res.json(results);
+    });
+});
+
 // 获取某个队员的对局记录
 app.get('/api/records', (req, res) => {
     const playerId = req.query.player_id;
