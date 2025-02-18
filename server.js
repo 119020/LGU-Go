@@ -38,6 +38,57 @@ pool.connect((err) => {
   console.log('成功连接到 MySQL 数据库');
 });
 
+
+// 获取所有比赛信息
+app.get('/api/competition_bases', (req, res) => {
+    pool.query('SELECT  \
+competition_name AS `competition`,\
+competition_first_year AS `first_year`,\
+competition_last_year AS `last_year`,\
+competition_level AS `level`,\
+CONCAT_WS("|", \
+(CASE WHEN is_institution_competition = 1 THEN "高校" ELSE "--" END), \
+(CASE WHEN is_open_competition = 1 THEN "公开赛" ELSE "邀请赛" END), \
+(CASE WHEN is_offline_competition = 1 THEN "线下" ELSE "线上" END), \
+(CASE WHEN is_team_competition = 1 THEN "团体赛" ELSE "个人赛" END), \
+(CASE WHEN has_team_result = 1 THEN "记团体成绩" ELSE "--" END)) AS `description` \
+FROM Competition_bases', (err, results) => {
+        if (err) {
+            console.error(err);
+            return res.status(500).json({ error: '数据库查询失败' });
+        }
+        res.json(results);
+    });
+});
+
+// 获取某项赛事的具体信息
+//player_name=${encodeURIComponent(playerName)
+app.get('/api/competitions', (req, res) => {
+    const competitionBaseId = req.query.competition_base_id;
+    if (!competitionBaseId) {
+        return res.status(400).json({ error: '缺少 competition_base_id 参数' });
+    }
+    // 使用子查询来获取队员的姓名（INNER JOIN 可能无法返回正确结果）
+    pool.query('SELECT \
+competition_year AS `year`,\
+CONCAT("第", competition_edition, "届 ", competition_name, \
+"（", competition_group, "）") AS `competition`, \
+competition_start_date AS `start_date`, \
+competition_end_date AS `end_date`, \
+competition_location AS `location`, \
+competition_total_round AS `total_round`, \
+competition_source AS `source` \
+FROM Competitions \
+WHERE competition_name = (SELECT competition_name FROM Competition_bases \
+			Where competition_base_id = ?)', [competitionBaseId], (err, results) => { 
+        if (err) {
+            console.error(err);
+            return res.status(500).json({ error: '数据库查询失败' });
+        }
+        res.json(results);
+    });
+});
+
 // 获取所有队员信息
 app.get('/api/players', (req, res) => {
     pool.query('SELECT \
@@ -83,6 +134,43 @@ g.school_player_result as `result`,\
         res.json(results);
     });
 });
+
+// 获取某个队员的获奖信息
+app.get('/api/awards', (req, res) => {
+    const playerId = req.query.player_id;
+    if (!playerId) {
+        return res.status(400).json({ error: '缺少 player_id 参数' });
+    }
+    pool.query('SELECT \
+c.competition_year as `year`, \
+CONCAT("第", ibr.competition_edition, "届", ibr.competition_name, \
+" (", ibr.competition_group, ")") AS `competition`, \
+CONCAT((CASE WHEN ibr.competition_group IS NOT NULL THEN "个人" ELSE "团体" END), \
+"第", ibr.best_player_rank, "名") AS `honor` \
+FROM Individuals_best_results ibr \
+NATURAL JOIN Competitions c \
+WHERE ibr.has_individual_prize = 1 and \
+ibr.best_player_name = (SELECT p.player_name FROM Players p WHERE p.player_id = ?) \
+UNION \
+SELECT \
+c.competition_year as `year`, \
+CONCAT("第", tr.competition_edition, "届", tr.competition_name, \
+" (", tr.competition_group, ")") AS `competition`, \
+CONCAT((CASE WHEN tr.team_name IS NOT NULL THEN "团体" ELSE "个人" END), \
+"第", tr.team_rank, "名") AS `honor` \
+FROM Teams_results tr \
+NATURAL JOIN Competitions c \
+INNER JOIN Players_in_Competitions pc ON (pc.competition_name, pc.competition_edition, pc.competition_group, pc.player_team) = (tr.competition_name, tr.competition_edition, tr.competition_group, tr.team_name) \
+WHERE tr.has_team_prize = 1 and \
+pc.player_name = (SELECT p.player_name FROM Players p WHERE p.player_id = ?)', [playerId, playerId], (err, results) => { 
+        if (err) {
+            console.error(err);
+            return res.status(500).json({ error: '数据库查询失败' });
+        }
+        res.json(results);
+    });
+});
+
 
 // 启动服务器
 app.listen(port, () => {
