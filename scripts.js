@@ -41,6 +41,13 @@ function renderCompetitions(competitions) {
 
     competitionsContainer.innerHTML = ''; // 清空容器
 
+    // 确保 competition_base_id 存在
+    competitions.forEach(competition => {
+        if (!competition.competition_base_id) {
+            console.error('competition_base_id 未定义:', competition);
+        }
+    });
+    
     if (competitions.length === 0) {
         competitionsContainer.innerHTML = '<p>暂无赛事信息</p>';
         return;
