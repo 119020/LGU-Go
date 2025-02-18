@@ -41,7 +41,7 @@ function renderCompetitionDetails(details) {
     }
 
     // 设置赛事标题
-    competitionTitle.textContent = details[0].competition;
+    // competitionTitle.textContent = details[0].competition;
 
     // 渲染赛事详情表格
     const table = document.createElement('table');
