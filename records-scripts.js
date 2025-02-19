@@ -34,6 +34,30 @@ function fetchRecords(playerId) {
         });
 }
 
+/**
+ * 将 UTC 时间转换为北京时间，并格式化为 yyyy-mm-dd
+ * @param {string} utcDate - UTC 时间字符串（如 "2023-10-01T16:00:00.000Z"）
+ * @returns {string} - 格式化后的北京时间（如 "2023-10-02"）
+ */
+function formatBeijingDate(utcDate) {
+    // 1. 将 UTC 时间字符串转换为 Date 对象
+    const date = new Date(utcDate);
+
+    // 2. 转换为北京时间（UTC+8）
+    const beijingOffset = 8 * 60; // 北京时区偏移量（分钟）
+    const localTime = date.getTime() + (date.getTimezoneOffset() + beijingOffset) * 60 * 1000;
+
+    // 3. 创建新的 Date 对象表示北京时间
+    const beijingDate = new Date(localTime);
+
+    // 4. 格式化日期为 yyyy-mm-dd
+    const year = beijingDate.getFullYear();
+    const month = String(beijingDate.getMonth() + 1).padStart(2, '0'); // 月份从 0 开始，需要加 1
+    const day = String(beijingDate.getDate()).padStart(2, '0');
+
+    return `${year}-${month}-${day}`;
+}
+
 // 渲染对局记录
 function renderRecords(records) {
     const recordsContainer = document.getElementById('records-list');
@@ -61,7 +85,7 @@ function renderRecords(records) {
         <tbody>
             ${records.map(record => `
                 <tr>
-                    <td>${record.date}</td>
+                    <td>${formatBeijingDate(record.date)}</td>
                     <td>${record.opponent}</td>
                     <td>${record.competition}</td>
                     <td>${record.edition}</td>
