@@ -8,7 +8,7 @@ const port = 3000;
 // 启用 CORS
 app.use(cors());
 
-/*
+
 // 创建 MySQL 连接池
 const pool = mysql.createPool({
     host: process.env.DB_HOST,
@@ -19,8 +19,9 @@ const pool = mysql.createPool({
     connectionLimit: 10,
     queueLimit: 0
 });
-*/
 
+
+/*
 // 从环境变量中获取 MySQL 连接信息
 const pool = mysql.createConnection({
   host: process.env.DB_HOST,
@@ -37,7 +38,7 @@ pool.connect((err) => {
   }
   console.log('成功连接到 MySQL 数据库');
 });
-
+*/
 
 // 获取所有比赛信息
 app.get('/api/competition_bases', (req, res) => {
