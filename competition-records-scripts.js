@@ -4,16 +4,16 @@ document.addEventListener('DOMContentLoaded', function () {
     const competitionId = urlParams.get('competition_id');
     const competitionName = urlParams.get('competition_name');
 
-    if (competitionId) {
+    if (competitionId && competitionName) {
         // 获取对局记录并渲染
-        fetchCompetitionRecords(competitionId);
+        fetchCompetitionRecords(competitionId, competitionName);
     } else {
         alert('未找到赛事 ID 或名称');
     }
 });
 
 // 获取对局记录
-function fetchCompetitionRecords(competitionId) {
+function fetchCompetitionRecords(competitionId, competitionName) {
     fetch(`http://localhost:3000/api/competition_records?competition_id=${competitionId}`)
         .then(response => {
             if (!response.ok) {
@@ -22,7 +22,7 @@ function fetchCompetitionRecords(competitionId) {
             return response.json();
         })
         .then(records => {
-            renderCompetitionRecords(records);
+            renderCompetitionRecords(records, competitionName);
         })
         .catch(error => {
             console.error('Error:', error);
