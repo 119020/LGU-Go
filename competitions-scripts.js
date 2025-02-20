@@ -2,12 +2,13 @@ document.addEventListener('DOMContentLoaded', function () {
     // 从 URL 参数中获取 competition_base_id 和 competition_name
     const urlParams = new URLSearchParams(window.location.search);
     const competitionBaseId = urlParams.get('competition_base_id');
-    const competitionName = urlParams.get('competition_name');
+    //const competitionName = urlParams.get('competition_name');
 
-    if (competitionBaseId && competitionName) {
+    //if (competitionBaseId && competitionName) {
+    if (competitionBaseId) {
         // 设置赛事标题
-        const competitionTitle = document.getElementById('competition-title');
-        competitionTitle.textContent = `${competitionName}`;
+        //const competitionTitle = document.getElementById('competition-title');
+        //competitionTitle.textContent = `${competitionName}`;
         
         // 获取赛事详情并渲染
         fetchCompetitionDetails(competitionBaseId);
