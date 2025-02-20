@@ -92,7 +92,7 @@ function renderCompetitionDetails(details) {
             ${details.map(detail => `
                 <tr>
                     <td>${detail.year}</td>
-                    <td>${detail.competition}</a></td>
+                    <td>${detail.competition}</td>
                     <td>${formatBeijingDate(detail.start_date)}</td>
                     <td>${formatBeijingDate(detail.end_date)}</td>
                     <td>${detail.location}</td>
