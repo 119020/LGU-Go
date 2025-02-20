@@ -1,13 +1,14 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // 从 URL 参数中获取 competition_id
+    // 从 URL 参数中获取 competition_id 和 competition_name
     const urlParams = new URLSearchParams(window.location.search);
     const competitionId = urlParams.get('competition_id');
+    const competitionName = urlParams.get('competition_name');
 
     if (competitionId) {
         // 获取对局记录并渲染
         fetchCompetitionRecords(competitionId);
     } else {
-        alert('未找到赛事 ID');
+        alert('未找到赛事 ID 或名称');
     }
 });
 
@@ -54,7 +55,7 @@ function formatBeijingDate(utcDate) {
 }
 
 // 渲染对局记录
-function renderCompetitionRecords(records) {
+function renderCompetitionRecords(records, competitionName) {
     const recordsTitle = document.getElementById('competition-records-title');
     const recordsTable = document.getElementById('competition-records-table');
     if (!recordsTitle || !recordsTable) return;
@@ -65,7 +66,7 @@ function renderCompetitionRecords(records) {
     }
 
     // 设置对局记录标题
-    recordsTitle.textContent = '赛事对局记录';
+    recordsTitle.textContent = `${competitionName}`;
 
     // 渲染对局记录表格
     const table = document.createElement('table');
