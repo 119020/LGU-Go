@@ -5,15 +5,19 @@ document.addEventListener('DOMContentLoaded', function () {
     const competitionName = urlParams.get('competition_name');
 
     if (competitionBaseId && competitionName) {
+        // 设置赛事标题
+        const competitionTitle = document.getElementById('competition-title');
+        competitionTitle.textContent = `${competitionName}`;
+        
         // 获取赛事详情并渲染
-        fetchCompetitionDetails(competitionBaseId, competitionName);
+        fetchCompetitionDetails(competitionBaseId);
     } else {
         alert('未找到赛事 ID 或名称');
     }
 });
 
 // 获取赛事详情
-function fetchCompetitionDetails(competitionBaseId, competitionName) {
+function fetchCompetitionDetails(competitionBaseId) {
     fetch(`http://localhost:3000/api/competitions?competition_base_id=${competitionBaseId}`)
         .then(response => {
             if (!response.ok) {
@@ -22,7 +26,7 @@ function fetchCompetitionDetails(competitionBaseId, competitionName) {
             return response.json();
         })
         .then(details => {
-            renderCompetitionDetails(details, competitionName);
+            renderCompetitionDetails(details);
         })
         .catch(error => {
             console.error('Error:', error);
@@ -55,21 +59,16 @@ function formatBeijingDate(utcDate) {
 }
 
 // 渲染赛事详情
-function renderCompetitionDetails(details, competitionName) {
-    const competitionTitle = document.getElementById('competition-title');
+function renderCompetitionDetails(details) {
     const competitionInfo = document.getElementById('competition-info');
     if (!competitionTitle || !competitionInfo) return;
-    // 清空容器
-    competitionTitle.innerHTML = '';
-    competitionInfo.innerHTML = ''; 
+
+    competitionInfo.innerHTML = ''; // 清空容器
     
     if (details.length === 0) {
         competitionInfo.innerHTML = '<p>${competitionName} 暂无赛事详情</p>';
         return;
     }
-
-    // 设置赛事标题
-    competitionTitle.textContent = `${competitionName}`;
 
     // 渲染赛事详情表格
     const table = document.createElement('table');
