@@ -9,25 +9,12 @@ const port = 3000;
 app.use(cors());
 
 
-// 创建 MySQL 连接池
-const pool = mysql.createPool({
-    host: process.env.DB_HOST,
-    user: process.env.DB_USER,
-    password: process.env.DB_PASSWORD,
-    database: process.env.DB_NAME,
-    waitForConnections: true,
-    connectionLimit: 10,
-    queueLimit: 0
-});
-
-
-/*
 // 从环境变量中获取 MySQL 连接信息
 const pool = mysql.createConnection({
-  host: process.env.DB_HOST,
-  user: process.env.DB_USER,
-  password: process.env.DB_PASSWORD,
-  database: process.env.DB_NAME,
+  host: 'localhost',
+  user: 'root',
+  password: '#Cstdio41',
+  database: 'lgu_go',
 });
 
 // 连接数据库
@@ -38,11 +25,25 @@ pool.connect((err) => {
   }
   console.log('成功连接到 MySQL 数据库');
 });
+
+
+/*
+// 创建 MySQL 连接池
+const pool = mysql.createPool({
+    host: 'localhost',      // 数据库地址
+    user: 'root',           // 数据库用户名
+    password: '#Cstdio41',   // 数据库密码
+    database: 'lgu_go', // 数据库名称
+    waitForConnections: true,
+    connectionLimit: 10,
+    queueLimit: 0
+});
 */
 
 // 获取所有比赛信息
 app.get('/api/competition_bases', (req, res) => {
     pool.query('SELECT  \
+competition_base_id,\
 competition_name AS `competition`,\
 competition_first_year AS `first_year`,\
 competition_last_year AS `last_year`,\
@@ -89,6 +90,35 @@ WHERE competition_name = (SELECT competition_name FROM Competition_bases \
         res.json(results);
     });
 });
+
+// 获取某项赛事的对局记录
+//player_name=${encodeURIComponent(playerName)
+app.get('/api/competition_records', (req, res) => {
+    const competitionId = req.query.competition_id;
+    if (!competitionId) {
+        return res.status(400).json({ error: '缺少 competition_id 参数' });
+    }
+    // 使用子查询来获取队员的姓名（INNER JOIN 可能无法返回正确结果）
+    pool.query('SELECT DISTINCT g.game_date AS `date`, \
+g.game_round AS `round`, \
+g.game_table AS `table`, \
+g.black_player, \
+g.black_team, \
+g.white_player, \
+g.white_team, \
+g.game_result AS `result` \
+FROM GameRecords g \
+INNER JOIN Competitions c ON (c.competition_name, c.competition_edition, c.competition_group) = (g.competition_name, g.competition_edition, g.competition_group) \
+WHERE c.competition_id = ? \
+ORDER BY g.game_round ASC, g.game_table ASC', [competitionId], (err, results) => { 
+        if (err) {
+            console.error(err);
+            return res.status(500).json({ error: '数据库查询失败' });
+        }
+        res.json(results);
+    });
+});
+
 
 // 获取所有队员信息
 app.get('/api/players', (req, res) => {
@@ -158,6 +188,7 @@ app.get('/api/opponent', (req, res) => {
     });
 });
 
+
 // 获取某个队员的对局记录
 app.get('/api/records', (req, res) => {
     const playerId = req.query.player_id;
@@ -220,6 +251,7 @@ pc.player_name = (SELECT p.player_name FROM Players p WHERE p.player_id = ?)', [
         res.json(results);
     });
 });
+
 
 
 // 启动服务器

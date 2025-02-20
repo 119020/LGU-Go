@@ -2,6 +2,7 @@ Drop database lgu_go;
 -- 创建数据库
 CREATE DATABASE IF NOT EXISTS lgu_go;
 USE lgu_go;
+#SHOW TABLES;
 
 -- 比赛基础信息表
 CREATE TABLE Competition_bases (
@@ -21,8 +22,11 @@ ALTER TABLE Competition_bases
 CHANGE is_online_competition 
 is_offline_competition BOOLEAN DEFAULT NULL;
 
+#SELECT * FROM Competition_bases;
+
 -- 具体比赛表
 CREATE TABLE Competitions (
+	competition_id INT DEFAULT NULL,
     competition_name VARCHAR(100),
     competition_edition INT,
     competition_group VARCHAR(50),
@@ -35,6 +39,7 @@ CREATE TABLE Competitions (
     PRIMARY KEY (competition_name, competition_edition, competition_group),
     FOREIGN KEY (competition_name) REFERENCES Competition_bases(competition_name)
 );
+#SELECT * FROM Competitions;
 
 -- 团体赛信息表
 CREATE TABLE Competitions_with_teams (
@@ -167,7 +172,7 @@ CREATE TABLE GameRecords (
     FOREIGN KEY (competition_name, competition_edition, competition_group, school_player_name) 
         REFERENCES Players_in_competitions(competition_name, competition_edition, competition_group, player_name)
 );
-Show tables;
+#Show tables;
 #SELECT * FROM GameRecords;
 
 -- 创建索引
@@ -177,7 +182,7 @@ CREATE INDEX idx_game_date ON GameRecords(game_date);
 CREATE INDEX idx_competition_date ON Competitions(competition_start_date);
 
 -- 创建视图：某个选手按年份的参赛统计
-DROP VIEW school_player_statistics;
+#DROP VIEW school_player_statistics;
 CREATE VIEW school_player_statistics AS
 SELECT 
     c.competition_year as `year`,
@@ -188,13 +193,13 @@ SELECT
     ROUND(SUM(pic.player_win_count) * 100.0 / (SUM(pic.player_win_count) + SUM(pic.player_lose_count)), 2) as win_rate
 FROM Players p
 #JOIN Players_school ps ON p.player_name = ps.player_name # 除去外援的参赛记录
-LEFT JOIN Players_in_competitions pic ON p.player_name = pic.player_name
+INNER JOIN Players_in_competitions pic ON p.player_name = pic.player_name
 NATURAL JOIN Competitions c 
 WHERE p.player_id = 4
 GROUP BY c.competition_year, p.player_name; 
 
 -- 团体赛成绩统计
-DROP VIEW team_results_statistics;
+#DROP VIEW team_results_statistics;
 CREATE VIEW team_results_statistics AS
 SELECT 
 	c.competition_year as `year`,
@@ -206,7 +211,7 @@ NATURAL JOIN Competitions c
 GROUP BY c.competition_year, tr.team_name WITH ROLLUP;
 
 -- 个人最佳成绩统计
-DROP VIEW individual_best_results_statistics;
+#DROP VIEW individual_best_results_statistics;
 CREATE VIEW individual_best_results_statistics AS
 SELECT 
 	c.competition_year as `year`,
@@ -218,7 +223,7 @@ NATURAL JOIN Competitions c
 GROUP BY c.competition_year, ibr.best_player_name WITH ROLLUP;
 
 -- 获取某个队员的对局记录
-DROP VIEW individual_game_statistics;
+#DROP VIEW individual_game_statistics;
 CREATE VIEW individual_game_statistics AS
 SELECT 
     g.game_date as `date`,
@@ -234,7 +239,7 @@ SELECT
 			Where player_id = 2);
 
 -- 获取某个队员的对手记录
-DROP VIEW individual_opponent_statistics;
+#DROP VIEW individual_opponent_statistics;
 CREATE VIEW individual_opponent_statistics AS
 SELECT 
     (CASE WHEN g.school_player_color = '黑' THEN g.white_player ELSE g.black_player END) as opponent,
@@ -248,7 +253,7 @@ SELECT
     ORDER BY total_game DESC, total_win DESC;
 
 -- 获取某个队员的个人团体奖项
-DROP VIEW player_honor_statistics;
+#DROP VIEW player_honor_statistics;
 CREATE VIEW player_honor_statistics AS
 SELECT * FROM(
 (SELECT 
@@ -278,7 +283,7 @@ ORDER BY res.`year` ASC, res.`competition` ASC;
 
 -- 获取所有赛事信息
 # CONCAT_WS(separator, expression1, expression2, expression3,...)
-DROP VIEW competition_basic_info;
+#DROP VIEW competition_basic_info;
 CREATE VIEW competition_basic_info AS
 SELECT  
 competition_name AS `competition`,
@@ -294,7 +299,7 @@ CONCAT_WS("|",
 FROM Competition_bases;
 
 -- 获取某项赛事的具体信息
-DROP VIEW competition_info;
+#DROP VIEW competition_info;
 CREATE VIEW competition_info AS
 SELECT 
 competition_year AS `year`,
@@ -308,6 +313,23 @@ competition_source AS `source`
 FROM Competitions
 WHERE competition_name = "深圳高校个人赛";
 
+-- 获取某项赛事的对局记录
+DROP VIEW competition_game_records;
+CREATE VIEW competition_game_records AS
+SELECT DISTINCT g.game_date AS `date`,
+g.game_round AS `round`,
+g.game_table AS `table`,
+g.black_player,
+g.black_team,
+g.white_player,
+g.white_team,
+g.game_result AS `result`
+FROM GameRecords g
+INNER JOIN Competitions c ON (c.competition_name, c.competition_edition, c.competition_group) = (g.competition_name, g.competition_edition, g.competition_group)
+WHERE c.competition_id = 32
+ORDER BY g.game_round ASC, g.game_table ASC;
+
+/*
 SELECT * FROM school_player_statistics;
 SELECT * FROM team_results_statistics;
 SELECT * FROM individual_best_results_statistics;
@@ -316,3 +338,38 @@ SELECT * FROM individual_opponent_statistics;
 SELECT * FROM player_honor_statistics;
 SELECT * FROM competition_basic_info;
 SELECT * FROM competition_info;
+SELECT * FROM competition_game_records;
+
+SELECT 
+        p.player_id as `id`, 
+        ps.player_name as `name`,
+        ps.enroll_year,
+        ps.enroll_college as `college`,
+        p.player_amateur_dan as `amateur_dan`
+        FROM Players_school ps 
+        NATURAL JOIN Players p 
+        ORDER BY p.player_id ASC;
+        
+SELECT 
+    c.competition_year as `year`,
+    SUM(pic.player_win_count) as total_wins,
+    SUM(pic.player_lose_count) as total_losses,
+    ROUND(SUM(pic.player_win_count) * 100.0 / (SUM(pic.player_win_count) + SUM(pic.player_lose_count)), 2) as win_rate
+FROM Players p
+NATURAL JOIN Players_in_competitions pic
+NATURAL JOIN Competitions c 
+WHERE p.player_id = 3
+GROUP BY c.competition_year WITH ROLLUP
+ORDER BY c.competition_year IS NOT NULL DESC; 
+
+SELECT 
+    (CASE WHEN g.school_player_color = '黑' THEN g.white_player ELSE g.black_player END) as opponent,
+    SUM(CASE WHEN g.school_player_result = '胜' THEN 1 ELSE 0 END) as total_win,
+    SUM(CASE WHEN g.school_player_result = '负' THEN 1 ELSE 0 END) as total_lose,
+    COUNT(*) as total_game
+	FROM GameRecords as g
+    INNER JOIN Players p ON p.player_name = g.school_player_name
+    WHERE p.player_id = 2
+    GROUP BY opponent
+    ORDER BY total_game DESC, total_win DESC;
+    */
