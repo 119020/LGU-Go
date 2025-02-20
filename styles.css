@@ -176,6 +176,15 @@ th {
     color: #fff;
 }
 
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 section {
     margin-bottom: 100px; /* 调整间距 */
     padding: 20px;
