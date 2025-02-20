@@ -61,6 +61,7 @@ function formatBeijingDate(utcDate) {
 
 // 渲染赛事详情
 function renderCompetitionDetails(details) {
+    const competitionTitle = document.getElementById('competition-title');
     const competitionInfo = document.getElementById('competition-info');
     if (!competitionTitle || !competitionInfo) return;
 
