@@ -59,7 +59,10 @@ function renderCompetitionDetails(details, competitionName) {
     const competitionTitle = document.getElementById('competition-title');
     const competitionInfo = document.getElementById('competition-info');
     if (!competitionTitle || !competitionInfo) return;
-
+    // 清空容器
+    competitionTitle.innerHTML = '';
+    competitionInfo.innerHTML = ''; 
+    
     if (details.length === 0) {
         competitionInfo.innerHTML = '<p>${competitionName} 暂无赛事详情</p>';
         return;
