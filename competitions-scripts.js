@@ -92,7 +92,7 @@ function renderCompetitionDetails(details) {
             ${details.map(detail => `
                 <tr>
                     <td>${detail.year}</td>
-                    <td><a href="competition-records.html?competition_id=${detail.competition_id}">${detail.competition}</a></td>
+                    <td><a href="competition-records.html?competition_id=${detail.competition_id}&competition_name=${encodeURIComponent(detail.competition)}">${detail.competition}</a></td>
                     <td>${formatBeijingDate(detail.start_date)}</td>
                     <td>${formatBeijingDate(detail.end_date)}</td>
                     <td>${detail.location}</td>
