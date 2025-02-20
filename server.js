@@ -11,10 +11,10 @@ app.use(cors());
 
 // 从环境变量中获取 MySQL 连接信息
 const pool = mysql.createConnection({
-  host: 'localhost',
-  user: 'root',
-  password: '#Cstdio41',
-  database: 'lgu_go',
+  host: DB_HOST,
+  user: DB_USER,
+  password: DB_PASSWORD,
+  database: DB_NAME,
 });
 
 // 连接数据库
@@ -30,10 +30,10 @@ pool.connect((err) => {
 /*
 // 创建 MySQL 连接池
 const pool = mysql.createPool({
-    host: 'localhost',      // 数据库地址
-    user: 'root',           // 数据库用户名
-    password: '#Cstdio41',   // 数据库密码
-    database: 'lgu_go', // 数据库名称
+  host: DB_HOST,
+  user: DB_USER,
+  password: DB_PASSWORD,
+  database: DB_NAME,
     waitForConnections: true,
     connectionLimit: 10,
     queueLimit: 0
