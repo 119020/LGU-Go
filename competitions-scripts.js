@@ -64,7 +64,8 @@ function renderCompetitionDetails(details) {
     const competitionInfo = document.getElementById('competition-info');
     if (!competitionTitle || !competitionInfo) return;
 
-    competitionInfo.innerHTML = ''; // 清空容器
+    // 设置赛事标题
+    competitionTitle.textContent = details[0].competition;
     
     if (details.length === 0) {
         competitionInfo.innerHTML = '<p>${competitionName} 暂无赛事详情</p>';
