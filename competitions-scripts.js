@@ -68,7 +68,8 @@ function renderCompetitionDetails(details) {
     competitionTitle.textContent = details[0].competition;
     
     if (details.length === 0) {
-        competitionInfo.innerHTML = '<p>${competitionName} 暂无赛事详情</p>';
+        //competitionInfo.innerHTML = '<p>${competitionName} 暂无赛事详情</p>';
+        competitionInfo.innerHTML = '<p>$暂无赛事详情</p>';
         return;
     }
 
