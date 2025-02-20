@@ -6,14 +6,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (competitionBaseId && competitionName) {
         // 获取赛事详情并渲染
-        fetchCompetitionDetails(competitionBaseId);
+        fetchCompetitionDetails(competitionBaseId, competitionName);
     } else {
         alert('未找到赛事 ID 或名称');
     }
 });
 
 // 获取赛事详情
-function fetchCompetitionDetails(competitionBaseId) {
+function fetchCompetitionDetails(competitionBaseId, competitionName) {
     fetch(`http://localhost:3000/api/competitions?competition_base_id=${competitionBaseId}`)
         .then(response => {
             if (!response.ok) {
@@ -22,7 +22,7 @@ function fetchCompetitionDetails(competitionBaseId) {
             return response.json();
         })
         .then(details => {
-            renderCompetitionDetails(details);
+            renderCompetitionDetails(details, competitionName);
         })
         .catch(error => {
             console.error('Error:', error);
@@ -61,7 +61,7 @@ function renderCompetitionDetails(details, competitionName) {
     if (!competitionTitle || !competitionInfo) return;
 
     if (details.length === 0) {
-        competitionInfo.innerHTML = '<p>暂无赛事详情</p>';
+        competitionInfo.innerHTML = '<p>${competitionName} 暂无赛事详情</p>';
         return;
     }
 
