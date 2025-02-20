@@ -60,7 +60,7 @@ function renderCompetitions(competitions) {
         <tbody>
             ${competitions.map(competition => `
                 <tr>
-                    <td><a href="competitions.html?competition_base_id=${encodeURIComponent(competition.competition_base_id)}">${competition.competition}</a></td>
+                    <td><a href="competitions.html?competition_base_id=${competition.competition_base_id}">${competition.competition}</a></td>
                     <td>${competition.first_year}</td>
                     <td>${competition.last_year}</td>
                     <td>${competition.level}</td>
