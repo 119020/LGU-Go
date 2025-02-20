@@ -1,13 +1,14 @@
 document.addEventListener('DOMContentLoaded', function () {
-    // 从 URL 参数中获取 competition_base_id
+    // 从 URL 参数中获取 competition_base_id 和 competition_name
     const urlParams = new URLSearchParams(window.location.search);
     const competitionBaseId = urlParams.get('competition_base_id');
+    const competitionName = urlParams.get('competition_name');
 
-    if (competitionBaseId) {
+    if (competitionBaseId && competitionName) {
         // 获取赛事详情并渲染
         fetchCompetitionDetails(competitionBaseId);
     } else {
-        alert('未找到赛事 ID');
+        alert('未找到赛事 ID 或名称');
     }
 });
 
@@ -54,7 +55,7 @@ function formatBeijingDate(utcDate) {
 }
 
 // 渲染赛事详情
-function renderCompetitionDetails(details) {
+function renderCompetitionDetails(details, competitionName) {
     const competitionTitle = document.getElementById('competition-title');
     const competitionInfo = document.getElementById('competition-info');
     if (!competitionTitle || !competitionInfo) return;
@@ -65,7 +66,7 @@ function renderCompetitionDetails(details) {
     }
 
     // 设置赛事标题
-    // competitionTitle.textContent = details[0].competition;
+    competitionTitle.textContent = `${competitionName}`;
 
     // 渲染赛事详情表格
     const table = document.createElement('table');
@@ -85,7 +86,7 @@ function renderCompetitionDetails(details) {
             ${details.map(detail => `
                 <tr>
                     <td>${detail.year}</td>
-                    <td><a href="competition-records.html?competition_id=${detail.competition_id}">${detail.competition}</a></td>
+                    <td><a href="competition-records.html?competition_id=${detail.competition_id}competition_name=${encodeURIComponent(detail.competition)">${detail.competition}</a></td>
                     <td>${formatBeijingDate(detail.start_date)}</td>
                     <td>${formatBeijingDate(detail.end_date)}</td>
                     <td>${detail.location}</td>
