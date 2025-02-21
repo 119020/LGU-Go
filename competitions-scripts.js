@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     if (competitionBaseId && competitionName) {
         // 设置赛事标题
         const competitionTitle = document.getElementById('competition-title');
-        competitionTitle.textContent = `${competitionName}`;
+        competitionTitle.textContent = `${competitionName} 历届比赛信息`;
         
         // 获取赛事详情并渲染
         fetchCompetitionDetails(competitionBaseId);
