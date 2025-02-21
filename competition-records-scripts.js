@@ -66,7 +66,7 @@ function renderCompetitionRecords(records, competitionName) {
     }
 
     // 设置对局记录标题
-    recordsTitle.textContent = `${competitionName}`;
+    recordsTitle.textContent = `${competitionName}赛事对局记录`;
 
     // 渲染对局记录表格
     const table = document.createElement('table');
