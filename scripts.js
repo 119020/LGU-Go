@@ -4,15 +4,29 @@ let scrollAmount = 0;
 const carouselInner = document.querySelector('.news-carousel-inner');
 const itemWidth = document.querySelector('.news-item').offsetWidth + 30; // 包含间距
 
+// 修改后的轮播初始化
 function initCarousel() {
-    // 克隆前三个项目添加到末尾实现无缝滚动
-    const items = document.querySelectorAll('.news-item');
-    items.forEach((item, index) => {
-        if(index < 3) {
-            const clone = item.cloneNode(true);
-            carouselInner.appendChild(clone);
-        }
-    });
+    const carouselInner = document.querySelector('.news-carousel-inner');
+    if (!carouselInner) return;
+
+    // 等待DOM更新完成
+    setTimeout(() => {
+        const items = document.querySelectorAll('.news-item');
+        if (items.length === 0) return;
+
+        // 克隆前三个项目实现无缝滚动
+        items.forEach((item, index) => {
+            if (index < 3) {
+                const clone = item.cloneNode(true);
+                carouselInner.appendChild(clone);
+            }
+        });
+
+        // 初始化轮播参数
+        window.carouselInner = carouselInner;
+        window.scrollAmount = 0;
+        window.itemWidth = items[0].offsetWidth + 30;
+    }, 100); // 给DOM更新留出时间
 }
 
 function scrollNext() {
@@ -41,43 +55,51 @@ function smoothScroll() {
     }
 }
 
-// 初始化
-document.addEventListener('DOMContentLoaded', () {
-    initCarousel();
-    
-    // 自动播放
-    setInterval(() => {
-        scrollNext();
-    }, 5000);
-    
-    // 按钮事件
-    document.querySelector('.btn-next').addEventListener('click', scrollNext);
-    document.querySelector('.btn-prev').addEventListener('click', scrollPrev);
-});
-
-document.addEventListener('DOMContentLoaded', function () {
-    // 获取所有赛事信息并渲染到页面
-    fetchCompetitions();
-    // 获取所有队员信息并渲染到页面
-    fetchPlayers();
-});
-
-// 获取所有赛事信息
-function fetchCompetitions() {
-    fetch('http://localhost:3000/api/competition_bases')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('获取赛事信息失败');
-            }
-            return response.json();
-        })
-        .then(competitions => {
-            renderCompetitions(competitions);
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            alert('获取赛事信息失败，请稍后重试');
+// 统一事件监听器
+document.addEventListener('DOMContentLoaded', async () => {
+    try {
+        // 先获取数据
+        await Promise.all([
+            fetchPlayers(),
+            fetchCompetitions()
+        ]);
+        
+        // 数据加载完成后初始化轮播
+        initCarousel();
+        
+        // 设置自动播放
+        let autoPlay = setInterval(scrollNext, 5000);
+        
+        // 按钮事件绑定
+        document.querySelector('.btn-next').addEventListener('click', () => {
+            clearInterval(autoPlay);
+            scrollNext();
+            autoPlay = setInterval(scrollNext, 5000);
         });
+        
+        document.querySelector('.btn-prev').addEventListener('click', () => {
+            clearInterval(autoPlay);
+            scrollPrev();
+            autoPlay = setInterval(scrollNext, 5000);
+        });
+        
+    } catch (error) {
+        console.error('初始化失败:', error);
+        // 可以在这里添加错误提示
+    }
+});
+
+
+async function fetchCompetitions() {
+    try {
+        const response = await fetch('http://localhost:3000/api/competition_bases');
+        if (!response.ok) throw new Error('获取赛事信息失败');
+        const competitions = await response.json();
+        renderCompetitions(competitions);
+    } catch (error) {
+        console.error('Error:', error);
+        alert('获取赛事信息失败，请稍后重试');
+    }
 }
 
 // 渲染赛事信息
@@ -118,22 +140,17 @@ function renderCompetitions(competitions) {
     competitionsContainer.appendChild(table);
 }
 
-// 获取所有队员信息
-function fetchPlayers() {
-    fetch('http://localhost:3000/api/players')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('获取队员信息失败');
-            }
-            return response.json();
-        })
-        .then(players => {
-            renderPlayers(players);
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            alert('获取队员信息失败，请稍后重试');
-        });
+// 修改后的数据获取函数
+async function fetchPlayers() {
+    try {
+        const response = await fetch('http://localhost:3000/api/players');
+        if (!response.ok) throw new Error('获取队员信息失败');
+        const players = await response.json();
+        renderPlayers(players);
+    } catch (error) {
+        console.error('Error:', error);
+        alert('获取队员信息失败，请稍后重试');
+    }
 }
 
 // 渲染队员信息
