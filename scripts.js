@@ -42,7 +42,7 @@ function smoothScroll() {
 }
 
 // 初始化
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', () {
     initCarousel();
     
     // 自动播放
@@ -53,7 +53,9 @@ document.addEventListener('DOMContentLoaded', function () {
     // 按钮事件
     document.querySelector('.btn-next').addEventListener('click', scrollNext);
     document.querySelector('.btn-prev').addEventListener('click', scrollPrev);
-    
+});
+
+document.addEventListener('DOMContentLoaded', function () {
     // 获取所有赛事信息并渲染到页面
     fetchCompetitions();
     // 获取所有队员信息并渲染到页面
