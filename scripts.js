@@ -1,75 +1,52 @@
-// 修改后的轮播功能
-let currentIndex = 0;
-let isAnimating = false;
+// 优化后的轮播功能
+let currentScrollPosition = 0;
+let scrollAmount = 0;
 const carouselInner = document.querySelector('.news-carousel-inner');
-const items = document.querySelectorAll('.news-item');
-const itemCount = items.length;
-const itemWidth = items[0].offsetWidth + 30;
+const itemWidth = document.querySelector('.news-item').offsetWidth + 30; // 包含间距
 
 function initCarousel() {
-    // 动态计算可见列数
-    const containerWidth = carouselInner.parentElement.offsetWidth;
-    const visibleColumns = Math.floor(containerWidth / (items[0].offsetWidth + 30));
-    carouselInner.style.gridTemplateColumns = `repeat(${itemCount}, calc((100% - ${visibleColumns - 1} * 30px) / ${visibleColumns}))`;
+    // 克隆前三个项目添加到末尾实现无缝滚动
+    const items = document.querySelectorAll('.news-item');
+    items.forEach((item, index) => {
+        if(index < 3) {
+            const clone = item.cloneNode(true);
+            carouselInner.appendChild(clone);
+        }
+    });
 }
 
 function scrollNext() {
-    if (isAnimating) return;
-    isAnimating = true;
-    
-    currentIndex = (currentIndex + 1) % itemCount;
-    updateCarousel('next');
+    const maxScroll = carouselInner.scrollWidth - carouselInner.clientWidth;
+    scrollAmount = Math.min(scrollAmount + itemWidth, maxScroll);
+    smoothScroll();
 }
 
 function scrollPrev() {
-    if (isAnimating) return;
-    isAnimating = true;
-    
-    currentIndex = (currentIndex - 1 + itemCount) % itemCount;
-    updateCarousel('prev');
+    scrollAmount = Math.max(scrollAmount - itemWidth, 0);
+    smoothScroll();
 }
 
-function updateCarousel(direction) {
-    const scrollPos = currentIndex * itemWidth;
-    const maxScroll = (itemCount - 3) * itemWidth; // 3为可见项数
+function smoothScroll() {
+    carouselInner.scrollTo({
+        left: scrollAmount,
+        behavior: 'smooth'
+    });
     
-    carouselInner.style.transition = 'transform 0.5s cubic-bezier(0.4, 0, 0.2, 1)';
-    carouselInner.style.transform = `translateX(-${Math.min(scrollPos, maxScroll)}px)`;
-
-    carouselInner.addEventListener('transitionend', () => {
-        // 边界处理：当滚动到真实最后一项时重置位置
-        if (currentIndex === itemCount - 1 && direction === 'next') {
-            currentIndex = 0;
-            carouselInner.style.transition = 'none';
-            carouselInner.style.transform = 'translateX(0)';
-        }
-        isAnimating = false;
-    }, { once: true });
+    // 检测是否到达克隆项区域
+    if(scrollAmount >= carouselInner.scrollWidth - carouselInner.clientWidth * 2) {
+        setTimeout(() => {
+            carouselInner.scrollLeft = 0;
+            scrollAmount = 0;
+        }, 500);
+    }
 }
-
-// 窗口大小变化时重新初始化
-window.addEventListener('resize', () => {
-    initCarousel();
-    carouselInner.style.transform = `translateX(-${currentIndex * itemWidth}px)`;
-});
 
 // 初始化
 document.addEventListener('DOMContentLoaded', () => {
     initCarousel();
     
     // 自动播放
-    let autoPlay = setInterval(scrollNext, 5000);
-    
-    // 按钮事件
-    document.querySelector('.btn-next').addEventListener('click', () => {
-        clearInterval(autoPlay);
+    setInterval(() => {
         scrollNext();
-        autoPlay = setInterval(scrollNext, 5000);
-    });
-    
-    document.querySelector('.btn-prev').addEventListener('click', () => {
-        clearInterval(autoPlay);
-        scrollPrev();
-        autoPlay = setInterval(scrollNext, 5000);
-    });
+    }, 5000);
 });
