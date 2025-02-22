@@ -5,6 +5,7 @@ body {
     padding: 0;
     background-color: #f4f4f4;
     color: #333;
+    line-height: 1.6; /* 设置全局行高 */
 }
 
 .container {
@@ -108,14 +109,19 @@ nav ul li a:hover {
 
 /* 采访页面样式 */
 #interview {
-    max-width: 800px;
-    margin: 0 auto;
+    max-width: 800px; /* 限制内容宽度，控制每行字数 */
+    margin: 0 auto; /* 居中显示 */
     padding: 20px;
+    background-color: #fff; /* 添加背景色 */
+    border-radius: 5px; /* 圆角边框 */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* 添加阴影 */
 }
 
 #interview h2 {
     text-align: center;
     margin-bottom: 20px;
+    font-size: 2rem; /* 大标题字体大小 */
+    color: #333;
 }
 
 #interview .source {
@@ -123,21 +129,25 @@ nav ul li a:hover {
     font-style: italic;
     color: #666;
     margin-bottom: 40px;
+    font-size: 1rem; /* 来源信息字体大小 */
 }
 
 #interview h3 {
     margin-top: 30px;
     margin-bottom: 15px;
-    color: #333;
+    color: #007bff; /* 小标题颜色 */
+    font-size: 1.5rem; /* 小标题字体大小 */
 }
 
 #interview p {
-    line-height: 1.6;
-    margin-bottom: 15px;
+    line-height: 1.8; /* 增加行高，提升可读性 */
+    margin-bottom: 20px; /* 增加段落间距 */
+    font-size: 1.1rem; /* 正文字体大小 */
+    color: #444; /* 正文颜色 */
 }
 
 #interview strong {
-    color: #007bff;
+    color: #007bff; /* 强调文本颜色 */
 }
 
 /* 优化后的选手卡片 */
@@ -307,6 +317,20 @@ footer {
     bottom: 0;
 }
 
+footer .social-links {
+    margin-top: 5px;
+}
+
+footer .social-links a {
+    color: #fff;
+    margin: 0 5px;
+    font-size: 1.2rem;
+}
+
+footer .social-links a:hover {
+    color: #ff6347;
+}
+
 /* 移动端适配 */
 @media (max-width: 768px) {
     .players-container {
@@ -322,20 +346,22 @@ footer {
         width: 100%;
         padding: 14px;
     }
-}
+    
+    #interview {
+        padding: 15px;
+    }
 
-footer .social-links {
-    margin-top: 5px;
-}
+    #interview h2 {
+        font-size: 1.8rem; /* 小屏幕下标题字体大小 */
+    }
 
-footer .social-links a {
-    color: #fff;
-    margin: 0 5px;
-    font-size: 1.2rem;
-}
+    #interview h3 {
+        font-size: 1.3rem; /* 小屏幕下小标题字体大小 */
+    }
 
-footer .social-links a:hover {
-    color: #ff6347;
+    #interview p {
+        font-size: 1rem; /* 小屏幕下正文字体大小 */
+    }
 }
 
 }
