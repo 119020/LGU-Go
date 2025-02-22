@@ -5,12 +5,13 @@ const mysql = require('mysql2');
 const cors = require('cors');
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 // 启用 CORS
 app.use(cors());
 
 // 测试是否正确读取环境变量
+console.log(process.env.PORT);
 console.log(process.env.DB_HOST);
 console.log(process.env.DB_USER);
 console.log(process.env.DB_PASSWORD);
