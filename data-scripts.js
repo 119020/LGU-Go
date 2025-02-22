@@ -1,14 +1,3 @@
-// 轮播图功能（示例）
-let currentNewsIndex = 0;
-const newsItems = document.querySelectorAll('.news-item');
-
-function showNextNews() {
-    newsItems[currentNewsIndex].style.display = 'none';
-    currentNewsIndex = (currentNewsIndex + 1) % newsItems.length;
-    newsItems[currentNewsIndex].style.display = 'block';
-}
-setInterval(showNextNews, 5000); // 每5秒切换一次
-
 document.addEventListener('DOMContentLoaded', function () {
     // 获取所有赛事信息并渲染到页面
     fetchCompetitions();
