@@ -14,7 +14,7 @@
     "深圳",
     "CUHKSZ"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Bowen KUANG <119020237@link.cuhk.edu.cn>",
   "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
