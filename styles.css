@@ -51,60 +51,161 @@ nav ul li a:hover {
     color: #ff6347;
 }
 
-/* 首页大图 */
+/* 首页大图优化 */
 #hero {
-    background: url('images/hero-bg.jpg') no-repeat center center/cover;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+                url('images/hero-bg.jpg') no-repeat center center/cover;
     color: #fff;
-    padding: 100px 0;
+    padding: 120px 0;
     text-align: center;
+    position: relative;
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+}
+
+#hero .container {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
 }
 
 #hero h2 {
-    font-size: 3rem;
-    margin-bottom: 20px;
+    font-size: 3.5rem;
+    margin-bottom: 25px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+    animation: fadeInUp 1s ease;
 }
 
 #hero p {
-    font-size: 1.2rem;
+    font-size: 1.4rem;
+    line-height: 1.8;
+    margin: 0 auto;
+    max-width: 600px;
+    animation: fadeInUp 1s 0.3s ease backwards;
 }
 
-/* 最新动态 */
+/* 最新动态轮播优化 */
 #latest-news {
-    padding: 40px 0;
-    background-color: #fff;
+    padding: 60px 0;
+    background: #f8f9fa;
 }
 
 #latest-news h2 {
     text-align: center;
-    margin-bottom: 20px;
-    font-size: 2rem;
+    margin-bottom: 40px;
+    font-size: 2.5rem;
+    color: #2c3e50;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+#latest-news h2::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 3px;
+    background: #007bff;
 }
 
 .news-carousel {
-    display: flex;
-    justify-content: space-around;
-    gap: 10px;
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+.news-carousel-inner {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: calc((100% - (3 - 1) * 30px) / 3);
+    gap: 30px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.news-carousel-inner::-webkit-scrollbar {
+    display: none;
 }
 
 .news-item {
-    background-color: #f9f9f9;
-    border: 1px solid #ddd;
-    border-radius: 10px;
+    scroll-snap-align: start;
+    background: white;
+    border-radius: 12px;
     overflow: hidden;
-    width: 30%;
-    text-align: center;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    position: relative;
+}
+
+.news-item:hover {
+    transform: translateY(-5px);
 }
 
 .news-item img {
     width: 100%;
-    height: 200px;
+    height: 280px;
     object-fit: cover;
+    border-bottom: 3px solid #007bff;
 }
 
 .news-item p {
-    padding: 15px;
-    font-size: 1rem;
-    color: #555;
+    padding: 20px;
+    font-size: 1.1rem;
+    color: #4a5568;
+    text-align: center;
+    background: linear-gradient(to right, #f8f9fa, white);
+    margin: 0;
+    min-height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 轮播导航按钮 */
+.carousel-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 15px;
+    pointer-events: none;
+}
+
+.carousel-btn {
+    pointer-events: all;
+    background: rgba(255, 255, 255, 0.9);
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carousel-btn:hover {
+    background: white;
+    transform: scale(1.1);
+}
+
+.carousel-btn svg {
+    width: 24px;
+    height: 24px;
+    color: #007bff;
 }
 
 /* 采访页面样式 */
@@ -331,8 +432,31 @@ footer .social-links a:hover {
     color: #ff6347;
 }
 
+/* 响应式设计 */
+@media (max-width: 1024px) {
+    .news-carousel-inner {
+        grid-auto-columns: calc((100% - (2 - 1) * 30px) / 2);
+    }
+}
+
 /* 移动端适配 */
 @media (max-width: 768px) {
+    #hero h2 {
+        font-size: 2.5rem;
+    }
+    
+    #hero p {
+        font-size: 1.2rem;
+    }
+    
+    .news-carousel-inner {
+        grid-auto-columns: 100%;
+    }
+    
+    .news-item img {
+        height: 220px;
+    }
+    
     .players-container {
         grid-template-columns: 1fr;
         padding: 10px;
@@ -361,6 +485,17 @@ footer .social-links a:hover {
 
     #interview p {
         font-size: 1rem; /* 小屏幕下正文字体大小 */
+    }
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
     }
 }
 
