@@ -7,8 +7,10 @@ const itemCount = items.length;
 const itemWidth = items[0].offsetWidth + 30;
 
 function initCarousel() {
-    // 移除克隆逻辑（改为纯循环）
-    carouselInner.style.gridTemplateColumns = `repeat(${itemCount}, calc((100% - (3 - 1) * 30px) / 3))`;
+    // 动态计算可见列数
+    const containerWidth = carouselInner.parentElement.offsetWidth;
+    const visibleColumns = Math.floor(containerWidth / (items[0].offsetWidth + 30));
+    carouselInner.style.gridTemplateColumns = `repeat(${itemCount}, calc((100% - ${visibleColumns - 1} * 30px) / ${visibleColumns}))`;
 }
 
 function scrollNext() {
@@ -29,26 +31,27 @@ function scrollPrev() {
 
 function updateCarousel(direction) {
     const scrollPos = currentIndex * itemWidth;
+    const maxScroll = (itemCount - 3) * itemWidth; // 3为可见项数
     
-    // 使用CSS transition实现平滑滚动
-    carouselInner.style.transition = 'transform 0.5s ease-in-out';
-    carouselInner.style.transform = `translateX(-${scrollPos}px)`;
+    carouselInner.style.transition = 'transform 0.5s cubic-bezier(0.4, 0, 0.2, 1)';
+    carouselInner.style.transform = `translateX(-${Math.min(scrollPos, maxScroll)}px)`;
 
-    // 监听动画结束
     carouselInner.addEventListener('transitionend', () => {
-        isAnimating = false;
-        carouselInner.style.transition = 'none';
-        
-        // 循环处理
+        // 边界处理：当滚动到真实最后一项时重置位置
         if (currentIndex === itemCount - 1 && direction === 'next') {
             currentIndex = 0;
-            carouselInner.style.transform = `translateX(0)`;
-        } else if (currentIndex === 0 && direction === 'prev') {
-            currentIndex = itemCount - 1;
-            carouselInner.style.transform = `translateX(-${(itemCount - 1) * itemWidth}px)`;
+            carouselInner.style.transition = 'none';
+            carouselInner.style.transform = 'translateX(0)';
         }
+        isAnimating = false;
     }, { once: true });
 }
+
+// 窗口大小变化时重新初始化
+window.addEventListener('resize', () => {
+    initCarousel();
+    carouselInner.style.transform = `translateX(-${currentIndex * itemWidth}px)`;
+});
 
 // 初始化
 document.addEventListener('DOMContentLoaded', () => {
