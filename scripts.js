@@ -7,12 +7,18 @@ const itemWidth = document.querySelector('.news-item').offsetWidth + 30; // 包�
 // 修改后的轮播初始化
 function initCarousel() {
     const carouselInner = document.querySelector('.news-carousel-inner');
-    if (!carouselInner) return;
+    if (!carouselInner) {
+        console.error('轮播容器未找到');
+        return;
+    }
 
     // 等待DOM更新完成
     setTimeout(() => {
         const items = document.querySelectorAll('.news-item');
-        if (items.length === 0) return;
+        if (items.length === 0) {
+            console.error('轮播项未找到');
+            return;
+        }
 
         // 克隆前三个项目实现无缝滚动
         items.forEach((item, index) => {
@@ -58,14 +64,14 @@ function smoothScroll() {
 // 统一事件监听器
 document.addEventListener('DOMContentLoaded', async () => {
     try {
+        // 显示加载状态
+        document.querySelector('.loading').style.display = 'flex';
+        
         // 先获取数据
         await Promise.all([
             fetchPlayers(),
             fetchCompetitions()
         ]);
-
-        // 在fetchPlayers和fetchCompetitions的finally中添加
-        document.querySelector('.loading').style.display = 'none';
         
         // 数据加载完成后初始化轮播
         initCarousel();
@@ -89,6 +95,9 @@ document.addEventListener('DOMContentLoaded', async () => {
     } catch (error) {
         console.error('初始化失败:', error);
         // 可以在这里添加错误提示
+    } finally {
+        // 隐藏加载状态
+        document.querySelector('.loading').style.display = 'none';
     }
 });
 
@@ -98,6 +107,7 @@ async function fetchCompetitions() {
         const response = await fetch('http://localhost:3000/api/competition_bases');
         if (!response.ok) throw new Error('获取赛事信息失败');
         const competitions = await response.json();
+        console.log('赛事数据:', competitions); // 调试用
         renderCompetitions(competitions);
     } catch (error) {
         console.error('Error:', error);
@@ -149,6 +159,7 @@ async function fetchPlayers() {
         const response = await fetch('http://localhost:3000/api/players');
         if (!response.ok) throw new Error('获取队员信息失败');
         const players = await response.json();
+        console.log('队员数据:', players); // 调试用
         renderPlayers(players);
     } catch (error) {
         console.error('Error:', error);
