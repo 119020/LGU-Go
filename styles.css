@@ -113,6 +113,29 @@ nav ul li a:hover {
     background: #007bff;
 }
 
+.news-carousel {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+.news-carousel-inner {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: calc((100% - (3 - 1) * 30px) / 3);
+    gap: 30px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+.news-carousel-inner::-webkit-scrollbar {
+    display: none;
+}
+
 .news-item {
     scroll-snap-align: start;
     background: white;
@@ -145,60 +168,6 @@ nav ul li a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
-}
-
-/* 轮播导航按钮 */
-.news-carousel {
-    position: relative;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 60px;
-    overflow: hidden;
-}
-
-.news-carousel-inner {
-    display: grid;
-    gap: 30px;
-    margin: 0 -15px;
-    transform: translateX(0);
-}
-
-.carousel-nav {
-    position: absolute;
-    top: 50%;
-    left: 60px;
-    width: calc(100% - 120px);
-    transform: translateY(-50%);
-    display: flex;
-    justify-content: space-between;
-    padding: 0 25px;
-    z-index: 10;
-    pointer-events: none;
-}
-
-.carousel-btn {
-    pointer-events: all;
-    background: rgba(255, 255, 255, 0.9);
-    border: none;
-    width: 45px;
-    height: 45px;
-    border-radius: 50%;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.carousel-btn:hover {
-    background: white;
-    transform: scale(1.1);
-}
-
-.carousel-btn svg {
-    width: 24px;
-    height: 24px;
-    color: #007bff;
 }
 
 /* 采访页面样式 */
@@ -427,13 +396,8 @@ footer .social-links a:hover {
 
 /* 响应式设计 */
 @media (max-width: 1024px) {
-    .news-carousel {
-        padding: 0 40px;
-    }
-    
-    .carousel-nav {
-        left: 40px;
-        width: calc(100% - 80px);
+    .news-carousel-inner {
+        grid-auto-columns: calc((100% - (2 - 1) * 30px) / 2);
     }
 }
 
@@ -446,20 +410,9 @@ footer .social-links a:hover {
     #hero p {
         font-size: 1.2rem;
     }
-    
-    .news-carousel {
-        padding: 0 20px;
-    }
-    
-    .carousel-nav {
-        left: 20px;
-        width: calc(100% - 40px);
-        padding: 0 15px;
-    }
-    
-    .carousel-btn {
-        width: 35px;
-        height: 35px;
+
+    .news-carousel-inner {
+        grid-auto-columns: 100%;
     }
     
     .news-item img {
