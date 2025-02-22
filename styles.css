@@ -150,14 +150,11 @@ nav ul li a:hover {
 
 .news-carousel-inner {
     display: grid;
-    grid-auto-flow: column;
-    grid-auto-columns: calc((100% - (3 - 1) * 30px) / 3);
+    grid-template-columns: repeat(6, calc((100% - (3 - 1) * 30px) / 3)); /* 显示6个项目 */
     gap: 30px;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    scroll-behavior: smooth;
-    -ms-overflow-style: none;  /* IE and Edge */
-    scrollbar-width: none;  /* Firefox */
+    overflow: hidden; /* 改为隐藏溢出 */
+    scroll-snap-type: none; /* 移除滚动吸附 */
+    transform: translateX(0);
 }
 
 .news-carousel-inner::-webkit-scrollbar {
@@ -207,7 +204,7 @@ nav ul li a:hover {
     display: flex;
     justify-content: space-between;
     padding: 0 15px;
-    pointer-events: none;
+    z-index: 10;
 }
 
 .carousel-btn {
@@ -463,7 +460,7 @@ footer .social-links a:hover {
 /* 响应式设计 */
 @media (max-width: 1024px) {
     .news-carousel-inner {
-        grid-auto-columns: calc((100% - (2 - 1) * 30px) / 2);
+        grid-template-columns: repeat(6, calc((100% - (2 - 1) * 30px) / 2));
     }
 }
 
@@ -478,7 +475,12 @@ footer .social-links a:hover {
     }
     
     .news-carousel-inner {
-        grid-auto-columns: 100%;
+        grid-template-columns: repeat(6, 100%);
+    }
+    
+    .carousel-btn {
+        width: 35px;
+        height: 35px;
     }
     
     .news-item img {
