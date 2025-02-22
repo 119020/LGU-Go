@@ -1,3 +1,5 @@
+require('dotenv').config(); // 加载 .env 文件
+
 const express = require('express');
 const mysql = require('mysql2');
 const cors = require('cors');
@@ -8,6 +10,11 @@ const port = 3000;
 // 启用 CORS
 app.use(cors());
 
+// 测试是否正确读取环境变量
+console.log(process.env.DB_HOST);
+console.log(process.env.DB_USER);
+console.log(process.env.DB_PASSWORD);
+console.log(process.env.DB_NAME);
 
 // 从环境变量中获取 MySQL 连接信息
 const pool = mysql.createConnection({
