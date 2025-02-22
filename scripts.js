@@ -63,6 +63,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             fetchPlayers(),
             fetchCompetitions()
         ]);
+
+        // 在fetchPlayers和fetchCompetitions的finally中添加
+        document.querySelector('.loading').style.display = 'none';
         
         // 数据加载完成后初始化轮播
         initCarousel();
