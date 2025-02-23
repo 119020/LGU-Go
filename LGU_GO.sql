@@ -6,10 +6,10 @@ USE lgu_go;
 
 -- 比赛基础信息表
 CREATE TABLE Competition_bases (
-    competition_base_id INT DEFAULT NULL,
+    competition_base_id INT DEFAULT -1,
     competition_name VARCHAR(100) PRIMARY KEY,
-    competition_first_year INT DEFAULT NULL,
-    competition_last_year INT DEFAULT NULL,
+    competition_first_year INT DEFAULT -1,
+    competition_last_year INT DEFAULT -1,
     competition_level VARCHAR(50) DEFAULT NULL,
     is_institution_competition BOOLEAN DEFAULT NULL,
     is_open_competition BOOLEAN DEFAULT NULL,
@@ -30,11 +30,11 @@ CREATE TABLE Competitions (
     competition_name VARCHAR(100),
     competition_edition INT,
     competition_group VARCHAR(50),
-    competition_year INT DEFAULT NULL,
+    competition_year INT DEFAULT -1,
     competition_start_date DATE DEFAULT NULL,
     competition_end_date DATE DEFAULT NULL,
     competition_location VARCHAR(100) DEFAULT NULL,
-    competition_total_round INT DEFAULT NULL,
+    competition_total_round INT DEFAULT -1,
     competition_source VARCHAR(100) DEFAULT NULL,
     PRIMARY KEY (competition_name, competition_edition, competition_group),
     FOREIGN KEY (competition_name) REFERENCES Competition_bases(competition_name)
@@ -47,7 +47,7 @@ CREATE TABLE Competitions_with_teams (
     competition_edition INT,
     competition_group VARCHAR(50),
     team_name VARCHAR(100),
-    total_teammate_count INT DEFAULT NULL,
+    total_teammate_count INT DEFAULT -1,
     PRIMARY KEY (competition_name, competition_edition, competition_group, team_name),
     FOREIGN KEY (competition_name, competition_edition, competition_group) 
         REFERENCES Competitions(competition_name, competition_edition, competition_group)
@@ -58,7 +58,7 @@ CREATE TABLE Competitions_without_teams (
     competition_name VARCHAR(100),
     competition_edition INT,
     competition_group VARCHAR(50),
-    total_player_count INT DEFAULT NULL,
+    total_player_count INT DEFAULT -1,
     PRIMARY KEY (competition_name, competition_edition, competition_group),
     FOREIGN KEY (competition_name, competition_edition, competition_group) 
         REFERENCES Competitions(competition_name, competition_edition, competition_group)
@@ -66,21 +66,21 @@ CREATE TABLE Competitions_without_teams (
 
 -- 选手基本信息表
 CREATE TABLE Players (
-    player_id INT DEFAULT NULL,
+    player_id INT DEFAULT -1,
     player_name VARCHAR(50) PRIMARY KEY,
     player_sex VARCHAR(10) DEFAULT NULL,
     player_birthplace VARCHAR(50) DEFAULT NULL,
-    player_birthyear INT DEFAULT NULL,
-    player_birthmonth INT DEFAULT NULL,
+    player_birthyear INT DEFAULT -1,
+    player_birthmonth INT DEFAULT -1,
     is_our_player BOOLEAN DEFAULT NULL,
     is_team_player BOOLEAN DEFAULT NULL,
-    player_amateur_dan INT DEFAULT NULL
+    player_amateur_dan INT DEFAULT -1
 );
 
 -- 校队选手信息表
 CREATE TABLE Players_school (
     player_name VARCHAR(50) PRIMARY KEY,
-    enroll_year INT DEFAULT NULL,
+    enroll_year INT DEFAULT -1,
     enroll_identity VARCHAR(50) DEFAULT NULL,
     enroll_college VARCHAR(100) DEFAULT NULL,
     is_club_leader BOOLEAN DEFAULT NULL,
@@ -99,10 +99,10 @@ CREATE TABLE Players_graduates (
 -- 深圳联赛选手信息表
 CREATE TABLE Players_team (
     player_name VARCHAR(50) PRIMARY KEY,
-    team_dan INT DEFAULT NULL,
-    team_initial_dan INT DEFAULT NULL,
-    team_first_year INT DEFAULT NULL,
-    team_last_year INT DEFAULT NULL,
+    team_dan INT DEFAULT -1,
+    team_initial_dan INT DEFAULT -1,
+    team_first_year INT DEFAULT -1,
+    team_last_year INT DEFAULT -1,
     team_details TEXT DEFAULT NULL,
     FOREIGN KEY (player_name) REFERENCES Players(player_name)
 );
@@ -114,8 +114,8 @@ CREATE TABLE Players_in_competitions (
     competition_edition INT,
     competition_group VARCHAR(50),
     player_team VARCHAR(100),
-    player_win_count INT DEFAULT NULL,
-    player_lose_count INT DEFAULT NULL,
+    player_win_count INT DEFAULT -1,
+    player_lose_count INT DEFAULT -1,
     represent_school BOOLEAN DEFAULT NULL,
     is_foreign_player BOOLEAN DEFAULT NULL,
     PRIMARY KEY (player_name, competition_name, competition_edition, competition_group),
@@ -123,6 +123,7 @@ CREATE TABLE Players_in_competitions (
     FOREIGN KEY (competition_name, competition_edition, competition_group) 
         REFERENCES Competitions(competition_name, competition_edition, competition_group)
 );
+#CREATE INDEX pc ON Players_in_competitions(player_name, competition_name, competition_edition, competition_group);
 
 -- 团体赛成绩表
 CREATE TABLE Teams_results (
@@ -130,7 +131,7 @@ CREATE TABLE Teams_results (
     competition_edition INT,
     competition_group VARCHAR(50),
     team_name VARCHAR(100),
-    team_rank INT DEFAULT NULL,
+    team_rank INT DEFAULT -1,
     has_team_prize BOOLEAN DEFAULT NULL,
     PRIMARY KEY (competition_name, competition_edition, competition_group, team_name),
     FOREIGN KEY (competition_name, competition_edition, competition_group, team_name) 
@@ -143,7 +144,7 @@ CREATE TABLE Individuals_best_results (
     competition_edition INT,
     competition_group VARCHAR(50),
     best_player_name VARCHAR(50),
-    best_player_rank INT DEFAULT NULL,
+    best_player_rank INT DEFAULT -1,
     has_individual_prize BOOLEAN DEFAULT NULL,
     PRIMARY KEY (competition_name, competition_edition, competition_group, best_player_name),
     FOREIGN KEY (best_player_name, competition_name, competition_edition, competition_group) 
@@ -153,13 +154,13 @@ CREATE TABLE Individuals_best_results (
 -- 对局记录表
 CREATE TABLE GameRecords (
     game_id INT PRIMARY KEY AUTO_INCREMENT,
-    game_year INT DEFAULT NULL,
-    game_month INT DEFAULT NULL,
+    game_year INT DEFAULT -1,
+    game_month INT DEFAULT -1,
     game_date DATE DEFAULT NULL,
     competition_name VARCHAR(100) DEFAULT NULL,
-    competition_edition INT DEFAULT NULL,
+    competition_edition INT,
     competition_group VARCHAR(50) DEFAULT NULL,
-    game_round INT DEFAULT NULL,
+    game_round INT DEFAULT -1,
     game_table VARCHAR(20) DEFAULT NULL,
     black_player VARCHAR(50) DEFAULT NULL,
     black_team VARCHAR(100) DEFAULT NULL,
@@ -314,7 +315,7 @@ FROM Competitions
 WHERE competition_name = "深圳高校个人赛";
 
 -- 获取某项赛事的对局记录
-DROP VIEW competition_game_records;
+#DROP VIEW competition_game_records;
 CREATE VIEW competition_game_records AS
 SELECT DISTINCT g.game_date AS `date`,
 g.game_round AS `round`,
