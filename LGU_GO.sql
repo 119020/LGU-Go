@@ -146,8 +146,8 @@ CREATE TABLE Individuals_best_results (
     best_player_rank INT DEFAULT NULL,
     has_individual_prize BOOLEAN DEFAULT NULL,
     PRIMARY KEY (competition_name, competition_edition, competition_group, best_player_name),
-    FOREIGN KEY (competition_name, competition_edition, competition_group, best_player_name) 
-        REFERENCES Players_in_competitions(competition_name, competition_edition, competition_group, player_name)
+    FOREIGN KEY (best_player_name, competition_name, competition_edition, competition_group) 
+        REFERENCES Players_in_competitions(player_name, competition_name, competition_edition, competition_group)
 );
 
 -- 对局记录表
@@ -169,8 +169,8 @@ CREATE TABLE GameRecords (
     school_player_result VARCHAR(5) DEFAULT NULL,
     school_player_name VARCHAR(50) DEFAULT NULL,
     school_player_color VARCHAR(5) DEFAULT NULL,
-    FOREIGN KEY (competition_name, competition_edition, competition_group, school_player_name) 
-        REFERENCES Players_in_competitions(competition_name, competition_edition, competition_group, player_name)
+    FOREIGN KEY (school_player_name, competition_name, competition_edition, competition_group) 
+        REFERENCES Players_in_competitions(player_name, competition_name, competition_edition, competition_group)
 );
 #Show tables;
 #SELECT * FROM GameRecords;
