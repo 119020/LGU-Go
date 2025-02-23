@@ -79,6 +79,7 @@ app.get('/api/competitions', (req, res) => {
     }
     // 使用子查询来获取队员的姓名（INNER JOIN 可能无法返回正确结果）
     pool.query('SELECT \
+competition_id, \
 competition_year AS `year`,\
 CONCAT("第", competition_edition, "届 ", competition_name, \
 "（", competition_group, "）") AS `competition`, \
