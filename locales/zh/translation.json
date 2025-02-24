@@ -1,0 +1,14 @@
+{
+  "header": {
+    "title": "香港中文大学（深圳）围棋队",
+    "nav": {
+      "home": "首页",
+      "players": "队员介绍",
+      "history": "历史战绩"
+    }
+  },
+  "historySection": {
+    "title": "历史战绩",
+    "columns": ["年份", "总胜场", "总负场", "胜率"]
+  }
+}
