@@ -1,29 +1,6 @@
 /* 全局样式 */
-:root {
-  /* 基准字体（针对中文优化） */
-  --base-font-size: 16px; 
-  --en-font-multiplier: 1.1; /* 英文放大10% */
-  --jp-font-multiplier: 0.95; /* 日文缩小5% */
-}
-
-/* 日文换行规则 */
-[lang="jp"] {
-  word-break: keep-all;
-  overflow-wrap: anywhere;
-  hyphens: auto;
-}
-
-[lang="en"] {
-  hyphens: auto;
-}
-
 body {
-    font-size: var(--base-font-size);
-    font-family: 
-        "Hiragino Sans GB", /* 中文优先 */
-        "Helvetica Neue", /* 英文备选 */
-        "Hiragino Kaku Gothic ProN", /* 日文备选 */
-        sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -31,34 +8,10 @@ body {
     line-height: 1.6; /* 设置全局行高 */
 }
 
-/* 语言特定字体调整 */
-[lang="en"] body {
-  font-size: calc(var(--base-font-size) * var(--en-font-multiplier));
-}
-
-[lang="jp"] body {
-  font-size: calc(var(--base-font-size) * var(--jp-font-multiplier));
-  line-height: 1.8; /* 日文需要更大行高 */
-}
-
 .container {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 15px;
-    
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
-}
-
-/* 中文紧凑布局 */
-[lang="zh"] .container {
-  gap: 10px;
-}
-
-/* 英文宽松布局 */
-[lang="en"] .container {
-  gap: 20px;
 }
 
 /* 多语言相关样式 */
@@ -167,10 +120,6 @@ nav ul li a:hover {
 }
 
 .news-carousel {
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    -webkit-overflow-scrolling: touch;
-    
     position: relative;
     max-width: 1200px;
     margin: 0 auto;
@@ -195,11 +144,9 @@ nav ul li a:hover {
 
 /* 新闻项动态宽度适配 */
 .news-item {
-    min-width: 85vw; /* 移动端显示宽度 */
-    max-width: 300px;
+    min-width: 300px; /* 保证日文版式 */
     padding: 10px;
     scroll-snap-align: start;
-    
     background: white;
     border-radius: 12px;
     overflow: hidden;
@@ -227,19 +174,9 @@ nav ul li a:hover {
     background: linear-gradient(to right, #f8f9fa, white);
     margin: 0;
     min-height: 80px;
-
+    display: flex;
     align-items: center;
     justify-content: center;
-    display: -webkit-box;
-    -webkit-line-clamp: 3; /* 统一显示3行 */
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  
-    /* 语言特定行高 */
-    [lang="jp"] & {
-        -webkit-line-clamp: 4;
-    }
 }
 
 /* 轮播导航按钮 */
@@ -513,33 +450,6 @@ footer .social-links a:hover {
 
 /* 移动端适配 */
 @media (max-width: 768px) {
-  .mobile-menu-toggle {
-    display: block;
-    position: absolute;
-    right: 15px;
-    top: 25px;
-  }
-
-  nav ul {
-    display: none;
-    width: 100%;
-    position: absolute;
-    top: 70px;
-    background: white;
-    flex-direction: column;
-  }
-
-  nav li {
-    margin: 10px 0;
-  }
-
-  /* 语言切换按钮位置调整 */
-  .language-switcher {
-    top: 70px;
-    right: auto;
-    left: 15px;
-  }
-    
     #hero h2 {
         font-size: 2.5rem;
     }
@@ -585,28 +495,6 @@ footer .social-links a:hover {
     #interview p {
         font-size: 1rem; /* 小屏幕下正文字体大小 */
     }
-}
-
-/* 中文移动端优化 */
-@media (max-width: 768px) and [lang="zh"] {
-  h1 {
-    font-size: 1.5rem;
-  }
-}
-
-/* 英文移动端优化 */
-@media (max-width: 768px) and [lang="en"] {
-  h1 {
-    font-size: 1.3rem;
-  }
-}
-
-/* 日文移动端优化 */
-@media (max-width: 768px) and [lang="jp"] {
-  h1 {
-    font-size: 1.4rem;
-    letter-spacing: -0.5px;
-  }
 }
 
 @keyframes fadeInUp {
