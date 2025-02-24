@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', async () => {
       // 获取所有赛事信息并渲染到页面
       renderCompetitions(compData.competition_bases);
       // 获取所有队员信息并渲染到页面
-      renderCompetitions(playData.players);
+      renderPlayers(playData.players);
 });
 
 // 数据加载函数
