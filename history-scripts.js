@@ -9,8 +9,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (playerId && playerName) {
         // 获取对局记录并渲染
-        renderHistory(playData.player_history[playerId]);
-        renderOpponents(playData.opponent_records[playerId]);
+        renderHistory(playData.player_history[playerId], playerName);
+        renderOpponents(playData.opponent_records[playerId], playerName);
         
     } else {
         alert('未找到队员 ID 或姓名');
