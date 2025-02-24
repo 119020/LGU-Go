@@ -1,5 +1,4 @@
 {
-  // 比赛基本信息
   competition_bases: [
   {
     "competition_base_id": 3,
@@ -179,8 +178,7 @@
   }
 ],
 
-  // 赛事详情
-  competitions: {
+  competitions: [{
     1: 
       [{"competition_id":26,"year":2023,"competition":"第1届 宝安杯9+2城市交流赛（公开组）","start_date":"2023-12-08T16:00:00.000Z","end_date":"2023-12-09T16:00:00.000Z","location":"广东深圳宝安","total_round":7,"source":"云比赛网"},{"competition_id":42,"year":2024,"competition":"第2届 宝安杯9+2城市交流赛（公开组）","start_date":"2024-09-20T16:00:00.000Z","end_date":"2024-09-21T16:00:00.000Z","location":"广东深圳宝安","total_round":7,"source":"云比赛网"}]
       ,
@@ -246,10 +244,9 @@
     ,
     22:
     [{"competition_id":46,"year":2025,"competition":"第5届 广东新春赛（公开组）","start_date":"2025-02-07T16:00:00.000Z","end_date":"2025-02-08T16:00:00.000Z","location":"广东广州越秀","total_round":7,"source":"云比赛网"}]
-  },
+  }],
 
-  // 对局记录
-  competition_records: {
+  competition_records: [{
     1:
     [{"date":"2019-11-16T16:00:00.000Z","round":1,"table":"","black_player":"刘庆龙","black_team":"香港中文大学（深圳）","white_player":"张徐鹭","white_team":"深圳北理莫斯科大学","result":"黑中盘胜"},{"date":"2019-11-16T16:00:00.000Z","round":2,"table":"","black_player":"霍润恒","black_team":"深圳北理莫斯科大学","white_player":"刘庆龙","white_team":"香港中文大学（深圳）","result":"黑中盘胜"},{"date":"2019-11-23T16:00:00.000Z","round":3,"table":"","black_player":"唐清扬","black_team":"香港中文大学（深圳）","white_player":"霍润恒","white_team":"深圳北理莫斯科大学","result":"黑中盘胜"},{"date":"2019-11-23T16:00:00.000Z","round":4,"table":"","black_player":"杨永智","black_team":"深圳北理莫斯科大学","white_player":"唐清扬","white_team":"香港中文大学（深圳）","result":"白中盘胜"},{"date":"2019-11-30T16:00:00.000Z","round":5,"table":"","black_player":"唐清扬","black_team":"香港中文大学（深圳）","white_player":"王栋杉","white_team":"深圳北理莫斯科大学","result":"白中盘胜"},{"date":"2019-11-30T16:00:00.000Z","round":6,"table":"","black_player":"王栋杉","black_team":"深圳北理莫斯科大学","white_player":"徐同和","white_team":"香港中文大学（深圳）","result":"黑胜2.75子"},{"date":"2019-12-07T16:00:00.000Z","round":7,"table":"","black_player":"蒋泓轩","black_team":"香港中文大学（深圳）","white_player":"王栋杉","white_team":"深圳北理莫斯科大学","result":"白中盘胜"},{"date":"2019-12-07T16:00:00.000Z","round":8,"table":"","black_player":"匡博文","black_team":"香港中文大学（深圳）","white_player":"王栋杉","white_team":"深圳北理莫斯科大学","result":"白胜6.25子"}]
     ,
@@ -387,5 +384,5 @@
     ,
     46:
     [{"date":"2025-02-07T16:00:00.000Z","round":1,"table":"26","black_player":"朱夏俊","black_team":"","white_player":"刘晓润","white_team":"","result":"黑中盘胜"},{"date":"2025-02-07T16:00:00.000Z","round":1,"table":"42","black_player":"卿家瑞","black_team":"","white_player":"洪观棋","white_team":"","result":"黑中盘胜"},{"date":"2025-02-07T16:00:00.000Z","round":2,"table":"11","black_player":"邹正宁","black_team":"","white_player":"卿家瑞","white_team":"","result":"白中盘胜"},{"date":"2025-02-07T16:00:00.000Z","round":2,"table":"19","black_player":"林汇杰","black_team":"","white_player":"朱夏俊","white_team":"","result":"白中盘胜"},{"date":"2025-02-07T16:00:00.000Z","round":3,"table":"14","black_player":"卿家瑞","black_team":"","white_player":"陈棨熙","white_team":"","result":"黑中盘胜"},{"date":"2025-02-07T16:00:00.000Z","round":3,"table":"8","black_player":"朱夏俊","black_team":"","white_player":"温芃宸","white_team":"","result":"白中盘胜"},{"date":"2025-02-07T16:00:00.000Z","round":4,"table":"23","black_player":"朱夏俊","black_team":"","white_player":"叶馥嘉","white_team":"","result":"黑中盘胜"},{"date":"2025-02-07T16:00:00.000Z","round":4,"table":"3","black_player":"卿家瑞","black_team":"","white_player":"郑伯钧","white_team":"","result":"黑中盘胜"},{"date":"2025-02-08T16:00:00.000Z","round":5,"table":"11","black_player":"朱夏俊","black_team":"","white_player":"徐文灿","white_team":"","result":"白中盘胜"},{"date":"2025-02-08T16:00:00.000Z","round":5,"table":"3","black_player":"杨靖源","black_team":"","white_player":"卿家瑞","white_team":"","result":"白中盘胜"},{"date":"2025-02-08T16:00:00.000Z","round":6,"table":"1","black_player":"傅彧","black_team":"","white_player":"卿家瑞","white_team":"","result":"黑中盘胜"},{"date":"2025-02-08T16:00:00.000Z","round":6,"table":"24","black_player":"陈果","black_team":"","white_player":"朱夏俊","white_team":"","result":"白中盘胜"},{"date":"2025-02-08T16:00:00.000Z","round":7,"table":"14","black_player":"朱夏俊","black_team":"","white_player":"胡裕堃","white_team":"","result":"白胜0.25子"},{"date":"2025-02-08T16:00:00.000Z","round":7,"table":"6","black_player":"陈澍","black_team":"","white_player":"卿家瑞","white_team":"","result":"黑中盘胜"}]
-},
+}]
 }
