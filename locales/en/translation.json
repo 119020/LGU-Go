@@ -3,12 +3,32 @@
     "title": "CUHK-Shenzhen Go Team",
     "nav": {
       "home": "Home",
+      "interview": "Interviews",
       "players": "Players",
-      "history": "History"
+      "competitions": "Competitions"
     }
   },
-  "historySection": {
-    "title": "Match History",
-    "columns": ["Year", "Wins", "Losses", "Win Rate"]
+  "hero": {
+    "title": "Welcome to CUHK-Shenzhen Go Team",
+    "description": "Official website of our Go team. Learn about our players, match records and contact us."
+  },
+  "news": {
+    "title": "Latest News",
+    "items": [
+      {"text": "2022 1st Shenzhen University League Champion"},
+      {"text": "2024 2nd Bay Area University League Champion"},
+      {"text": "2023 1st Bay Area University League 6th Place"},
+      {"text": "2024 10th Shenzhen League (Super Group) 3rd Place"},
+      {"text": "2023 9th Shenzhen League (Group A) 4th Place"},
+      {"text": "2021 7th Shenzhen League (Group A) 4th Place"}
+    ]
+  },
+  "footer": {
+    "copyright": "© 2025 CUHK-Shenzhen Go Team",
+    "social": {
+      "wechat": "WeChat Official",
+      "weibo": "Weibo",
+      "qq": "QQ Group"
+    }
   }
 }
