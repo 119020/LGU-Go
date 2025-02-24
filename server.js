@@ -7,6 +7,24 @@ const port = 3000;
 app.use(cors());
 app.use(express.json());
 
+/******************** 新增根路由 ********************/
+app.get('/', (req, res) => {
+    res.send('围棋赛事数据系统已启动，请访问 /api 接口');
+
+    res.json({
+      status: 'running',
+      api_endpoints: [
+        '/api/competition_bases',
+        '/api/competitions?competition_base_id=1',
+        '/api/players',
+        '/api/history?player_id=1',
+        '/api/opponent?player_id=1',
+        '/api/records?player_id=1',
+        '/api/awards?player_id=1'
+      ]
+    });
+  });
+
 /******************** 内存数据库 ********************/
 const memoryDB = {
   // 比赛基本信息
@@ -1907,6 +1925,15 @@ app.get('/api/awards', (req, res) => {
   if (!playerId) return res.status(400).json({ error: '缺少 player_id 参数' });
   res.json(memoryDB.awards[playerId] || []);
 });
+
+// ================== 404处理 ================== 
+// （必须放在所有路由之后）
+app.use((req, res) => {
+    res.status(404).json({ 
+      error: '路由不存在',
+      validRoutes: ['/', '/api/players', '/api/competitions']
+    });
+  });
 
 // 启动服务器
 app.listen(port, () => {
