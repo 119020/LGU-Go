@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', async () => {
     const playData = await loadData('players');
     
     // 从 URL 参数中获取 player_id 和 player_name
