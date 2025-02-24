@@ -14,6 +14,12 @@ body {
     margin: 0 auto;
 }
 
+/* 多语言相关样式 */
+[data-i18n]:empty::after {
+  content: attr(data-i18n);
+  color: #ff4444;
+}
+
 /* 头部 */
 header {
     background-color: #333;
@@ -136,7 +142,10 @@ nav ul li a:hover {
     display: none;
 }
 
+/* 新闻项动态宽度适配 */
 .news-item {
+    min-width: 300px; /* 保证日文版式 */
+    padding: 10px;
     scroll-snap-align: start;
     background: white;
     border-radius: 12px;
