@@ -1,4 +1,7 @@
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', async () => {
+    // 加载赛事数据
+    const playData = await loadData('players');
+    
     // 从 URL 参数中获取 player_id 和 player_name
     const urlParams = new URLSearchParams(window.location.search);
     const playerId = urlParams.get('player_id');
@@ -6,45 +9,23 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (playerId && playerName) {
         // 获取对局记录并渲染
-        fetchHistoryAndOpponent(playerId, playerName);
+        renderHistory(playData.player_history[playerId], playerName);
+        renderOpponents(playData.opponent_records[playerId], playerName);
+        
     } else {
         alert('未找到队员 ID 或姓名');
     }
 });
 
-// 获取队员的历史战绩和对手交战记录
-function fetchHistoryAndOpponent(playerId, playerName) {
-    // 获取历史战绩
-    fetch(`http://localhost:3000/api/history?player_id=${playerId}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('获取历史战绩失败');
-            }
-            return response.json();
-        })
-        .then(history => {
-            renderHistory(history, playerName);
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            alert('获取历史战绩失败，请稍后重试');
-        });
-
-    // 获取对手交战记录
-    fetch(`http://localhost:3000/api/opponent?player_id=${playerId}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('获取对手交战记录失败');
-            }
-            return response.json();
-        })
-        .then(opponents => {
-            renderOpponents(opponents, playerName);
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            alert('获取对手交战记录失败，请稍后重试');
-        });
+// 数据加载函数
+async function loadData(type) {
+  try {
+    const response = await fetch(`data/${type}.json`);
+    return await response.json();
+  } catch (error) {
+    console.error('数据加载失败:', error);
+    return {};
+  }
 }
 
 // 渲染历史战绩

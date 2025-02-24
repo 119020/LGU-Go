@@ -1,0 +1,14 @@
+{
+  "header": {
+    "title": "CUHK-Shenzhen Go Team",
+    "nav": {
+      "home": "Home",
+      "players": "Players",
+      "history": "History"
+    }
+  },
+  "historySection": {
+    "title": "Match History",
+    "columns": ["Year", "Wins", "Losses", "Win Rate"]
+  }
+}

@@ -1,26 +1,24 @@
-document.addEventListener('DOMContentLoaded', function () {
-    // 获取所有赛事信息并渲染到页面
-    fetchCompetitions();
-    // 获取所有队员信息并渲染到页面
-    fetchPlayers();
+document.addEventListener('DOMContentLoaded', async () => {
+      // 加载赛事数据
+      const compData = await loadData('competitions');
+      const playData = await loadData('players');
+      // 获取所有赛事信息并渲染到页面
+      //console.log(compData.competition_bases);
+      renderCompetitions(compData.competition_bases);
+      // 获取所有队员信息并渲染到页面
+      //console.log(playData.players);
+      renderPlayers(playData.players);
 });
 
-// 获取所有赛事信息
-function fetchCompetitions() {
-    fetch('http://localhost:3000/api/competition_bases')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('获取赛事信息失败');
-            }
-            return response.json();
-        })
-        .then(competitions => {
-            renderCompetitions(competitions);
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            alert('获取赛事信息失败，请稍后重试');
-        });
+// 数据加载函数
+async function loadData(type) {
+  try {
+    const response = await fetch(`data/${type}.json`);
+    return await response.json();
+  } catch (error) {
+    console.error('数据加载失败:', error);
+    return {};
+  }
 }
 
 // 渲染赛事信息
@@ -59,24 +57,6 @@ function renderCompetitions(competitions) {
         </tbody>
     `;
     competitionsContainer.appendChild(table);
-}
-
-// 获取所有队员信息
-function fetchPlayers() {
-    fetch('http://localhost:3000/api/players')
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('获取队员信息失败');
-            }
-            return response.json();
-        })
-        .then(players => {
-            renderPlayers(players);
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            alert('获取队员信息失败，请稍后重试');
-        });
 }
 
 // 渲染队员信息

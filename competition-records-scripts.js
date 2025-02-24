@@ -1,4 +1,7 @@
-document.addEventListener('DOMContentLoaded', function () {
+document.addEventListener('DOMContentLoaded', async () => {
+    // 加载赛事数据
+    const compData = await loadData('competitions');
+    
     // 从 URL 参数中获取 competition_id 和 competition_name
     const urlParams = new URLSearchParams(window.location.search);
     const competitionId = urlParams.get('competition_id');
@@ -6,28 +9,21 @@ document.addEventListener('DOMContentLoaded', function () {
 
     if (competitionId && competitionName) {
         // 获取对局记录并渲染
-        fetchCompetitionRecords(competitionId, competitionName);
+        renderCompetitionRecords(compData.competition_records[competitionId], competitionName);
     } else {
         alert('未找到赛事 ID 或名称');
     }
 });
 
-// 获取对局记录
-function fetchCompetitionRecords(competitionId, competitionName) {
-    fetch(`http://localhost:3000/api/competition_records?competition_id=${competitionId}`)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('获取对局记录失败');
-            }
-            return response.json();
-        })
-        .then(records => {
-            renderCompetitionRecords(records, competitionName);
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            alert('获取对局记录失败，请稍后重试');
-        });
+// 数据加载函数
+async function loadData(type) {
+  try {
+    const response = await fetch(`data/${type}.json`);
+    return await response.json();
+  } catch (error) {
+    console.error('数据加载失败:', error);
+    return {};
+  }
 }
 
 /**
