@@ -3,11 +3,11 @@ document.addEventListener('DOMContentLoaded', async () => {
       const compData = await loadData('competitions');
       const playData = await loadData('players');
       // 获取所有赛事信息并渲染到页面
-      console.log(compData.competition_bases);
-      //renderCompetitions(compData.competition_bases);
+      //console.log(compData.competition_bases);
+      renderCompetitions(compData.competition_bases);
       // 获取所有队员信息并渲染到页面
-      console.log(playData.players);
-      //renderPlayers(playData.players);
+      //console.log(playData.players);
+      renderPlayers(playData.players);
 });
 
 // 数据加载函数
