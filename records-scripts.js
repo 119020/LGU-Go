@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         recordsTitle.textContent = `${playerName} 的对局记录`;
 
         // 获取对局记录并渲染
-        renderRecords(playData.game_records[playerId]);
+        renderRecords(playData.game_records[String(playerId)]);
     } else {
         alert('未找到队员 ID 或姓名');
     }
