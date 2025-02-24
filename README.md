@@ -1,11 +1,11 @@
 # 香港中文大学（深圳）围棋队官方网站（LGU-Go）
 
-CUHKSZ Go competitions website (www.cuhksz-go-team.com), starting from Sep 2019.
+CUHKSZ Go competitions website (https://lgu-go.vercel.app), starting from Sep 2019.
 
 You can also use the following websites if the above is not available:
 
-- https://lgu-go.vercel.app/
 - https://119020.github.io/LGU-Go/
+- www.cuhksz-go-team.com
 
 这是一个展示香港中文大学（深圳）围棋队信息的官方网站，提供队员介绍、比赛记录、最新动态等功能。
 
@@ -26,5 +26,5 @@ You can also use the following websites if the above is not available:
 - **按队员筛选**：支持查看特定队员的比赛记录。
 
 ### 4. 联系我们
-- **社交媒体链接**：提供微信、微博、QQ 等联系方式。
-- **快速访问**：用户可以通过导航栏快速跳转到联系页面。
+- **社交媒体链接**：（尚未）提供微信、微博、QQ 等联系方式。
+- **快速访问**：用户（尚不）可以通过导航栏快速跳转到联系页面。
