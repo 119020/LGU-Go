@@ -51,32 +51,6 @@ function updateContent() {
     const [attr, key] = el.getAttribute('data-i18n-attr').split(':');
     el.setAttribute(attr, i18n.t(key));
   });
-
-  // 动态生成新闻内容
-  const newsContainer = document.querySelector('.news-carousel-inner');
-  const newsTemplate = document.getElementById('news-template');
-  newsContainer.innerHTML = '';
-  
-  i18n.t('news.items', { returnObjects: true }).forEach((item, index) => {
-    const clone = newsTemplate.content.cloneNode(true);
-    clone.querySelector('img').src = `images/news${index + 1}.${index === 5 ? 'JPG' : 'jpg'}`;
-    clone.querySelector('p').setAttribute('data-i18n', `news.items.${index}.text`);
-    newsContainer.appendChild(clone);
-  });
-
-  // 重新初始化轮播逻辑（原有scripts.js中的功能）
-  initCarousel(); 
-}
-
-function initCarousel() {
-    // 克隆前三个项目添加到末尾实现无缝滚动
-    const items = document.querySelectorAll('.news-item');
-    items.forEach((item, index) => {
-        if(index < 3) {
-            const clone = item.cloneNode(true);
-            carouselInner.appendChild(clone);
-        }
-    });
 }
 
 // 暴露语言切换方法
