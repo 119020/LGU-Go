@@ -7,24 +7,6 @@ const port = 3000;
 app.use(cors());
 app.use(express.json());
 
-/******************** 新增根路由 ********************/
-app.get('/', (req, res) => {
-    res.send('围棋赛事数据系统已启动，请访问 /api 接口');
-
-    res.json({
-      status: 'running',
-      api_endpoints: [
-        '/api/competition_bases',
-        '/api/competitions?competition_base_id=1',
-        '/api/players',
-        '/api/history?player_id=1',
-        '/api/opponent?player_id=1',
-        '/api/records?player_id=1',
-        '/api/awards?player_id=1'
-      ]
-    });
-  });
-
 /******************** 内存数据库 ********************/
 const memoryDB = {
   // 比赛基本信息
@@ -1868,10 +1850,29 @@ const memoryDB = {
   }
 };
 
+/******************** 新增根路由 ********************/
+app.get('/', (req, res) => {
+    return res.json({
+      status: 'running',
+      api_endpoints: [
+        '/api/competition_bases',
+        '/api/competitions?competition_base_id=1',
+        '/api/players',
+        '/api/history?player_id=1',
+        '/api/opponent?player_id=1',
+        '/api/records?player_id=1',
+        '/api/awards?player_id=1'
+      ]
+    });
+  });
+  
+/******************** 原有API路由 ********************/
+// ...保持原有/api路由不变...
+
 /******************** API 端点 ********************/
 // 获取所有比赛信息
 app.get('/api/competition_bases', (req, res) => {
-  res.json(memoryDB.competition_bases);
+  return res.json(memoryDB.competition_bases);
 });
 
 // 获取某项赛事的具体信息
@@ -1881,7 +1882,7 @@ app.get('/api/competitions', (req, res) => {
   if (!competitionBaseId) {
     return res.status(400).json({ error: '缺少 competition_base_id 参数' });
   }
-  res.json(memoryDB.competitions[competitionBaseId] || []);
+  return res.json(memoryDB.competitions[competitionBaseId] || []);
 });
 
 // 获取某项赛事的对局记录
@@ -1890,46 +1891,46 @@ app.get('/api/competition_records', (req, res) => {
   if (!competitionId) {
     return res.status(400).json({ error: '缺少 competition_id 参数' });
   }
-  res.json(memoryDB.competition_records[competitionId] || []);
+  return res.json(memoryDB.competition_records[competitionId] || []);
 });
 
 // 获取所有队员信息
 app.get('/api/players', (req, res) => {
-  res.json(memoryDB.players);
+  return res.json(memoryDB.players);
 });
 
 // 获取某个队员的历史战绩
 app.get('/api/history', (req, res) => {
   const playerId = req.query.player_id;
   if (!playerId) return res.status(400).json({ error: '缺少 player_id 参数' });
-  res.json(memoryDB.player_history[playerId] || []);
+  return res.json(memoryDB.player_history[playerId] || []);
 });
 
 // 获取某个队员的对手交战记录
 app.get('/api/opponent', (req, res) => {
   const playerId = req.query.player_id;
   if (!playerId) return res.status(400).json({ error: '缺少 player_id 参数' });
-  res.json(memoryDB.opponent_records[playerId] || []);
+  return res.json(memoryDB.opponent_records[playerId] || []);
 });
 
 // 获取某个队员的对局记录
 app.get('/api/records', (req, res) => {
   const playerId = req.query.player_id;
   if (!playerId) return res.status(400).json({ error: '缺少 player_id 参数' });
-  res.json(memoryDB.game_records[playerId] || []);
+  return res.json(memoryDB.game_records[playerId] || []);
 });
 
 // 获取某个队员的获奖信息
 app.get('/api/awards', (req, res) => {
   const playerId = req.query.player_id;
   if (!playerId) return res.status(400).json({ error: '缺少 player_id 参数' });
-  res.json(memoryDB.awards[playerId] || []);
+  return res.json(memoryDB.awards[playerId] || []);
 });
 
 // ================== 404处理 ================== 
 // （必须放在所有路由之后）
 app.use((req, res) => {
-    res.status(404).json({ 
+    return res.status(404).json({ 
       error: '路由不存在',
       validRoutes: ['/', '/api/players', '/api/competitions']
     });
