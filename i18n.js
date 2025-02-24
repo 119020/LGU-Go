@@ -68,6 +68,17 @@ function updateContent() {
   initCarousel(); 
 }
 
+function initCarousel() {
+    // 克隆前三个项目添加到末尾实现无缝滚动
+    const items = document.querySelectorAll('.news-item');
+    items.forEach((item, index) => {
+        if(index < 3) {
+            const clone = item.cloneNode(true);
+            carouselInner.appendChild(clone);
+        }
+    });
+}
+
 // 暴露语言切换方法
 window.changeLanguage = async (lng) => {
   await loadLanguage(lng);
