@@ -10,118 +10,82 @@
 
         gtag('config', 'G-1PRK3CJNKQ');
     </script>
-    
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, minimum-scale=0.5">
-    <title data-i18n="header.title"></title>
-    
-    <!-- 保持原有meta和样式表 -->
+    <title>CUHKSZ-Go-Team</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
-    <!-- 添加多语言切换样式 -->
-    <style>
-        .language-switcher {
-            position: absolute;
-            top: 20px;
-            right: 20px;
-            display: flex;
-            gap: 10px;
-        }
-        .language-btn {
-            padding: 5px 10px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            cursor: pointer;
-            background: white;
-        }
-    </style>
 </head>
-    
+
 <body>
     <header>
         <div class="container">
-            <!-- 添加语言切换按钮 -->
-            <div class="language-switcher">
-                <button class="language-btn" onclick="changeLanguage('zh')">中文</button>
-                <button class="language-btn" onclick="changeLanguage('en')">EN</button>
-                <button class="language-btn" onclick="changeLanguage('jp')">日本語</button>
-            </div>
-            
-            <h1 data-i18n="header.title"></h1>
+            <h1>香港中文大学（深圳）围棋队</h1>
             <nav>
                 <ul>
-                    <li><a href="index.html" data-i18n="header.nav.home"></a></li>
-                    <li><a href="interview.html" data-i18n="header.nav.interview"></a></li>
-                    <li><a href="players.html" data-i18n="header.nav.players"></a></li>
-                    <li><a href="competition-bases.html" data-i18n="header.nav.competitions"></a></li>
+                    <li><a href="index.html">首页</a></li>
+                    <li><a href="interview.html">棋队采访</a></li>
+                    <li><a href="players.html">队员介绍</a></li>
+                    <li><a href="competition-bases.html">赛事信息</a></li>
                 </ul>
             </nav>
         </div>
     </header>
 
+    <!-- 更新后的HTML结构 -->
     <section id="hero">
         <div class="container">
-            <h2 data-i18n="hero.title"></h2>
-            <p data-i18n="hero.description"></p>
+            <h2>欢迎来到香港中文大学（深圳）围棋队</h2>
+            <p>这里是围棋队的官方网站，您可以在这里了解我们的队员、比赛记录以及联系我们。</p>
         </div>
     </section>
 
     <section id="latest-news">
         <div class="container">
-            <h2 data-i18n="news.title"></h2>
+            <h2>最新动态</h2>
             <div class="news-carousel">
                 <div class="news-carousel-inner">
                     <div class="news-item">
                         <img src="images/news1.jpg" alt="新闻1">
-                        <p data-i18n="news.items.0.text"></p>
+                        <p>2022年首届深圳高校联赛冠军</p>
                     </div>
                     <div class="news-item">
                         <img src="images/news2.jpg" alt="新闻2">
-                        <p data-i18n="news.items.1.text"></p>
+                        <p>2024年第二届湾区（深圳）高校联赛冠军</p>
                     </div>
                     <div class="news-item">
                         <img src="images/news3.jpeg" alt="新闻3">
-                        <p data-i18n="news.items.2.text"></p>
+                        <p>2023年首届湾区（深圳）高校联赛第六名</p>
                     </div>
                     <div class="news-item">
                         <img src="images/news4.jpg" alt="新闻4">
-                        <p data-i18n="news.items.3.text"></p>
+                        <p>2024年第十届深圳联赛（超级组）季军</p>
                     </div>
                     <div class="news-item">
                         <img src="images/news5.jpg" alt="新闻5">
-                        <p data-i18n="news.items.4.text"></p>
+                        <p>2023年第九届深圳联赛（甲级组）第四名</p>
                     </div>
                     <div class="news-item">
                         <img src="images/news6.JPG" alt="新闻6">
-                        <p data-i18n="news.items.5.text"></p>
+                        <p>2021年第七届深圳联赛（甲级组）第四名</p>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    
+
     <footer>
         <div class="container">
-            <p data-i18n="footer.copyright"></p>
+            <p>&copy; 2025 香港中文大学（深圳）围棋队</p>
             <div class="social-links">
-                <a href="#" data-i18n-title="footer.social.wechat" title="微信">
-                    <i class="fab fa-weixin"></i>
-                </a>
-                <a href="#" data-i18n-title="footer.social.weibo" title="微博">
-                    <i class="fab fa-weibo"></i>
-                </a>
-                <a href="#" data-i18n-title="footer.social.qq" title="QQ">
-                    <i class="fab fa-qq"></i>
-                </a>
+                <a href="#"><i class="fab fa-weixin"></i></a>
+                <a href="#"><i class="fab fa-weibo"></i></a>
+                <a href="#"><i class="fab fa-qq"></i></a>
             </div>
         </div>
     </footer>
 
-    <!-- 更新后的脚本引用 -->
-    <script src="https://unpkg.com/i18next@21.9.1/dist/umd/i18next.min.js"></script>
-    <script src="https://unpkg.com/i18next-browser-languagedetector@7.0.1/dist/umd/i18nextBrowserLanguageDetector.min.js"></script>
-    <script src="i18n.js"></script>
     <script src="scripts.js"></script>
 </body>
 </html>
