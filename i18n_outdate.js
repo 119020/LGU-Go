@@ -1,47 +1,40 @@
-// 初始化i18n空实例
+// 配置i18n
 const i18n = i18next.createInstance();
 
-// 配置检测参数
 i18n.use(i18nextBrowserLanguageDetector).init({
-  fallbackLng: ['zh', 'zh-CN', 'zh-Hans'],
+  fallbackLng: 'zh',
   debug: false,
-  resources: {},
+  resources: {
+    zh: { translation: {} },
+    en: { translation: {} },
+    jp: { translation: {} }
+  },
   detection: {
     order: ['querystring', 'cookie', 'localStorage', 'navigator'],
     caches: ['localStorage']
   }
 });
 
-// 增强版加载函数
+// 动态加载语言文件
 async function loadLanguage(lng) {
-  const normalizedLng = lng.toLowerCase();
-  
   try {
-    // 清理旧资源
-    i18n.store.data[normalizedLng] && delete i18n.store.data[normalizedLng].translation;
-    
-    // 加载新资源
-    const response = await fetch(`locales/${normalizedLng}/translation.json`);
+    const response = await fetch(`locales/${lng}/translation.json`);
     const resources = await response.json();
     
-    i18n.addResourceBundle(normalizedLng, 'translation', resources);
-    await i18n.changeLanguage(normalizedLng);
-    
-    // 双重验证
-    if (!i18n.hasResourceBundle(normalizedLng, 'translation')) {
-      throw new Error('资源挂载失败');
+    i18n.addResourceBundle(lng, 'translation', resources);
+    if (!i18n.hasResourceBundle(lng, 'translation')) {
+      throw new Error(`加载${lng}语言包失败`);
     }
+    await i18n.changeLanguage(lng);
   } catch (error) {
-    console.error('语言加载失败，启用紧急回退');
-    await i18n.changeLanguage('zh');
+    console.error('语言加载错误:', error);
   }
 }
 
-// 安全初始化流程
+// 初始化语言
 (async () => {
-  localStorage.removeItem('i18nextLng'); // 清除污染数据
-  await loadLanguage('zh');
-  await new Promise(resolve => setTimeout(resolve, 50));
+  const initialLanguage = localStorage.getItem('i18nextLng') || 'zh';
+  await loadLanguage(initialLanguage);
   updateContent();
 })();
 
