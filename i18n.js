@@ -2,7 +2,7 @@
 const i18n = i18next.createInstance();
 
 // 初始化配置
-i18n.use(i18nextBrowserLanguageDetector).init({
+await i18n.use(i18nextBrowserLanguageDetector).init({
   fallbackLng: ['zh', 'zh-CN', 'zh-Hans'],
   debug: false,
   defaultNS: 'translation', // 关键配置
