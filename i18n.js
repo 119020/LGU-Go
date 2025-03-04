@@ -1,8 +1,8 @@
 // 初始化i18n空实例
 const i18n = i18next.createInstance();
 
-// 使用同步初始化配置
-await i18n.use(i18nextBrowserLanguageDetector).init({
+// 初始化配置
+i18n.use(i18nextBrowserLanguageDetector).init({
   fallbackLng: ['zh', 'zh-CN', 'zh-Hans'],
   debug: false,
   resources: {},
