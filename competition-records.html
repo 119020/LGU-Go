@@ -14,20 +14,47 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>competition records</title>
+    
+    <!-- 保持原有meta和样式表 -->
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+
+    <!-- 添加多语言切换样式 -->
+    <style>
+        .language-switcher {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            display: flex;
+            gap: 10px;
+        }
+        .language-btn {
+            padding: 5px 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            cursor: pointer;
+            background: white;
+        }
+    </style>
 </head>
     
 <body>
     <header>
         <div class="container">
-            <h1>香港中文大学（深圳）围棋队</h1>
+            <!-- 添加语言切换按钮 -->
+            <div class="language-switcher">
+                <button class="language-btn" onclick="changeLanguage('zh')">中文</button>
+                <button class="language-btn" onclick="changeLanguage('en')">EN</button>
+                <button class="language-btn" onclick="changeLanguage('jp')">日本語</button>
+            </div>
+            
+            <h1 data-i18n="header.title"></h1>
             <nav>
                 <ul>
-                    <li><a href="index.html">首页</a></li>
-                    <li><a href="interview.html">棋队采访</a></li>
-                    <li><a href="players.html">队员介绍</a></li>
-                    <li><a href="competition-bases.html">赛事信息</a></li>
+                    <li><a href="index.html" data-i18n="header.nav.home"></a></li>
+                    <li><a href="interview.html" data-i18n="header.nav.interview"></a></li>
+                    <li><a href="players.html" data-i18n="header.nav.players"></a></li>
+                    <li><a href="competition-bases.html" data-i18n="header.nav.competitions"></a></li>
                 </ul>
             </nav>
         </div>
@@ -38,6 +65,10 @@
         <div id="competition-records-table" class="table-container"></div>
     </section>
 
+    <!-- 更新后的脚本引用 -->
+    <script src="https://unpkg.com/i18next@21.9.1/dist/umd/i18next.min.js"></script>
+    <script src="https://unpkg.com/i18next-browser-languagedetector@7.0.1/dist/umd/i18nextBrowserLanguageDetector.min.js"></script>
+    <script src="i18n.js"></script>
     <script src="competition-records-scripts.js"></script>
 </body>
 </html>
