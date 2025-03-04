@@ -1,8 +1,8 @@
 // 初始化i18n空实例
 const i18n = i18next.createInstance();
 
-// 配置检测参数
-i18n.use(i18nextBrowserLanguageDetector).init({
+// 使用同步初始化配置
+await i18n.use(i18nextBrowserLanguageDetector).init({
   fallbackLng: ['zh', 'zh-CN', 'zh-Hans'],
   debug: false,
   resources: {},
@@ -10,6 +10,7 @@ i18n.use(i18nextBrowserLanguageDetector).init({
     order: ['querystring', 'cookie', 'localStorage', 'navigator'],
     caches: ['localStorage']
   }
+  initImmediate: false // 强制同步初始化
 });
 
 // 增强版加载函数
