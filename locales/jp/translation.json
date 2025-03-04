@@ -32,54 +32,54 @@
     }
   },
   "interview": {
-    "title": "Exclusive Interview: YiQiu Go Club at CUHK-Shenzhen",
-    "source": "— By Shenxian Lakeside Magazine",
+    "title": "弈秋囲碁クラブ独占インタビュー",
+    "source": "―香港中文大学（深圳）『神仙湖畔』雑誌",
     "sections": {
-      "intro": "Life is like Go, no regrets. Go, this ancient game with a history of thousands of years, still thrives with vitality in today's modern world. What does Go bring to our lives? In the wave of artificial intelligence, where is Go headed? Several members of the YiQiu Go Club will share with us the club's development stories and their experiences in learning Go, exploring the future of Go in the AI era.",
+      "intro": "囲碁は人生の如く、一手一手に悔いなし。千年の歴史を持つこの古いゲームは、現代においてもなおその生命力を保っています。囲碁は私たちの人生に何をもたらすのでしょうか？人工知能の波の中で、囲碁はどこに向かうべきなのでしょうか？弈秋囲碁クラブのメンバーが、クラブの発展ストーリーと囲碁を学ぶ心得を共有し、AI時代における囲碁の未来について語ります。",
       "culture": {
-        "title": "Discovering YiQiu: Cultural Promotion Through Go",
-        "q1": "Q: The name 'YiQiu' is very poetic. What is its special meaning?",
-        "a1": "A: The name 'YiQiu' comes from 'Mencius·Gaozi I'. In ancient times, Go was called 'Yi', and during the Warring States period, a man named 'Qiu' was known as 'YiQiu' because of his skill in Go. The club is named 'YiQiu' to symbolize the wisdom and depth of Go, as represented by the ancient master YiQiu. We aim to build a platform for Go enthusiasts on campus and to promote Go culture, attracting more students and faculty who are interested in the game.",
-        "q2": "Q: Do you regularly organize activities or competitions? How are these events received?",
-        "a2": "A1: Every Friday evening, we hold regular Go activities in the campus activity room, welcoming all interested students. In addition, the 'Go King Championship' in the fall semester is our flagship event, mainly for freshmen and some senior members. The atmosphere at the event is very lively, and winners receive exquisite Go sets. In the spring semester, we offer public teaching classes, which are well-received by students and faculty.",
-        "a3": "A2: Since the fall semester of 2019, we have collaborated with the Shenzhen MSU-BIT Go Club to organize inter-university Go exchange matches, promoting friendly exchanges between students from both universities.",
-        "q3": "Q: Many student clubs participate in various competitions, which not only serve as a testament to the club's honor but also foster friendships among members. What are some of the YiQiu Go Club's proudest achievements in competitions?",
-        "a4": "A: We participate in open Go tournaments and university-level Go competitions every year. For example, in the 2022 Shenzhen University League and the 2024 Greater Bay Area University League, the YiQiu Go Club won the championship with an undefeated record.",
-        "a5": "From 2023 to 2024, the club has had members selected as representatives of the Shenzhen team for two consecutive years to participate in the 'Shizhou Cup' Hong Kong International University Tournament held at the Hong Kong University of Science and Technology. We also collaborated with the Chinese University of Hong Kong to form a team for the 'City of Youth' National University Invitational Tournament, achieving impressive results.",
-        "a6": "At the same time, club members have achieved top-six placements in various Go competitions in Guangdong Province and Shenzhen City, defeating strong amateur players and even professional players.",
-        "q4": "Q: As a platform for promoting Go culture, what efforts has the YiQiu Go Club made in spreading and popularizing Go?",
-        "a7": "A: The public teaching classes we hold every year are part of these efforts, aiming to introduce more beginners to Go. Whether they are students with no prior experience or enthusiasts who want to delve deeper into Go culture, we provide a friendly learning environment. Our goal is to develop the YiQiu Go Club into a part of campus culture, allowing more people to experience the charm of Go through activities and competitions."
+        "title": "弈秋との出会い：文化普及という使命",
+        "q1": "Q: 「弈秋」という名前の由来は？",
+        "a1": "A: 「弈秋」という名前は『孟子』の「告子上」から取られています。古代では囲碁を「弈」と呼び、戦国時代に「秋」という名の人物が囲碁の達人として知られ、「弈秋」と呼ばれていました。私たちのクラブはこの名前を借りて、古代の名棋士弈秋を象徴とし、囲碁の知恵と深遠さを表しています。私たちはキャンパス内の囲碁愛好者の交流プラットフォームを構築し、囲碁文化を継承し、囲碁に興味を持つ多くの学生や教職員を引き寄せたいと考えています。",
+        "q2": "Q: 定期的に活動や大会を開催していますか？これらの活動はどのような反響がありますか？",
+        "a2": "A1: 毎週金曜日の夜、キャンパスの活動室で囲碁の定例活動を開催しており、興味のある学生は誰でも参加できます。また、秋学期の「棋王争覇戦」は私たちの主要なイベントで、主に新入生や一部の上級生が参加します。大会の雰囲気は非常に盛り上がり、優勝者は美しい囲碁セットを手にすることができます。春学期には、初心者向けの囲碁講座を開講し、学生や教職員から好評を博しています。",
+        "a3": "A2: 2019年秋学期から、隣接する深圳北理莫斯科大学の深北莫囲碁クラブと協力し、両校の囲碁交流戦を開催しています。これにより、両校の学生間の友好関係が促進されています。",
+        "q3": "Q: 多くの学生クラブが様々な大会に参加しています。これらの大会はクラブの栄誉の証であるだけでなく、メンバー同士の友情を深めるものです。弈秋囲碁クラブは大会でどのような成績を収めていますか？",
+        "a4": "A: 私たちは毎年、囲碁の公開戦や大学間の囲碁大会に参加しています。例えば、2022年の深圳大学リーグと2024年の粤港澳大湾区大学リーグでは、弈秋囲碁クラブが全勝で優勝しました。",
+        "a5": "2023年から2024年にかけて、クラブのメンバーが2年連続で深圳チームの代表として選ばれ、香港科技大学で開催された「四洲杯」香港国際大学生囲碁大会に参加しました。また、香港中文大学本部と協力し、「青春之城」全国大学生招待戦に出場し、好成績を収めました。",
+        "a6": "同時に、クラブのメンバーは広東省や深圳市の各種囲碁大会で何度も上位6位以内に入り、アマチュアの強豪やプロ棋士を破ることもあります。",
+        "q4": "Q: 囲碁文化の普及と啓蒙において、弈秋囲碁クラブはどのような取り組みを行っていますか？",
+        "a7": "A: 毎年開催している初心者向け囲碁講座はその一環です。囲碁に全く触れたことのない学生から、囲碁文化を深く理解したい愛好者まで、誰でも参加できる環境を提供しています。私たちの目標は、弈秋囲碁クラブをキャンパス文化の一部とし、活動や大会を通じてより多くの人に囲碁の魅力を感じてもらうことです。"
       },
       "road": {
-        "title": "The Path of Go: Starting with Interest, Sustained by Passion",
-        "q1": "Q: Go is known as the jewel in the crown of intellectual sports. Its rules are simple, yet it is extremely complex. Many people have been exposed to Go in their childhood, but few persist. How did you manage to stick with it during your learning process?",
-        "a1": "A1: The essence of Go is not to compete with others but with oneself. As long as you strive to do your best, winning or losing becomes less important.",
-        "a2": "A2: The charm of Go lies not only in the game on the board, but also in the fact that it can be a way to spice up life. In tedious study and life, Go allows me to find a way to relax and exercise my concentration.",
-        "q2": "Q: Go requires long-term concentration and patience. A single game usually takes two hours. For young people accustomed to a fast-paced life, such focus and 'endurance of solitude' are not easy. How do you manage it?",
-        "a3": "A1: I believe the ability to focus comes from a genuine love for Go. Every time I play, I immerse myself in the world of the game. During a match, my eyes are only on the board, and my mind is focused on the possibilities of each move.",
-        "a4": "A2: For me, it is a way to converse with myself. On the board, you can feel your mind at work and see the changes in the overall situation through step-by-step deduction. This process is very rewarding. Moreover, Go is a 'silent communication'. Every time I play against an opponent, I can sense their personality and way of thinking. This silent interaction makes me enjoy the process even more.",
-        "a5": "A3: Whenever I play a wonderful game, the sense of accomplishment makes me forget all my fatigue. I have gradually learned to treat Go as a form of 'cultivation'. Every move on the board is like a choice in life. Even when the situation seems unfavorable, I adjust my mindset and find opportunities to break through."
+        "title": "囲碁の道：興味から始まり、情熱を持続",
+        "q1": "Q: 囲碁は知性スポーツの王冠に輝く宝石と呼ばれています。そのルールはシンプルですが、非常に複雑です。多くの人が子供の頃に囲碁に触れますが、最後まで続ける人は少ないです。あなたたちはどのようにして囲碁を続けてきたのですか？",
+        "a1": "A1: 囲碁の本質は他人と競うことではなく、自分自身と向き合うことです。自分が最善を尽くせば、勝敗はそれほど重要ではなくなります。",
+        "a2": "A2: 囲碁の魅力は盤上の勝負だけでなく、生活のアクセントとしても機能することです。退屈な勉強や生活の中で、囲碁は私にとってリラックスする手段であり、集中力を鍛える場でもあります。",
+        "q2": "Q: 囲碁には長期的な集中力と忍耐力が必要です。一局の対局は通常2時間かかります。速いペースの生活に慣れた若者にとって、このような集中力と「孤独に耐える力」は容易ではありません。どのようにしてそれを実現しているのですか？",
+        "a3": "A1: 集中できるのは、囲碁に対する純粋な愛があるからだと思います。対局中は盤上の世界に没頭し、次の一手の可能性だけを考えています。",
+        "a4": "A2: 私にとって、囲碁は自分自身と対話する手段です。盤上では自分の思考が働いているのを感じ、一手一手の推論を通じて全体の変化を見ることができます。このプロセスは非常にやりがいがあります。さらに、囲碁は「無言の交流」でもあります。対局を通じて相手の性格や考え方を感じ取ることができ、このような静かなやり取りが囲碁をより楽しませてくれます。",
+        "a5": "A3: 美しい一局を打ち終えた時の達成感は、すべての疲れを忘れさせてくれます。私は囲碁を「修行」として捉えるようになりました。盤上の一手一手は人生の選択のようで、たとえ不利な状況でも、心を整えて突破口を見つけなければなりません。"
       },
-  "ai": {
-    "title": "AI対局：伝統を超え、芸術の新生",
-    "q1": "Q: AlphaGoと李世石、柯潔の対戦は囲碁ブームを巻き起こし、囲碁界外からの注目も集めました。囲碁愛好者として、AIが囲碁に与える影響をどう考えますか？",
-    "a1": "A1: あの対戦は確かに囲碁界に衝撃を与えました。AlphaGoの出現は、プロ棋士に人間とAIの計算力の差を認識させただけでなく、囲碁文化そのものにも大きな影響を与えました。以前は、囲碁が人間の知恵の極致だと考えていましたが、AlphaGoは盤上の可能性が私たちの想像をはるかに超えていることを示しました。ある意味で、AIの介入は囲碁の発展を促進し、プロ棋士はAIの棋譜を研究して自分の考え方を改善し、アマチュアはAIを使って布石や中盤戦を学んでいます。これは技術革新ですが、囲碁の文化的価値を置き換えるものではなく、むしろ囲碁の無限の可能性をより明確に認識させてくれました。",
-    "a2": "A2: AIは確かに囲碁の学習方法を変えました。以前は棋士は師弟制度に依存し、人間同士の対局を通じて経験を積んでいましたが、AIの出現によりこの限界が打破されました。現在、プロ棋士がAIと対局し、訓練することは当たり前になっています。世界チャンピオンの丁浩はインタビューで、自分がAIと6000局以上対局したことを語りました。このような高強度の訓練は人間同士ではほぼ不可能です。私たちアマチュアにとって、AIは疲れを知らない先生のような存在です。AIの分析を通じて、私たちは自分の問題を迅速に発見し、特に布石段階ではAIがほぼ完璧なアドバイスを提供してくれます。",
-    "q2": "Q: AIが囲碁に大きな影響を与えていることは事実です。AIの参入により、囲碁の芸術性が損なわれ、伝統的な人間同士の対局が意味を失う可能性があると考える人もいます。どう思いますか？",
-    "a3": "A1: 一方で、AIは確かに囲碁の「真理」を見せてくれましたが、他方で人間棋士のミスをより目立たせ、時には「嘲笑」の対象にもなり得ます。例えば、AIは勝率変動曲線を使ってゲームの変化をリアルタイムで表示し、囲碁を知らない人でも棋士のミスを直感的に理解できるようにします。これにより、対局過程の芸術性が損なわれると感じる人もいるかもしれません。しかし、私の見方では、AIは囲碁の魅力を奪うのではなく、むしろ囲碁を再考する手助けをしてくれています。AIはこれまで想像もできなかった手を打ち、非最適な考え方を淘汰します。同時に、AIは非常に高い進化速度を持ち、人間を囲碁の本質に近づけています。",
-    "a4": "A2: 囲碁の魅力は勝敗だけではありません。人間の知恵と感情を試すものです。AIの助けがあっても、人間同士の対局は依然として代替不可能な意義を持っています。囲碁を打つ過程は論理の戦いだけでなく、人と人との深い交流でもあります。このような交流はAIには代替できず、人間らしさを体現しています。",
-    "q3": "Q: 伝統文化としての囲碁は、AIとの融合の中で文化的価値が変化すると思いますか？",
-    "a5": "A1: これは二つの側面から考える必要があります。一方で、囲碁は伝統文化として、人間の棋道への探求と理解に根ざしています。この部分はAIの参入によって消えることはありません。むしろ、AIは囲碁文化の進化を加速し、誤った考え方を迅速に淘汰し、棋道のさらなる探求に新しい方向性を提供しています。しかし、他方で、AIの冷たい計算ロジックは確かに囲碁から「人間らしさ」を奪っています。AIにとって、棋局はデータ最適化のプロセスであり、棋局の美しさや人間棋士の心理状態には関心がありません。私は、人間棋士が依然として囲碁文化の核心であり、AIは単なるツールだと考えています。書道家がコンピュータを使ってデザインするのと同じで、真の書道芸術は依然として人間の手によるものです。",
-    "a6": "A2: AIは囲碁の推進者であるだけでなく、新しい文化の象徴でもあります。その参入により、囲碁はより現代的なものになり、より多くの若者をこのゲームに引き寄せています。以前は囲碁のハードルが高く、異なるレベルのプレイヤー間の理解と判断のギャップが大きかったため、その普及が妨げられていました。AI時代において、このギャップは緩和され、ライブ配信業界の盛り上がりと相まって、囲碁はより「平民化」されました。このような継承と普及は囲碁の伝統的な本質を弱めるのではなく、より多くの人に囲碁の深さと優雅さを発見させています。",
-    "q4": "Q: 囲碁の「ポストAI時代」において、人間棋士とAIの差はどれくらいですか？人間同士の対局という伝統的な形式はどのように変化すると思いますか？",
-    "a7": "A1: 技術的には、人間が最強のAIに勝つことはほぼ不可能です。現在の最強の囲碁AI、例えばKataGoや絶芸などは、人間の能力を超えた計算と戦略をシミュレートできます。世界チャンピオンレベルの棋士と最強のAIの差は2-3子ほどです。しかし、私はこれが人間同士の対局を無意味にするとは思いません。むしろ、人間同士の対局は依然として囲碁の核心であり、感情、知恵、人間らしい思考を担っています。これらはAIには永遠に代替できません。",
-    "a8": "A2: AIの存在により、囲碁は「競技の中の芸術」のようになりました。AIは人間に新しい視点を提供しますが、棋局の背後にある感情や物語を理解することはできません。私は、将来の人間同士の対局は勝敗だけでなく、文化や芸術性の表現に重点を置くようになると思います。",
-    "a9": "A3: 将来的には、AIが囲碁教育や競技により多く関わるようになるかもしれませんが、伝統的な人間同士の対局形式を完全に置き換えることはできません。囲碁は単なるゲームではなく、人と人との交流とつながりです。このような交流が囲碁を他の知的ゲームと区別し、文化継承の重要な媒体であり、人間の感情の延長でもあります。"
-  },
-  "epilogue": {
-    "title": "最後に",
-    "content": "盤上では黒白が交錯し、一手一手が慎重に計算される。盤を離れれば、笑い声と友情が溢れる。香港中文大学（深圳）囲碁チームのメンバーは、私たちに囲碁の精巧さと美しさ、棋士の忍耐と責任、そして囲碁の深遠さを示してくれました。彼らは時代に立ち、AIと囲碁の衝突の中で囲碁の新生を見出し、現代技術と伝統的な棋道の交わりの中で人間の知恵の輝きを見ています。\n\n香港中文大学（深圳）囲碁チームは、弈秋囲碁クラブを通じて、キャンパスで囲碁文化を輝かせ、志を同じくする囲碁愛好者のための交流と成長のプラットフォームを築いています。\n\n囲碁は人生のようです。一手打つごとに、盤上の小さな世界の中で、未来への無数の可能性が生まれます。"
-  }
+      "ai": {
+        "title": "AI対局：伝統を超え、芸術の新生",
+        "q1": "Q: AlphaGoと李世石、柯潔の対戦は囲碁ブームを巻き起こし、囲碁界外からの注目も集めました。囲碁愛好者として、AIが囲碁に与える影響をどう考えますか？",
+        "a1": "A1: あの対戦は確かに囲碁界に衝撃を与えました。AlphaGoの出現は、プロ棋士に人間とAIの計算力の差を認識させただけでなく、囲碁文化そのものにも大きな影響を与えました。以前は、囲碁が人間の知恵の極致だと考えていましたが、AlphaGoは盤上の可能性が私たちの想像をはるかに超えていることを示しました。ある意味で、AIの介入は囲碁の発展を促進し、プロ棋士はAIの棋譜を研究して自分の考え方を改善し、アマチュアはAIを使って布石や中盤戦を学んでいます。これは技術革新ですが、囲碁の文化的価値を置き換えるものではなく、むしろ囲碁の無限の可能性をより明確に認識させてくれました。",
+        "a2": "A2: AIは確かに囲碁の学習方法を変えました。以前は棋士は師弟制度に依存し、人間同士の対局を通じて経験を積んでいましたが、AIの出現によりこの限界が打破されました。現在、プロ棋士がAIと対局し、訓練することは当たり前になっています。世界チャンピオンの丁浩はインタビューで、自分がAIと6000局以上対局したことを語りました。このような高強度の訓練は人間同士ではほぼ不可能です。私たちアマチュアにとって、AIは疲れを知らない先生のような存在です。AIの分析を通じて、私たちは自分の問題を迅速に発見し、特に布石段階ではAIがほぼ完璧なアドバイスを提供してくれます。",
+        "q2": "Q: AIが囲碁に大きな影響を与えていることは事実です。AIの参入により、囲碁の芸術性が損なわれ、伝統的な人間同士の対局が意味を失う可能性があると考える人もいます。どう思いますか？",
+        "a3": "A1: 一方で、AIは確かに囲碁の「真理」を見せてくれましたが、他方で人間棋士のミスをより目立たせ、時には「嘲笑」の対象にもなり得ます。例えば、AIは勝率変動曲線を使ってゲームの変化をリアルタイムで表示し、囲碁を知らない人でも棋士のミスを直感的に理解できるようにします。これにより、対局過程の芸術性が損なわれると感じる人もいるかもしれません。しかし、私の見方では、AIは囲碁の魅力を奪うのではなく、むしろ囲碁を再考する手助けをしてくれています。AIはこれまで想像もできなかった手を打ち、非最適な考え方を淘汰します。同時に、AIは非常に高い進化速度を持ち、人間を囲碁の本質に近づけています。",
+        "a4": "A2: 囲碁の魅力は勝敗だけではありません。人間の知恵と感情を試すものです。AIの助けがあっても、人間同士の対局は依然として代替不可能な意義を持っています。囲碁を打つ過程は論理の戦いだけでなく、人と人との深い交流でもあります。このような交流はAIには代替できず、人間らしさを体現しています。",
+        "q3": "Q: 伝統文化としての囲碁は、AIとの融合の中で文化的価値が変化すると思いますか？",
+        "a5": "A1: これは二つの側面から考える必要があります。一方で、囲碁は伝統文化として、人間の棋道への探求と理解に根ざしています。この部分はAIの参入によって消えることはありません。むしろ、AIは囲碁文化の進化を加速し、誤った考え方を迅速に淘汰し、棋道のさらなる探求に新しい方向性を提供しています。しかし、他方で、AIの冷たい計算ロジックは確かに囲碁から「人間らしさ」を奪っています。AIにとって、棋局はデータ最適化のプロセスであり、棋局の美しさや人間棋士の心理状態には関心がありません。私は、人間棋士が依然として囲碁文化の核心であり、AIは単なるツールだと考えています。書道家がコンピュータを使ってデザインするのと同じで、真の書道芸術は依然として人間の手によるものです。",
+        "a6": "A2: AIは囲碁の推進者であるだけでなく、新しい文化の象徴でもあります。その参入により、囲碁はより現代的なものになり、より多くの若者をこのゲームに引き寄せています。以前は囲碁のハードルが高く、異なるレベルのプレイヤー間の理解と判断のギャップが大きかったため、その普及が妨げられていました。AI時代において、このギャップは緩和され、ライブ配信業界の盛り上がりと相まって、囲碁はより「平民化」されました。このような継承と普及は囲碁の伝統的な本質を弱めるのではなく、より多くの人に囲碁の深さと優雅さを発見させています。",
+        "q4": "Q: 囲碁の「ポストAI時代」において、人間棋士とAIの差はどれくらいですか？人間同士の対局という伝統的な形式はどのように変化すると思いますか？",
+        "a7": "A1: 技術的には、人間が最強のAIに勝つことはほぼ不可能です。現在の最強の囲碁AI、例えばKataGoや絶芸などは、人間の能力を超えた計算と戦略をシミュレートできます。世界チャンピオンレベルの棋士と最強のAIの差は2-3子ほどです。しかし、私はこれが人間同士の対局を無意味にするとは思いません。むしろ、人間同士の対局は依然として囲碁の核心であり、感情、知恵、人間らしい思考を担っています。これらはAIには永遠に代替できません。",
+        "a8": "A2: AIの存在により、囲碁は「競技の中の芸術」のようになりました。AIは人間に新しい視点を提供しますが、棋局の背後にある感情や物語を理解することはできません。私は、将来の人間同士の対局は勝敗だけでなく、文化や芸術性の表現に重点を置くようになると思います。",
+        "a9": "A3: 将来的には、AIが囲碁教育や競技により多く関わるようになるかもしれませんが、伝統的な人間同士の対局形式を完全に置き換えることはできません。囲碁は単なるゲームではなく、人と人との交流とつながりです。このような交流が囲碁を他の知的ゲームと区別し、文化継承の重要な媒体であり、人間の感情の延長でもあります。"
+      },
+      "epilogue": {
+        "title": "最後に",
+        "content": "盤上では黒白が交錯し、一手一手が慎重に計算される。盤を離れれば、笑い声と友情が溢れる。香港中文大学（深圳）囲碁チームのメンバーは、私たちに囲碁の精巧さと美しさ、棋士の忍耐と責任、そして囲碁の深遠さを示してくれました。彼らは時代に立ち、AIと囲碁の衝突の中で囲碁の新生を見出し、現代技術と伝統的な棋道の交わりの中で人間の知恵の輝きを見ています。\n\n香港中文大学（深圳）囲碁チームは、弈秋囲碁クラブを通じて、キャンパスで囲碁文化を輝かせ、志を同じくする囲碁愛好者のための交流と成長のプラットフォームを築いています。\n\n囲碁は人生のようです。一手打つごとに、盤上の小さな世界の中で、未来への無数の可能性が生まれます。"
+      }
     }
   }
 }
