@@ -5,7 +5,10 @@ const i18n = i18next.createInstance();
 i18n.use(i18nextBrowserLanguageDetector).init({
   fallbackLng: ['zh', 'zh-CN', 'zh-Hans'],
   debug: false,
-  resources: {},
+  defaultNS: 'translation', // 关键配置
+  resources: {
+      zh: { translation: {} }, // 预置空对象占位
+  },
   detection: {
     order: ['querystring', 'cookie', 'localStorage', 'navigator'],
     caches: ['localStorage']
