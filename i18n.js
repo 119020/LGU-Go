@@ -41,7 +41,7 @@ async function loadLanguage(lng) {
 (async () => {
   //localStorage.removeItem('i18nextLng'); // 清除污染数据
   await loadLanguage('zh');
-  await new Promise(resolve => setTimeout(resolve, 50));
+  //await new Promise(resolve => setTimeout(resolve, 50));
   updateContent();
 })();
 
