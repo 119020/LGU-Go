@@ -10,7 +10,6 @@ i18n.use(i18nextBrowserLanguageDetector).init({
     order: ['querystring', 'cookie', 'localStorage', 'navigator'],
     caches: ['localStorage']
   }
-  initImmediate: false // 强制同步初始化
 });
 
 // 增强版加载函数
@@ -19,7 +18,7 @@ async function loadLanguage(lng) {
   
   try {
     // 清理旧资源
-    //i18n.store.data[normalizedLng] && delete i18n.store.data[normalizedLng].translation;
+    i18n.store.data[normalizedLng] && delete i18n.store.data[normalizedLng].translation;
     
     // 加载新资源
     const response = await fetch(`locales/${normalizedLng}/translation.json`);
@@ -40,9 +39,9 @@ async function loadLanguage(lng) {
 
 // 安全初始化流程
 (async () => {
-  //localStorage.removeItem('i18nextLng'); // 清除污染数据
+  localStorage.removeItem('i18nextLng'); // 清除污染数据
   await loadLanguage('zh');
-  //await new Promise(resolve => setTimeout(resolve, 50));
+  await new Promise(resolve => setTimeout(resolve, 50));
   updateContent();
 })();
 
