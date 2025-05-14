@@ -44,7 +44,7 @@
          "competition_base_id":2,
          "competition":"广东联赛",
          "first_year":2019,
-         "last_year":2024,
+         "last_year":2025,
          "level":"省部级",
          "description":"--|公开赛|线下|团体赛|记团体成绩"
       },
@@ -115,8 +115,8 @@
       {
          "competition_base_id":14,
          "competition":"深圳联赛",
-         "first_year":-1,
-         "last_year":2024,
+         "first_year":2015,
+         "last_year":2025,
          "level":"区市级",
          "description":"--|公开赛|线下|团体赛|记团体成绩"
       },
@@ -175,7 +175,23 @@
          "last_year":2024,
          "level":"区市级",
          "description":"--|公开赛|线下|个人赛|--"
-      }
+      },
+      {
+    "competition_base_id": 23,
+    "competition": "深圳龙华公开赛",
+    "first_year": 2025,
+    "last_year": 2025,
+    "level": "区市级",
+    "description": "--|公开赛|线下|个人赛|--"
+     },
+      {
+    "competition_base_id": 24,
+    "competition": "深圳个人锦标赛",
+    "first_year": 2024,
+    "last_year": 2025,
+    "level": "区市级",
+    "description": "--|公开赛|线下|个人赛|--"
+     }
    ],
 
    "competitions":{
@@ -251,7 +267,17 @@
             "location":"广东广州越秀",
             "total_round":7,
             "source":"云比赛网"
-         }
+         },
+         {
+    "competition_id": 51,
+    "year": 2025,
+    "competition": "第7届 广东联赛（乙组）",
+    "start_date": "2025-05-30T16:00:00.000Z",
+    "end_date": "2025-05-31T16:00:00.000Z",
+    "location": "广东广州越秀",
+    "total_round": 7,
+    "source": "云比赛网"
+        }
       ],
       "3":[
          {
@@ -545,7 +571,27 @@
             "location":"广东深圳罗湖",
             "total_round":11,
             "source":"手谈赛场"
-         }
+         },
+         {
+    "competition_id": 50,
+    "year": 2025,
+    "competition": "第11届 深圳联赛（甲级组）",
+    "start_date": "2025-05-09T16:00:00.000Z",
+    "end_date": "2025-05-17T16:00:00.000Z",
+    "location": "广东深圳罗湖",
+    "total_round": 11,
+    "source": "手谈赛场"
+        },
+        {
+    "competition_id": 49,
+    "year": 2025,
+    "competition": "第11届 深圳联赛（超级组）",
+    "start_date": "2025-05-09T16:00:00.000Z",
+    "end_date": "2025-05-17T16:00:00.000Z",
+    "location": "广东深圳罗湖",
+    "total_round": 11,
+    "source": "手谈赛场"
+        }
       ],
       "15":[
          {
@@ -682,7 +728,31 @@
             "total_round":7,
             "source":"云比赛网"
          }
-      ]
+      ],
+      "23":[
+  {
+    "competition_id": 47,
+    "year": 2025,
+    "competition": "第1届 深圳龙华公开赛（公开组）",
+    "start_date": "2025-04-11T16:00:00.000Z",
+    "end_date": "2025-04-12T16:00:00.000Z",
+    "location": "广东深圳龙华",
+    "total_round": 8,
+    "source": "云比赛网"
+  }
+      ],
+      "24":[
+  {
+    "competition_id": 48,
+    "year": 2025,
+    "competition": "第2届 深圳个人锦标赛（公开组）",
+    "start_date": "2025-04-18T16:00:00.000Z",
+    "end_date": "2025-04-19T16:00:00.000Z",
+    "location": "广东深圳坪山",
+    "total_round": 8,
+    "source": "云比赛网"
+  }
+      ]      
     },
 
    "competition_records":{
@@ -4253,6 +4323,66 @@
             "white_team":"吉林大学队",
             "result":"白中盘胜"
          },
+           {
+    "date": "2023-06-02T16:00:00.000Z",
+    "round": 1,
+    "table": "1-5",
+    "black_player": "柯铭芝",
+    "black_team": "吉林大学队",
+    "white_player": "马睿雪",
+    "white_team": "凌云棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2023-06-02T16:00:00.000Z",
+    "round": 2,
+    "table": "1-2",
+    "black_player": "孙宝存",
+    "black_team": "华冠实业队",
+    "white_player": "马睿雪",
+    "white_team": "凌云棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2023-06-02T16:00:00.000Z",
+    "round": 3,
+    "table": "1-1",
+    "black_player": "周兴安",
+    "black_team": "奇力电子队",
+    "white_player": "马睿雪",
+    "white_team": "凌云棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2023-06-03T16:00:00.000Z",
+    "round": 4,
+    "table": "1-4",
+    "black_player": "刘卫国",
+    "black_team": "东方恒润队",
+    "white_player": "马睿雪",
+    "white_team": "凌云棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2023-06-03T16:00:00.000Z",
+    "round": 5,
+    "table": "1-1",
+    "black_player": "黄达升",
+    "black_team": "方寸守拙队",
+    "white_player": "马睿雪",
+    "white_team": "凌云棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2023-06-03T16:00:00.000Z",
+    "round": 6,
+    "table": "1-1",
+    "black_player": "马睿雪",
+    "black_team": "凌云棋社队",
+    "white_player": "杨毅",
+    "white_team": "南科棋社队",
+    "result": "黑中盘胜"
+  },
          {
             "date":"2023-06-09T16:00:00.000Z",
             "round":7,
@@ -4303,6 +4433,16 @@
             "white_team":"深圳大学队",
             "result":"白中盘胜"
          },
+         {
+    "date": "2023-06-10T16:00:00.000Z",
+    "round": 11,
+    "table": "1-1",
+    "black_player": "马睿雪",
+    "black_team": "凌云棋社队",
+    "white_player": "胡钧瑞",
+    "white_team": "技术大学队",
+    "result": "黑中盘胜"
+         }
          {
             "date":"2023-06-10T16:00:00.000Z",
             "round":11,
@@ -11367,7 +11507,893 @@
             "white_team":"",
             "result":"黑中盘胜"
          }
-      ]
+      ],
+      "47":[
+  {
+    "date": "2025-04-11T16:00:00.000Z",
+    "round": 1,
+    "table": "50",
+    "black_player": "付涵一",
+    "black_team": "",
+    "white_player": "娄涛",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-11T16:00:00.000Z",
+    "round": 2,
+    "table": "3",
+    "black_player": "王威",
+    "black_team": "",
+    "white_player": "付涵一",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-11T16:00:00.000Z",
+    "round": 3,
+    "table": "14",
+    "black_player": "付涵一",
+    "black_team": "",
+    "white_player": "陈俊宇",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-11T16:00:00.000Z",
+    "round": 4,
+    "table": "11",
+    "black_player": "毕梓浩",
+    "black_team": "",
+    "white_player": "付涵一",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-12T16:00:00.000Z",
+    "round": 5,
+    "table": "17",
+    "black_player": "栾逸凡",
+    "black_team": "",
+    "white_player": "付涵一",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-12T16:00:00.000Z",
+    "round": 6,
+    "table": "4",
+    "black_player": "付涵一",
+    "black_team": "",
+    "white_player": "蔡小宁",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-12T16:00:00.000Z",
+    "round": 7,
+    "table": "6",
+    "black_player": "付涵一",
+    "black_team": "",
+    "white_player": "杨靖源",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-12T16:00:00.000Z",
+    "round": 8,
+    "table": "'4",
+    "black_player": "丁弋洋",
+    "black_team": "",
+    "white_player": "付涵一",
+    "white_team": "",
+    "result": "黑胜3.75子"
+  }
+],
+      "48":[
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 1,
+    "table": "17",
+    "black_player": "彭天佐",
+    "black_team": "",
+    "white_player": "朱夏俊",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 1,
+    "table": "18",
+    "black_player": "匡博文",
+    "black_team": "",
+    "white_player": "邱映恺",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 1,
+    "table": "20",
+    "black_player": "高君睿",
+    "black_team": "",
+    "white_player": "付涵一",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 1,
+    "table": "23",
+    "black_player": "刘泽伟",
+    "black_team": "",
+    "white_player": "陈可昕",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 1,
+    "table": "25",
+    "black_player": "陈苏鹏",
+    "black_team": "",
+    "white_player": "胡海豪",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 1,
+    "table": "32",
+    "black_player": "程博涵",
+    "black_team": "",
+    "white_player": "王龙辉",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 2,
+    "table": "2",
+    "black_player": "余浩榕",
+    "black_team": "",
+    "white_player": "程博涵",
+    "white_team": "",
+    "result": "黑胜0.75子"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 2,
+    "table": "24",
+    "black_player": "朱夏俊",
+    "black_team": "",
+    "white_player": "黄坚锐",
+    "white_team": "",
+    "result": "黑弃权胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 2,
+    "table": "3",
+    "black_player": "阳柏林",
+    "black_team": "",
+    "white_player": "陈苏鹏",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 2,
+    "table": "4",
+    "black_player": "张川洋",
+    "black_team": "",
+    "white_player": "刘泽伟",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 2,
+    "table": "7",
+    "black_player": "彭绍辉",
+    "black_team": "",
+    "white_player": "匡博文",
+    "white_team": "",
+    "result": "白胜19.25子"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 2,
+    "table": "9",
+    "black_player": "付涵一",
+    "black_team": "",
+    "white_player": "刘书麟",
+    "white_team": "",
+    "result": "黑胜4.75子"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 3,
+    "table": "13",
+    "black_player": "刘泽伟",
+    "black_team": "",
+    "white_player": "蔡小宁",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 3,
+    "table": "19",
+    "black_player": "程博涵",
+    "black_team": "",
+    "white_player": "温泽涛",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 3,
+    "table": "2",
+    "black_player": "郑景容",
+    "black_team": "",
+    "white_player": "付涵一",
+    "white_team": "",
+    "result": "黑胜5.75子"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 3,
+    "table": "20",
+    "black_player": "朱夏俊",
+    "black_team": "",
+    "white_player": "邱映恺",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 3,
+    "table": "6",
+    "black_player": "彭天佐",
+    "black_team": "",
+    "white_player": "匡博文",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 3,
+    "table": "8",
+    "black_player": "陈苏鹏",
+    "black_team": "",
+    "white_player": "丁弋洋",
+    "white_team": "",
+    "result": "白胜12.25子"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 4,
+    "table": "10",
+    "black_player": "谭君坦",
+    "black_team": "",
+    "white_player": "陈苏鹏",
+    "white_team": "",
+    "result": "黑胜0.75子"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 4,
+    "table": "13",
+    "black_player": "蔡小宁",
+    "black_team": "",
+    "white_player": "朱夏俊",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 4,
+    "table": "22",
+    "black_player": "饶瑞华",
+    "black_team": "",
+    "white_player": "刘泽伟",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 4,
+    "table": "3",
+    "black_player": "匡博文",
+    "black_team": "",
+    "white_player": "郑景容",
+    "white_team": "",
+    "result": "白胜7.25子"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 4,
+    "table": "6",
+    "black_player": "张川洋",
+    "black_team": "",
+    "white_player": "程博涵",
+    "white_team": "",
+    "result": "黑胜0.75子"
+  },
+  {
+    "date": "2025-04-19T16:00:00.000Z",
+    "round": 4,
+    "table": "9",
+    "black_player": "付涵一",
+    "black_team": "",
+    "white_player": "李智华",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 5,
+    "table": "15",
+    "black_player": "陈苏鹏",
+    "black_team": "",
+    "white_player": "蔡小宁",
+    "white_team": "",
+    "result": "黑胜2.75子"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 5,
+    "table": "16",
+    "black_player": "刘泽伟",
+    "black_team": "",
+    "white_player": "傅炫俊",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 5,
+    "table": "20",
+    "black_player": "程博涵",
+    "black_team": "",
+    "white_player": "付涵一",
+    "white_team": "",
+    "result": "白胜2.25子"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 5,
+    "table": "5",
+    "black_player": "王炫超",
+    "black_team": "",
+    "white_player": "匡博文",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 5,
+    "table": "8",
+    "black_player": "朱夏俊",
+    "black_team": "",
+    "white_player": "余浩榕",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 6,
+    "table": "10",
+    "black_player": "韩一鸣",
+    "black_team": "",
+    "white_player": "陈苏鹏",
+    "white_team": "",
+    "result": "白弃权胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 6,
+    "table": "11",
+    "black_player": "付涵一",
+    "black_team": "",
+    "white_player": "刘泽伟",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 6,
+    "table": "17",
+    "black_player": "姚扬浩",
+    "black_team": "",
+    "white_player": "程博涵",
+    "white_team": "",
+    "result": "白胜0.25子"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 6,
+    "table": "3",
+    "black_player": "匡博文",
+    "black_team": "",
+    "white_player": "余万捷",
+    "white_team": "",
+    "result": "黑胜7.75子"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 6,
+    "table": "4",
+    "black_player": "杨靖源",
+    "black_team": "",
+    "white_player": "朱夏俊",
+    "white_team": "",
+    "result": "黑胜5.75子"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 7,
+    "table": "10",
+    "black_player": "余万捷",
+    "black_team": "",
+    "white_player": "刘泽伟",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 7,
+    "table": "11",
+    "black_player": "陈苏鹏",
+    "black_team": "",
+    "white_player": "何仲",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 7,
+    "table": "16",
+    "black_player": "程博涵",
+    "black_team": "",
+    "white_player": "谭君坦",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 7,
+    "table": "18",
+    "black_player": "陈科霖",
+    "black_team": "",
+    "white_player": "付涵一",
+    "white_team": "",
+    "result": "白胜7.25子"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 7,
+    "table": "4",
+    "black_player": "沈羿光",
+    "black_team": "",
+    "white_player": "匡博文",
+    "white_team": "",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 7,
+    "table": "7",
+    "black_player": "朱夏俊",
+    "black_team": "",
+    "white_player": "高君睿",
+    "white_team": "",
+    "result": "白胜2.25子"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 8,
+    "table": "10",
+    "black_player": "付涵一",
+    "black_team": "",
+    "white_player": "陈苏鹏",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 8,
+    "table": "12",
+    "black_player": "温泽涛",
+    "black_team": "",
+    "white_player": "朱夏俊",
+    "white_team": "",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 8,
+    "table": "2",
+    "black_player": "匡博文",
+    "black_team": "",
+    "white_player": "杨靖源",
+    "white_team": "",
+    "result": "白胜6.75子"
+  },
+  {
+    "date": "2025-04-20T16:00:00.000Z",
+    "round": 8,
+    "table": "8",
+    "black_player": "刘泽伟",
+    "black_team": "",
+    "white_player": "程博涵",
+    "white_team": "",
+    "result": "白中盘胜"
+  }
+],
+      "49":[
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 1,
+    "table": "4-1",
+    "black_player": "陈砚清",
+    "black_team": "弈秋棋社队",
+    "white_player": "林信欣",
+    "white_team": "深圳大学队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 1,
+    "table": "4-2",
+    "black_player": "谭君坦",
+    "black_team": "深圳大学队",
+    "white_player": "陈苏鹏",
+    "white_team": "弈秋棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 1,
+    "table": "4-3",
+    "black_player": "匡博文",
+    "black_team": "弈秋棋社队",
+    "white_player": "聂磊鑫",
+    "white_team": "深圳大学队",
+    "result": "黑胜47.75子"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 1,
+    "table": "4-4",
+    "black_player": "覃国友",
+    "black_team": "深圳大学队",
+    "white_player": "付涵一",
+    "white_team": "弈秋棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 1,
+    "table": "4-5",
+    "black_player": "庄应楠",
+    "black_team": "弈秋棋社队",
+    "white_player": "赵芸霆",
+    "white_team": "深圳大学队",
+    "result": "白胜6.25子"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 2,
+    "table": "4-1",
+    "black_player": "郭子安",
+    "black_team": "清北校友队",
+    "white_player": "陈砚清",
+    "white_team": "弈秋棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 2,
+    "table": "4-2",
+    "black_player": "马睿雪",
+    "black_team": "弈秋棋社队",
+    "white_player": "申沁恺",
+    "white_team": "清北校友队",
+    "result": "黑胜4.75子"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 2,
+    "table": "4-3",
+    "black_player": "刘言",
+    "black_team": "清北校友队",
+    "white_player": "匡博文",
+    "white_team": "弈秋棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 2,
+    "table": "4-4",
+    "black_player": "庄应楠",
+    "black_team": "弈秋棋社队",
+    "white_player": "蔡韫睿",
+    "white_team": "清北校友队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 2,
+    "table": "4-5",
+    "black_player": "林向涛",
+    "black_team": "清北校友队",
+    "white_player": "江怡萱",
+    "white_team": "弈秋棋社队",
+    "result": "黑胜5.75子"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 2,
+    "table": "6-4",
+    "black_player": "汤哲铭",
+    "black_team": "吉林大学队",
+    "white_player": "邓晴文",
+    "white_team": "凌云棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 2,
+    "table": "6-5",
+    "black_player": "周亚泓",
+    "black_team": "凌云棋社队",
+    "white_player": "王作洲",
+    "white_team": "吉林大学队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 3,
+    "table": "1-1",
+    "black_player": "匡宇晨",
+    "black_team": "万景华队",
+    "white_player": "邓晴文",
+    "white_team": "凌云棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 3,
+    "table": "3-1",
+    "black_player": "马睿雪",
+    "black_team": "弈秋棋社队",
+    "white_player": "程琦",
+    "white_team": "方寸守拙队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 3,
+    "table": "3-2",
+    "black_player": "杨天波",
+    "black_team": "方寸守拙队",
+    "white_player": "蔡予诚",
+    "white_team": "弈秋棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 3,
+    "table": "3-3",
+    "black_player": "陈砚清",
+    "black_team": "弈秋棋社队",
+    "white_player": "胡正浩",
+    "white_team": "方寸守拙队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 3,
+    "table": "3-4",
+    "black_player": "陈志刚",
+    "black_team": "方寸守拙队",
+    "white_player": "庄应楠",
+    "white_team": "弈秋棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-09T16:00:00.000Z",
+    "round": 3,
+    "table": "3-5",
+    "black_player": "匡博文",
+    "black_team": "弈秋棋社队",
+    "white_player": "游星昊",
+    "white_team": "方寸守拙队",
+    "result": "黑胜6.75子"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 4,
+    "table": "3-3",
+    "black_player": "刘泽伟",
+    "black_team": "深圳大学队",
+    "white_player": "王早",
+    "white_team": "腾讯围协队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 4,
+    "table": "5-1",
+    "black_player": "邓晴文",
+    "black_team": "凌云棋社队",
+    "white_player": "马睿雪",
+    "white_team": "弈秋棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 4,
+    "table": "5-2",
+    "black_player": "赵一鸣",
+    "black_team": "弈秋棋社队",
+    "white_player": "汪黄驿",
+    "white_team": "凌云棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 4,
+    "table": "5-3",
+    "black_player": "丁弋洋",
+    "black_team": "凌云棋社队",
+    "white_player": "庄应楠",
+    "white_team": "弈秋棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 4,
+    "table": "5-4",
+    "black_player": "江怡萱",
+    "black_team": "弈秋棋社队",
+    "white_player": "朱知非",
+    "white_team": "凌云棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 4,
+    "table": "5-5",
+    "black_player": "傅炫俊",
+    "black_team": "凌云棋社队",
+    "white_player": "付涵一",
+    "white_team": "弈秋棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 5,
+    "table": "2-1",
+    "black_player": "程博涵",
+    "black_team": "弈秋棋社队",
+    "white_player": "黄肖丞蔚",
+    "white_team": "吉林大学队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 5,
+    "table": "2-2",
+    "black_player": "王钢",
+    "black_team": "吉林大学队",
+    "white_player": "庄应楠",
+    "white_team": "弈秋棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 5,
+    "table": "2-3",
+    "black_player": "陈砚清",
+    "black_team": "弈秋棋社队",
+    "white_player": "黄若曦",
+    "white_team": "吉林大学队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 5,
+    "table": "2-4",
+    "black_player": "汤哲铭",
+    "black_team": "吉林大学队",
+    "white_player": "付涵一",
+    "white_team": "弈秋棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 5,
+    "table": "2-5",
+    "black_player": "马睿雪",
+    "black_team": "弈秋棋社队",
+    "white_player": "石宏伟",
+    "white_team": "吉林大学队",
+    "result": "白胜0.25子"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 5,
+    "table": "3-3",
+    "black_player": "刘小都",
+    "black_team": "大华税务队",
+    "white_player": "邓晴文",
+    "white_team": "凌云棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 6,
+    "table": "4-4",
+    "black_player": "朱依玖",
+    "black_team": "技术大学队",
+    "white_player": "邓晴文",
+    "white_team": "凌云棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 6,
+    "table": "6-1",
+    "black_player": "漆四虎",
+    "black_team": "技术大学队",
+    "white_player": "匡博文",
+    "white_team": "弈秋棋社队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 6,
+    "table": "6-2",
+    "black_player": "马睿雪",
+    "black_team": "弈秋棋社队",
+    "white_player": "何全",
+    "white_team": "万景华队",
+    "result": "黑胜4.75子"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 6,
+    "table": "6-3",
+    "black_player": "吴昊",
+    "black_team": "万景华队",
+    "white_player": "庄应楠",
+    "white_team": "弈秋棋社队",
+    "result": "黑中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 6,
+    "table": "6-4",
+    "black_player": "江怡萱",
+    "black_team": "弈秋棋社队",
+    "white_player": "严垒",
+    "white_team": "万景华队",
+    "result": "白中盘胜"
+  },
+  {
+    "date": "2025-05-10T16:00:00.000Z",
+    "round": 6,
+    "table": "6-5",
+    "black_player": "吴建辉",
+    "black_team": "万景华队",
+    "white_player": "陈砚清",
+    "white_team": "弈秋棋社队",
+    "result": "黑胜9.75子"
+  }
+]
    }
   
 }
