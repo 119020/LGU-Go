@@ -12391,6 +12391,38 @@
             "white_team":"弈秋棋社队",
             "result":"黑胜9.75子"
          }
+      ],
+      "50":[
+         {
+            "date":"2025-05-09T16:00:00.000Z",
+            "round":1,
+            "table":"'1-3",
+            "black_player":"罗鹏",
+            "black_team":"和辉快乐队",
+            "white_player":"朱夏俊",
+            "white_team":"激流勇进队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-10T16:00:00.000Z",
+            "round":5,
+            "table":"'5-3",
+            "black_player":"袁永钊",
+            "black_team":"清北友联队",
+            "white_player":"朱夏俊",
+            "white_team":"激流勇进队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-05-10T16:00:00.000Z",
+            "round":6,
+            "table":"'7-2",
+            "black_player":"朱夏俊",
+            "black_team":"激流勇进队",
+            "white_player":"史显超",
+            "white_team":"小明曰酒队",
+            "result":"黑中盘胜"
+         }
       ]
    }
 }
