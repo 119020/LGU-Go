@@ -9,3 +9,6 @@
 - opponent{"1","2",...,"51"}
 - records{"1","2",...,"51"}
 - awards{"1","2",...,"51"}
+
+### 使用 JSON Formatter & Validator，以确保JSON能被读取正确
+https://jsonformatter.curiousconcept.com/
