@@ -742,6 +742,16 @@
       ],
       "24":[
          {
+            "competition_id":52,
+            "year":2024,
+            "competition":"第1届 深圳个人锦标赛（公开组）",
+            "start_date":"2024-03-15T16:00:00.000Z",
+            "end_date":"2024-03-16T16:00:00.000Z",
+            "location":"广东深圳南山",
+            "total_round":8,
+            "source":"云比赛网"
+         },
+         {
             "competition_id":48,
             "year":2025,
             "competition":"第2届 深圳个人锦标赛（公开组）",
@@ -1800,7 +1810,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":1,
-            "table":"4-1",
+            "table":"'4-1",
             "black_player":"张金钟",
             "black_team":"阳山仙岛湖队",
             "white_player":"王桢",
@@ -1810,7 +1820,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":1,
-            "table":"4-2",
+            "table":"'4-2",
             "black_player":"王启涵",
             "black_team":"弈秋棋社队",
             "white_player":"黄达升",
@@ -1820,7 +1830,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":1,
-            "table":"4-3",
+            "table":"'4-3",
             "black_player":"欧阳群才",
             "black_team":"阳山仙岛湖队",
             "white_player":"徐子谏",
@@ -1830,7 +1840,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":1,
-            "table":"4-4",
+            "table":"'4-4",
             "black_player":"赵志远",
             "black_team":"弈秋棋社队",
             "white_player":"幸中东",
@@ -1840,7 +1850,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":1,
-            "table":"4-5",
+            "table":"'4-5",
             "black_player":"张明权",
             "black_team":"阳山仙岛湖队",
             "white_player":"匡博文",
@@ -1849,8 +1859,28 @@
          },
          {
             "date":"2021-11-26T16:00:00.000Z",
+            "round":1,
+            "table":"'8-3",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"黄冠祺",
+            "white_team":"金阳信队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2021-11-26T16:00:00.000Z",
             "round":2,
-            "table":"8-1",
+            "table":"'2-2",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"辛虹阳",
+            "white_team":"法律人队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2021-11-26T16:00:00.000Z",
+            "round":2,
+            "table":"'8-1",
             "black_player":"石宏伟",
             "black_team":"吉大鑫天瑜队",
             "white_player":"徐子谏",
@@ -1860,7 +1890,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":2,
-            "table":"8-2",
+            "table":"'8-2",
             "black_player":"匡博文",
             "black_team":"弈秋棋社队",
             "white_player":"王钢",
@@ -1870,7 +1900,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":2,
-            "table":"8-3",
+            "table":"'8-3",
             "black_player":"王作洲",
             "black_team":"吉大鑫天瑜队",
             "white_player":"王桢",
@@ -1880,7 +1910,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":2,
-            "table":"8-4",
+            "table":"'8-4",
             "black_player":"王启涵",
             "black_team":"弈秋棋社队",
             "white_player":"钟明珊",
@@ -1890,7 +1920,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":2,
-            "table":"8-5",
+            "table":"'8-5",
             "black_player":"刘振宇",
             "black_team":"吉大鑫天瑜队",
             "white_player":"赵志远",
@@ -1900,7 +1930,17 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":3,
-            "table":"9-1",
+            "table":"'3-2",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"刘晋",
+            "white_team":"一湖老酒队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2021-11-26T16:00:00.000Z",
+            "round":3,
+            "table":"'9-1",
             "black_player":"杨曜宇",
             "black_team":"弈秋棋社队",
             "white_player":"高品",
@@ -1910,7 +1950,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":3,
-            "table":"9-2",
+            "table":"'9-2",
             "black_player":"刁玉琛",
             "black_team":"中广核华龙队",
             "white_player":"赵志远",
@@ -1920,7 +1960,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":3,
-            "table":"9-3",
+            "table":"'9-3",
             "black_player":"徐子谏",
             "black_team":"弈秋棋社队",
             "white_player":"俞炳荣",
@@ -1930,7 +1970,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":3,
-            "table":"9-4",
+            "table":"'9-4",
             "black_player":"高利",
             "black_team":"中广核华龙队",
             "white_player":"匡博文",
@@ -1940,7 +1980,7 @@
          {
             "date":"2021-11-26T16:00:00.000Z",
             "round":3,
-            "table":"9-5",
+            "table":"'9-5",
             "black_player":"王桢",
             "black_team":"弈秋棋社队",
             "white_player":"郑永胜",
@@ -1950,7 +1990,17 @@
          {
             "date":"2021-11-27T16:00:00.000Z",
             "round":4,
-            "table":"9-1",
+            "table":"'1-2",
+            "black_player":"罗鹏",
+            "black_team":"和辉资本队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2021-11-27T16:00:00.000Z",
+            "round":4,
+            "table":"'9-1",
             "black_player":"庄应楠",
             "black_team":"弈秋棋社队",
             "white_player":"杨天波",
@@ -1960,7 +2010,7 @@
          {
             "date":"2021-11-27T16:00:00.000Z",
             "round":4,
-            "table":"9-2",
+            "table":"'9-2",
             "black_player":"马文良",
             "black_team":"吉大蓝珣队",
             "white_player":"潘露熹",
@@ -1970,7 +2020,7 @@
          {
             "date":"2021-11-27T16:00:00.000Z",
             "round":4,
-            "table":"9-3",
+            "table":"'9-3",
             "black_player":"刘思安",
             "black_team":"弈秋棋社队",
             "white_player":"顾言薇",
@@ -1980,7 +2030,7 @@
          {
             "date":"2021-11-27T16:00:00.000Z",
             "round":4,
-            "table":"9-4",
+            "table":"'9-4",
             "black_player":"刘又鸣",
             "black_team":"吉大蓝珣队",
             "white_player":"王启涵",
@@ -1990,7 +2040,7 @@
          {
             "date":"2021-11-27T16:00:00.000Z",
             "round":4,
-            "table":"9-5",
+            "table":"'9-5",
             "black_player":"赵志远",
             "black_team":"弈秋棋社队",
             "white_player":"毛玉诚",
@@ -1999,8 +2049,28 @@
          },
          {
             "date":"2021-11-27T16:00:00.000Z",
+            "round":5,
+            "table":"'1-4",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"李良",
+            "white_team":"国士酒业队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2021-11-27T16:00:00.000Z",
             "round":6,
-            "table":"9-1",
+            "table":"'1-3",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"刘耀华",
+            "white_team":"迅雷电子队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2021-11-27T16:00:00.000Z",
+            "round":6,
+            "table":"'9-1",
             "black_player":"封国海",
             "black_team":"青春印记队",
             "white_player":"匡博文",
@@ -2010,7 +2080,7 @@
          {
             "date":"2021-11-27T16:00:00.000Z",
             "round":6,
-            "table":"9-2",
+            "table":"'9-2",
             "black_player":"庄应楠",
             "black_team":"弈秋棋社队",
             "white_player":"柯铭芝",
@@ -2020,7 +2090,7 @@
          {
             "date":"2021-11-27T16:00:00.000Z",
             "round":6,
-            "table":"9-3",
+            "table":"'9-3",
             "black_player":"冉赛春",
             "black_team":"青春印记队",
             "white_player":"赵志远",
@@ -2030,7 +2100,7 @@
          {
             "date":"2021-11-27T16:00:00.000Z",
             "round":6,
-            "table":"9-4",
+            "table":"'9-4",
             "black_player":"杨曜宇",
             "black_team":"弈秋棋社队",
             "white_player":"刘代果",
@@ -2040,7 +2110,7 @@
          {
             "date":"2021-11-27T16:00:00.000Z",
             "round":6,
-            "table":"9-5",
+            "table":"'9-5",
             "black_player":"汪清平",
             "black_team":"青春印记队",
             "white_player":"刘思安",
@@ -2050,7 +2120,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":7,
-            "table":"8-1",
+            "table":"'8-1",
             "black_player":"刘思安",
             "black_team":"弈秋棋社队",
             "white_player":"刘迅",
@@ -2060,7 +2130,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":7,
-            "table":"8-2",
+            "table":"'8-2",
             "black_player":"钟锋",
             "black_team":"罗湖棋协队",
             "white_player":"王启涵",
@@ -2070,7 +2140,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":7,
-            "table":"8-3",
+            "table":"'8-3",
             "black_player":"庄应楠",
             "black_team":"弈秋棋社队",
             "white_player":"章学郭",
@@ -2080,7 +2150,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":7,
-            "table":"8-4",
+            "table":"'8-4",
             "black_player":"梁涛",
             "black_team":"罗湖棋协队",
             "white_player":"曹冉",
@@ -2090,7 +2160,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":7,
-            "table":"8-5",
+            "table":"'8-5",
             "black_player":"匡博文",
             "black_team":"弈秋棋社队",
             "white_player":"丁华明",
@@ -2100,7 +2170,17 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":8,
-            "table":"7-1",
+            "table":"'2-3",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"刘又鸣",
+            "white_team":"吉大蓝珣队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2021-12-09T16:00:00.000Z",
+            "round":8,
+            "table":"'7-1",
             "black_player":"王彦之",
             "black_team":"一湖老酒队",
             "white_player":"匡博文",
@@ -2110,7 +2190,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":8,
-            "table":"7-2",
+            "table":"'7-2",
             "black_player":"庄应楠",
             "black_team":"弈秋棋社队",
             "white_player":"刘晋",
@@ -2120,7 +2200,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":8,
-            "table":"7-3",
+            "table":"'7-3",
             "black_player":"汪小安",
             "black_team":"一湖老酒队",
             "white_player":"曹冉",
@@ -2130,7 +2210,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":8,
-            "table":"7-4",
+            "table":"'7-4",
             "black_player":"王启涵",
             "black_team":"弈秋棋社队",
             "white_player":"石琪玮",
@@ -2140,7 +2220,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":8,
-            "table":"7-5",
+            "table":"'7-5",
             "black_player":"曹修洪",
             "black_team":"一湖老酒队",
             "white_player":"刘思安",
@@ -2150,7 +2230,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":9,
-            "table":"4-1",
+            "table":"'4-1",
             "black_player":"王启涵",
             "black_team":"弈秋棋社队",
             "white_player":"李潇阳",
@@ -2160,7 +2240,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":9,
-            "table":"4-2",
+            "table":"'4-2",
             "black_player":"梅一涵",
             "black_team":"南方科大队",
             "white_player":"曹冉",
@@ -2170,7 +2250,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":9,
-            "table":"4-3",
+            "table":"'4-3",
             "black_player":"唐清扬",
             "black_team":"弈秋棋社队",
             "white_player":"高君睿",
@@ -2180,7 +2260,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":9,
-            "table":"4-4",
+            "table":"'4-4",
             "black_player":"邹若彤",
             "black_team":"南方科大队",
             "white_player":"匡博文",
@@ -2190,7 +2270,7 @@
          {
             "date":"2021-12-09T16:00:00.000Z",
             "round":9,
-            "table":"4-5",
+            "table":"'4-5",
             "black_player":"庄应楠",
             "black_team":"弈秋棋社队",
             "white_player":"高云舒",
@@ -2200,7 +2280,7 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":10,
-            "table":"3-1",
+            "table":"'3-1",
             "black_player":"尹祖江",
             "black_team":"国士酒业队",
             "white_player":"刘思安",
@@ -2210,7 +2290,7 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":10,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"曹冉",
             "black_team":"弈秋棋社队",
             "white_player":"杨汉春",
@@ -2220,7 +2300,7 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":10,
-            "table":"3-3",
+            "table":"'3-3",
             "black_player":"王兴",
             "black_team":"国士酒业队",
             "white_player":"唐清扬",
@@ -2230,7 +2310,7 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":10,
-            "table":"3-4",
+            "table":"'3-4",
             "black_player":"匡博文",
             "black_team":"弈秋棋社队",
             "white_player":"李良",
@@ -2240,7 +2320,7 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":10,
-            "table":"3-5",
+            "table":"'3-5",
             "black_player":"毛如晖",
             "black_team":"国士酒业队",
             "white_player":"汪泰民",
@@ -2250,7 +2330,7 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":11,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"石裕鹏",
             "black_team":"闲云棋院队",
             "white_player":"汪泰民",
@@ -2260,7 +2340,7 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":11,
-            "table":"1-3",
+            "table":"'1-2",
             "black_player":"曹冉",
             "black_team":"弈秋棋社队",
             "white_player":"陈志",
@@ -2270,7 +2350,7 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":11,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"王启涵",
             "black_team":"弈秋棋社队",
             "white_player":"左勇",
@@ -2280,7 +2360,7 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":11,
-            "table":"1-4",
+            "table":"'1-4",
             "black_player":"何鹏飞",
             "black_team":"闲云棋院队",
             "white_player":"匡博文",
@@ -2290,12 +2370,22 @@
          {
             "date":"2021-12-10T16:00:00.000Z",
             "round":11,
-            "table":"1-5",
+            "table":"'1-5",
             "black_player":"刘思安",
             "black_team":"弈秋棋社队",
             "white_player":"石魏峰",
             "white_team":"闲云棋院队",
             "result":"白中盘胜"
+         },
+         {
+            "date":"2021-12-10T16:00:00.000Z",
+            "round":11,
+            "table":"'3-2",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"邱简文",
+            "white_team":"优瑞恩队",
+            "result":"黑中盘胜"
          }
       ],
       "8":[
@@ -2610,7 +2700,7 @@
          {
             "date":"2022-11-04T16:00:00.000Z",
             "round":1,
-            "table":"5-4",
+            "table":"'5-4",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"陈一戈",
@@ -2620,7 +2710,7 @@
          {
             "date":"2022-11-04T16:00:00.000Z",
             "round":2,
-            "table":"2-5",
+            "table":"'2-5",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"温常凯",
@@ -2630,7 +2720,17 @@
          {
             "date":"2022-11-04T16:00:00.000Z",
             "round":3,
-            "table":"6-5",
+            "table":"'4-3",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"高飞",
+            "white_team":"瑞珂玛队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2022-11-04T16:00:00.000Z",
+            "round":3,
+            "table":"'6-5",
             "black_player":"陈峰亮",
             "black_team":"东方恒润队",
             "white_player":"刘泽伟",
@@ -2640,7 +2740,7 @@
          {
             "date":"2022-11-05T16:00:00.000Z",
             "round":4,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"王少敏",
@@ -2648,9 +2748,49 @@
             "result":"黑中盘胜"
          },
          {
+            "date":"2022-11-05T16:00:00.000Z",
+            "round":4,
+            "table":"'4-2",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"阳柏林",
+            "white_team":"大华税务队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2022-11-05T16:00:00.000Z",
+            "round":5,
+            "table":"'3-5",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"胡宇闻",
+            "white_team":"奇力电子队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2022-11-05T16:00:00.000Z",
+            "round":6,
+            "table":"'5-1",
+            "black_player":"邓韵芳",
+            "black_team":"吉林大学队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
             "date":"2022-11-18T16:00:00.000Z",
             "round":7,
-            "table":"2-4",
+            "table":"'2-2",
+            "black_player":"史显超",
+            "black_team":"小明曰酒队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2022-11-18T16:00:00.000Z",
+            "round":7,
+            "table":"'5-1",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"尹羽彤",
@@ -2660,7 +2800,7 @@
          {
             "date":"2022-11-18T16:00:00.000Z",
             "round":8,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"胡宇闻",
             "black_team":"奇力电子队",
             "white_player":"刘泽伟",
@@ -2669,12 +2809,52 @@
          },
          {
             "date":"2022-11-18T16:00:00.000Z",
+            "round":8,
+            "table":"'6-1",
+            "black_player":"高天鹏",
+            "black_team":"万景华队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2022-11-18T16:00:00.000Z",
             "round":9,
-            "table":"2-1",
+            "table":"'1-2",
+            "black_player":"井艺",
+            "black_team":"迅雷电子队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2022-11-18T16:00:00.000Z",
+            "round":9,
+            "table":"'4-5",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"张展鹏",
             "white_team":"吉林大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2022-11-19T16:00:00.000Z",
+            "round":10,
+            "table":"'6-4",
+            "black_player":"陈晨",
+            "black_team":"大众建设队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2022-11-19T16:00:00.000Z",
+            "round":11,
+            "table":"'2-2",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"褚吉辰",
+            "white_team":"东方恒润队",
             "result":"白中盘胜"
          }
       ],
@@ -3234,7 +3414,17 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":1,
-            "table":"2-1",
+            "table":"'1-1",
+            "black_player":"黄佳",
+            "black_team":"深圳技术大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2022-12-09T16:00:00.000Z",
+            "round":1,
+            "table":"'2-1",
             "black_player":"陈砚清",
             "black_team":"香港中文大学（深圳）",
             "white_player":"高晨霖",
@@ -3244,7 +3434,7 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":1,
-            "table":"2-2",
+            "table":"'2-2",
             "black_player":"刘宇航",
             "black_team":"哈尔滨工业大学（深圳）",
             "white_player":"付涵一",
@@ -3254,7 +3444,7 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":1,
-            "table":"2-3",
+            "table":"'2-3",
             "black_player":"罗天辰",
             "black_team":"香港中文大学（深圳）",
             "white_player":"薛乔楚",
@@ -3264,7 +3454,7 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":1,
-            "table":"2-4",
+            "table":"'2-4",
             "black_player":"薛维哲",
             "black_team":"哈尔滨工业大学（深圳）",
             "white_player":"匡博文",
@@ -3274,7 +3464,7 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":1,
-            "table":"2-5",
+            "table":"'2-5",
             "black_player":"王启涵",
             "black_team":"香港中文大学（深圳）",
             "white_player":"刘澳霖",
@@ -3284,7 +3474,7 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":1,
-            "table":"3-4",
+            "table":"'3-4",
             "black_player":"陈一苇",
             "black_team":"深圳北理莫斯科大学",
             "white_player":"刘泽伟",
@@ -3294,7 +3484,17 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":2,
-            "table":"3-1",
+            "table":"'1-3",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"韦啸谷",
+            "white_team":"深圳北理莫斯科大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2022-12-09T16:00:00.000Z",
+            "round":2,
+            "table":"'3-1",
             "black_player":"黄佳",
             "black_team":"深圳技术大学",
             "white_player":"付涵一",
@@ -3304,7 +3504,7 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":2,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"杨曜宇",
             "black_team":"香港中文大学（深圳）",
             "white_player":"史济东",
@@ -3314,7 +3514,7 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":2,
-            "table":"3-3",
+            "table":"'3-3",
             "black_player":"杜一铎",
             "black_team":"深圳技术大学",
             "white_player":"王启涵",
@@ -3324,7 +3524,7 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":2,
-            "table":"3-4",
+            "table":"'3-4",
             "black_player":"曾子荣",
             "black_team":"香港中文大学（深圳）",
             "white_player":"张文浩",
@@ -3334,7 +3534,7 @@
          {
             "date":"2022-12-09T16:00:00.000Z",
             "round":2,
-            "table":"3-5",
+            "table":"'3-5",
             "black_player":"杨鸿哲",
             "black_team":"深圳技术大学",
             "white_player":"匡博文",
@@ -3344,7 +3544,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":3,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"徐同和",
             "black_team":"香港中文大学（深圳）",
             "white_player":"高云舒",
@@ -3354,7 +3554,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":3,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"周轶凡",
             "black_team":"南方科技大学",
             "white_player":"蓝迪",
@@ -3364,7 +3564,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":3,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"梅笑寒",
@@ -3374,7 +3574,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":3,
-            "table":"1-4",
+            "table":"'1-4",
             "black_player":"丁泽洋",
             "black_team":"南方科技大学",
             "white_player":"付涵一",
@@ -3384,7 +3584,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":3,
-            "table":"1-5",
+            "table":"'1-5",
             "black_player":"王蒲铸",
             "black_team":"香港中文大学（深圳）",
             "white_player":"陈一戈",
@@ -3394,7 +3594,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":3,
-            "table":"2-5",
+            "table":"'2-5",
             "black_player":"刘泽伟",
             "black_team":"深圳大学",
             "white_player":"李恒烜",
@@ -3404,7 +3604,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":4,
-            "table":"3-1",
+            "table":"'3-1",
             "black_player":"曹冉",
             "black_team":"香港中文大学（深圳）",
             "white_player":"曾博闻",
@@ -3414,7 +3614,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":4,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"聂磊鑫",
             "black_team":"深圳大学",
             "white_player":"蓝迪",
@@ -3424,7 +3624,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":4,
-            "table":"3-3",
+            "table":"'3-3",
             "black_player":"徐同和",
             "black_team":"香港中文大学（深圳）",
             "white_player":"杨一成",
@@ -3434,7 +3634,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":4,
-            "table":"3-4",
+            "table":"'3-4",
             "black_player":"童锐韬",
             "black_team":"深圳大学",
             "white_player":"匡博文",
@@ -3444,7 +3644,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":4,
-            "table":"3-5",
+            "table":"'3-5",
             "black_player":"付涵一",
             "black_team":"香港中文大学（深圳）",
             "white_player":"刘泽伟",
@@ -3454,7 +3654,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":5,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"刘泽伟",
             "black_team":"深圳大学",
             "white_player":"周轶凡",
@@ -3464,7 +3664,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":5,
-            "table":"2-1",
+            "table":"'2-1",
             "black_player":"韦啸谷",
             "black_team":"深圳北理莫斯科大学",
             "white_player":"蓝迪",
@@ -3474,7 +3674,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":5,
-            "table":"2-2",
+            "table":"'2-2",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"王栋杉",
@@ -3484,7 +3684,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":5,
-            "table":"2-3",
+            "table":"'2-3",
             "black_player":"邵宬弋",
             "black_team":"深圳北理莫斯科大学",
             "white_player":"刘思安",
@@ -3494,7 +3694,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":5,
-            "table":"2-4",
+            "table":"'2-4",
             "black_player":"付涵一",
             "black_team":"香港中文大学（深圳）",
             "white_player":"周择林",
@@ -3504,7 +3704,7 @@
          {
             "date":"2022-12-10T16:00:00.000Z",
             "round":5,
-            "table":"2-5",
+            "table":"'2-5",
             "black_player":"董政萁",
             "black_team":"深圳北理莫斯科大学",
             "white_player":"徐同和",
@@ -3688,7 +3888,7 @@
          {
             "date":"2023-05-12T16:00:00.000Z",
             "round":1,
-            "table":"10",
+            "table":"'10",
             "black_player":"陈一戈",
             "black_team":"南方科技大学",
             "white_player":"匡博文",
@@ -3698,7 +3898,7 @@
          {
             "date":"2023-05-12T16:00:00.000Z",
             "round":1,
-            "table":"5",
+            "table":"'5",
             "black_player":"荣智夏",
             "black_team":"南方科技大学",
             "white_player":"刘泽伟",
@@ -3707,8 +3907,18 @@
          },
          {
             "date":"2023-05-12T16:00:00.000Z",
+            "round":1,
+            "table":"'6",
+            "black_player":"任浩男",
+            "black_team":"清华深研院",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-05-12T16:00:00.000Z",
             "round":2,
-            "table":"1",
+            "table":"'1",
             "black_player":"邓韵芳",
             "black_team":"深圳大学",
             "white_player":"匡博文",
@@ -3718,7 +3928,17 @@
          {
             "date":"2023-05-12T16:00:00.000Z",
             "round":2,
-            "table":"4",
+            "table":"'3",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"蔡韫睿",
+            "white_team":"清华深研院",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-05-12T16:00:00.000Z",
+            "round":2,
+            "table":"'4",
             "black_player":"刘泽伟",
             "black_team":"深圳大学",
             "white_player":"薛乔楚",
@@ -3728,7 +3948,7 @@
          {
             "date":"2023-05-13T16:00:00.000Z",
             "round":3,
-            "table":"3",
+            "table":"'3",
             "black_player":"王致远",
             "black_team":"清华深研院",
             "white_player":"匡博文",
@@ -3738,7 +3958,17 @@
          {
             "date":"2023-05-13T16:00:00.000Z",
             "round":3,
-            "table":"6",
+            "table":"'5",
+            "black_player":"胡钧瑞",
+            "black_team":"深圳技术大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-05-13T16:00:00.000Z",
+            "round":3,
+            "table":"'6",
             "black_player":"刘泽伟",
             "black_team":"深圳大学",
             "white_player":"梅笑寒",
@@ -3748,7 +3978,7 @@
          {
             "date":"2023-05-13T16:00:00.000Z",
             "round":4,
-            "table":"1",
+            "table":"'1",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"郑梓霖",
@@ -3758,7 +3988,7 @@
          {
             "date":"2023-05-13T16:00:00.000Z",
             "round":4,
-            "table":"8",
+            "table":"'8",
             "black_player":"丁泽洋",
             "black_team":"南方科技大学",
             "white_player":"刘泽伟",
@@ -3768,7 +3998,7 @@
          {
             "date":"2023-05-13T16:00:00.000Z",
             "round":5,
-            "table":"3",
+            "table":"'3",
             "black_player":"蔡韫睿",
             "black_team":"清华深研院",
             "white_player":"匡博文",
@@ -3778,7 +4008,17 @@
          {
             "date":"2023-05-13T16:00:00.000Z",
             "round":5,
-            "table":"9",
+            "table":"'5",
+            "black_player":"王栋杉",
+            "black_team":"深圳北理莫斯科大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-05-13T16:00:00.000Z",
+            "round":5,
+            "table":"'9",
             "black_player":"刘泽伟",
             "black_team":"深圳大学",
             "white_player":"任浩男",
@@ -3788,7 +4028,7 @@
          {
             "date":"2023-05-13T16:00:00.000Z",
             "round":6,
-            "table":"4",
+            "table":"'4",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"高君睿",
@@ -3798,7 +4038,17 @@
          {
             "date":"2023-05-13T16:00:00.000Z",
             "round":6,
-            "table":"9",
+            "table":"'6",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"王致远",
+            "white_team":"清华深研院",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-05-13T16:00:00.000Z",
+            "round":6,
+            "table":"'9",
             "black_player":"刘泽伟",
             "black_team":"深圳大学",
             "white_player":"王栋杉",
@@ -4162,7 +4412,17 @@
          {
             "date":"2023-05-26T16:00:00.000Z",
             "round":1,
-            "table":"3-1",
+            "table":"'1-1",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"李启安",
+            "white_team":"中山大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-05-26T16:00:00.000Z",
+            "round":1,
+            "table":"'3-1",
             "black_player":"吴琦",
             "black_team":"汕头大学",
             "white_player":"付涵一",
@@ -4172,7 +4432,7 @@
          {
             "date":"2023-05-26T16:00:00.000Z",
             "round":1,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"黄伟鑫",
@@ -4182,7 +4442,7 @@
          {
             "date":"2023-05-26T16:00:00.000Z",
             "round":1,
-            "table":"3-3",
+            "table":"'3-3",
             "black_player":"林玮",
             "black_team":"汕头大学",
             "white_player":"王蒲铸",
@@ -4192,7 +4452,7 @@
          {
             "date":"2023-05-26T16:00:00.000Z",
             "round":2,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"梅笑寒",
             "black_team":"南方科技大学",
             "white_player":"王蒲铸",
@@ -4202,7 +4462,7 @@
          {
             "date":"2023-05-26T16:00:00.000Z",
             "round":2,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"付涵一",
             "black_team":"香港中文大学（深圳）",
             "white_player":"丁泽洋",
@@ -4212,7 +4472,7 @@
          {
             "date":"2023-05-26T16:00:00.000Z",
             "round":2,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"高君睿",
             "black_team":"南方科技大学",
             "white_player":"匡博文",
@@ -4222,7 +4482,17 @@
          {
             "date":"2023-05-27T16:00:00.000Z",
             "round":3,
-            "table":"7-1",
+            "table":"'2-2",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"张兆容",
+            "white_team":"哈尔滨工业大学（深圳）",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-05-27T16:00:00.000Z",
+            "round":3,
+            "table":"'7-1",
             "black_player":"付涵一",
             "black_team":"香港中文大学（深圳）",
             "white_player":"郑宇航",
@@ -4232,7 +4502,7 @@
          {
             "date":"2023-05-27T16:00:00.000Z",
             "round":3,
-            "table":"7-2",
+            "table":"'7-2",
             "black_player":"金泽宇",
             "black_team":"香港中文大学",
             "white_player":"匡博文",
@@ -4242,7 +4512,7 @@
          {
             "date":"2023-05-27T16:00:00.000Z",
             "round":3,
-            "table":"7-3",
+            "table":"'7-3",
             "black_player":"王蒲铸",
             "black_team":"香港中文大学（深圳）",
             "white_player":"胡正浩",
@@ -4252,7 +4522,17 @@
          {
             "date":"2023-05-27T16:00:00.000Z",
             "round":4,
-            "table":"4-1",
+            "table":"'1-3",
+            "black_player":"梅锦骢",
+            "black_team":"香港大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-05-27T16:00:00.000Z",
+            "round":4,
+            "table":"'4-1",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"杨一成",
@@ -4262,7 +4542,7 @@
          {
             "date":"2023-05-27T16:00:00.000Z",
             "round":4,
-            "table":"4-2",
+            "table":"'4-2",
             "black_player":"李林灏",
             "black_team":"深圳大学",
             "white_player":"付涵一",
@@ -4272,7 +4552,7 @@
          {
             "date":"2023-05-27T16:00:00.000Z",
             "round":4,
-            "table":"4-3",
+            "table":"'4-3",
             "black_player":"王蒲铸",
             "black_team":"香港中文大学（深圳）",
             "white_player":"郑梓霖",
@@ -4282,7 +4562,17 @@
          {
             "date":"2023-05-27T16:00:00.000Z",
             "round":5,
-            "table":"3-1",
+            "table":"'1-1",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"郭东紫",
+            "white_team":"广东外语外贸大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-05-27T16:00:00.000Z",
+            "round":5,
+            "table":"'3-1",
             "black_player":"王蒲铸",
             "black_team":"香港中文大学（深圳）",
             "white_player":"李启安",
@@ -4292,7 +4582,7 @@
          {
             "date":"2023-05-27T16:00:00.000Z",
             "round":5,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"苏靖之",
             "black_team":"中山大学",
             "white_player":"匡博文",
@@ -4302,7 +4592,7 @@
          {
             "date":"2023-05-27T16:00:00.000Z",
             "round":5,
-            "table":"3-3",
+            "table":"'3-3",
             "black_player":"付涵一",
             "black_team":"香港中文大学（深圳）",
             "white_player":"夏子勋",
@@ -4314,7 +4604,7 @@
          {
             "date":"2023-06-02T16:00:00.000Z",
             "round":1,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"邓晴文",
             "black_team":"凌云棋社队",
             "white_player":"徐若昊",
@@ -4324,7 +4614,7 @@
          {
             "date":"2023-06-02T16:00:00.000Z",
             "round":1,
-            "table":"1-5",
+            "table":"'1-5",
             "black_player":"柯铭芝",
             "black_team":"吉林大学队",
             "white_player":"马睿雪",
@@ -4333,8 +4623,18 @@
          },
          {
             "date":"2023-06-02T16:00:00.000Z",
+            "round":1,
+            "table":"'4-4",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"龙华锋",
+            "white_team":"瑞珂玛队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-06-02T16:00:00.000Z",
             "round":2,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"孙宝存",
             "black_team":"华冠实业队",
             "white_player":"马睿雪",
@@ -4343,8 +4643,18 @@
          },
          {
             "date":"2023-06-02T16:00:00.000Z",
+            "round":2,
+            "table":"'3-2",
+            "black_player":"李诗涵",
+            "black_team":"万景华队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-06-02T16:00:00.000Z",
             "round":3,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"周兴安",
             "black_team":"奇力电子队",
             "white_player":"马睿雪",
@@ -4354,7 +4664,7 @@
          {
             "date":"2023-06-03T16:00:00.000Z",
             "round":4,
-            "table":"1-4",
+            "table":"'1-4",
             "black_player":"刘卫国",
             "black_team":"东方恒润队",
             "white_player":"马睿雪",
@@ -4362,9 +4672,19 @@
             "result":"白中盘胜"
          },
          {
+            "date":"2023-06-02T16:00:00.000Z",
+            "round":4,
+            "table":"'2-2",
+            "black_player":"孙宝存",
+            "black_team":"华冠实业队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"黑中盘胜"
+         },
+         {
             "date":"2023-06-03T16:00:00.000Z",
             "round":5,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"黄达升",
             "black_team":"方寸守拙队",
             "white_player":"马睿雪",
@@ -4372,9 +4692,19 @@
             "result":"白中盘胜"
          },
          {
+            "date":"2023-06-02T16:00:00.000Z",
+            "round":5,
+            "table":"'6-1",
+            "black_player":"阚博曦",
+            "black_team":"东方恒润队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
             "date":"2023-06-03T16:00:00.000Z",
             "round":6,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"马睿雪",
             "black_team":"凌云棋社队",
             "white_player":"杨毅",
@@ -4382,9 +4712,19 @@
             "result":"黑中盘胜"
          },
          {
+            "date":"2023-06-03T16:00:00.000Z",
+            "round":6,
+            "table":"'1-2",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"高世承",
+            "white_team":"凌云棋社队",
+            "result":"白中盘胜"
+         },
+         {
             "date":"2023-06-09T16:00:00.000Z",
             "round":7,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"马伟",
             "black_team":"瑞珂玛队",
             "white_player":"邓晴文",
@@ -4394,7 +4734,7 @@
          {
             "date":"2023-06-09T16:00:00.000Z",
             "round":8,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"邓晴文",
             "black_team":"凌云棋社队",
             "white_player":"李嘉雷",
@@ -4404,7 +4744,7 @@
          {
             "date":"2023-06-09T16:00:00.000Z",
             "round":9,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"何全",
             "black_team":"万景华队",
             "white_player":"邓晴文",
@@ -4414,7 +4754,7 @@
          {
             "date":"2023-06-10T16:00:00.000Z",
             "round":10,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"朱知非",
@@ -4424,7 +4764,7 @@
          {
             "date":"2023-06-10T16:00:00.000Z",
             "round":10,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"邓晴文",
             "black_team":"凌云棋社队",
             "white_player":"罗宇涵",
@@ -4433,8 +4773,18 @@
          },
          {
             "date":"2023-06-10T16:00:00.000Z",
+            "round":10,
+            "table":"'3-3",
+            "black_player":"潘一雷",
+            "black_team":"奇力电子队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-06-10T16:00:00.000Z",
             "round":11,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"马睿雪",
             "black_team":"凌云棋社队",
             "white_player":"胡钧瑞",
@@ -4444,7 +4794,7 @@
          {
             "date":"2023-06-10T16:00:00.000Z",
             "round":11,
-            "table":"1-5",
+            "table":"'1-5",
             "black_player":"杨鸿哲",
             "black_team":"技术大学队",
             "white_player":"邓晴文",
@@ -5310,7 +5660,17 @@
          {
             "date":"2023-07-10T16:00:00.000Z",
             "round":1,
-            "table":"15",
+            "table":"",
+            "black_player":"趙禹",
+            "black_team":"中华台北队",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-07-10T16:00:00.000Z",
+            "round":1,
+            "table":"'15",
             "black_player":"匡博文",
             "black_team":"深圳高校联队",
             "white_player":"Kim Baek Chan",
@@ -5320,32 +5680,52 @@
          {
             "date":"2023-07-10T16:00:00.000Z",
             "round":2,
-            "table":"5",
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"深圳高校联队",
+            "white_player":"梅一涵",
+            "white_team":"南方科技大学队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-07-10T16:00:00.000Z",
+            "round":2,
+            "table":"",
             "black_player":"丁泽洋",
-            "black_team":"南方科技大学",
+            "black_team":"南方科技大学队",
+            "white_player":"",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-07-10T16:00:00.000Z",
+            "round":3,
+            "table":"'5",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学队",
             "white_player":"匡博文",
             "white_team":"深圳高校联队",
             "result":"白中盘胜"
          },
          {
             "date":"2023-07-10T16:00:00.000Z",
-            "round":3,
-            "table":"",
-            "black_player":"匡博文",
-            "black_team":"深圳高校联队",
-            "white_player":"梅一涵",
-            "white_team":"南方科技大学",
-            "result":"黑中盘胜"
-         },
-         {
-            "date":"2023-07-10T16:00:00.000Z",
             "round":4,
-            "table":"1",
+            "table":"'1",
             "black_player":"匡博文",
             "black_team":"深圳高校联队",
             "white_player":"林士堯",
             "white_team":"中华台北队",
             "result":"白中盘胜"
+         },
+         {
+            "date":"2023-07-10T16:00:00.000Z",
+            "round":4,
+            "table":"'4",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学队",
+            "white_player":"李弘璽",
+            "white_team":"台北佛光大学",
+            "result":"黑中盘胜"
          },
          {
             "date":"2023-07-11T16:00:00.000Z",
@@ -5354,6 +5734,26 @@
             "black_player":"趙禹",
             "black_team":"中华台北队",
             "white_player":"匡博文",
+            "white_team":"深圳高校联队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-07-11T16:00:00.000Z",
+            "round":5,
+            "table":"",
+            "black_player":"",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-07-11T16:00:00.000Z",
+            "round":6,
+            "table":"",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学队",
+            "white_player":"郑景容",
             "white_team":"深圳高校联队",
             "result":"白中盘胜"
          },
@@ -5372,7 +5772,17 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":1,
-            "table":"4",
+            "table":"'1",
+            "black_player":"洪键勋",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-09-08T16:00:00.000Z",
+            "round":1,
+            "table":"'4",
             "black_player":"蓝子程",
             "black_team":"",
             "white_player":"匡博文",
@@ -5382,7 +5792,7 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":1,
-            "table":"5",
+            "table":"'5",
             "black_player":"刘泽伟",
             "black_team":"",
             "white_player":"高君睿",
@@ -5392,7 +5802,7 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":2,
-            "table":"1",
+            "table":"'1",
             "black_player":"梅笑寒",
             "black_team":"",
             "white_player":"刘泽伟",
@@ -5402,7 +5812,7 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":2,
-            "table":"3",
+            "table":"'3",
             "black_player":"匡博文",
             "black_team":"",
             "white_player":"杨靖源",
@@ -5411,8 +5821,28 @@
          },
          {
             "date":"2023-09-08T16:00:00.000Z",
+            "round":2,
+            "table":"'4",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"杨鸿哲",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-09-08T16:00:00.000Z",
             "round":3,
-            "table":"3",
+            "table":"'1",
+            "black_player":"杨靖源",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-09-08T16:00:00.000Z",
+            "round":3,
+            "table":"'3",
             "black_player":"刘泽伟",
             "black_team":"",
             "white_player":"孙嘉路",
@@ -5422,7 +5852,7 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":3,
-            "table":"4",
+            "table":"'4",
             "black_player":"匡博文",
             "black_team":"",
             "white_player":"高君睿",
@@ -5432,7 +5862,7 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":4,
-            "table":"2",
+            "table":"'2",
             "black_player":"梅笑寒",
             "black_team":"",
             "white_player":"匡博文",
@@ -5442,7 +5872,17 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":4,
-            "table":"4",
+            "table":"'3",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"孙嘉路",
+            "white_team":"",
+            "result":"黑胜12.75子"
+         },
+         {
+            "date":"2023-09-08T16:00:00.000Z",
+            "round":4,
+            "table":"'4",
             "black_player":"杨鸿哲",
             "black_team":"",
             "white_player":"刘泽伟",
@@ -5452,7 +5892,7 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":5,
-            "table":"1",
+            "table":"'1",
             "black_player":"刘泽伟",
             "black_team":"",
             "white_player":"杨靖源",
@@ -5462,7 +5902,17 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":5,
-            "table":"3",
+            "table":"'2",
+            "black_player":"熊怀远",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-09-08T16:00:00.000Z",
+            "round":5,
+            "table":"'3",
             "black_player":"孙嘉路",
             "black_team":"",
             "white_player":"匡博文",
@@ -5474,7 +5924,17 @@
          {
             "date":"2023-10-20T16:00:00.000Z",
             "round":1,
-            "table":"21",
+            "table":"'2",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"刁玉琛",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-10-20T16:00:00.000Z",
+            "round":1,
+            "table":"'21",
             "black_player":"庄应楠",
             "black_team":"",
             "white_player":"曾子荣",
@@ -5484,7 +5944,7 @@
          {
             "date":"2023-10-20T16:00:00.000Z",
             "round":1,
-            "table":"28",
+            "table":"'28",
             "black_player":"匡博文",
             "black_team":"",
             "white_player":"孙嘉路",
@@ -5494,7 +5954,17 @@
          {
             "date":"2023-10-20T16:00:00.000Z",
             "round":2,
-            "table":"20",
+            "table":"'18",
+            "black_player":"黄昉宇",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-10-20T16:00:00.000Z",
+            "round":2,
+            "table":"'20",
             "black_player":"易骏涵",
             "black_team":"",
             "white_player":"庄应楠",
@@ -5504,7 +5974,7 @@
          {
             "date":"2023-10-20T16:00:00.000Z",
             "round":2,
-            "table":"25",
+            "table":"'25",
             "black_player":"陈嘉明",
             "black_team":"",
             "white_player":"匡博文",
@@ -5514,7 +5984,7 @@
          {
             "date":"2023-10-20T16:00:00.000Z",
             "round":2,
-            "table":"5",
+            "table":"'5",
             "black_player":"曾子荣",
             "black_team":"",
             "white_player":"刘成龙",
@@ -5524,7 +5994,7 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":3,
-            "table":"11",
+            "table":"'11",
             "black_player":"麦凯心",
             "black_team":"",
             "white_player":"曾子荣",
@@ -5534,7 +6004,17 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":3,
-            "table":"18",
+            "table":"'12",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"周迎港",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-10-21T16:00:00.000Z",
+            "round":3,
+            "table":"'18",
             "black_player":"庄应楠",
             "black_team":"",
             "white_player":"唐世捷",
@@ -5544,7 +6024,7 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":3,
-            "table":"23",
+            "table":"'23",
             "black_player":"敬济源",
             "black_team":"",
             "white_player":"匡博文",
@@ -5554,7 +6034,7 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":4,
-            "table":"10",
+            "table":"'10",
             "black_player":"申沁恺",
             "black_team":"",
             "white_player":"庄应楠",
@@ -5564,7 +6044,7 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":4,
-            "table":"12",
+            "table":"'12",
             "black_player":"曾子荣",
             "black_team":"",
             "white_player":"肖志颖",
@@ -5574,7 +6054,17 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":4,
-            "table":"9",
+            "table":"'25",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"余文扬",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-10-21T16:00:00.000Z",
+            "round":4,
+            "table":"'9",
             "black_player":"匡博文",
             "black_team":"",
             "white_player":"郑景容",
@@ -5584,7 +6074,7 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":5,
-            "table":"10",
+            "table":"'10",
             "black_player":"刁玉琛",
             "black_team":"",
             "white_player":"匡博文",
@@ -5594,7 +6084,17 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":5,
-            "table":"15",
+            "table":"'12",
+            "black_player":"麦凯心",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-10-21T16:00:00.000Z",
+            "round":5,
+            "table":"'15",
             "black_player":"庄应楠",
             "black_team":"",
             "white_player":"张秦盟",
@@ -5604,7 +6104,7 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":5,
-            "table":"8",
+            "table":"'8",
             "black_player":"杨靖源",
             "black_team":"",
             "white_player":"曾子荣",
@@ -5614,7 +6114,7 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":6,
-            "table":"13",
+            "table":"'13",
             "black_player":"曾子荣",
             "black_team":"",
             "white_player":"郑景容",
@@ -5624,7 +6124,7 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":6,
-            "table":"14",
+            "table":"'14",
             "black_player":"梅笑寒",
             "black_team":"",
             "white_player":"庄应楠",
@@ -5634,7 +6134,17 @@
          {
             "date":"2023-10-21T16:00:00.000Z",
             "round":6,
-            "table":"4",
+            "table":"'21",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"钟雨宸",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-10-21T16:00:00.000Z",
+            "round":6,
+            "table":"'4",
             "black_player":"匡博文",
             "black_team":"",
             "white_player":"刘之昀",
@@ -5646,7 +6156,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":1,
-            "table":"1",
+            "table":"'1",
             "black_player":"王魁",
             "black_team":"清华深研院",
             "white_player":"谢一飞",
@@ -5656,7 +6166,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":1,
-            "table":"12",
+            "table":"'12",
             "black_player":"刘澳霖",
             "black_team":"鹏城实验室",
             "white_player":"付涵一",
@@ -5666,7 +6176,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":1,
-            "table":"18",
+            "table":"'18",
             "black_player":"高晨霖",
             "black_team":"哈尔滨工业大学（深圳）",
             "white_player":"匡博文",
@@ -5676,7 +6186,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":1,
-            "table":"22",
+            "table":"'22",
             "black_player":"刘岩军",
             "black_team":"北大深研院",
             "white_player":"曹冉",
@@ -5686,7 +6196,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":1,
-            "table":"25",
+            "table":"'25",
             "black_player":"王启涵",
             "black_team":"香港中文大学（深圳）",
             "white_player":"",
@@ -5696,7 +6206,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":1,
-            "table":"29",
+            "table":"'29",
             "black_player":"薛维哲",
             "black_team":"哈尔滨工业大学（深圳）",
             "white_player":"王桢",
@@ -5706,7 +6216,17 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":1,
-            "table":"7",
+            "table":"'5",
+            "black_player":"甘树燊",
+            "black_team":"深圳大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-11-11T16:00:00.000Z",
+            "round":1,
+            "table":"'7",
             "black_player":"刘思安",
             "black_team":"香港中文大学（深圳）",
             "white_player":"吴国喜",
@@ -5716,7 +6236,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":1,
-            "table":"9",
+            "table":"'9",
             "black_player":"王蒲铸",
             "black_team":"香港中文大学（深圳）",
             "white_player":"王文军",
@@ -5726,7 +6246,17 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":2,
-            "table":"15",
+            "table":"'1",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"黄锴",
+            "white_team":"深圳大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-11-11T16:00:00.000Z",
+            "round":2,
+            "table":"'15",
             "black_player":"谢一飞",
             "black_team":"香港中文大学（深圳）",
             "white_player":"欧阳韧雄",
@@ -5736,7 +6266,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":2,
-            "table":"22",
+            "table":"'22",
             "black_player":"王桢",
             "black_team":"香港中文大学（深圳）",
             "white_player":"高晨霖",
@@ -5746,7 +6276,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":2,
-            "table":"26",
+            "table":"'26",
             "black_player":"廖沙沙",
             "black_team":"深圳理工大学",
             "white_player":"刘思安",
@@ -5756,7 +6286,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":2,
-            "table":"28",
+            "table":"'28",
             "black_player":"曹冉",
             "black_team":"香港中文大学（深圳）",
             "white_player":"白云鹏",
@@ -5766,7 +6296,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":2,
-            "table":"33",
+            "table":"'33",
             "black_player":"张羽奇",
             "black_team":"清华深研院",
             "white_player":"王蒲铸",
@@ -5776,7 +6306,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":2,
-            "table":"34",
+            "table":"'34",
             "black_player":"黄宇",
             "black_team":"深圳理工大学",
             "white_player":"王启涵",
@@ -5786,7 +6316,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":2,
-            "table":"5",
+            "table":"'5",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"薛维哲",
@@ -5796,11 +6326,21 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":2,
-            "table":"8",
+            "table":"'8",
             "black_player":"付涵一",
             "black_team":"香港中文大学（深圳）",
             "white_player":"李一鸣",
             "white_team":"哈尔滨工业大学（深圳）",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-11-11T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
             "result":"白中盘胜"
          },
          {
@@ -5856,7 +6396,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":3,
-            "table":"1",
+            "table":"'1",
             "black_player":"邓韵芳",
             "black_team":"深圳大学",
             "white_player":"谢一飞",
@@ -5866,12 +6406,22 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":3,
-            "table":"25",
+            "table":"'25",
             "black_player":"欧阳韧雄",
             "black_team":"北大深研院",
             "white_player":"付涵一",
             "white_team":"香港中文大学（深圳）",
             "result":"白中盘胜"
+         },
+         {
+            "date":"2023-11-11T16:00:00.000Z",
+            "round":4,
+            "table":"",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"",
+            "white_team":"",
+            "result":"黑中盘胜"
          },
          {
             "date":"2023-11-11T16:00:00.000Z",
@@ -5946,7 +6496,7 @@
          {
             "date":"2023-11-11T16:00:00.000Z",
             "round":4,
-            "table":"12",
+            "table":"'12",
             "black_player":"付涵一",
             "black_team":"香港中文大学（深圳）",
             "white_player":"黄锴",
@@ -5956,7 +6506,7 @@
          {
             "date":"2023-11-14T16:00:00.000Z",
             "round":5,
-            "table":"11",
+            "table":"'11",
             "black_player":"刘思安",
             "black_team":"香港中文大学（深圳）",
             "white_player":"吕学锋",
@@ -5966,7 +6516,7 @@
          {
             "date":"2023-11-14T16:00:00.000Z",
             "round":5,
-            "table":"12",
+            "table":"'12",
             "black_player":"王魁",
             "black_team":"清华深研院",
             "white_player":"王蒲铸",
@@ -5976,7 +6526,7 @@
          {
             "date":"2023-11-14T16:00:00.000Z",
             "round":5,
-            "table":"15",
+            "table":"'15",
             "black_player":"彭仲骐",
             "black_team":"哈尔滨工业大学（深圳）",
             "white_player":"付涵一",
@@ -5986,7 +6536,17 @@
          {
             "date":"2023-11-14T16:00:00.000Z",
             "round":5,
-            "table":"20",
+            "table":"'2",
+            "black_player":"申沁恺",
+            "black_team":"北大深研院",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-11-14T16:00:00.000Z",
+            "round":5,
+            "table":"'20",
             "black_player":"曹冉",
             "black_team":"香港中文大学（深圳）",
             "white_player":"周进",
@@ -5996,7 +6556,7 @@
          {
             "date":"2023-11-14T16:00:00.000Z",
             "round":5,
-            "table":"26",
+            "table":"'26",
             "black_player":"王启涵",
             "black_team":"香港中文大学（深圳）",
             "white_player":"王波",
@@ -6006,7 +6566,7 @@
          {
             "date":"2023-11-14T16:00:00.000Z",
             "round":5,
-            "table":"27",
+            "table":"'27",
             "black_player":"吉伟林",
             "black_team":"北大深研院",
             "white_player":"王桢",
@@ -6016,7 +6576,7 @@
          {
             "date":"2023-11-14T16:00:00.000Z",
             "round":5,
-            "table":"3",
+            "table":"'3",
             "black_player":"吴唐子",
             "black_team":"南方科技大学",
             "white_player":"匡博文",
@@ -6026,7 +6586,7 @@
          {
             "date":"2023-11-14T16:00:00.000Z",
             "round":5,
-            "table":"4",
+            "table":"'4",
             "black_player":"闫江昊",
             "black_team":"深圳大学",
             "white_player":"谢一飞",
@@ -6061,6 +6621,16 @@
             "black_team":"香港中文大学（深圳）",
             "white_player":"邓韵芳",
             "white_team":"深圳大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-11-14T16:00:00.000Z",
+            "round":6,
+            "table":"",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"",
+            "white_team":"",
             "result":"黑中盘胜"
          },
          {
@@ -6111,6 +6681,16 @@
             "black_team":"香港中文大学（深圳）",
             "white_player":"欧阳韧雄",
             "white_team":"北大深研院",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-11-14T16:00:00.000Z",
+            "round":7,
+            "table":"",
+            "black_player":"刘之昀",
+            "black_team":"清华深研院",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
             "result":"黑中盘胜"
          },
          {
@@ -6176,7 +6756,7 @@
          {
             "date":"2023-11-14T16:00:00.000Z",
             "round":7,
-            "table":"1",
+            "table":"'1",
             "black_player":"申沁恺",
             "black_team":"北大深研院",
             "white_player":"匡博文",
@@ -6400,7 +6980,17 @@
          {
             "date":"2023-12-22T16:00:00.000Z",
             "round":1,
-            "table":"5",
+            "table":"'18",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"史济东",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-12-22T16:00:00.000Z",
+            "round":1,
+            "table":"'5",
             "black_player":"曾子荣",
             "black_team":"",
             "white_player":"柯铭芝",
@@ -6410,7 +7000,7 @@
          {
             "date":"2023-12-22T16:00:00.000Z",
             "round":1,
-            "table":"7",
+            "table":"'7",
             "black_player":"王曦浠",
             "black_team":"",
             "white_player":"付涵一",
@@ -6420,7 +7010,17 @@
          {
             "date":"2023-12-22T16:00:00.000Z",
             "round":2,
-            "table":"7",
+            "table":"'12",
+            "black_player":"曹远峥",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-12-22T16:00:00.000Z",
+            "round":2,
+            "table":"'7",
             "black_player":"付涵一",
             "black_team":"",
             "white_player":"高君睿",
@@ -6430,7 +7030,7 @@
          {
             "date":"2023-12-22T16:00:00.000Z",
             "round":2,
-            "table":"8",
+            "table":"'8",
             "black_player":"刘思裕",
             "black_team":"",
             "white_player":"曾子荣",
@@ -6440,7 +7040,17 @@
          {
             "date":"2023-12-22T16:00:00.000Z",
             "round":3,
-            "table":"2",
+            "table":"'14",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"王彦之",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-12-22T16:00:00.000Z",
+            "round":3,
+            "table":"'2",
             "black_player":"曾子荣",
             "black_team":"",
             "white_player":"高君睿",
@@ -6450,7 +7060,7 @@
          {
             "date":"2023-12-22T16:00:00.000Z",
             "round":3,
-            "table":"9",
+            "table":"'9",
             "black_player":"李承恩",
             "black_team":"",
             "white_player":"付涵一",
@@ -6460,7 +7070,7 @@
          {
             "date":"2023-12-22T16:00:00.000Z",
             "round":4,
-            "table":"2",
+            "table":"'2",
             "black_player":"丁弋洋",
             "black_team":"",
             "white_player":"曾子荣",
@@ -6470,7 +7080,17 @@
          {
             "date":"2023-12-22T16:00:00.000Z",
             "round":4,
-            "table":"8",
+            "table":"'5",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"江永图",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-12-22T16:00:00.000Z",
+            "round":4,
+            "table":"'8",
             "black_player":"付涵一",
             "black_team":"",
             "white_player":"褚吉辰",
@@ -6480,7 +7100,7 @@
          {
             "date":"2023-12-23T16:00:00.000Z",
             "round":5,
-            "table":"1",
+            "table":"'1",
             "black_player":"曾子荣",
             "black_team":"",
             "white_player":"郑景容",
@@ -6490,7 +7110,17 @@
          {
             "date":"2023-12-23T16:00:00.000Z",
             "round":5,
-            "table":"8",
+            "table":"'6",
+            "black_player":"徐文革",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白弃权胜"
+         },
+         {
+            "date":"2023-12-23T16:00:00.000Z",
+            "round":5,
+            "table":"'8",
             "black_player":"付涵一",
             "black_team":"",
             "white_player":"苏畅",
@@ -6500,7 +7130,17 @@
          {
             "date":"2023-12-23T16:00:00.000Z",
             "round":6,
-            "table":"4",
+            "table":"'2",
+            "black_player":"申沁恺",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-12-23T16:00:00.000Z",
+            "round":6,
+            "table":"'4",
             "black_player":"曾子荣",
             "black_team":"",
             "white_player":"史济东",
@@ -6510,7 +7150,7 @@
          {
             "date":"2023-12-23T16:00:00.000Z",
             "round":6,
-            "table":"8",
+            "table":"'8",
             "black_player":"刘浩然",
             "black_team":"",
             "white_player":"付涵一",
@@ -6520,7 +7160,7 @@
          {
             "date":"2023-12-23T16:00:00.000Z",
             "round":7,
-            "table":"1",
+            "table":"'1",
             "black_player":"曾子荣",
             "black_team":"",
             "white_player":"郝一搏",
@@ -6530,7 +7170,17 @@
          {
             "date":"2023-12-23T16:00:00.000Z",
             "round":7,
-            "table":"8",
+            "table":"'7",
+            "black_player":"王致远",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-12-23T16:00:00.000Z",
+            "round":7,
+            "table":"'8",
             "black_player":"柯铭芝",
             "black_team":"",
             "white_player":"付涵一",
@@ -6540,7 +7190,7 @@
          {
             "date":"2023-12-23T16:00:00.000Z",
             "round":8,
-            "table":"14",
+            "table":"'14",
             "black_player":"徐梦洋",
             "black_team":"",
             "white_player":"付涵一",
@@ -6550,7 +7200,7 @@
          {
             "date":"2023-12-23T16:00:00.000Z",
             "round":8,
-            "table":"2",
+            "table":"'2",
             "black_player":"丁泽洋",
             "black_team":"",
             "white_player":"曾子荣",
@@ -7148,7 +7798,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":1,
-            "table":"2",
+            "table":"'2",
             "black_player":"张晓彤",
             "black_team":"深圳大学",
             "white_player":"曾子荣",
@@ -7158,7 +7808,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":1,
-            "table":"3",
+            "table":"'3",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"丁泽洋",
@@ -7168,7 +7818,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":1,
-            "table":"4",
+            "table":"'4",
             "black_player":"高云舒",
             "black_team":"南方科技大学",
             "white_player":"刘泽伟",
@@ -7178,7 +7828,17 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":2,
-            "table":"3",
+            "table":"'2",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-05-11T16:00:00.000Z",
+            "round":2,
+            "table":"'3",
             "black_player":"曾子荣",
             "black_team":"香港中文大学（深圳）",
             "white_player":"高君睿",
@@ -7188,17 +7848,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":2,
-            "table":"4",
-            "black_player":"刘泽伟",
-            "black_team":"深圳大学",
-            "white_player":"丁泽洋",
-            "white_team":"南方科技大学",
-            "result":"白中盘胜"
-         },
-         {
-            "date":"2024-05-11T16:00:00.000Z",
-            "round":2,
-            "table":"5",
+            "table":"'5",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"高云舒",
@@ -7208,7 +7858,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":3,
-            "table":"1",
+            "table":"'1",
             "black_player":"曾子荣",
             "black_team":"香港中文大学（深圳）",
             "white_player":"丁泽洋",
@@ -7218,7 +7868,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":3,
-            "table":"3",
+            "table":"'3",
             "black_player":"高君睿",
             "black_team":"南方科技大学",
             "white_player":"匡博文",
@@ -7228,7 +7878,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":3,
-            "table":"4",
+            "table":"'4",
             "black_player":"刘泽伟",
             "black_team":"深圳大学",
             "white_player":"陈一戈",
@@ -7238,7 +7888,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":4,
-            "table":"1",
+            "table":"'1",
             "black_player":"刘之昀",
             "black_team":"清华深研院",
             "white_player":"曾子荣",
@@ -7248,7 +7898,17 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":4,
-            "table":"3",
+            "table":"'2",
+            "black_player":"梅笑寒",
+            "black_team":"南方科技大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-05-11T16:00:00.000Z",
+            "round":4,
+            "table":"'3",
             "black_player":"陈一戈",
             "black_team":"南方科技大学",
             "white_player":"匡博文",
@@ -7258,7 +7918,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":4,
-            "table":"4",
+            "table":"'4",
             "black_player":"刘泽伟",
             "black_team":"深圳大学",
             "white_player":"高君睿",
@@ -7268,7 +7928,7 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":5,
-            "table":"1",
+            "table":"'1",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"曾子荣",
@@ -7278,7 +7938,17 @@
          {
             "date":"2024-05-11T16:00:00.000Z",
             "round":5,
-            "table":"6",
+            "table":"'2",
+            "black_player":"刘之昀",
+            "black_team":"清华深研院",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-05-11T16:00:00.000Z",
+            "round":5,
+            "table":"'6",
             "black_player":"刘泽伟",
             "black_team":"深圳大学",
             "white_player":"张晓彤",
@@ -7632,7 +8302,17 @@
          {
             "date":"2024-05-24T16:00:00.000Z",
             "round":1,
-            "table":"7-1",
+            "table":"'6-2",
+            "black_player":"范东源",
+            "black_team":"武汉大学",
+            "white_player":"胡钧瑞",
+            "white_team":"深圳技术大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-05-24T16:00:00.000Z",
+            "round":1,
+            "table":"'7-1",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"姜子旭",
@@ -7642,7 +8322,7 @@
          {
             "date":"2024-05-24T16:00:00.000Z",
             "round":1,
-            "table":"7-2",
+            "table":"'7-2",
             "black_player":"张兆容",
             "black_team":"哈尔滨工业大学（深圳）",
             "white_player":"蓝迪",
@@ -7652,7 +8332,7 @@
          {
             "date":"2024-05-24T16:00:00.000Z",
             "round":1,
-            "table":"7-3",
+            "table":"'7-3",
             "black_player":"王蒲铸",
             "black_team":"香港中文大学（深圳）",
             "white_player":"张浩翔",
@@ -7661,8 +8341,38 @@
          },
          {
             "date":"2024-05-24T16:00:00.000Z",
+            "round":1,
+            "table":"'9-1",
+            "black_player":"林志晓",
+            "black_team":"深圳大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-05-24T16:00:00.000Z",
             "round":2,
-            "table":"2-1",
+            "table":"",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"林浩云",
+            "white_team":"暨南大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-05-24T16:00:00.000Z",
+            "round":2,
+            "table":"'1-1",
+            "black_player":"文奕飞",
+            "black_team":"华南理工大学",
+            "white_player":"范东源",
+            "white_team":"武汉大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-05-24T16:00:00.000Z",
+            "round":2,
+            "table":"'2-1",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）",
             "white_player":"刘宇辰",
@@ -7672,7 +8382,7 @@
          {
             "date":"2024-05-24T16:00:00.000Z",
             "round":2,
-            "table":"2-2",
+            "table":"'2-2",
             "black_player":"曾云天",
             "black_team":"广东外语外贸大学",
             "white_player":"王蒲铸",
@@ -7682,7 +8392,7 @@
          {
             "date":"2024-05-24T16:00:00.000Z",
             "round":2,
-            "table":"2-3",
+            "table":"'2-3",
             "black_player":"蓝迪",
             "black_team":"香港中文大学（深圳）",
             "white_player":"李仁朗",
@@ -7692,7 +8402,27 @@
          {
             "date":"2024-05-25T16:00:00.000Z",
             "round":3,
-            "table":"2-1",
+            "table":"",
+            "black_player":"黄夫志",
+            "black_team":"美国加州大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-05-25T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"范东源",
+            "black_team":"武汉大学",
+            "white_player":"张兆容",
+            "white_team":"哈尔滨工业大学（深圳）",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-05-25T16:00:00.000Z",
+            "round":3,
+            "table":"'2-1",
             "black_player":"温学谦",
             "black_team":"华南理工大学",
             "white_player":"匡博文",
@@ -7702,7 +8432,7 @@
          {
             "date":"2024-05-25T16:00:00.000Z",
             "round":3,
-            "table":"2-2",
+            "table":"'2-2",
             "black_player":"王蒲铸",
             "black_team":"香港中文大学（深圳）",
             "white_player":"文奕飞",
@@ -7712,7 +8442,7 @@
          {
             "date":"2024-05-25T16:00:00.000Z",
             "round":3,
-            "table":"2-3",
+            "table":"'2-3",
             "black_player":"刘传星",
             "black_team":"华南理工大学",
             "white_player":"蓝迪",
@@ -7722,7 +8452,17 @@
          {
             "date":"2024-05-25T16:00:00.000Z",
             "round":4,
-            "table":"1-1",
+            "table":"",
+            "black_player":"苏煜曹",
+            "black_team":"深圳北理莫斯科大学",
+            "white_player":"范东源",
+            "white_team":"武汉大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-05-25T16:00:00.000Z",
+            "round":4,
+            "table":"'1-1",
             "black_player":"高君睿",
             "black_team":"南方科技大学",
             "white_player":"匡博文",
@@ -7732,7 +8472,7 @@
          {
             "date":"2024-05-25T16:00:00.000Z",
             "round":4,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"蓝迪",
             "black_team":"香港中文大学（深圳）",
             "white_player":"丁泽洋",
@@ -7742,7 +8482,7 @@
          {
             "date":"2024-05-25T16:00:00.000Z",
             "round":4,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"梅笑寒",
             "black_team":"南方科技大学",
             "white_player":"王蒲铸",
@@ -7752,7 +8492,7 @@
          {
             "date":"2024-05-25T16:00:00.000Z",
             "round":5,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"才登丞",
             "black_team":"新加坡国立大学",
             "white_player":"匡博文",
@@ -7762,7 +8502,7 @@
          {
             "date":"2024-05-25T16:00:00.000Z",
             "round":5,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"王蒲铸",
             "black_team":"香港中文大学（深圳）",
             "white_player":"周阳",
@@ -7772,19 +8512,39 @@
          {
             "date":"2024-05-25T16:00:00.000Z",
             "round":5,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"杨一章",
             "black_team":"新加坡国立大学",
             "white_player":"蓝迪",
             "white_team":"香港中文大学（深圳）",
             "result":"白中盘胜"
+         },
+         {
+            "date":"2024-05-25T16:00:00.000Z",
+            "round":5,
+            "table":"'2-1",
+            "black_player":"范东源",
+            "black_team":"武汉大学",
+            "white_player":"刘晨飞",
+            "white_team":"中山大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-05-25T16:00:00.000Z",
+            "round":5,
+            "table":"'3-3",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"文奕飞",
+            "white_team":"华南理工大学",
+            "result":"黑中盘胜"
          }
       ],
       "34":[
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":1,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"杨芳华",
             "black_team":"方寸守拙队",
             "white_player":"邓晴文",
@@ -7794,7 +8554,17 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":1,
-            "table":"6-1",
+            "table":"'2-5",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"申沁恺",
+            "white_team":"清北校友队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-06-14T16:00:00.000Z",
+            "round":1,
+            "table":"'6-1",
             "black_player":"蓝迪",
             "black_team":"弈秋棋社一队",
             "white_player":"张兆容",
@@ -7804,7 +8574,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":1,
-            "table":"6-2",
+            "table":"'6-2",
             "black_player":"张兆熙",
             "black_team":"和辉资本队",
             "white_player":"庄应楠",
@@ -7814,7 +8584,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":1,
-            "table":"6-3",
+            "table":"'6-3",
             "black_player":"陈砚清",
             "black_team":"弈秋棋社一队",
             "white_player":"罗鹏",
@@ -7824,7 +8594,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":1,
-            "table":"6-4",
+            "table":"'6-4",
             "black_player":"陈峰亮",
             "black_team":"和辉资本队",
             "white_player":"朱泓宇",
@@ -7834,7 +8604,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":1,
-            "table":"6-5",
+            "table":"'6-5",
             "black_player":"曾子荣",
             "black_team":"弈秋棋社一队",
             "white_player":"肖志颖",
@@ -7844,7 +8614,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":2,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"邓晴文",
             "black_team":"凌云棋社队",
             "white_player":"张兆熙",
@@ -7854,7 +8624,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":2,
-            "table":"2-1",
+            "table":"'2-1",
             "black_player":"丁姝月",
             "black_team":"深圳大学队",
             "white_player":"付涵一",
@@ -7864,7 +8634,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":2,
-            "table":"2-2",
+            "table":"'2-2",
             "black_player":"蓝迪",
             "black_team":"弈秋棋社一队",
             "white_player":"聂磊鑫",
@@ -7874,7 +8644,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":2,
-            "table":"2-3",
+            "table":"'2-3",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"曾子荣",
@@ -7884,7 +8654,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":2,
-            "table":"2-4",
+            "table":"'2-4",
             "black_player":"朱夏俊",
             "black_team":"弈秋棋社一队",
             "white_player":"孙嘉路",
@@ -7894,7 +8664,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":2,
-            "table":"2-5",
+            "table":"'2-5",
             "black_player":"罗宇涵",
             "black_team":"深圳大学队",
             "white_player":"王蒲铸",
@@ -7904,7 +8674,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":3,
-            "table":"1-5",
+            "table":"'1-5",
             "black_player":"高云舒",
             "black_team":"南科棋社队",
             "white_player":"邓晴文",
@@ -7914,7 +8684,17 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":3,
-            "table":"3-1",
+            "table":"'3-1",
+            "black_player":"朱泓宇",
+            "black_team":"弈秋棋社一队",
+            "white_player":"刘璇",
+            "white_team":"剑气无争队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-06-14T16:00:00.000Z",
+            "round":3,
+            "table":"'3-2",
             "black_player":"张文浩",
             "black_team":"剑气无争队",
             "white_player":"蓝迪",
@@ -7924,7 +8704,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":3,
-            "table":"3-2",
+            "table":"'3-3",
             "black_player":"曾子荣",
             "black_team":"弈秋棋社一队",
             "white_player":"黄炜",
@@ -7934,7 +8714,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":3,
-            "table":"3-3",
+            "table":"'3-4",
             "black_player":"罗慕冲",
             "black_team":"剑气无争队",
             "white_player":"庄应楠",
@@ -7944,7 +8724,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":3,
-            "table":"3-4",
+            "table":"'3-5",
             "black_player":"朱夏俊",
             "black_team":"弈秋棋社一队",
             "white_player":"游星昊",
@@ -7954,7 +8734,7 @@
          {
             "date":"2024-06-14T16:00:00.000Z",
             "round":3,
-            "table":"3-5",
+            "table":"'6-2",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"陈峰亮",
@@ -7962,19 +8742,9 @@
             "result":"黑中盘胜"
          },
          {
-            "date":"2024-06-14T16:00:00.000Z",
-            "round":3,
-            "table":"6-2",
-            "black_player":"朱泓宇",
-            "black_team":"弈秋棋社一队",
-            "white_player":"刘璇",
-            "white_team":"剑气无争队",
-            "result":"黑中盘胜"
-         },
-         {
             "date":"2024-06-15T16:00:00.000Z",
             "round":4,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"邓晴文",
             "black_team":"凌云棋社队",
             "white_player":"孙嘉路",
@@ -7984,7 +8754,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":4,
-            "table":"1-5",
+            "table":"'1-5",
             "black_player":"江永图",
             "black_team":"凌云棋社队",
             "white_player":"刘泽伟",
@@ -7994,7 +8764,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":4,
-            "table":"3-1",
+            "table":"'3-1",
             "black_player":"蒋琪",
             "black_team":"瑞珂玛队",
             "white_player":"曾子荣",
@@ -8004,7 +8774,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":4,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"蓝迪",
             "black_team":"弈秋棋社一队",
             "white_player":"张钦年",
@@ -8014,7 +8784,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":4,
-            "table":"3-3",
+            "table":"'3-3",
             "black_player":"陈砚清",
             "black_team":"弈秋棋社一队",
             "white_player":"高飞",
@@ -8024,7 +8794,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":4,
-            "table":"3-4",
+            "table":"'3-4",
             "black_player":"钱德政",
             "black_team":"瑞珂玛队",
             "white_player":"付涵一",
@@ -8034,7 +8804,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":4,
-            "table":"3-5",
+            "table":"'3-5",
             "black_player":"刘勇",
             "black_team":"瑞珂玛队",
             "white_player":"陈苏鹏",
@@ -8043,8 +8813,18 @@
          },
          {
             "date":"2024-06-15T16:00:00.000Z",
+            "round":4,
+            "table":"'6-1",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"张景皓",
+            "white_team":"中育控股队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-06-15T16:00:00.000Z",
             "round":5,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"邓晴文",
             "black_team":"凌云棋社队",
             "white_player":"张展鹏",
@@ -8054,7 +8834,17 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":5,
-            "table":"4-1",
+            "table":"'2-3",
+            "black_player":"何全",
+            "black_team":"万景华队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-06-15T16:00:00.000Z",
+            "round":5,
+            "table":"'4-1",
             "black_player":"陈苏鹏",
             "black_team":"弈秋棋社一队",
             "white_player":"刘之昀",
@@ -8064,17 +8854,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":5,
-            "table":"4-1",
-            "black_player":"欧阳韧雄",
-            "black_team":"清北校友队",
-            "white_player":"蓝迪",
-            "white_team":"弈秋棋社一队",
-            "result":"白中盘胜"
-         },
-         {
-            "date":"2024-06-15T16:00:00.000Z",
-            "round":5,
-            "table":"4-3",
+            "table":"'4-2",
             "black_player":"漆小洛",
             "black_team":"清北校友队",
             "white_player":"付涵一",
@@ -8084,17 +8864,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":5,
-            "table":"4-3",
-            "black_player":"曾子荣",
-            "black_team":"弈秋棋社一队",
-            "white_player":"王舟楫",
-            "white_team":"清北校友队",
-            "result":"黑中盘胜"
-         },
-         {
-            "date":"2024-06-15T16:00:00.000Z",
-            "round":5,
-            "table":"4-5",
+            "table":"'4-3",
             "black_player":"朱夏俊",
             "black_team":"弈秋棋社一队",
             "white_player":"蔡韫睿",
@@ -8104,7 +8874,27 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":5,
-            "table":"4-5",
+            "table":"'4-4",
+            "black_player":"欧阳韧雄",
+            "black_team":"清北校友队",
+            "white_player":"蓝迪",
+            "white_team":"弈秋棋社一队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-06-15T16:00:00.000Z",
+            "round":5,
+            "table":"'4-5",
+            "black_player":"曾子荣",
+            "black_team":"弈秋棋社一队",
+            "white_player":"王舟楫",
+            "white_team":"清北校友队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-06-15T16:00:00.000Z",
+            "round":5,
+            "table":"'6-3",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"黄炜",
@@ -8114,7 +8904,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":6,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"邓晴文",
             "black_team":"凌云棋社队",
             "white_player":"罗慕冲",
@@ -8124,7 +8914,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":6,
-            "table":"2-1",
+            "table":"'2-1",
             "black_player":"潘文平",
             "black_team":"瑞珂玛队",
             "white_player":"刘泽伟",
@@ -8134,7 +8924,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":6,
-            "table":"4-1",
+            "table":"'4-1",
             "black_player":"卢俊",
             "black_team":"方寸守拙队",
             "white_player":"蓝迪",
@@ -8144,7 +8934,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":6,
-            "table":"4-2",
+            "table":"'4-2",
             "black_player":"朱夏俊",
             "black_team":"弈秋棋社一队",
             "white_player":"胡正浩",
@@ -8154,7 +8944,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":6,
-            "table":"4-3",
+            "table":"'4-3",
             "black_player":"崔一凡",
             "black_team":"方寸守拙队",
             "white_player":"陈砚清",
@@ -8164,7 +8954,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":6,
-            "table":"4-4",
+            "table":"'4-4",
             "black_player":"庄应楠",
             "black_team":"弈秋棋社一队",
             "white_player":"甄浩智",
@@ -8174,7 +8964,7 @@
          {
             "date":"2024-06-15T16:00:00.000Z",
             "round":6,
-            "table":"4-5",
+            "table":"'4-5",
             "black_player":"宿韬锐",
             "black_team":"方寸守拙队",
             "white_player":"曾子荣",
@@ -8184,7 +8974,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":7,
-            "table":"3-1",
+            "table":"'3-1",
             "black_player":"朱泓宇",
             "black_team":"弈秋棋社一队",
             "white_player":"丁泽洋",
@@ -8194,7 +8984,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":7,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"冯晓豪",
             "black_team":"南科棋社队",
             "white_player":"曾子荣",
@@ -8204,7 +8994,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":7,
-            "table":"3-3",
+            "table":"'3-3",
             "black_player":"庄应楠",
             "black_team":"弈秋棋社一队",
             "white_player":"高君睿",
@@ -8214,7 +9004,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":7,
-            "table":"3-4",
+            "table":"'3-4",
             "black_player":"邹若彤",
             "black_team":"南科棋社队",
             "white_player":"陈砚清",
@@ -8224,7 +9014,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":7,
-            "table":"3-5",
+            "table":"'3-5",
             "black_player":"蓝迪",
             "black_team":"弈秋棋社一队",
             "white_player":"陈一戈",
@@ -8234,7 +9024,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":8,
-            "table":"3-4",
+            "table":"'3-4",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"胡正浩",
@@ -8244,7 +9034,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":8,
-            "table":"5-1",
+            "table":"'5-1",
             "black_player":"张展鹏",
             "black_team":"中育控股队",
             "white_player":"朱夏俊",
@@ -8254,7 +9044,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":8,
-            "table":"5-2",
+            "table":"'5-2",
             "black_player":"蓝迪",
             "black_team":"弈秋棋社一队",
             "white_player":"徐旭",
@@ -8264,7 +9054,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":8,
-            "table":"5-3",
+            "table":"'5-3",
             "black_player":"蒙柏伟",
             "black_team":"中育控股队",
             "white_player":"朱泓宇",
@@ -8274,7 +9064,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":8,
-            "table":"5-4",
+            "table":"'5-4",
             "black_player":"曾子荣",
             "black_team":"弈秋棋社一队",
             "white_player":"尤嘉",
@@ -8284,7 +9074,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":8,
-            "table":"5-5",
+            "table":"'5-5",
             "black_player":"柯铭芝",
             "black_team":"中育控股队",
             "white_player":"庄应楠",
@@ -8294,7 +9084,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":9,
-            "table":"2-1",
+            "table":"'2-1",
             "black_player":"曾子荣",
             "black_team":"弈秋棋社一队",
             "white_player":"匡宇晨",
@@ -8304,7 +9094,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":9,
-            "table":"2-2",
+            "table":"'2-2",
             "black_player":"刘武",
             "black_team":"万景华队",
             "white_player":"庄应楠",
@@ -8314,7 +9104,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":9,
-            "table":"2-3",
+            "table":"'2-3",
             "black_player":"付涵一",
             "black_team":"弈秋棋社一队",
             "white_player":"金少华",
@@ -8324,7 +9114,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":9,
-            "table":"2-4",
+            "table":"'2-4",
             "black_player":"熊彦红",
             "black_team":"万景华队",
             "white_player":"朱夏俊",
@@ -8334,7 +9124,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":9,
-            "table":"2-5",
+            "table":"'2-5",
             "black_player":"陈苏鹏",
             "black_team":"弈秋棋社一队",
             "white_player":"高天鹏",
@@ -8344,7 +9134,7 @@
          {
             "date":"2024-06-21T16:00:00.000Z",
             "round":9,
-            "table":"3-5",
+            "table":"'3-5",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"高君睿",
@@ -8354,7 +9144,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":10,
-            "table":"4-3",
+            "table":"'4-3",
             "black_player":"张景皓",
             "black_team":"中育控股队",
             "white_player":"刘泽伟",
@@ -8364,7 +9154,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":10,
-            "table":"5-1",
+            "table":"'5-1",
             "black_player":"万思达",
             "black_team":"技术大学队",
             "white_player":"曾子荣",
@@ -8374,7 +9164,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":10,
-            "table":"5-2",
+            "table":"'5-2",
             "black_player":"陈砚清",
             "black_team":"弈秋棋社一队",
             "white_player":"史济东",
@@ -8384,7 +9174,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":10,
-            "table":"5-3",
+            "table":"'5-3",
             "black_player":"胡钧瑞",
             "black_team":"技术大学队",
             "white_player":"蓝迪",
@@ -8394,7 +9184,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":10,
-            "table":"5-4",
+            "table":"'5-4",
             "black_player":"陈苏鹏",
             "black_team":"弈秋棋社一队",
             "white_player":"傅炫俊",
@@ -8404,7 +9194,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":10,
-            "table":"5-5",
+            "table":"'5-5",
             "black_player":"黄佳",
             "black_team":"技术大学队",
             "white_player":"付涵一",
@@ -8414,7 +9204,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":11,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"曾子荣",
             "black_team":"弈秋棋社一队",
             "white_player":"江永图",
@@ -8424,7 +9214,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":11,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"周律",
             "black_team":"凌云棋社队",
             "white_player":"蓝迪",
@@ -8434,7 +9224,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":11,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"王蒲铸",
             "black_team":"弈秋棋社一队",
             "white_player":"汪黄驿",
@@ -8444,7 +9234,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":11,
-            "table":"1-4",
+            "table":"'1-4",
             "black_player":"李建飞",
             "black_team":"凌云棋社队",
             "white_player":"付涵一",
@@ -8454,7 +9244,7 @@
          {
             "date":"2024-06-22T16:00:00.000Z",
             "round":11,
-            "table":"1-5",
+            "table":"'1-5",
             "black_player":"朱泓宇",
             "black_team":"弈秋棋社一队",
             "white_player":"丁弋洋",
@@ -9170,7 +9960,7 @@
          {
             "date":"2024-07-10T16:00:00.000Z",
             "round":1,
-            "table":"20",
+            "table":"'20",
             "black_player":"匡博文",
             "black_team":"深圳高校联队一队",
             "white_player":"吳璟滺",
@@ -9180,7 +9970,7 @@
          {
             "date":"2024-07-10T16:00:00.000Z",
             "round":1,
-            "table":"3",
+            "table":"'3",
             "black_player":"曾子荣",
             "black_team":"深圳高校联队一队",
             "white_player":"何飞扬",
@@ -9189,8 +9979,18 @@
          },
          {
             "date":"2024-07-10T16:00:00.000Z",
+            "round":1,
+            "table":"'5",
+            "black_player":"丁泽洋",
+            "black_team":"深圳高校联队二队",
+            "white_player":"张耀天",
+            "white_team":"中国澳门队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-07-10T16:00:00.000Z",
             "round":2,
-            "table":"10",
+            "table":"'10",
             "black_player":"许文立",
             "black_team":"泰国队",
             "white_player":"曾子荣",
@@ -9200,7 +10000,7 @@
          {
             "date":"2024-07-10T16:00:00.000Z",
             "round":2,
-            "table":"2",
+            "table":"'2",
             "black_player":"梁展𤋮",
             "black_team":"中国香港队",
             "white_player":"匡博文",
@@ -9209,8 +10009,18 @@
          },
          {
             "date":"2024-07-10T16:00:00.000Z",
+            "round":2,
+            "table":"'9",
+            "black_player":"刘之昀",
+            "black_team":"深圳高校联队一队",
+            "white_player":"丁泽洋",
+            "white_team":"深圳高校联队二队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-07-10T16:00:00.000Z",
             "round":3,
-            "table":"2",
+            "table":"'2",
             "black_player":"曾子荣",
             "black_team":"深圳高校联队一队",
             "white_player":"陈一戈",
@@ -9220,7 +10030,7 @@
          {
             "date":"2024-07-10T16:00:00.000Z",
             "round":3,
-            "table":"6",
+            "table":"'6",
             "black_player":"Tran Phuoc Dinh",
             "black_team":"越南队",
             "white_player":"匡博文",
@@ -9229,8 +10039,18 @@
          },
          {
             "date":"2024-07-10T16:00:00.000Z",
+            "round":3,
+            "table":"'8",
+            "black_player":"丁泽洋",
+            "black_team":"深圳高校联队二队",
+            "white_player":"Tran Quoc Hy",
+            "white_team":"越南队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-07-10T16:00:00.000Z",
             "round":4,
-            "table":"1",
+            "table":"'1",
             "black_player":"匡博文",
             "black_team":"深圳高校联队一队",
             "white_player":"川口飛翔",
@@ -9240,7 +10060,17 @@
          {
             "date":"2024-07-10T16:00:00.000Z",
             "round":4,
-            "table":"2",
+            "table":"'10",
+            "black_player":"甄浩智",
+            "black_team":"中国香港队",
+            "white_player":"丁泽洋",
+            "white_team":"深圳高校联队二队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-07-10T16:00:00.000Z",
+            "round":4,
+            "table":"'2",
             "black_player":"An Sang Beom",
             "black_team":"韩国队",
             "white_player":"曾子荣",
@@ -9250,7 +10080,7 @@
          {
             "date":"2024-07-11T16:00:00.000Z",
             "round":5,
-            "table":"1",
+            "table":"'1",
             "black_player":"曾子荣",
             "black_team":"深圳高校联队一队",
             "white_player":"匡博文",
@@ -9259,8 +10089,18 @@
          },
          {
             "date":"2024-07-11T16:00:00.000Z",
+            "round":5,
+            "table":"'3",
+            "black_player":"丁泽洋",
+            "black_team":"深圳高校联队二队",
+            "white_player":"梅一涵",
+            "white_team":"香港科技大学队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-07-11T16:00:00.000Z",
             "round":6,
-            "table":"1",
+            "table":"'1",
             "black_player":"匡博文",
             "black_team":"深圳高校联队一队",
             "white_player":"刘之昀",
@@ -9270,12 +10110,22 @@
          {
             "date":"2024-07-11T16:00:00.000Z",
             "round":6,
-            "table":"3",
+            "table":"'3",
             "black_player":"柯杰晖",
             "black_team":"新加坡队",
             "white_player":"曾子荣",
             "white_team":"深圳高校联队一队",
             "result":"白胜3.25子"
+         },
+         {
+            "date":"2024-07-11T16:00:00.000Z",
+            "round":6,
+            "table":"'4",
+            "black_player":"An Sang Beom",
+            "black_team":"韩国队",
+            "white_player":"丁泽洋",
+            "white_team":"深圳高校联队二队",
+            "result":"黑中盘胜"
          }
       ],
       "38":[
@@ -9486,7 +10336,7 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":1,
-            "table":"1",
+            "table":"'1",
             "black_player":"刘思安",
             "black_team":"香港中文大学",
             "white_player":"宋嘉翔",
@@ -9496,7 +10346,7 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":1,
-            "table":"19",
+            "table":"'19",
             "black_player":"徐明昊",
             "black_team":"郑州大学",
             "white_player":"蓝迪",
@@ -9506,7 +10356,7 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":1,
-            "table":"35",
+            "table":"'35",
             "black_player":"付涵一",
             "black_team":"香港中文大学",
             "white_player":"尹天阳",
@@ -9516,7 +10366,7 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":1,
-            "table":"57",
+            "table":"'57",
             "black_player":"匡博文",
             "black_team":"香港中文大学",
             "white_player":"安茗炫",
@@ -9525,8 +10375,18 @@
          },
          {
             "date":"2024-08-16T16:00:00.000Z",
+            "round":1,
+            "table":"'58",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"孙鹏宇",
+            "white_team":"大连理工大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-08-16T16:00:00.000Z",
             "round":2,
-            "table":"15",
+            "table":"'15",
             "black_player":"陈熹民",
             "black_team":"南方科技大学",
             "white_player":"匡博文",
@@ -9536,7 +10396,7 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":2,
-            "table":"26",
+            "table":"'26",
             "black_player":"蓝迪",
             "black_team":"香港中文大学",
             "white_player":"周弘毅",
@@ -9546,7 +10406,17 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":2,
-            "table":"57",
+            "table":"'49",
+            "black_player":"卢羿",
+            "black_team":"西南财经大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白胜0.25子"
+         },
+         {
+            "date":"2024-08-16T16:00:00.000Z",
+            "round":2,
+            "table":"'57",
             "black_player":"单心铎",
             "black_team":"东华大学",
             "white_player":"付涵一",
@@ -9556,7 +10426,7 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":2,
-            "table":"78",
+            "table":"'78",
             "black_player":"钟兴",
             "black_team":"上海大学",
             "white_player":"刘思安",
@@ -9566,7 +10436,7 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":3,
-            "table":"12",
+            "table":"'12",
             "black_player":"匡博文",
             "black_team":"香港中文大学",
             "white_player":"谭锴轶",
@@ -9576,7 +10446,7 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":3,
-            "table":"21",
+            "table":"'21",
             "black_player":"刘思安",
             "black_team":"香港中文大学",
             "white_player":"施金宏",
@@ -9586,7 +10456,7 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":3,
-            "table":"28",
+            "table":"'28",
             "black_player":"林治昊",
             "black_team":"大连理工大学",
             "white_player":"蓝迪",
@@ -9596,7 +10466,17 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":3,
-            "table":"73",
+            "table":"'52",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"王博浩",
+            "white_team":"西安交通大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-08-16T16:00:00.000Z",
+            "round":3,
+            "table":"'73",
             "black_player":"付涵一",
             "black_team":"香港中文大学",
             "white_player":"宋元烨",
@@ -9606,7 +10486,17 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":4,
-            "table":"30",
+            "table":"'14",
+            "black_player":"李天元",
+            "black_team":"上海交通大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-08-17T16:00:00.000Z",
+            "round":4,
+            "table":"'30",
             "black_player":"尹天阳",
             "black_team":"山东大学",
             "white_player":"刘思安",
@@ -9616,7 +10506,7 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":4,
-            "table":"36",
+            "table":"'36",
             "black_player":"贺诗丹",
             "black_team":"中国海洋大学",
             "white_player":"蓝迪",
@@ -9626,7 +10516,7 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":4,
-            "table":"7",
+            "table":"'7",
             "black_player":"张广涵",
             "black_team":"西安交通大学",
             "white_player":"匡博文",
@@ -9636,7 +10526,7 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":4,
-            "table":"74",
+            "table":"'74",
             "black_player":"张馨文",
             "black_team":"越秀外国语学院",
             "white_player":"付涵一",
@@ -9646,7 +10536,7 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":5,
-            "table":"10",
+            "table":"'10",
             "black_player":"蓝迪",
             "black_team":"香港中文大学",
             "white_player":"欧阳希昶",
@@ -9656,7 +10546,7 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":5,
-            "table":"2",
+            "table":"'2",
             "black_player":"匡博文",
             "black_team":"香港中文大学",
             "white_player":"代耕宇",
@@ -9666,7 +10556,7 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":5,
-            "table":"26",
+            "table":"'26",
             "black_player":"刘思安",
             "black_team":"香港中文大学",
             "white_player":"艾柏杨",
@@ -9676,7 +10566,17 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":5,
-            "table":"64",
+            "table":"'48",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"吴适清",
+            "white_team":"复旦大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-08-17T16:00:00.000Z",
+            "round":5,
+            "table":"'64",
             "black_player":"付涵一",
             "black_team":"香港中文大学",
             "white_player":"张浩宇",
@@ -9686,7 +10586,7 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":6,
-            "table":"3",
+            "table":"'3",
             "black_player":"李天元",
             "black_team":"上海交通大学",
             "white_player":"匡博文",
@@ -9696,7 +10596,7 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":6,
-            "table":"36",
+            "table":"'36",
             "black_player":"蓝迪",
             "black_team":"香港中文大学",
             "white_player":"李嘉轩",
@@ -9706,7 +10606,17 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":6,
-            "table":"53",
+            "table":"'45",
+            "black_player":"李赵晗",
+            "black_team":"西南财经大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-08-18T16:00:00.000Z",
+            "round":6,
+            "table":"'53",
             "black_player":"于轩",
             "black_team":"北京航空航天大学",
             "white_player":"付涵一",
@@ -9716,7 +10626,7 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":6,
-            "table":"58",
+            "table":"'58",
             "black_player":"应子健",
             "black_team":"浙江大学",
             "white_player":"刘思安",
@@ -9726,7 +10636,7 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":7,
-            "table":"11",
+            "table":"'11",
             "black_player":"黎威海",
             "black_team":"厦门大学",
             "white_player":"蓝迪",
@@ -9736,7 +10646,7 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":7,
-            "table":"28",
+            "table":"'28",
             "black_player":"刘思安",
             "black_team":"香港中文大学",
             "white_player":"张宇飞",
@@ -9746,7 +10656,17 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":7,
-            "table":"62",
+            "table":"'45",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"张朔铭",
+            "white_team":"武汉大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-08-18T16:00:00.000Z",
+            "round":7,
+            "table":"'62",
             "black_player":"付涵一",
             "black_team":"香港中文大学",
             "white_player":"张亦晴",
@@ -9756,7 +10676,7 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":7,
-            "table":"7",
+            "table":"'7",
             "black_player":"匡博文",
             "black_team":"香港中文大学",
             "white_player":"赵俊哲",
@@ -9766,7 +10686,7 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":8,
-            "table":"15",
+            "table":"'15",
             "black_player":"蓝迪",
             "black_team":"香港中文大学",
             "white_player":"王梓桂",
@@ -9776,7 +10696,17 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":8,
-            "table":"3",
+            "table":"'25",
+            "black_player":"安茗炫",
+            "black_team":"北京大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-08-18T16:00:00.000Z",
+            "round":8,
+            "table":"'3",
             "black_player":"徐晶琦",
             "black_team":"上海财经大学",
             "white_player":"匡博文",
@@ -9786,7 +10716,7 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":8,
-            "table":"51",
+            "table":"'51",
             "black_player":"陈祎旸",
             "black_team":"上海交通大学",
             "white_player":"付涵一",
@@ -9796,7 +10726,7 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":8,
-            "table":"58",
+            "table":"'58",
             "black_player":"冯之屹",
             "black_team":"复旦大学",
             "white_player":"刘思安",
@@ -9806,7 +10736,7 @@
          {
             "date":"2024-08-19T16:00:00.000Z",
             "round":9,
-            "table":"10",
+            "table":"'10",
             "black_player":"匡博文",
             "black_team":"香港中文大学",
             "white_player":"孙鹏宇",
@@ -9816,7 +10746,7 @@
          {
             "date":"2024-08-19T16:00:00.000Z",
             "round":9,
-            "table":"38",
+            "table":"'38",
             "black_player":"付涵一",
             "black_team":"香港中文大学",
             "white_player":"许伟乐",
@@ -9826,7 +10756,17 @@
          {
             "date":"2024-08-19T16:00:00.000Z",
             "round":9,
-            "table":"52",
+            "table":"'45",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"单心铎",
+            "white_team":"东华大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-08-19T16:00:00.000Z",
+            "round":9,
+            "table":"'52",
             "black_player":"刘思安",
             "black_team":"香港中文大学",
             "white_player":"张庭嘉",
@@ -9836,7 +10776,7 @@
          {
             "date":"2024-08-19T16:00:00.000Z",
             "round":9,
-            "table":"6",
+            "table":"'6",
             "black_player":"储可儿",
             "black_team":"上海财经大学",
             "white_player":"蓝迪",
@@ -12696,7 +13636,7 @@
          {
             "date":"2025-05-09T16:00:00.000Z",
             "round":1,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"罗鹏",
             "black_team":"和辉快乐队",
             "white_player":"朱夏俊",
@@ -12704,9 +13644,49 @@
             "result":"白中盘胜"
          },
          {
+            "date":"2025-05-09T16:00:00.000Z",
+            "round":2,
+            "table":"'1-3",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"李启明",
+            "white_team":"清北友联队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-05-09T16:00:00.000Z",
+            "round":3,
+            "table":"'3-4",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"杨启新",
+            "white_team":"和辉快乐队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-05-10T16:00:00.000Z",
+            "round":4,
+            "table":"'1-2",
+            "black_player":"陈志",
+            "black_team":"盛荣模具队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
             "date":"2025-05-10T16:00:00.000Z",
             "round":5,
-            "table":"5-3",
+            "table":"'3-4",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"韩丽昕",
+            "white_team":"成记绸庄队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-05-10T16:00:00.000Z",
+            "round":5,
+            "table":"'5-3",
             "black_player":"袁永钊",
             "black_team":"清北友联队",
             "white_player":"朱夏俊",
@@ -12716,7 +13696,17 @@
          {
             "date":"2025-05-10T16:00:00.000Z",
             "round":6,
-            "table":"7-2",
+            "table":"'1-3",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"王楚宁",
+            "white_team":"和辉资本队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-05-10T16:00:00.000Z",
+            "round":6,
+            "table":"'7-2",
             "black_player":"朱夏俊",
             "black_team":"激流勇进队",
             "white_player":"史显超",
@@ -12726,7 +13716,17 @@
          {
             "date":"2025-05-16T16:00:00.000Z",
             "round":7,
-            "table":"4-3",
+            "table":"'3-2",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"刘之昀",
+            "white_team":"清北快乐队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-16T16:00:00.000Z",
+            "round":7,
+            "table":"'4-3",
             "black_player":"朱夏俊",
             "black_team":"激流勇进队",
             "white_player":"林润祺",
@@ -12736,7 +13736,7 @@
          {
             "date":"2025-05-16T16:00:00.000Z",
             "round":8,
-            "table":"5-2",
+            "table":"'5-2",
             "black_player":"朱夏俊",
             "black_team":"激流勇进队",
             "white_player":"张华峰",
@@ -12746,7 +13746,17 @@
          {
             "date":"2025-05-16T16:00:00.000Z",
             "round":9,
-            "table":"3-1",
+            "table":"'1-5",
+            "black_player":"朱长铭",
+            "black_team":"优瑞恩队",
+            "white_player":"丁泽洋",
+            "white_team":"南科棋社队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-16T16:00:00.000Z",
+            "round":9,
+            "table":"'3-1",
             "black_player":"蒋归元",
             "black_team":"清北快乐队",
             "white_player":"朱夏俊",
@@ -12755,8 +13765,18 @@
          },
          {
             "date":"2025-05-17T16:00:00.000Z",
+            "round":10,
+            "table":"'2-1",
+            "black_player":"丁泽洋",
+            "black_team":"南科棋社队",
+            "white_player":"吴位红",
+            "white_team":"法律人队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-05-17T16:00:00.000Z",
             "round":11,
-            "table":"1-4",
+            "table":"'1-4",
             "black_player":"丁泽洋",
             "black_team":"南科棋社队",
             "white_player":"朱夏俊",
@@ -12768,7 +13788,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":1,
-            "table":"12-2",
+            "table":"'12-2",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"刘小都",
@@ -12778,7 +13798,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":1,
-            "table":"14-3",
+            "table":"'14-3",
             "black_player":"卿家瑞",
             "black_team":"广州清元棋社文脉相承队",
             "white_player":"余思远",
@@ -12788,7 +13808,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":1,
-            "table":"20-3",
+            "table":"'20-3",
             "black_player":"唐清扬",
             "black_team":"广州流花湖公园队",
             "white_player":"陈羽",
@@ -12798,7 +13818,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":1,
-            "table":"25-1",
+            "table":"'25-1",
             "black_player":"傅炫俊",
             "black_team":"深圳技术大学队",
             "white_player":"庄应楠",
@@ -12808,7 +13828,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":1,
-            "table":"36-2",
+            "table":"'36-2",
             "black_player":"马睿雪",
             "black_team":"广州雪之糕队",
             "white_player":"姚城浠",
@@ -12818,7 +13838,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":1,
-            "table":"42-1",
+            "table":"'42-1",
             "black_player":"陈天朗",
             "black_team":"东莞手谈弈语队",
             "white_player":"付涵一",
@@ -12828,7 +13848,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":1,
-            "table":"42-2",
+            "table":"'42-2",
             "black_player":"王以诺",
             "black_team":"香港中文大学（深圳）队",
             "white_player":"徐乾灏",
@@ -12838,7 +13858,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":1,
-            "table":"42-3",
+            "table":"'42-3",
             "black_player":"满晖",
             "black_team":"东莞手谈弈语队",
             "white_player":"匡博文",
@@ -12847,8 +13867,18 @@
          },
          {
             "date":"2025-05-30T16:00:00.000Z",
+            "round":1,
+            "table":"'7-2",
+            "black_player":"丁泽洋",
+            "black_team":"深圳棋有此理队",
+            "white_player":"牛瑞晗",
+            "white_team":"汕头棋院二队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-05-30T16:00:00.000Z",
             "round":2,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"柯德乐",
             "black_team":"阳江壹方战队",
             "white_player":"匡博文",
@@ -12858,7 +13888,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":2,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"王以诺",
             "black_team":"香港中文大学（深圳）队",
             "white_player":"彭锦浩",
@@ -12868,7 +13898,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":2,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"关健藏",
             "black_team":"阳江壹方战队",
             "white_player":"付涵一",
@@ -12878,7 +13908,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":2,
-            "table":"10-1",
+            "table":"'10-1",
             "black_player":"谭善文",
             "black_team":"广州黄埔围棋协会",
             "white_player":"庄应楠",
@@ -12888,7 +13918,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":2,
-            "table":"12-1",
+            "table":"'12-1",
             "black_player":"周上琛",
             "black_team":"广州流花湖公园二队",
             "white_player":"唐清扬",
@@ -12898,7 +13928,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":2,
-            "table":"15-2",
+            "table":"'15-2",
             "black_player":"卿家瑞",
             "black_team":"广州清元棋社文脉相承队",
             "white_player":"胡军斌",
@@ -12908,7 +13938,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":2,
-            "table":"16-3",
+            "table":"'16-3",
             "black_player":"吴雨霏",
             "black_team":"深圳真朴队",
             "white_player":"刘泽伟",
@@ -12918,7 +13948,17 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":2,
-            "table":"4-1",
+            "table":"'19-1",
+            "black_player":"丁泽洋",
+            "black_team":"深圳棋有此理队",
+            "white_player":"郑景容",
+            "white_team":"汕头围棋协会二队",
+            "result":"白超时胜"
+         },
+         {
+            "date":"2025-05-30T16:00:00.000Z",
+            "round":2,
+            "table":"'4-1",
             "black_player":"叶健",
             "black_team":"韶关围棋协会三队",
             "white_player":"马睿雪",
@@ -12928,7 +13968,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":3,
-            "table":"11-1",
+            "table":"'11-1",
             "black_player":"林信欣",
             "black_team":"汕头广州公园前分队",
             "white_player":"王以诺",
@@ -12938,7 +13978,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":3,
-            "table":"11-2",
+            "table":"'11-2",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）队",
             "white_player":"陈昕阳",
@@ -12948,7 +13988,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":3,
-            "table":"11-3",
+            "table":"'11-3",
             "black_player":"林彬",
             "black_team":"汕头广州公园前分队",
             "white_player":"付涵一",
@@ -12958,7 +13998,17 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":3,
-            "table":"18-3",
+            "table":"'15-2",
+            "black_player":"李芷颐",
+            "black_team":"广州平安红日队",
+            "white_player":"丁泽洋",
+            "white_team":"深圳棋有此理队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-30T16:00:00.000Z",
+            "round":3,
+            "table":"'18-3",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"胡军斌",
@@ -12968,7 +14018,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":3,
-            "table":"24-1",
+            "table":"'24-1",
             "black_player":"吕泽明",
             "black_team":"中山弈彩棋院",
             "white_player":"庄应楠",
@@ -12978,7 +14028,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":3,
-            "table":"4-1",
+            "table":"'4-1",
             "black_player":"卿家瑞",
             "black_team":"广州清元棋社文脉相承队",
             "white_player":"申沁恺",
@@ -12988,7 +14038,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":3,
-            "table":"5-2",
+            "table":"'5-2",
             "black_player":"唐清扬",
             "black_team":"广州流花湖公园队",
             "white_player":"栾宇蒙",
@@ -12998,7 +14048,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":3,
-            "table":"9-3",
+            "table":"'9-3",
             "black_player":"杨郁杏",
             "black_team":"东莞广东美塑队",
             "white_player":"马睿雪",
@@ -13008,7 +14058,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":4,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）队",
             "white_player":"雷鸣",
@@ -13018,7 +14068,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":4,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"何逸琛",
             "black_team":"广州岭南棋院",
             "white_player":"付涵一",
@@ -13028,7 +14078,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":4,
-            "table":"1-3",
+            "table":"'1-3",
             "black_player":"王以诺",
             "black_team":"香港中文大学（深圳）队",
             "white_player":"夏睿",
@@ -13038,7 +14088,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":4,
-            "table":"15-1",
+            "table":"'15-1",
             "black_player":"张翔宇",
             "black_team":"清远围棋协会友旷科技队",
             "white_player":"唐清扬",
@@ -13048,7 +14098,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":4,
-            "table":"18-2",
+            "table":"'18-2",
             "black_player":"孔庆山",
             "black_team":"珠海香洲围棋协会",
             "white_player":"卿家瑞",
@@ -13058,7 +14108,17 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":4,
-            "table":"28-1",
+            "table":"'19-2",
+            "black_player":"丁泽洋",
+            "black_team":"深圳棋有此理队",
+            "white_player":"杨挺",
+            "white_team":"茂名围棋协会",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-30T16:00:00.000Z",
+            "round":4,
+            "table":"'28-1",
             "black_player":"庄应楠",
             "black_team":"广州应元棋院一队",
             "white_player":"何昀璟",
@@ -13068,7 +14128,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":4,
-            "table":"34-1",
+            "table":"'34-1",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"李嘉杰",
@@ -13078,7 +14138,7 @@
          {
             "date":"2025-05-30T16:00:00.000Z",
             "round":4,
-            "table":"9-2",
+            "table":"'9-2",
             "black_player":"朱海",
             "black_team":"韶关围棋协会四队",
             "white_player":"马睿雪",
@@ -13088,7 +14148,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":5,
-            "table":"11-1",
+            "table":"'11-1",
             "black_player":"马睿雪",
             "black_team":"广州雪之糕队",
             "white_player":"欧阳希昶",
@@ -13098,7 +14158,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":5,
-            "table":"18-2",
+            "table":"'18-2",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"杨挺",
@@ -13108,7 +14168,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":5,
-            "table":"19-2",
+            "table":"'19-2",
             "black_player":"卿家瑞",
             "black_team":"广州清元棋社文脉相承队",
             "white_player":"王天赐",
@@ -13118,7 +14178,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":5,
-            "table":"21-1",
+            "table":"'21-1",
             "black_player":"余万捷",
             "black_team":"中山围棋协会",
             "white_player":"唐清扬",
@@ -13128,7 +14188,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":5,
-            "table":"24-2",
+            "table":"'24-2",
             "black_player":"徐志广",
             "black_team":"韶关围棋协会二队",
             "white_player":"庄应楠",
@@ -13138,7 +14198,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":5,
-            "table":"3-1",
+            "table":"'3-1",
             "black_player":"曹汝旭",
             "black_team":"广州荔湾西关棋院",
             "white_player":"付涵一",
@@ -13148,7 +14208,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":5,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"王以诺",
             "black_team":"香港中文大学（深圳）队",
             "white_player":"高咏梅",
@@ -13158,7 +14218,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":5,
-            "table":"3-3",
+            "table":"'3-3",
             "black_player":"邹梓阳",
             "black_team":"广州荔湾西关棋院",
             "white_player":"匡博文",
@@ -13167,8 +14227,18 @@
          },
          {
             "date":"2025-05-31T16:00:00.000Z",
+            "round":5,
+            "table":"'5-2",
+            "black_player":"张展鹏",
+            "black_team":"深圳南山围棋协会",
+            "white_player":"丁泽洋",
+            "white_team":"深圳棋有此理队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-31T16:00:00.000Z",
             "round":6,
-            "table":"14-2",
+            "table":"'14-2",
             "black_player":"莫韬",
             "black_team":"广东聪韵棋院",
             "white_player":"庄应楠",
@@ -13178,7 +14248,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":6,
-            "table":"15-1",
+            "table":"'15-1",
             "black_player":"雷子钦",
             "black_team":"深圳南山围棋协会少年队",
             "white_player":"唐清扬",
@@ -13188,7 +14258,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":6,
-            "table":"18-1",
+            "table":"'18-1",
             "black_player":"陈人睿",
             "black_team":"韶关围棋协会五队",
             "white_player":"卿家瑞",
@@ -13198,7 +14268,17 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":6,
-            "table":"19-2",
+            "table":"'19-1",
+            "black_player":"罗宇涵",
+            "black_team":"深圳大学队",
+            "white_player":"丁泽洋",
+            "white_team":"深圳棋有此理队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-05-31T16:00:00.000Z",
+            "round":6,
+            "table":"'19-2",
             "black_player":"高君睿",
             "black_team":"深圳棋有此理队",
             "white_player":"刘泽伟",
@@ -13208,7 +14288,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":6,
-            "table":"2-1",
+            "table":"'2-1",
             "black_player":"申沁恺",
             "black_team":"深圳光明围棋协会",
             "white_player":"付涵一",
@@ -13218,7 +14298,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":6,
-            "table":"2-2",
+            "table":"'2-2",
             "black_player":"王以诺",
             "black_team":"香港中文大学（深圳）队",
             "white_player":"史济东",
@@ -13228,7 +14308,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":6,
-            "table":"2-3",
+            "table":"'2-3",
             "black_player":"张炫圭",
             "black_team":"深圳光明围棋协会",
             "white_player":"匡博文",
@@ -13238,7 +14318,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":6,
-            "table":"3-3",
+            "table":"'3-3",
             "black_player":"林斯达",
             "black_team":"汕头围棋协会一队",
             "white_player":"马睿雪",
@@ -13248,7 +14328,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":7,
-            "table":"10-1",
+            "table":"'10-1",
             "black_player":"唐清扬",
             "black_team":"广州流花湖公园队",
             "white_player":"宿韬锐",
@@ -13258,7 +14338,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":7,
-            "table":"14-1",
+            "table":"'14-1",
             "black_player":"匡博文",
             "black_team":"香港中文大学（深圳）队",
             "white_player":"高天鹏",
@@ -13268,7 +14348,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":7,
-            "table":"14-2",
+            "table":"'14-2",
             "black_player":"马睿雪",
             "black_team":"广州雪之糕队",
             "white_player":"王以诺",
@@ -13278,7 +14358,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":7,
-            "table":"14-3",
+            "table":"'14-3",
             "black_player":"付涵一",
             "black_team":"香港中文大学（深圳）队",
             "white_player":"郑之灏",
@@ -13288,7 +14368,17 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":7,
-            "table":"24-1",
+            "table":"'18-2",
+            "black_player":"李嘉杰",
+            "black_team":"广州港棋协",
+            "white_player":"丁泽洋",
+            "white_team":"深圳棋有此理队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-31T16:00:00.000Z",
+            "round":7,
+            "table":"'24-1",
             "black_player":"庄应楠",
             "black_team":"广州应元棋院一队",
             "white_player":"吴骏",
@@ -13298,7 +14388,7 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":7,
-            "table":"7-2",
+            "table":"'7-2",
             "black_player":"刘泽伟",
             "black_team":"深圳大学队",
             "white_player":"张兆熙",
@@ -13308,12 +14398,174 @@
          {
             "date":"2025-05-31T16:00:00.000Z",
             "round":7,
-            "table":"8-1",
+            "table":"'8-1",
             "black_player":"方云帆",
             "black_team":"深圳真朴队",
             "white_player":"卿家瑞",
             "white_team":"广州清元棋社文脉相承队",
             "result":"黑中盘胜"
+         }
+      ],
+      "52":[
+         {
+            "date":"2024-03-15T16:00:00.000Z",
+            "round":1,
+            "table":"'13",
+            "black_player":"陈羽萱",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-03-15T16:00:00.000Z",
+            "round":1,
+            "table":"'16",
+            "black_player":"周亚泓",
+            "black_team":"",
+            "white_player":"陈楷松",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-03-15T16:00:00.000Z",
+            "round":2,
+            "table":"'42",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"温常凯",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-03-15T16:00:00.000Z",
+            "round":2,
+            "table":"'87",
+            "black_player":"于子宸",
+            "black_team":"",
+            "white_player":"周亚泓",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-03-15T16:00:00.000Z",
+            "round":3,
+            "table":"'2",
+            "black_player":"何浩燃",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-03-15T16:00:00.000Z",
+            "round":3,
+            "table":"'73",
+            "black_player":"周亚泓",
+            "black_team":"",
+            "white_player":"李谨言",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-03-15T16:00:00.000Z",
+            "round":4,
+            "table":"'43",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"刘烨",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-03-15T16:00:00.000Z",
+            "round":4,
+            "table":"'73",
+            "black_player":"李菲妮",
+            "black_team":"",
+            "white_player":"周亚泓",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-03-16T16:00:00.000Z",
+            "round":5,
+            "table":"'11",
+            "black_player":"游阅",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-03-16T16:00:00.000Z",
+            "round":5,
+            "table":"'38",
+            "black_player":"周亚泓",
+            "black_team":"",
+            "white_player":"娄毅彬",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-03-16T16:00:00.000Z",
+            "round":6,
+            "table":"'16",
+            "black_player":"陈棨熙",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-03-16T16:00:00.000Z",
+            "round":6,
+            "table":"'41",
+            "black_player":"周亚泓",
+            "black_team":"",
+            "white_player":"王睿渊",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-03-16T16:00:00.000Z",
+            "round":7,
+            "table":"'2",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"杨天波",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-03-16T16:00:00.000Z",
+            "round":7,
+            "table":"'35",
+            "black_player":"黄荣上",
+            "black_team":"",
+            "white_player":"周亚泓",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-03-16T16:00:00.000Z",
+            "round":8,
+            "table":"'44",
+            "black_player":"朱奋进",
+            "black_team":"",
+            "white_player":"周亚泓",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-03-16T16:00:00.000Z",
+            "round":8,
+            "table":"'9",
+            "black_player":"董竹旭",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
          }
       ]
    }
