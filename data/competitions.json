@@ -203,7 +203,8 @@
             "end_date":"2023-12-09T16:00:00.000Z",
             "location":"广东深圳宝安",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":42,
@@ -213,7 +214,8 @@
             "end_date":"2024-09-21T16:00:00.000Z",
             "location":"广东深圳宝安",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "2":[
@@ -225,7 +227,8 @@
             "end_date":"2020-11-14T16:00:00.000Z",
             "location":"广东阳江海陵岛",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":3,
@@ -235,7 +238,8 @@
             "end_date":"2021-05-04T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":8,
@@ -245,7 +249,8 @@
             "end_date":"2022-05-21T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":17,
@@ -255,7 +260,8 @@
             "end_date":"2023-05-20T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":32,
@@ -265,7 +271,8 @@
             "end_date":"2024-05-18T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":51,
@@ -275,7 +282,8 @@
             "end_date":"2025-05-31T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "3":[
@@ -287,7 +295,8 @@
             "end_date":"2023-06-23T16:00:00.000Z",
             "location":"广东河源东源",
             "total_round":7,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          }
       ],
       "4":[
@@ -299,7 +308,8 @@
             "end_date":"2023-09-08T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":5,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":38,
@@ -309,7 +319,8 @@
             "end_date":"2024-07-12T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":5,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":39,
@@ -319,7 +330,8 @@
             "end_date":"2024-07-12T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":5,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "5":[
@@ -331,7 +343,8 @@
             "end_date":"2024-08-19T16:00:00.000Z",
             "location":"浙江绍兴上虞",
             "total_round":9,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "6":[
@@ -343,7 +356,8 @@
             "end_date":"2024-04-19T16:00:00.000Z",
             "location":"广东深圳龙岗",
             "total_round":2,
-            "source":"其他"
+            "source":"其他",
+            "link":null
          },
          {
             "competition_id":44,
@@ -353,7 +367,8 @@
             "end_date":"2024-11-16T16:00:00.000Z",
             "location":"广东深圳龙岗",
             "total_round":3,
-            "source":"其他"
+            "source":"其他",
+            "link":null
          }
       ],
       "7":[
@@ -365,7 +380,8 @@
             "end_date":"2019-12-07T16:00:00.000Z",
             "location":"广东深圳龙岗",
             "total_round":8,
-            "source":"深北莫棋社公众号"
+            "source":"深北莫棋社公众号",
+            "link":null
          }
       ],
       "8":[
@@ -377,7 +393,8 @@
             "end_date":"2023-11-14T16:00:00.000Z",
             "location":"广东深圳南山",
             "total_round":7,
-            "source":"凭回忆"
+            "source":"凭回忆",
+            "link":null
          },
          {
             "competition_id":43,
@@ -387,7 +404,8 @@
             "end_date":"2024-11-14T16:00:00.000Z",
             "location":"广东深圳南山",
             "total_round":6,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "9":[
@@ -399,7 +417,8 @@
             "end_date":"2023-12-23T16:00:00.000Z",
             "location":"广东深圳南山",
             "total_round":8,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":45,
@@ -409,7 +428,8 @@
             "end_date":"2024-11-23T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":8,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "10":[
@@ -421,7 +441,8 @@
             "end_date":"2022-06-18T16:00:00.000Z",
             "location":"广东深圳龙岗",
             "total_round":5,
-            "source":"凭回忆"
+            "source":"凭回忆",
+            "link":null
          },
          {
             "competition_id":29,
@@ -431,7 +452,8 @@
             "end_date":"2024-03-23T16:00:00.000Z",
             "location":"广东深圳南山",
             "total_round":5,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "11":[
@@ -443,7 +465,8 @@
             "end_date":"2023-05-13T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":6,
-            "source":"其他"
+            "source":"其他",
+            "link":null
          },
          {
             "competition_id":31,
@@ -453,7 +476,8 @@
             "end_date":"2024-05-11T16:00:00.000Z",
             "location":"广东深圳福田",
             "total_round":5,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          }
       ],
       "12":[
@@ -465,7 +489,8 @@
             "end_date":"2022-12-10T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":5,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          }
       ],
       "13":[
@@ -477,7 +502,8 @@
             "end_date":"2022-10-22T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":3,
-            "source":"其他"
+            "source":"其他",
+            "link":null
          },
          {
             "competition_id":36,
@@ -487,7 +513,8 @@
             "end_date":"2024-06-29T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":3,
-            "source":"其他"
+            "source":"其他",
+            "link":null
          }
       ],
       "14":[
@@ -499,7 +526,8 @@
             "end_date":"2021-12-10T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          },
          {
             "competition_id":6,
@@ -509,7 +537,8 @@
             "end_date":"2021-12-10T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          },
          {
             "competition_id":13,
@@ -519,7 +548,8 @@
             "end_date":"2022-11-19T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          },
          {
             "competition_id":12,
@@ -529,7 +559,8 @@
             "end_date":"2022-11-19T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          },
          {
             "competition_id":20,
@@ -539,7 +570,8 @@
             "end_date":"2023-06-10T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          },
          {
             "competition_id":19,
@@ -549,7 +581,8 @@
             "end_date":"2023-06-10T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          },
          {
             "competition_id":35,
@@ -559,7 +592,8 @@
             "end_date":"2024-06-22T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          },
          {
             "competition_id":34,
@@ -569,7 +603,8 @@
             "end_date":"2024-06-22T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          },
          {
             "competition_id":50,
@@ -579,7 +614,8 @@
             "end_date":"2025-05-17T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          },
          {
             "competition_id":49,
@@ -589,7 +625,8 @@
             "end_date":"2025-05-17T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":11,
-            "source":"手谈赛场"
+            "source":"手谈赛场",
+            "link":null
          }
       ],
       "15":[
@@ -601,7 +638,8 @@
             "end_date":"2022-01-16T16:00:00.000Z",
             "location":null,
             "total_round":5,
-            "source":"凭回忆"
+            "source":"凭回忆",
+            "link":null
          }
       ],
       "16":[
@@ -613,7 +651,8 @@
             "end_date":"2022-05-28T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":6,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":15,
@@ -623,7 +662,8 @@
             "end_date":"2023-04-28T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":6,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "17":[
@@ -635,7 +675,8 @@
             "end_date":"2024-01-27T16:00:00.000Z",
             "location":"广东深圳宝安",
             "total_round":6,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "18":[
@@ -647,7 +688,8 @@
             "end_date":"2021-10-04T16:00:00.000Z",
             "location":"广东深圳福田",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":41,
@@ -657,7 +699,8 @@
             "end_date":"2024-08-24T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "19":[
@@ -669,7 +712,8 @@
             "end_date":"2023-07-11T16:00:00.000Z",
             "location":"香港西贡",
             "total_round":6,
-            "source":"其他"
+            "source":"其他",
+            "link":null
          },
          {
             "competition_id":37,
@@ -679,7 +723,8 @@
             "end_date":"2024-07-11T16:00:00.000Z",
             "location":"香港西贡",
             "total_round":6,
-            "source":"其他"
+            "source":"其他",
+            "link":null
          }
       ],
       "20":[
@@ -691,7 +736,8 @@
             "end_date":"2023-10-21T16:00:00.000Z",
             "location":"广东深圳龙岗",
             "total_round":6,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "21":[
@@ -703,7 +749,8 @@
             "end_date":"2023-05-27T16:00:00.000Z",
             "location":"广东深圳坪山",
             "total_round":5,
-            "source":"其他"
+            "source":"其他",
+            "link":null
          },
          {
             "competition_id":33,
@@ -713,7 +760,8 @@
             "end_date":"2024-05-25T16:00:00.000Z",
             "location":"广东深圳坪山",
             "total_round":5,
-            "source":"其他"
+            "source":"其他",
+            "link":null
          }
       ],
       "22":[
@@ -725,7 +773,8 @@
             "end_date":"2025-02-08T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "23":[
@@ -737,7 +786,8 @@
             "end_date":"2025-04-12T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":8,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ],
       "24":[
@@ -749,7 +799,8 @@
             "end_date":"2024-03-16T16:00:00.000Z",
             "location":"广东深圳南山",
             "total_round":8,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          },
          {
             "competition_id":48,
@@ -759,7 +810,8 @@
             "end_date":"2025-04-19T16:00:00.000Z",
             "location":"广东深圳坪山",
             "total_round":8,
-            "source":"云比赛网"
+            "source":"云比赛网",
+            "link":null
          }
       ]
    },
