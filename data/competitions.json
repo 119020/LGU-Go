@@ -76,7 +76,7 @@
          "competition_base_id":16,
          "competition":"深圳体彩杯",
          "first_year":-1,
-         "last_year":2024,
+         "last_year":2025,
          "level":"区市级",
          "description":"--|公开赛|线下|个人赛|--"
       },
@@ -702,8 +702,7 @@
             "end_date":"2024-08-24T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=177224&eventid=0&groupid=233624&type=group"
          }
       ],
       "19":[
@@ -776,8 +775,7 @@
             "end_date":"2025-02-08T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=193941&eventid=0&groupid=258733&type=group"
          }
       ],
       "23":[
@@ -789,8 +787,7 @@
             "end_date":"2025-04-12T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":8,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=199027&eventid=0&groupid=266691&type=group"
          }
       ],
       "24":[
@@ -802,8 +799,7 @@
             "end_date":"2024-03-16T16:00:00.000Z",
             "location":"广东深圳南山",
             "total_round":8,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=158604&eventid=0&groupid=207245&type=group"
          },
          {
             "competition_id":48,
@@ -813,8 +809,7 @@
             "end_date":"2025-04-19T16:00:00.000Z",
             "location":"广东深圳坪山",
             "total_round":8,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=199920&eventid=0&groupid=268207&type=group"
          }
       ]
    },
