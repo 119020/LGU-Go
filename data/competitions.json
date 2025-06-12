@@ -403,8 +403,7 @@
             "end_date":"2024-11-14T16:00:00.000Z",
             "location":"广东深圳南山",
             "total_round":6,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=183972&eventid=0&groupid=244747&type=group"
          }
       ],
       "9":[
@@ -416,8 +415,7 @@
             "end_date":"2023-12-23T16:00:00.000Z",
             "location":"广东深圳南山",
             "total_round":8,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=151651&eventid=0&groupid=197707&type=group"
          },
          {
             "competition_id":45,
@@ -427,8 +425,7 @@
             "end_date":"2024-11-23T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":8,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=185378&eventid=0&groupid=246767&type=group"
          }
       ],
       "10":[
@@ -451,8 +448,7 @@
             "end_date":"2024-03-23T16:00:00.000Z",
             "location":"广东深圳南山",
             "total_round":5,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=159278&eventid=0&groupid=208321&type=group"
          }
       ],
       "11":[
@@ -661,8 +657,17 @@
             "end_date":"2023-04-28T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":6,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=122219&eventid=0&groupid=160378&type=group"
+         },
+         {
+            "competition_id":54,
+            "year":2025,
+            "competition":"第13届 深圳体彩杯（公开组）",
+            "start_date":"2025-05-24T16:00:00.000Z",
+            "end_date":"2025-05-24T16:00:00.000Z",
+            "location":"广东深圳龙华",
+            "total_round":6,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=206014&eventid=0&groupid=274991&type=group"
          }
       ],
       "17":[
@@ -674,8 +679,7 @@
             "end_date":"2024-01-27T16:00:00.000Z",
             "location":"广东深圳宝安",
             "total_round":6,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=155621&eventid=0&groupid=202890&type=group"
          }
       ],
       "18":[
@@ -14869,6 +14873,68 @@
             "white_player":"代耕宇",
             "white_team":"四川大学",
             "result":"白中盘胜"
+         }
+      ],
+      "54":[
+         {
+            "date":"2025-05-24T16:00:00.000Z",
+            "round":1,
+            "table":"'28",
+            "black_player":"林润祺",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-24T16:00:00.000Z",
+            "round":2,
+            "table":"'2",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"李启明",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-05-24T16:00:00.000Z",
+            "round":3,
+            "table":"'8",
+            "black_player":"张钦年",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-24T16:00:00.000Z",
+            "round":4,
+            "table":"'1",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"张天泽",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-24T16:00:00.000Z",
+            "round":5,
+            "table":"'9",
+            "black_player":"谭凌一",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-05-24T16:00:00.000Z",
+            "round":6,
+            "table":"'3",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"黄独毓",
+            "white_team":"",
+            "result":"黑中盘胜"
          }
       ]
    }
