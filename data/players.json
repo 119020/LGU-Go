@@ -1418,9 +1418,9 @@
          },
          {
             "year":2023,
-            "total_wins":"32",
-            "total_losses":"17",
-            "win_rate":"65.31"
+            "total_wins":"37",
+            "total_losses":"21",
+            "win_rate":"63.79"
          },
          {
             "year":2024,
@@ -1436,12 +1436,18 @@
          },
          {
             "year":null,
-            "total_wins":"80",
-            "total_losses":"41",
-            "win_rate":"66.12"
+            "total_wins":"85",
+            "total_losses":"45",
+            "win_rate":"65.38"
          }
       ],
       "54":[
+         {
+            "year":2023,
+            "total_wins":"6",
+            "total_losses":"3",
+            "win_rate":"66.67"
+         },
          {
             "year":2024,
             "total_wins":"5",
@@ -1450,9 +1456,9 @@
          },
          {
             "year":null,
-            "total_wins":"5",
-            "total_losses":"0",
-            "win_rate":"100.00"
+            "total_wins":"11",
+            "total_losses":"3",
+            "win_rate":"78.57"
          }
       ]
    },
@@ -9183,6 +9189,36 @@
             "total_game":1
          },
          {
+            "opponent":"郭泽纬",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"段知非",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"杨络天",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王维浩",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"马凤廷",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"卢羿",
             "total_win":"1",
             "total_lose":"0",
@@ -9399,6 +9435,30 @@
             "total_game":1
          },
          {
+            "opponent":"张一娄",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"欧阳希昶",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"冯一昕",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杨钰铉",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"孙鹏宇",
             "total_win":"0",
             "total_lose":"1",
@@ -9470,6 +9530,60 @@
             "opponent":"刘晨飞",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"吴思睿",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"周骏霖",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王维浩",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"孙誉文",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"朱聪恺",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"冯一昕",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王星宇",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"王庆为",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"代耕宇",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          }
       ]
@@ -22151,6 +22265,87 @@
             "round":5
          },
          {
+            "date":"2023-08-17T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"郭泽纬",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":1
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"张一娄",
+            "result":"负",
+            "competition":"青春之城",
+            "edition":1,
+            "round":2
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"欧阳希昶",
+            "result":"负",
+            "competition":"青春之城",
+            "edition":1,
+            "round":3
+         },
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"段知非",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":4
+         },
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"杨络天",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":5
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"冯一昕",
+            "result":"负",
+            "competition":"青春之城",
+            "edition":1,
+            "round":6
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"王维浩",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":7
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"杨钰铉",
+            "result":"负",
+            "competition":"青春之城",
+            "edition":1,
+            "round":8
+         },
+         {
+            "date":"2023-08-20T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"马凤廷",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":9
+         },
+         {
             "date":"2024-08-16T16:00:00.000Z",
             "name":"丁泽洋",
             "opponent":"孙鹏宇",
@@ -22322,6 +22517,87 @@
             "competition":"湾区高校联赛",
             "edition":2,
             "round":5
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "name":"范东源",
+            "opponent":"吴思睿",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":1
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "name":"范东源",
+            "opponent":"周骏霖",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":2
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "name":"范东源",
+            "opponent":"王维浩",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":3
+         },
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "name":"范东源",
+            "opponent":"王星宇",
+            "result":"负",
+            "competition":"青春之城",
+            "edition":1,
+            "round":4
+         },
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "name":"范东源",
+            "opponent":"孙誉文",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":5
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "name":"范东源",
+            "opponent":"朱聪恺",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":6
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "name":"范东源",
+            "opponent":"王庆为",
+            "result":"负",
+            "competition":"青春之城",
+            "edition":1,
+            "round":7
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "name":"范东源",
+            "opponent":"冯一昕",
+            "result":"胜",
+            "competition":"青春之城",
+            "edition":1,
+            "round":8
+         },
+         {
+            "date":"2023-08-20T16:00:00.000Z",
+            "name":"范东源",
+            "opponent":"代耕宇",
+            "result":"负",
+            "competition":"青春之城",
+            "edition":1,
+            "round":9
          }
       ]
    },
@@ -23090,6 +23366,11 @@
          },
          {
             "year":2023,
+            "competition":"第1届青春之城 (公开组)",
+            "honor":"团体第10名"
+         },
+         {
+            "year":2023,
             "competition":"第2届龙华杯深台两地交流预选赛 (青年组)",
             "honor":"个人第2名"
          },
@@ -23120,6 +23401,11 @@
          }
       ],
       "54":[
+         {
+            "year":2023,
+            "competition":"第1届青春之城 (公开组)",
+            "honor":"团体第16名"
+         },
          {
             "year":2024,
             "competition":"第2届湾区高校联赛 (公开组)",
