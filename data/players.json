@@ -1386,9 +1386,9 @@
       "52":[
          {
             "year":2023,
-            "total_wins":"6",
-            "total_losses":"1",
-            "win_rate":"85.71"
+            "total_wins":"10",
+            "total_losses":"4",
+            "win_rate":"71.43"
          },
          {
             "year":2025,
@@ -1398,9 +1398,9 @@
          },
          {
             "year":null,
-            "total_wins":"17",
-            "total_losses":"6",
-            "win_rate":"73.91"
+            "total_wins":"21",
+            "total_losses":"9",
+            "win_rate":"70.00"
          }
       ],
       "53":[
@@ -8635,6 +8635,30 @@
             "total_game":2
          },
          {
+            "opponent":"陈彦",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"崔炜勋",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"麦芷青",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘思辰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"姚城浠",
             "total_win":"1",
             "total_lose":"0",
@@ -8660,6 +8684,12 @@
          },
          {
             "opponent":"王以诺",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"杨其鹏",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -8719,6 +8749,24 @@
             "total_game":1
          },
          {
+            "opponent":"张兆熙",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈棨熙",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"蔡晶",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"杨郁杏",
             "total_win":"0",
             "total_lose":"1",
@@ -8728,12 +8776,6 @@
             "opponent":"林斯达",
             "total_win":"0",
             "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"杨其鹏",
-            "total_win":"1",
-            "total_lose":"0",
             "total_game":1
          },
          {
@@ -20873,6 +20915,69 @@
          }
       ],
       "52":[
+         {
+            "date":"2023-12-08T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"陈彦",
+            "result":"胜",
+            "competition":"宝安杯9+2城市交流赛",
+            "edition":1,
+            "round":1
+         },
+         {
+            "date":"2023-12-08T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"崔炜勋",
+            "result":"胜",
+            "competition":"宝安杯9+2城市交流赛",
+            "edition":1,
+            "round":2
+         },
+         {
+            "date":"2023-12-08T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"麦芷青",
+            "result":"胜",
+            "competition":"宝安杯9+2城市交流赛",
+            "edition":1,
+            "round":3
+         },
+         {
+            "date":"2023-12-08T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"刘思辰",
+            "result":"胜",
+            "competition":"宝安杯9+2城市交流赛",
+            "edition":1,
+            "round":4
+         },
+         {
+            "date":"2023-12-09T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"张兆熙",
+            "result":"负",
+            "competition":"宝安杯9+2城市交流赛",
+            "edition":1,
+            "round":5
+         },
+         {
+            "date":"2023-12-09T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"陈棨熙",
+            "result":"负",
+            "competition":"宝安杯9+2城市交流赛",
+            "edition":1,
+            "round":6
+         },
+         {
+            "date":"2023-12-09T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"蔡晶",
+            "result":"负",
+            "competition":"宝安杯9+2城市交流赛",
+            "edition":1,
+            "round":7
+         },
          {
             "date":"2025-05-30T16:00:00.000Z",
             "name":"马睿雪",
