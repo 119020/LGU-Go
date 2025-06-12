@@ -300,8 +300,7 @@
             "end_date":"2023-09-08T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":5,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=141823&eventid=0&groupid=183067&type=group"
          },
          {
             "competition_id":38,
@@ -311,8 +310,7 @@
             "end_date":"2024-07-12T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":5,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=172326&eventid=0&groupid=227248&type=group"
          },
          {
             "competition_id":39,
@@ -322,11 +320,21 @@
             "end_date":"2024-07-12T16:00:00.000Z",
             "location":"广东深圳龙华",
             "total_round":5,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=172331&eventid=0&groupid=227249&type=group"
          }
       ],
       "5":[
+         {
+            "competition_id":53,
+            "year":2023,
+            "competition":"第1届 青春之城（公开组）",
+            "start_date":"2023-08-17T16:00:00.000Z",
+            "end_date":"2023-08-20T16:00:00.000Z",
+            "location":"浙江绍兴上虞",
+            "total_round":9,
+            "source":"云比赛网",
+            "link":null
+         },
          {
             "competition_id":40,
             "year":2024,
@@ -335,8 +343,7 @@
             "end_date":"2024-08-19T16:00:00.000Z",
             "location":"浙江绍兴上虞",
             "total_round":9,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=176291&eventid=0&groupid=233174&type=group"
          }
       ],
       "6":[
@@ -14679,6 +14686,188 @@
             "black_team":"",
             "white_player":"丁泽洋",
             "white_team":"",
+            "result":"白中盘胜"
+         }
+      ],
+      "53":[
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "round":1,
+            "table":"'13",
+            "black_player":"吴思睿",
+            "black_team":"中山大学",
+            "white_player":"范东源",
+            "white_team":"武汉大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "round":1,
+            "table":"'5",
+            "black_player":"郭泽纬",
+            "black_team":"南开大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "round":2,
+            "table":"'32",
+            "black_player":"范东源",
+            "black_team":"武汉大学",
+            "white_player":"周骏霖",
+            "white_team":"大连理工大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "round":2,
+            "table":"'34",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"张一娄",
+            "white_team":"国防科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "round":3,
+            "table":"'21",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"欧阳希昶",
+            "white_team":"中山大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-17T16:00:00.000Z",
+            "round":3,
+            "table":"'5",
+            "black_player":"王维浩",
+            "black_team":"厦门大学",
+            "white_player":"范东源",
+            "white_team":"武汉大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "round":4,
+            "table":"'59",
+            "black_player":"段知非",
+            "black_team":"同济大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "round":4,
+            "table":"'7",
+            "black_player":"王星宇",
+            "black_team":"上海交通大学",
+            "white_player":"范东源",
+            "white_team":"武汉大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "round":5,
+            "table":"'25",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"杨络天",
+            "white_team":"西南财经大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "round":5,
+            "table":"'7",
+            "black_player":"范东源",
+            "black_team":"武汉大学",
+            "white_player":"孙誉文",
+            "white_team":"清华大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "round":6,
+            "table":"'13",
+            "black_player":"范东源",
+            "black_team":"武汉大学",
+            "white_player":"朱聪恺",
+            "white_team":"浙江大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "round":6,
+            "table":"'32",
+            "black_player":"冯一昕",
+            "black_team":"厦门大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "round":7,
+            "table":"'27",
+            "black_player":"王维浩",
+            "black_team":"厦门大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "round":7,
+            "table":"'3",
+            "black_player":"王庆为",
+            "black_team":"南京大学",
+            "white_player":"范东源",
+            "white_team":"武汉大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "round":8,
+            "table":"'14",
+            "black_player":"冯一昕",
+            "black_team":"厦门大学",
+            "white_player":"范东源",
+            "white_team":"武汉大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "round":8,
+            "table":"'31",
+            "black_player":"丁泽洋",
+            "black_team":"南方科技大学",
+            "white_player":"杨钰铉",
+            "white_team":"四川大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-20T16:00:00.000Z",
+            "round":9,
+            "table":"'28",
+            "black_player":"马凤廷",
+            "black_team":"重庆大学",
+            "white_player":"丁泽洋",
+            "white_team":"南方科技大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-20T16:00:00.000Z",
+            "round":9,
+            "table":"'4",
+            "black_player":"范东源",
+            "black_team":"武汉大学",
+            "white_player":"代耕宇",
+            "white_team":"四川大学",
             "result":"白中盘胜"
          }
       ]
