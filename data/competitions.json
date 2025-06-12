@@ -6812,7 +6812,7 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":1,
-            "table":"10-1",
+            "table":"'10-1",
             "black_player":"匡博文",
             "black_team":"深圳市棋类协会三队",
             "white_player":"何桂璋",
@@ -6822,7 +6822,7 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":1,
-            "table":"10-2",
+            "table":"'10-2",
             "black_player":"陈棨熙",
             "black_team":"中国香港围棋协会",
             "white_player":"付涵一",
@@ -6832,7 +6832,17 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":1,
-            "table":"7-3",
+            "table":"'3-2",
+            "black_player":"马睿雪",
+            "black_team":"江门市围棋协会一队",
+            "white_player":"陈彦",
+            "white_team":"佛山市围棋协会凤凰队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-12-08T16:00:00.000Z",
+            "round":1,
+            "table":"'7-3",
             "black_player":"卿家瑞",
             "black_team":"广州一队",
             "white_player":"刘乙谦",
@@ -6842,7 +6852,17 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":2,
-            "table":"3-1",
+            "table":"'11-2",
+            "black_player":"崔炜勋",
+            "black_team":"珠海市弈海围棋队",
+            "white_player":"马睿雪",
+            "white_team":"江门市围棋协会一队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-12-08T16:00:00.000Z",
+            "round":2,
+            "table":"'3-1",
             "black_player":"陈治齐",
             "black_team":"惠州市惠城区棋类协会",
             "white_player":"匡博文",
@@ -6852,7 +6872,7 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":2,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"付涵一",
             "black_team":"深圳市棋类协会三队",
             "white_player":"曾元昊",
@@ -6862,7 +6882,7 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":2,
-            "table":"6-3",
+            "table":"'6-3",
             "black_player":"林斯达",
             "black_team":"佛山市围棋协会",
             "white_player":"卿家瑞",
@@ -6872,7 +6892,7 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":3,
-            "table":"3-1",
+            "table":"'3-1",
             "black_player":"匡博文",
             "black_team":"深圳市棋类协会三队",
             "white_player":"黄永汉",
@@ -6882,7 +6902,7 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":3,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"李树升",
             "black_team":"江门市棋类协会二队",
             "white_player":"付涵一",
@@ -6892,7 +6912,17 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":3,
-            "table":"7-3",
+            "table":"'5-2",
+            "black_player":"马睿雪",
+            "black_team":"江门市围棋协会一队",
+            "white_player":"麦芷青",
+            "white_team":"惠州市博罗县围棋协会",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-12-08T16:00:00.000Z",
+            "round":3,
+            "table":"'7-3",
             "black_player":"卿家瑞",
             "black_team":"广州一队",
             "white_player":"邓泽菻",
@@ -6902,7 +6932,7 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":4,
-            "table":"1-1",
+            "table":"'1-1",
             "black_player":"孙路野",
             "black_team":"佛山市围棋协会",
             "white_player":"匡博文",
@@ -6912,7 +6942,7 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":4,
-            "table":"1-2",
+            "table":"'1-2",
             "black_player":"付涵一",
             "black_team":"深圳市棋类协会三队",
             "white_player":"蔡晶",
@@ -6922,7 +6952,7 @@
          {
             "date":"2023-12-08T16:00:00.000Z",
             "round":4,
-            "table":"5-3",
+            "table":"'5-3",
             "black_player":"区锦棉",
             "black_team":"中国香港围棋协会",
             "white_player":"卿家瑞",
@@ -6930,9 +6960,29 @@
             "result":"白中盘胜"
          },
          {
+            "date":"2023-12-08T16:00:00.000Z",
+            "round":4,
+            "table":"'6-3",
+            "black_player":"刘思辰",
+            "black_team":"东莞市围棋协会金石棋院队",
+            "white_player":"马睿雪",
+            "white_team":"江门市围棋协会一队",
+            "result":"白中盘胜"
+         },
+         {
             "date":"2023-12-09T16:00:00.000Z",
             "round":5,
-            "table":"4-3",
+            "table":"'3-2",
+            "black_player":"马睿雪",
+            "black_team":"江门市围棋协会一队",
+            "white_player":"张兆熙",
+            "white_team":"珠海市围棋协会",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-12-09T16:00:00.000Z",
+            "round":5,
+            "table":"'4-3",
             "black_player":"卿家瑞",
             "black_team":"广州一队",
             "white_player":"彭天佐",
@@ -6942,7 +6992,7 @@
          {
             "date":"2023-12-09T16:00:00.000Z",
             "round":5,
-            "table":"5-1",
+            "table":"'5-1",
             "black_player":"匡博文",
             "black_team":"深圳市棋类协会三队",
             "white_player":"何彪",
@@ -6952,7 +7002,7 @@
          {
             "date":"2023-12-09T16:00:00.000Z",
             "round":5,
-            "table":"5-2",
+            "table":"'5-2",
             "black_player":"陈彦",
             "black_team":"佛山市围棋协会凤凰队",
             "white_player":"付涵一",
@@ -6962,7 +7012,7 @@
          {
             "date":"2023-12-09T16:00:00.000Z",
             "round":6,
-            "table":"2-3",
+            "table":"'2-3",
             "black_player":"郝一搏",
             "black_team":"宝安区围棋协会一队",
             "white_player":"卿家瑞",
@@ -6972,7 +7022,7 @@
          {
             "date":"2023-12-09T16:00:00.000Z",
             "round":6,
-            "table":"3-1",
+            "table":"'3-1",
             "black_player":"匡博文",
             "black_team":"深圳市棋类协会三队",
             "white_player":"杨靖源",
@@ -6982,7 +7032,7 @@
          {
             "date":"2023-12-09T16:00:00.000Z",
             "round":6,
-            "table":"3-2",
+            "table":"'3-2",
             "black_player":"方锶源",
             "black_team":"深圳市棋类协会一队",
             "white_player":"付涵一",
@@ -6991,8 +7041,28 @@
          },
          {
             "date":"2023-12-09T16:00:00.000Z",
+            "round":6,
+            "table":"'5-2",
+            "black_player":"陈棨熙",
+            "black_team":"中国香港围棋协会",
+            "white_player":"马睿雪",
+            "white_team":"江门市围棋协会一队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-12-09T16:00:00.000Z",
             "round":7,
-            "table":"2-3",
+            "table":"'1-2",
+            "black_player":"蔡晶",
+            "black_team":"佛山市围棋协会",
+            "white_player":"马睿雪",
+            "white_team":"江门市围棋协会一队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-12-09T16:00:00.000Z",
+            "round":7,
+            "table":"'2-3",
             "black_player":"孙嘉路",
             "black_team":"深圳市棋类协会一队",
             "white_player":"卿家瑞",
@@ -7002,7 +7072,7 @@
          {
             "date":"2023-12-09T16:00:00.000Z",
             "round":7,
-            "table":"4-1",
+            "table":"'4-1",
             "black_player":"陈栎谦",
             "black_team":"广州二队",
             "white_player":"匡博文",
@@ -7012,7 +7082,7 @@
          {
             "date":"2023-12-09T16:00:00.000Z",
             "round":7,
-            "table":"4-2",
+            "table":"'4-2",
             "black_player":"付涵一",
             "black_team":"深圳市棋类协会三队",
             "white_player":"卢景泓",
