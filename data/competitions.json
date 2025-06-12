@@ -203,8 +203,7 @@
             "end_date":"2023-12-09T16:00:00.000Z",
             "location":"广东深圳宝安",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=149680&eventid=0&groupid=195162&type=group"
          },
          {
             "competition_id":42,
@@ -214,8 +213,7 @@
             "end_date":"2024-09-21T16:00:00.000Z",
             "location":"广东深圳宝安",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=179570&eventid=0&groupid=237441&type=group"
          }
       ],
       "2":[
@@ -227,8 +225,7 @@
             "end_date":"2020-11-14T16:00:00.000Z",
             "location":"广东阳江海陵岛",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=63732&eventid=0&groupid=78228&type=group"
          },
          {
             "competition_id":3,
@@ -238,8 +235,7 @@
             "end_date":"2021-05-04T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=73777&eventid=0&groupid=91719&type=group"
          },
          {
             "competition_id":8,
@@ -249,8 +245,7 @@
             "end_date":"2022-05-21T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=90808&eventid=0&groupid=116577&type=group"
          },
          {
             "competition_id":17,
@@ -260,8 +255,7 @@
             "end_date":"2023-05-20T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=127577&eventid=0&groupid=165004&type=group"
          },
          {
             "competition_id":32,
@@ -271,8 +265,7 @@
             "end_date":"2024-05-18T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=166311&eventid=0&groupid=218614&type=group"
          },
          {
             "competition_id":51,
@@ -282,8 +275,7 @@
             "end_date":"2025-05-31T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"云比赛网",
-            "link":null
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=206760&eventid=0&groupid=276929&type=group"
          }
       ],
       "3":[
