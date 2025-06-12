@@ -287,8 +287,7 @@
             "end_date":"2023-06-23T16:00:00.000Z",
             "location":"广东河源东源",
             "total_round":7,
-            "source":"手谈赛场",
-            "link":null
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAyNEFBTkZQQSIgRmw9IuS4quS6uiIgWG09IuWbtOajiyIvPg=="
          }
       ],
       "4":[
@@ -572,6 +571,7 @@
             "location":"广东深圳罗湖",
             "total_round":11,
             "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAzNEFCS0ZQRSIgRmw9IumYn+S8jSIgWG09IuWbtOajiyIvPg=="
+         },  
          {
             "competition_id":35,
             "year":2024,
