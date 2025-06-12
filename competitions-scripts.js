@@ -80,7 +80,16 @@ function renderCompetitionDetails(details) {
             </tr>
         </thead>
         <tbody>
-            ${details.map(detail => `
+            ${details.map(detail => {
+                const hasValidLink = detail.source && 
+                                    (detail.source.startsWith('http://') || 
+                                     detail.source.startsWith('https://'));
+                
+                const sourceDisplay = hasValidLink 
+                    ? `<a href="${detail.source}" target="_blank" class="source-link">查看成绩</a>` 
+                    : (detail.source || '暂无链接');
+                
+                return `
                 <tr>
                     <td>${detail.year}</td>
                     <td><a href="competition-records.html?competition_id=${detail.competition_id}&competition_name=${encodeURIComponent(detail.competition)}">${detail.competition}</a></td>
@@ -88,9 +97,10 @@ function renderCompetitionDetails(details) {
                     <td>${formatBeijingDate(detail.end_date)}</td>
                     <td>${detail.location}</td>
                     <td>${detail.total_round}</td>
-                    <td>${detail.source}</td>
+                    <td>${sourceDisplay}</td>
                 </tr>
-            `).join('')}
+                `;
+            }).join('')}
         </tbody>
     `;
     competitionInfo.appendChild(table);
