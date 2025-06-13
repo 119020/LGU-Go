@@ -1371,6 +1371,12 @@
       ],
       "51":[
          {
+            "year":2023,
+            "total_wins":"2",
+            "total_losses":"4",
+            "win_rate":"33.33"
+         },
+         {
             "year":2024,
             "total_wins":"1",
             "total_losses":"2",
@@ -1378,8 +1384,8 @@
          },
          {
             "year":null,
-            "total_wins":"1",
-            "total_losses":"2",
+            "total_wins":"3",
+            "total_losses":"6",
             "win_rate":"33.33"
          }
       ],
@@ -8621,6 +8627,18 @@
             "total_game":1
          },
          {
+            "opponent":"李斌",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘子轩",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"于路宸",
             "total_win":"0",
             "total_lose":"1",
@@ -8628,6 +8646,30 @@
          },
          {
             "opponent":"梁嘉尧",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"麦凯心",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"唐旭昊",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"刘耀鹏",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"肖明跃",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -21056,6 +21098,60 @@
             "competition":"深北莫x港中深对抗赛",
             "edition":2,
             "round":3
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "name":"周泰亿",
+            "opponent":"麦凯心",
+            "result":"负",
+            "competition":"深圳体彩杯",
+            "edition":11,
+            "round":1
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "name":"周泰亿",
+            "opponent":"唐旭昊",
+            "result":"负",
+            "competition":"深圳体彩杯",
+            "edition":11,
+            "round":2
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "name":"周泰亿",
+            "opponent":"李斌",
+            "result":"胜",
+            "competition":"深圳体彩杯",
+            "edition":11,
+            "round":3
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "name":"周泰亿",
+            "opponent":"刘耀鹏",
+            "result":"负",
+            "competition":"深圳体彩杯",
+            "edition":11,
+            "round":4
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "name":"周泰亿",
+            "opponent":"刘子轩",
+            "result":"胜",
+            "competition":"深圳体彩杯",
+            "edition":11,
+            "round":5
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "name":"周泰亿",
+            "opponent":"肖明跃",
+            "result":"负",
+            "competition":"深圳体彩杯",
+            "edition":11,
+            "round":6
          }
       ],
       "52":[
