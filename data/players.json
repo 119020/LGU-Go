@@ -6859,6 +6859,12 @@
             "total_game":1
          },
          {
+            "opponent":"陈一戈",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"邓泽菻",
             "total_win":"1",
             "total_lose":"0",
@@ -6919,30 +6925,6 @@
             "total_game":1
          },
          {
-            "opponent":"孙博瑞",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"柯铭芝",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"盧環球",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"陈一戈",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
             "opponent":"高君睿",
             "total_win":"1",
             "total_lose":"0",
@@ -6950,6 +6932,18 @@
          },
          {
             "opponent":"朱长铭",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李正时",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李嘉杰",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -6985,6 +6979,18 @@
             "total_game":1
          },
          {
+            "opponent":"陈轩清",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王光辉",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"杨一章",
             "total_win":"1",
             "total_lose":"0",
@@ -6997,7 +7003,25 @@
             "total_game":1
          },
          {
+            "opponent":"何卓宏",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"江凯军",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张杰勋",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"余思远",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -7021,18 +7045,6 @@
             "total_game":1
          },
          {
-            "opponent":"孔令宸",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"余思远",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
             "opponent":"王天赐",
             "total_win":"1",
             "total_lose":"0",
@@ -7040,6 +7052,84 @@
          },
          {
             "opponent":"陈人睿",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"孔令宸",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黄志平",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"欧锦航",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李霁学",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"胡卿",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"秦敏行",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"霍羿昂",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"冯羿琨",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黎馨如",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李士新",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"孙博瑞",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"柯铭芝",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"盧環球",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -7063,31 +7153,49 @@
             "total_game":1
          },
          {
-            "opponent":"罗慕冲",
+            "opponent":"石梦奇",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"龙波",
+            "opponent":"朱旻路",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"雷子钦",
+            "opponent":"牛瑞晗",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"甄浩智",
+            "opponent":"刘新语",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"潘肇程",
+            "opponent":"陈华",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"蔡韫睿",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"翁翊轲",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"徐肇斌",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -7105,13 +7213,79 @@
             "total_game":1
          },
          {
+            "opponent":"孔庆山",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"方云帆",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"孔庆山",
+            "opponent":"徐英才",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"仇纬皓",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"王异新",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"潘肇程",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杨郁杏",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"龙波",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"雷子钦",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"罗慕冲",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"甄浩智",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"毛屏翔",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"丁弋洋",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -7567,6 +7741,72 @@
       ],
       "13":[
          {
+            "opponent":"张景峒",
+            "total_win":"1",
+            "total_lose":"1",
+            "total_game":2
+         },
+         {
+            "opponent":"方锶源",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"杨靖源",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张耀玮",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈易孛孛",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"芦志尧",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"方宣卜",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"杨辰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"宋瑞祺",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"皇甫睿杰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"方兴",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"王一名",
             "total_win":"1",
             "total_lose":"0",
@@ -7591,6 +7831,12 @@
             "total_game":1
          },
          {
+            "opponent":"林昭南",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"唐川宁",
             "total_win":"1",
             "total_lose":"0",
@@ -7598,6 +7844,24 @@
          },
          {
             "opponent":"卢玥希",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陶汉文",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"舒雷",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"项宇泽",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -7639,15 +7903,33 @@
             "total_game":1
          },
          {
-            "opponent":"方锶源",
-            "total_win":"1",
-            "total_lose":"0",
+            "opponent":"邓光宇",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"杨靖源",
-            "total_win":"1",
-            "total_lose":"0",
+            "opponent":"王建文",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"袁小钢",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"王英翰",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"郑之灏",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -7669,13 +7951,31 @@
             "total_game":1
          },
          {
-            "opponent":"傅彧",
+            "opponent":"马纳特",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杨隽翀",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"王涵",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
             "opponent":"匡博文",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"傅彧",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -7701,6 +8001,12 @@
             "total_game":1
          },
          {
+            "opponent":"罗鹏",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"叶馥嘉",
             "total_win":"1",
             "total_lose":"0",
@@ -7713,7 +8019,13 @@
             "total_game":1
          },
          {
-            "opponent":"邱映恺",
+            "opponent":"张华峰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"史显超",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -7725,7 +8037,7 @@
             "total_game":1
          },
          {
-            "opponent":"刘筱恬",
+            "opponent":"邱映恺",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -7743,25 +8055,19 @@
             "total_game":1
          },
          {
-            "opponent":"罗鹏",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"史显超",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"张华峰",
+            "opponent":"朱长铭",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
          },
          {
             "opponent":"蒋归元",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘筱恬",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -7791,6 +8097,48 @@
             "total_game":1
          },
          {
+            "opponent":"金融",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"邱羽中",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"牧群",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"熊彦红",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"袁永钊",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"林润祺",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"胡裕堃",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"温芃宸",
             "total_win":"0",
             "total_lose":"1",
@@ -7803,73 +8151,7 @@
             "total_game":1
          },
          {
-            "opponent":"胡裕堃",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"孙嘉路",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"游星昊",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"林润祺",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
             "opponent":"丁泽洋",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"彭天佐",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"杨靖源",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"高君睿",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"温泽涛",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"蔡韫睿",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"胡正浩",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"熊彦红",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -7893,7 +8175,19 @@
             "total_game":1
          },
          {
+            "opponent":"彭天佐",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"吴昭莹",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杨靖源",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -7905,13 +8199,91 @@
             "total_game":1
          },
          {
+            "opponent":"高君睿",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"温泽涛",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"申沁恺",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
+            "opponent":"孙嘉路",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"戴南",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"游星昊",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"刘硕",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"孙正晗",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"郭子逸",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"温轩语",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"翁金宁",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"蔡韫睿",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杨正波",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"胡正浩",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"代一涵",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -8490,6 +8862,48 @@
          }
       ],
       "22":[
+         {
+            "opponent":"许纯一",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"汪奕譞",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"关怀",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘明博",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"姜昱辰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"高芝澍",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"潘鸿明",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
          {
             "opponent":"黄博宇",
             "total_win":"1",
@@ -9751,9 +10165,21 @@
       ],
       "52":[
          {
+            "opponent":"姚城浠",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
             "opponent":"胡钧瑞",
             "total_win":"2",
             "total_lose":"0",
+            "total_game":2
+         },
+         {
+            "opponent":"欧阳希昶",
+            "total_win":"1",
+            "total_lose":"1",
             "total_game":2
          },
          {
@@ -9781,13 +10207,13 @@
             "total_game":1
          },
          {
-            "opponent":"姚城浠",
+            "opponent":"叶健",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
          },
          {
-            "opponent":"叶健",
+            "opponent":"唐川宁",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -9799,19 +10225,13 @@
             "total_game":1
          },
          {
-            "opponent":"欧阳希昶",
+            "opponent":"蒋东晓",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
          },
          {
             "opponent":"王以诺",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"杨其鹏",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -9871,19 +10291,25 @@
             "total_game":1
          },
          {
-            "opponent":"张兆熙",
+            "opponent":"杨其鹏",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王子轩",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"陈棨熙",
+            "opponent":"甄晓冬",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"蔡晶",
+            "opponent":"高骏",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -9901,13 +10327,31 @@
             "total_game":1
          },
          {
-            "opponent":"周兴安",
+            "opponent":"张兆熙",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈棨熙",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
             "opponent":"石宏伟",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"蔡晶",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"周兴安",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -9945,7 +10389,7 @@
             "total_game":3
          },
          {
-            "opponent":"刘泽伟",
+            "opponent":"牛瑞晗",
             "total_win":"2",
             "total_lose":"0",
             "total_game":2
@@ -9957,19 +10401,31 @@
             "total_game":2
          },
          {
+            "opponent":"徐文革",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
             "opponent":"王致远",
             "total_win":"2",
             "total_lose":"0",
             "total_game":2
          },
          {
-            "opponent":"付涵一",
+            "opponent":"刘泽伟",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
+            "opponent":"匡博文",
             "total_win":"1",
             "total_lose":"1",
             "total_game":2
          },
          {
-            "opponent":"匡博文",
+            "opponent":"付涵一",
             "total_win":"1",
             "total_lose":"1",
             "total_game":2
@@ -9985,6 +10441,192 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"趙禹",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李弘璽",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张耀天",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"Tran Quoc Hy",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"甄浩智",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"梅一涵",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黄昉宇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"余文扬",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李芷颐",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张展鹏",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李嘉杰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"马恩泽",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"方智勇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"朱伟泽",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张旻岳",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"华振宇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"甘树燊",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黄锴",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈羽萱",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"温常凯",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘烨",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"游阅",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈棨熙",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"董竹旭",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"林润祺",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张钦年",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"谭凌一",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黄独毓",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"曹远峥",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王彦之",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"江永图",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"黄冠祺",
@@ -10077,6 +10719,96 @@
             "total_game":1
          },
          {
+            "opponent":"李诗涵",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"阚博曦",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"潘一雷",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"朱泓宇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"杨启新",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈志",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"韩丽昕",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王楚宁",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"吴位红",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"朱夏俊",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"孙科民",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李福生",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"吕凯",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"阎君",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"衣永波",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"任浩男",
             "total_win":"1",
             "total_lose":"0",
@@ -10084,6 +10816,12 @@
          },
          {
             "opponent":"王栋杉",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"梅笑寒",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -10113,174 +10851,6 @@
             "total_game":1
          },
          {
-            "opponent":"李诗涵",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"阚博曦",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"潘一雷",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"趙禹",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"李弘璽",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"洪键勋",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"杨鸿哲",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"孙嘉路",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"熊怀远",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"黄昉宇",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"余文扬",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"甘树燊",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"黄锴",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"曹远峥",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"王彦之",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"江永图",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"徐文革",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"陈羽萱",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"温常凯",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"刘烨",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"游阅",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"陈棨熙",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"董竹旭",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"林润祺",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"张钦年",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"谭凌一",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"黄独毓",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"梅笑寒",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
             "opponent":"林志晓",
             "total_win":"1",
             "total_lose":"0",
@@ -10300,36 +10870,6 @@
          },
          {
             "opponent":"文奕飞",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"朱泓宇",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"张耀天",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"Tran Quoc Hy",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"甄浩智",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"梅一涵",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -10389,121 +10929,31 @@
             "total_game":1
          },
          {
-            "opponent":"杨启新",
+            "opponent":"洪键勋",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
          },
          {
-            "opponent":"陈志",
+            "opponent":"杨鸿哲",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
          },
          {
-            "opponent":"韩丽昕",
+            "opponent":"孙嘉路",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
          },
          {
-            "opponent":"王楚宁",
+            "opponent":"熊怀远",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
          },
          {
-            "opponent":"吴位红",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"朱夏俊",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"牛瑞晗",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"李芷颐",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"张展鹏",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"李嘉杰",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"陈晨（深圳）",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"褚吉辰",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"黄佳",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"韦啸谷",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"蔡韫睿",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"胡钧瑞",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"龙华锋",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"孙宝存",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"高世承",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"杨靖源",
+            "opponent":"An Sang Beom",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -10533,13 +10983,43 @@
             "total_game":1
          },
          {
-            "opponent":"张天泽",
+            "opponent":"杨挺",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"史济东",
+            "opponent":"罗宇涵",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"黄承庭",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"朱子健",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"花畅",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"张伟",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杭越",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -10557,7 +11037,43 @@
             "total_game":1
          },
          {
-            "opponent":"蓝迪",
+            "opponent":"张天泽",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"史济东",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈晨",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"褚吉辰",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"龙华锋",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"孙宝存",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"高世承",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -10575,7 +11091,37 @@
             "total_game":1
          },
          {
-            "opponent":"An Sang Beom",
+            "opponent":"何仲",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"蔡韫睿",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"胡钧瑞",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"黄佳",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"韦啸谷",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"蓝迪",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -10635,13 +11181,7 @@
             "total_game":1
          },
          {
-            "opponent":"杨挺",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"罗宇涵",
+            "opponent":"杨靖源",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
