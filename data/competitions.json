@@ -568,7 +568,7 @@
             "location":"广东深圳罗湖",
             "total_round":11,
             "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAzNEFCS0ZQRSIgRmw9IumYn+S8jSIgWG09IuWbtOajiyIvPg=="
-         },  
+         },
          {
             "competition_id":35,
             "year":2024,
@@ -3751,7 +3751,17 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":1,
-            "table":"17",
+            "table":"'1",
+            "black_player":"麦凯心",
+            "black_team":"",
+            "white_player":"周泰亿",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "round":1,
+            "table":"'17",
             "black_player":"付涵一",
             "black_team":"",
             "white_player":"高世承",
@@ -3761,7 +3771,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":1,
-            "table":"18",
+            "table":"'18",
             "black_player":"卿家瑞",
             "black_team":"",
             "white_player":"孙博瑞",
@@ -3771,7 +3781,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":1,
-            "table":"8",
+            "table":"'8",
             "black_player":"徐梦洋",
             "black_team":"",
             "white_player":"庄应楠",
@@ -3781,7 +3791,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":2,
-            "table":"15",
+            "table":"'15",
             "black_player":"易骏涵",
             "black_team":"",
             "white_player":"付涵一",
@@ -3791,7 +3801,17 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":2,
-            "table":"2",
+            "table":"'17",
+            "black_player":"周泰亿",
+            "black_team":"",
+            "white_player":"唐旭昊",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "round":2,
+            "table":"'2",
             "black_player":"罗慕冲",
             "black_team":"",
             "white_player":"卿家瑞",
@@ -3801,7 +3821,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":2,
-            "table":"9",
+            "table":"'9",
             "black_player":"周子桓",
             "black_team":"",
             "white_player":"庄应楠",
@@ -3811,7 +3831,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":3,
-            "table":"10",
+            "table":"'10",
             "black_player":"庄应楠",
             "black_team":"",
             "white_player":"刘子轩",
@@ -3821,7 +3841,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":3,
-            "table":"15",
+            "table":"'15",
             "black_player":"付涵一",
             "black_team":"",
             "white_player":"盧環球",
@@ -3831,7 +3851,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":3,
-            "table":"16",
+            "table":"'16",
             "black_player":"卿家瑞",
             "black_team":"",
             "white_player":"柯铭芝",
@@ -3840,8 +3860,18 @@
          },
          {
             "date":"2023-04-28T16:00:00.000Z",
+            "round":3,
+            "table":"'18",
+            "black_player":"李斌",
+            "black_team":"",
+            "white_player":"周泰亿",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
             "round":4,
-            "table":"10",
+            "table":"'10",
             "black_player":"庄应楠",
             "black_team":"",
             "white_player":"申沁恺",
@@ -3851,7 +3881,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":4,
-            "table":"12",
+            "table":"'12",
             "black_player":"柯铭芝",
             "black_team":"",
             "white_player":"付涵一",
@@ -3861,7 +3891,17 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":4,
-            "table":"4",
+            "table":"'19",
+            "black_player":"刘耀鹏",
+            "black_team":"",
+            "white_player":"周泰亿",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "round":4,
+            "table":"'4",
             "black_player":"盧環球",
             "black_team":"",
             "white_player":"卿家瑞",
@@ -3871,7 +3911,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":5,
-            "table":"12",
+            "table":"'12",
             "black_player":"付涵一",
             "black_team":"",
             "white_player":"庄应楠",
@@ -3881,7 +3921,17 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":5,
-            "table":"7",
+            "table":"'16",
+            "black_player":"周泰亿",
+            "black_team":"",
+            "white_player":"刘子轩",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "round":5,
+            "table":"'7",
             "black_player":"卿家瑞",
             "black_team":"",
             "white_player":"陈一戈",
@@ -3891,7 +3941,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":6,
-            "table":"16",
+            "table":"'16",
             "black_player":"庄应楠",
             "black_team":"",
             "white_player":"王之涵",
@@ -3901,7 +3951,17 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":6,
-            "table":"3",
+            "table":"'17",
+            "black_player":"周泰亿",
+            "black_team":"",
+            "white_player":"肖明跃",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-04-28T16:00:00.000Z",
+            "round":6,
+            "table":"'3",
             "black_player":"高君睿",
             "black_team":"",
             "white_player":"卿家瑞",
@@ -3911,7 +3971,7 @@
          {
             "date":"2023-04-28T16:00:00.000Z",
             "round":6,
-            "table":"8",
+            "table":"'8",
             "black_player":"周子桓",
             "black_team":"",
             "white_player":"付涵一",
