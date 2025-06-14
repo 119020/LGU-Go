@@ -1,6 +1,46 @@
 {
    "competition_bases":[
       {
+         "competition_base_id":31,
+         "competition":"丰城杯",
+         "first_year":-1,
+         "last_year":2025,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":33,
+         "competition":"体彩天隆广电杯",
+         "first_year":2020,
+         "last_year":2020,
+         "level":"区市级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":32,
+         "competition":"全国定段赛初赛",
+         "first_year":2024,
+         "last_year":2025,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":35,
+         "competition":"全运广东选拔个人赛",
+         "first_year":2024,
+         "last_year":2024,
+         "level":"省部级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":34,
+         "competition":"全运广东选拔团体赛",
+         "first_year":2020,
+         "last_year":2020,
+         "level":"省部级",
+         "description":"--|公开赛|线下|团体赛|记团体成绩"
+      },
+      {
          "competition_base_id":3,
          "competition":"凯里亚德杯",
          "first_year":2023,
@@ -19,7 +59,7 @@
       {
          "competition_base_id":20,
          "competition":"天隆广电杯深圳棋王总决赛",
-         "first_year":-1,
+         "first_year":2017,
          "last_year":2023,
          "level":"区市级",
          "description":"--|邀请赛|线下|个人赛|--"
@@ -49,6 +89,30 @@
          "description":"--|公开赛|线下|团体赛|记团体成绩"
       },
       {
+         "competition_base_id":26,
+         "competition":"扬州精英赛",
+         "first_year":-1,
+         "last_year":2023,
+         "level":"区市级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":29,
+         "competition":"松山湖精英赛",
+         "first_year":2024,
+         "last_year":2025,
+         "level":"区市级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":25,
+         "competition":"洛阳精英赛",
+         "first_year":-1,
+         "last_year":2025,
+         "level":"区市级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":6,
          "competition":"深北莫x港中深对抗赛",
          "first_year":2024,
@@ -73,6 +137,14 @@
          "description":"高校|邀请赛|线下|个人赛|记团体成绩"
       },
       {
+         "competition_base_id":24,
+         "competition":"深圳个人锦标赛",
+         "first_year":2024,
+         "last_year":2025,
+         "level":"区市级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":16,
          "competition":"深圳体彩杯",
          "first_year":-1,
@@ -95,6 +167,14 @@
          "last_year":2024,
          "level":"区市级",
          "description":"高校|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":37,
+         "competition":"深圳智运团体赛",
+         "first_year":2022,
+         "last_year":2022,
+         "level":"区市级",
+         "description":"--|公开赛|线下|团体赛|记团体成绩"
       },
       {
          "competition_base_id":9,
@@ -137,6 +217,14 @@
          "description":"--|邀请赛|线下|个人赛|--"
       },
       {
+         "competition_base_id":36,
+         "competition":"深圳青工文体赛",
+         "first_year":-1,
+         "last_year":2023,
+         "level":"区市级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":11,
          "competition":"深圳高校个人赛",
          "first_year":2023,
@@ -153,12 +241,36 @@
          "description":"高校|邀请赛|线下|团体赛|记团体成绩"
       },
       {
+         "competition_base_id":23,
+         "competition":"深圳龙华公开赛",
+         "first_year":2025,
+         "last_year":2025,
+         "level":"区市级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":21,
          "competition":"湾区高校联赛",
          "first_year":2023,
          "last_year":2024,
          "level":"省部级",
          "description":"高校|公开赛|线下|团体赛|记团体成绩"
+      },
+      {
+         "competition_base_id":27,
+         "competition":"秦山核电公开赛",
+         "first_year":2023,
+         "last_year":2025,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":28,
+         "competition":"金陵无想公开赛",
+         "first_year":2024,
+         "last_year":2025,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
       },
       {
          "competition_base_id":5,
@@ -169,26 +281,18 @@
          "description":"高校|邀请赛|线下|个人赛|记团体成绩"
       },
       {
+         "competition_base_id":30,
+         "competition":"黄河杯",
+         "first_year":-1,
+         "last_year":2025,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":4,
          "competition":"龙华杯深台两地交流预选赛",
          "first_year":-1,
          "last_year":2024,
-         "level":"区市级",
-         "description":"--|公开赛|线下|个人赛|--"
-      },
-      {
-         "competition_base_id":23,
-         "competition":"深圳龙华公开赛",
-         "first_year":2025,
-         "last_year":2025,
-         "level":"区市级",
-         "description":"--|公开赛|线下|个人赛|--"
-      },
-      {
-         "competition_base_id":24,
-         "competition":"深圳个人锦标赛",
-         "first_year":2024,
-         "last_year":2025,
          "level":"区市级",
          "description":"--|公开赛|线下|个人赛|--"
       }
@@ -795,6 +899,192 @@
             "location":"广东深圳坪山",
             "total_round":8,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=199920&eventid=0&groupid=268207&type=group"
+         }
+      ],
+      "25":[
+         {
+            "competition_id":55,
+            "year":2024,
+            "competition":"第17届 洛阳精英赛（公开组）",
+            "start_date":"2024-02-05T16:00:00.000Z",
+            "end_date":"2024-02-07T16:00:00.000Z",
+            "location":"河南洛阳洛龙",
+            "total_round":8,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=156363&eventid=0&groupid=203634&type=group"
+         },
+         {
+            "competition_id":56,
+            "year":2025,
+            "competition":"第18届 洛阳精英赛（公开组）",
+            "start_date":"2025-01-22T16:00:00.000Z",
+            "end_date":"2025-01-24T16:00:00.000Z",
+            "location":"河南洛阳洛龙",
+            "total_round":8,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=193138&eventid=0&groupid=257713&type=group"
+         }
+      ],
+      "26":[
+         {
+            "competition_id":57,
+            "year":2023,
+            "competition":"第35届 扬州精英赛（公开组）",
+            "start_date":"2023-09-29T16:00:00.000Z",
+            "end_date":"2023-10-01T16:00:00.000Z",
+            "location":"江苏扬州",
+            "total_round":10,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=143514&eventid=0&groupid=185300&type=group"
+         }
+      ],
+      "27":[
+         {
+            "competition_id":58,
+            "year":2023,
+            "competition":"第1届 秦山核电公开赛（公开组）",
+            "start_date":"2023-02-28T16:00:00.000Z",
+            "end_date":"2023-03-03T16:00:00.000Z",
+            "location":"浙江嘉兴海盐",
+            "total_round":10,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=115343&eventid=0&groupid=150830&type=group"
+         },
+         {
+            "competition_id":59,
+            "year":2025,
+            "competition":"第3届 秦山核电公开赛（公开组）",
+            "start_date":"2025-03-10T16:00:00.000Z",
+            "end_date":"2025-03-13T16:00:00.000Z",
+            "location":"浙江嘉兴海盐",
+            "total_round":10,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=196136&eventid=0&groupid=261702&type=group"
+         }
+      ],
+      "28":[
+         {
+            "competition_id":60,
+            "year":2024,
+            "competition":"第1届 金陵无想公开赛（公开组）",
+            "start_date":"2024-04-03T16:00:00.000Z",
+            "end_date":"2024-04-05T16:00:00.000Z",
+            "location":"江苏南京溧水",
+            "total_round":10,
+            "source":"http://www.jsqipai.org.cn/Chess/page/mApp/score/score.html#/againstList/202403071619438808580"
+         }
+      ],
+      "29":[
+         {
+            "competition_id":61,
+            "year":2024,
+            "competition":"第1届 松山湖精英赛（公开组）",
+            "start_date":"2024-06-07T16:00:00.000Z",
+            "end_date":"2024-06-08T16:00:00.000Z",
+            "location":"广东东莞松山湖",
+            "total_round":7,
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iOTk5MjAwMSIgU2g9IkNZMzAyMkFGTEdQQSIgRmw9IuS4quS6uiIgWG09IuWbtOajiyIvPg=="
+         },
+         {
+            "competition_id":62,
+            "year":2025,
+            "competition":"第2届 松山湖精英赛（公开组）",
+            "start_date":"2025-04-04T16:00:00.000Z",
+            "end_date":"2025-04-05T16:00:00.000Z",
+            "location":"广东东莞松山湖",
+            "total_round":8,
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iOTk5NDAxMiIgU2g9IkNZMzAyMkFGTExQQSIgRmw9IuS4quS6uiIgWG09IuWbtOajiyIvPg=="
+         }
+      ],
+      "30":[
+         {
+            "competition_id":63,
+            "year":2024,
+            "competition":"第36届 黄河杯（公开组）",
+            "start_date":"2024-05-25T16:00:00.000Z",
+            "end_date":"2024-05-30T16:00:00.000Z",
+            "location":"江西南昌",
+            "total_round":11,
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzQyMEtEUEEiLz4="
+         }
+      ],
+      "31":[
+         {
+            "competition_id":64,
+            "year":2024,
+            "competition":"第15届 丰城杯（公开组）",
+            "start_date":"2024-05-31T16:00:00.000Z",
+            "end_date":"2024-06-04T16:00:00.000Z",
+            "location":"江西丰城",
+            "total_round":11,
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzQyOUtCUEEiLz4="
+         }
+      ],
+      "32":[
+         {
+            "competition_id":65,
+            "year":2024,
+            "competition":"第1届 全国定段赛初赛（青年男子组）",
+            "start_date":"2024-07-10T16:00:00.000Z",
+            "end_date":"2024-07-15T16:00:00.000Z",
+            "location":"江苏无锡惠山",
+            "total_round":11,
+            "source":"https://mp.weixin.qq.com/s/mYs_YJ0-PCuE8vt9BVYrSA"
+         }
+      ],
+      "33":[
+         {
+            "competition_id":66,
+            "year":2020,
+            "competition":"第1届 体彩天隆广电杯（公开组）",
+            "start_date":"2020-12-12T16:00:00.000Z",
+            "end_date":"2020-12-12T16:00:00.000Z",
+            "location":"广东深圳龙岗",
+            "total_round":7,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=65582&eventid=0&groupid=80482&type=group"
+         }
+      ],
+      "34":[
+         {
+            "competition_id":67,
+            "year":2020,
+            "competition":"第1届 全运选拔团体赛（公开组）",
+            "start_date":"2020-12-18T16:00:00.000Z",
+            "end_date":"2020-12-19T16:00:00.000Z",
+            "location":"广东广州越秀",
+            "total_round":6,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=66083&eventid=0&groupid=81485&type=group"
+         }
+      ],
+      "35":[
+         {
+            "competition_id":68,
+            "year":2024,
+            "competition":"第1届 全运选拔个人赛（青少年组）",
+            "start_date":"2024-11-08T16:00:00.000Z",
+            "end_date":"2024-11-09T16:00:00.000Z",
+            "location":"广东广州荔湾",
+            "total_round":6,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=183726&eventid=0&groupid=244613&type=group"
+         }
+      ],
+      "36":[
+         {
+            "competition_id":69,
+            "year":2023,
+            "competition":"第19届 深圳青工文体赛（公开组）",
+            "start_date":"2023-12-08T16:00:00.000Z",
+            "end_date":"2023-12-09T16:00:00.000Z",
+            "location":"广东深圳南山",
+            "total_round":8,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=149793&eventid=0&groupid=195227&type=group"
+         }
+      ],
+      "37":[
+         {
+            "competition_id":70,
+            "year":2022,
+            "competition":"第1届 深圳智运团体赛（公开组）",
+            "start_date":"2022-12-16T16:00:00.000Z",
+            "end_date":"2022-12-17T16:00:00.000Z",
+            "location":"广东深圳龙华",
+            "total_round":7,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=112461&eventid=0&groupid=146991&type=group"
          }
       ]
    },
