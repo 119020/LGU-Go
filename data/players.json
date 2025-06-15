@@ -1,6 +1,41 @@
 {
    "players":[
       {
+         "id":4,
+         "name":"庄应楠",
+         "enroll_year":-1,
+         "college":"-1",
+         "amateur_dan":5
+      },
+      {
+         "id":5,
+         "name":"刘泽伟",
+         "enroll_year":-1,
+         "college":"-1",
+         "amateur_dan":5
+      },
+      {
+         "id":10,
+         "name":"卿家瑞",
+         "enroll_year":-1,
+         "college":"-1",
+         "amateur_dan":6
+      },
+      {
+         "id":11,
+         "name":"周亚泓",
+         "enroll_year":-1,
+         "college":"-1",
+         "amateur_dan":5
+      },
+      {
+         "id":52,
+         "name":"马睿雪",
+         "enroll_year":-1,
+         "college":"-1",
+         "amateur_dan":5
+      },
+      {
          "id":1,
          "name":"匡博文",
          "enroll_year":2019,
