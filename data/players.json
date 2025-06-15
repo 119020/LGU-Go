@@ -5040,7 +5040,7 @@
             "total_game":1
          },
          {
-            "opponent":"杨博文",
+            "opponent":"杨博文（小）",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -16711,7 +16711,7 @@
          {
             "date":"2024-04-04T16:00:00.000Z",
             "name":"庄应楠",
-            "opponent":"杨博文",
+            "opponent":"杨博文（小）",
             "result":"胜",
             "competition":"金陵无想公开赛",
             "edition":1,
