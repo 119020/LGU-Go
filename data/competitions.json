@@ -1384,7 +1384,7 @@
             "end_date":"2020-08-29T16:00:00.000Z",
             "location":"广东广州白云",
             "total_round":5,
-            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=59506&eventid=0&groupid=72515&type=group"
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAyMEFNS0ZQQyIvPg=="
          },
          {
             "competition_id":94,
@@ -1394,7 +1394,17 @@
             "end_date":"2023-09-23T16:00:00.000Z",
             "location":"广东广州越秀",
             "total_round":7,
-            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=142613&eventid=0&groupid=184533&type=group"
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAyMEFNS0ZQQiIvPg=="
+         },
+         {
+            "competition_id":95,
+            "year":2024,
+            "competition":"第8届 广州市长杯团体赛（公开组）",
+            "start_date":"2024-09-06T16:00:00.000Z",
+            "end_date":"2024-09-07T16:00:00.000Z",
+            "location":"广东广州越秀",
+            "total_round":7,
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAyMEFNS0ZQQSIvPg=="
          }
       ]
    },
@@ -20945,6 +20955,78 @@
             "white_player":"陈广宇",
             "white_team":"中山大学三队",
             "result":"黑中盘胜"
+         }
+      ],
+      "95":[
+         {
+            "date":"2024-09-06T16:00:00.000Z",
+            "round":1,
+            "table":"'6-2",
+            "black_player":"庄应楠",
+            "black_team":"",
+            "white_player":"朱诗朗",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-09-06T16:00:00.000Z",
+            "round":2,
+            "table":"'6-2",
+            "black_player":"庄应楠",
+            "black_team":"",
+            "white_player":"崔定强",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-09-06T16:00:00.000Z",
+            "round":3,
+            "table":"'2-2",
+            "black_player":"赵康懿",
+            "black_team":"",
+            "white_player":"庄应楠",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-09-06T16:00:00.000Z",
+            "round":4,
+            "table":"'6-2",
+            "black_player":"邹正宁",
+            "black_team":"",
+            "white_player":"庄应楠",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-09-07T16:00:00.000Z",
+            "round":5,
+            "table":"'7-2",
+            "black_player":"庄应楠",
+            "black_team":"",
+            "white_player":"李健",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-09-07T16:00:00.000Z",
+            "round":6,
+            "table":"'7-2",
+            "black_player":"庄应楠",
+            "black_team":"",
+            "white_player":"黄金贤",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-09-07T16:00:00.000Z",
+            "round":7,
+            "table":"'5-2",
+            "black_player":"李泽鹏",
+            "black_team":"",
+            "white_player":"庄应楠",
+            "white_team":"",
+            "result":"白中盘胜"
          }
       ]
    }
