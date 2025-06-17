@@ -217,6 +217,14 @@
          "description":"高校|邀请赛|线上|团体赛|记团体成绩"
       },
       {
+         "competition_base_id":47,
+         "competition":"深圳大学生交流赛",
+         "first_year":2019,
+         "last_year":2019,
+         "level":"区市级",
+         "description":"高校|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":10,
          "competition":"深圳大中小学生赛",
          "first_year":2022,
@@ -247,6 +255,14 @@
          "last_year":2022,
          "level":"区市级",
          "description":"高校|邀请赛|线下|团体赛|记团体成绩"
+      },
+      {
+         "competition_base_id":48,
+         "competition":"深圳真朴大循环",
+         "first_year":2020,
+         "last_year":2020,
+         "level":"区市级",
+         "description":"--|公开赛|线下|个人赛|--"
       },
       {
          "competition_base_id":37,
@@ -1525,6 +1541,30 @@
             "location":"广东广州越秀",
             "total_round":8,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=194731&eventid=0&groupid=258878&type=group"
+         }
+      ],
+      "47":[
+         {
+            "competition_id":106,
+            "year":2019,
+            "competition":"第1届 深圳大学生交流赛（公开组）",
+            "start_date":"2019-11-09T16:00:00.000Z",
+            "end_date":"2019-11-09T16:00:00.000Z",
+            "location":"广东深圳南山",
+            "total_round":5,
+            "source":"凭回忆"
+         }
+      ],
+      "48":[
+         {
+            "competition_id":107,
+            "year":2020,
+            "competition":"第1届 深圳真朴大循环（A组）",
+            "start_date":"2020-09-19T16:00:00.000Z",
+            "end_date":"2020-12-26T16:00:00.000Z",
+            "location":"广东深圳南山",
+            "total_round":8,
+            "source":"https://mp.weixin.qq.com/s/oYYmxiB2Zvz3_aLzVRQbcA?poc_token=HLS6UGijoQHUK74XG9bkrhNTxSYsjP4uRI3-5MzS"
          }
       ]
    },
@@ -22105,6 +22145,140 @@
             "black_player":"余代斌",
             "black_team":"",
             "white_player":"卿家瑞",
+            "white_team":"",
+            "result":"白中盘胜"
+         }
+      ],
+      "106":[
+         {
+            "date":"2019-11-09T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"香港中文大学（深圳）",
+            "white_player":"李旻轩",
+            "white_team":"深圳大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2019-11-09T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"香港中文大学（深圳）",
+            "white_player":"杨一成",
+            "white_team":"深圳大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2019-11-09T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"安博涵",
+            "black_team":"深圳大学",
+            "white_player":"匡博文",
+            "white_team":"香港中文大学（深圳）",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2019-11-09T16:00:00.000Z",
+            "round":4,
+            "table":"",
+            "black_player":"宋政宇",
+            "black_team":"深圳大学",
+            "white_player":"匡博文",
+            "white_team":"香港中文大学（深圳）",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2019-11-09T16:00:00.000Z",
+            "round":5,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"香港中文大学（深圳）",
+            "white_player":"周择林",
+            "white_team":"深圳北理莫斯科大学",
+            "result":"黑超时胜"
+         }
+      ],
+      "107":[
+         {
+            "date":"2020-09-29T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"吴烜葆",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2020-09-29T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"周择林",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2020-10-17T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"梅一涵",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2020-10-17T16:00:00.000Z",
+            "round":4,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"李林灏",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2020-11-28T16:00:00.000Z",
+            "round":5,
+            "table":"",
+            "black_player":"梁鹏天",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2020-11-28T16:00:00.000Z",
+            "round":6,
+            "table":"",
+            "black_player":"胡家毅",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2020-12-26T16:00:00.000Z",
+            "round":7,
+            "table":"",
+            "black_player":"陈相中",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2020-12-26T16:00:00.000Z",
+            "round":8,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"高云舒",
             "white_team":"",
             "result":"白中盘胜"
          }
