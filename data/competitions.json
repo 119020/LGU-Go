@@ -129,6 +129,14 @@
          "description":"--|公开赛|线下|团体赛|记团体成绩"
       },
       {
+         "competition_base_id":49,
+         "competition":"广州公园团体赛",
+         "first_year":2021,
+         "last_year":2025,
+         "level":"区市级",
+         "description":"--|公开赛|线下|团体赛|记团体成绩"
+      },
+      {
          "competition_base_id":13,
          "competition":"深圳汉酱团体联赛",
          "first_year":2022,
@@ -1565,6 +1573,48 @@
             "location":"广东深圳南山",
             "total_round":8,
             "source":"https://mp.weixin.qq.com/s/oYYmxiB2Zvz3_aLzVRQbcA?poc_token=HLS6UGijoQHUK74XG9bkrhNTxSYsjP4uRI3-5MzS"
+         }
+      ],
+      "49":[
+         {
+            "competition_id":108,
+            "year":2021,
+            "competition":"第1届 广州公园团体赛（公开组）",
+            "start_date":"2020-12-31T16:00:00.000Z",
+            "end_date":"2020-12-31T16:00:00.000Z",
+            "location":"广东广州越秀",
+            "total_round":3,
+            "source":"凭回忆"
+         },
+         {
+            "competition_id":109,
+            "year":2023,
+            "competition":"第4届 广州公园团体赛（公开组）",
+            "start_date":"2023-05-02T16:00:00.000Z",
+            "end_date":"2023-05-02T16:00:00.000Z",
+            "location":"广东广州越秀",
+            "total_round":3,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=124720&eventid=0&groupid=162785&type=group"
+         },
+         {
+            "competition_id":110,
+            "year":2024,
+            "competition":"第5届 广州公园团体赛（公开组）",
+            "start_date":"2023-12-31T16:00:00.000Z",
+            "end_date":"2023-12-31T16:00:00.000Z",
+            "location":"广东广州荔湾",
+            "total_round":4,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=153722&eventid=0&groupid=200295&type=group"
+         },
+         {
+            "competition_id":111,
+            "year":2025,
+            "competition":"第6届 广州公园团体赛（公开组）",
+            "start_date":"2024-12-31T16:00:00.000Z",
+            "end_date":"2024-12-31T16:00:00.000Z",
+            "location":"广东广州越秀",
+            "total_round":4,
+            "source":"凭回忆"
          }
       ]
    },
@@ -22280,6 +22330,144 @@
             "black_team":"",
             "white_player":"高云舒",
             "white_team":"",
+            "result":"白中盘胜"
+         }
+      ],
+      "108":[
+         {
+            "date":"2020-12-31T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"流花民生队",
+            "white_player":"李嵘青",
+            "white_team":"黄花岗公园队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2020-12-31T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"流花民生队",
+            "white_player":"张正",
+            "white_team":"大夫山森林公园队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2020-12-31T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"流花民生队",
+            "white_player":"庄应楠",
+            "white_team":"香雪公园队",
+            "result":"黑中盘胜"
+         }
+      ],
+      "109":[
+         {
+            "date":"2023-05-02T16:00:00.000Z",
+            "round":2,
+            "table":"'2-5",
+            "black_player":"卿家瑞",
+            "black_team":"儿童公园队",
+            "white_player":"黄永汉",
+            "white_team":"文化公园西关棋院队",
+            "result":"白中盘胜"
+         }
+      ],
+      "110":[
+         {
+            "date":"2023-12-31T16:00:00.000Z",
+            "round":1,
+            "table":"'6-2",
+            "black_player":"朱冬梅",
+            "black_team":"大夫山森林公园弈乐园队",
+            "white_player":"庄应楠",
+            "white_team":"香雪公园应元棋院队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-12-31T16:00:00.000Z",
+            "round":2,
+            "table":"'1-5",
+            "black_player":"刘炳心",
+            "black_team":"珠江公园招商友联队",
+            "white_player":"匡博文",
+            "white_team":"香雪公园应元棋院队",
+            "result":"黑超时胜"
+         },
+         {
+            "date":"2023-12-31T16:00:00.000Z",
+            "round":3,
+            "table":"'2-2",
+            "black_player":"赵畅",
+            "black_team":"黄花岗公园队",
+            "white_player":"庄应楠",
+            "white_team":"香雪公园应元棋院队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-12-31T16:00:00.000Z",
+            "round":3,
+            "table":"'2-5",
+            "black_player":"匡博文",
+            "black_team":"香雪公园应元棋院队",
+            "white_player":"任大龙",
+            "white_team":"黄花岗公园队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-12-31T16:00:00.000Z",
+            "round":4,
+            "table":"'1-3",
+            "black_player":"郑伯钧",
+            "black_team":"越秀公园东湖棋院队",
+            "white_player":"匡博文",
+            "white_team":"香雪公园应元棋院队",
+            "result":"黑超时胜"
+         }
+      ],
+      "111":[
+         {
+            "date":"2024-12-31T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"越秀公园应元棋院队",
+            "white_player":"黄家烨",
+            "white_team":"儿童公园队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-12-31T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"卿家瑞",
+            "black_team":"儿童公园队",
+            "white_player":"马睿雪",
+            "white_team":"越秀公园应元棋院队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-12-31T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"江训峰",
+            "black_team":"黄花岗公园队",
+            "white_player":"庄应楠",
+            "white_team":"越秀公园应元棋院队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-12-31T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"董俊杰",
+            "black_team":"越秀公园应元棋院队",
+            "white_player":"唐清扬",
+            "white_team":"流花湖公园队",
             "result":"白中盘胜"
          }
       ]
