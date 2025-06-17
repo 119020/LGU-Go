@@ -9,6 +9,14 @@
          "description":"--|邀请赛|线下|个人赛|--"
       },
       {
+         "competition_base_id":50,
+         "competition":"汉酱杯全国赛",
+         "first_year":2018,
+         "last_year":2025,
+         "level":"国家级",
+         "description":"--|邀请赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":30,
          "competition":"黄河杯",
          "first_year":-1,
@@ -71,6 +79,22 @@
          "last_year":2020,
          "level":"省部级",
          "description":"--|公开赛|线下|团体赛|记团体成绩"
+      },
+      {
+         "competition_base_id":51,
+         "competition":"广东省运会个人赛",
+         "first_year":-1,
+         "last_year":2022,
+         "level":"省部级",
+         "description":"--|邀请赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":52,
+         "competition":"广东省运会团体赛",
+         "first_year":-1,
+         "last_year":2022,
+         "level":"省部级",
+         "description":"--|邀请赛|线下|团体赛|记团体成绩"
       },
       {
          "competition_base_id":21,
@@ -1615,6 +1639,42 @@
             "location":"广东广州越秀",
             "total_round":4,
             "source":"凭回忆"
+         }
+      ],
+      "50":[
+         {
+            "competition_id":112,
+            "year":2022,
+            "competition":"第5届 汉酱杯全国赛（名手组-南部赛区）",
+            "start_date":"2022-07-08T16:00:00.000Z",
+            "end_date":"2022-07-10T16:00:00.000Z",
+            "location":"广西南宁",
+            "total_round":7,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=98579&eventid=0&groupid=127601&type=group"
+         }
+      ],
+      "51":[
+         {
+            "competition_id":113,
+            "year":2022,
+            "competition":"第16届 广东省运会个人赛（成年男子组）",
+            "start_date":"2022-08-19T16:00:00.000Z",
+            "end_date":"2022-08-21T16:00:00.000Z",
+            "location":"广东清远",
+            "total_round":7,
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAyMENOS0FQRCIvPg=="
+         }
+      ],
+      "52":[
+         {
+            "competition_id":114,
+            "year":2022,
+            "competition":"第16届 广东省运会团体赛（全民团体组）",
+            "start_date":"2022-08-23T16:00:00.000Z",
+            "end_date":"2022-08-25T16:00:00.000Z",
+            "location":"广东清远",
+            "total_round":7,
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAyMENOS0FQRSIvPg=="
          }
       ]
    },
@@ -22469,6 +22529,222 @@
             "white_player":"唐清扬",
             "white_team":"流花湖公园队",
             "result":"白中盘胜"
+         }
+      ],
+      "112":[
+         {
+            "date":"2022-07-08T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"广东省围棋协会",
+            "white_player":"唐鹏云",
+            "white_team":"广西省围棋协会",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2022-07-08T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"郑伯钧",
+            "black_team":"广东省围棋协会",
+            "white_player":"匡博文",
+            "white_team":"广东省围棋协会",
+            "result":"黑胜0.75子"
+         },
+         {
+            "date":"2022-07-08T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"刘子洋",
+            "black_team":"广西省围棋协会",
+            "white_player":"匡博文",
+            "white_team":"广东省围棋协会",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2022-07-09T16:00:00.000Z",
+            "round":4,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"广东省围棋协会",
+            "white_player":"蒋谦",
+            "white_team":"广西省围棋协会",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2022-07-09T16:00:00.000Z",
+            "round":5,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"广东省围棋协会",
+            "white_player":"林斯达",
+            "white_team":"广东省围棋协会",
+            "result":"白胜7.25子"
+         },
+         {
+            "date":"2022-07-09T16:00:00.000Z",
+            "round":6,
+            "table":"",
+            "black_player":"刘竑昊",
+            "black_team":"广西省围棋协会",
+            "white_player":"匡博文",
+            "white_team":"广东省围棋协会",
+            "result":"黑胜2.75子"
+         },
+         {
+            "date":"2022-07-10T16:00:00.000Z",
+            "round":7,
+            "table":"",
+            "black_player":"李旭",
+            "black_team":"广西省围棋协会",
+            "white_player":"匡博文",
+            "white_team":"广东省围棋协会",
+            "result":"白中盘胜"
+         }
+      ],
+      "113":[
+         {
+            "date":"2022-08-19T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"黄越扬",
+            "black_team":"潮州市",
+            "white_player":"匡博文",
+            "white_team":"清远市",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2022-08-19T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"清远市",
+            "white_player":"吴梓龙",
+            "white_team":"汕头市",
+            "result":"白胜0.25子"
+         },
+         {
+            "date":"2022-08-19T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"清远市",
+            "white_player":"陈悟德",
+            "white_team":"茂名市",
+            "result":"黑胜10.75子"
+         },
+         {
+            "date":"2022-08-20T16:00:00.000Z",
+            "round":4,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"清远市",
+            "white_player":"黄毅飞",
+            "white_team":"汕头市",
+            "result":"白胜5.25子"
+         },
+         {
+            "date":"2022-08-20T16:00:00.000Z",
+            "round":5,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"清远市",
+            "white_player":"苏家文",
+            "white_team":"汕尾市",
+            "result":"黑超时胜"
+         },
+         {
+            "date":"2022-08-20T16:00:00.000Z",
+            "round":6,
+            "table":"",
+            "black_player":"郑岱松",
+            "black_team":"汕头市",
+            "white_player":"匡博文",
+            "white_team":"清远市",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2022-08-21T16:00:00.000Z",
+            "round":7,
+            "table":"",
+            "black_player":"匡博文",
+            "black_team":"清远市",
+            "white_player":"杨宇祥",
+            "white_team":"肇庆市",
+            "result":"白胜1.25子"
+         }
+      ],
+      "114":[
+         {
+            "date":"2022-08-23T16:00:00.000Z",
+            "round":1,
+            "table":"'7-1\t",
+            "black_player":"匡博文",
+            "black_team":"清远市",
+            "white_player":"王建忠",
+            "white_team":"汕尾市",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2022-08-23T16:00:00.000Z",
+            "round":2,
+            "table":"'1-1",
+            "black_player":"刘炳心",
+            "black_team":"东莞市",
+            "white_player":"匡博文",
+            "white_team":"清远市",
+            "result":"白胜1.25子"
+         },
+         {
+            "date":"2022-08-23T16:00:00.000Z",
+            "round":3,
+            "table":"'2-1",
+            "black_player":"匡博文",
+            "black_team":"清远市",
+            "white_player":"郑伯钧",
+            "white_team":"广州市",
+            "result":"黑胜1.75子"
+         },
+         {
+            "date":"2022-08-24T16:00:00.000Z",
+            "round":4,
+            "table":"'3-1",
+            "black_player":"匡博文",
+            "black_team":"清远市",
+            "white_player":"徐英才",
+            "white_team":"珠海市",
+            "result":"白胜1.25子"
+         },
+         {
+            "date":"2022-08-24T16:00:00.000Z",
+            "round":5,
+            "table":"'4-1",
+            "black_player":"梁航宇",
+            "black_team":"茂名市",
+            "white_player":"匡博文",
+            "white_team":"清远市",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2022-08-24T16:00:00.000Z",
+            "round":6,
+            "table":"'3-1",
+            "black_player":"匡博文",
+            "black_team":"清远市",
+            "white_player":"温宇深",
+            "white_team":"惠州市",
+            "result":"白胜10.25子"
+         },
+         {
+            "date":"2022-08-25T16:00:00.000Z",
+            "round":7,
+            "table":"'5-1",
+            "black_player":"许泽宇",
+            "black_team":"潮州市",
+            "white_player":"匡博文",
+            "white_team":"清远市",
+            "result":"黑胜5.75子"
          }
       ]
    }
