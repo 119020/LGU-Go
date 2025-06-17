@@ -401,9 +401,9 @@
          },
          {
             "year":2022,
-            "total_wins":"37",
-            "total_losses":"4",
-            "win_rate":"90.24"
+            "total_wins":"48",
+            "total_losses":"14",
+            "win_rate":"77.42"
          },
          {
             "year":2023,
@@ -425,9 +425,9 @@
          },
          {
             "year":null,
-            "total_wins":"265",
-            "total_losses":"66",
-            "win_rate":"80.06"
+            "total_wins":"276",
+            "total_losses":"76",
+            "win_rate":"78.41"
          }
       ],
       "2":[
@@ -1572,6 +1572,12 @@
             "total_game":5
          },
          {
+            "opponent":"郑伯钧",
+            "total_win":"1",
+            "total_lose":"3",
+            "total_game":4
+         },
+         {
             "opponent":"庄应楠",
             "total_win":"3",
             "total_lose":"0",
@@ -1587,6 +1593,12 @@
             "opponent":"陈一戈",
             "total_win":"3",
             "total_lose":"0",
+            "total_game":3
+         },
+         {
+            "opponent":"刘炳心",
+            "total_win":"2",
+            "total_lose":"1",
             "total_game":3
          },
          {
@@ -1776,7 +1788,7 @@
             "total_game":2
          },
          {
-            "opponent":"刘炳心",
+            "opponent":"吴梓龙",
             "total_win":"1",
             "total_lose":"1",
             "total_game":2
@@ -1803,12 +1815,6 @@
             "opponent":"毛玉诚",
             "total_win":"1",
             "total_lose":"1",
-            "total_game":2
-         },
-         {
-            "opponent":"郑伯钧",
-            "total_win":"0",
-            "total_lose":"2",
             "total_game":2
          },
          {
@@ -2046,6 +2052,36 @@
             "total_game":1
          },
          {
+            "opponent":"黄越扬",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈悟德",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"苏家文",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王建忠",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"梁航宇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"杨秀和",
             "total_win":"1",
             "total_lose":"0",
@@ -2095,12 +2131,6 @@
          },
          {
             "opponent":"洪若水",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"吴梓龙",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -2281,6 +2311,30 @@
          },
          {
             "opponent":"周航宇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"唐鹏云",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘子洋",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"蒋谦",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李旭",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -3018,6 +3072,42 @@
             "total_game":1
          },
          {
+            "opponent":"黄毅飞",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"郑岱松",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杨宇祥",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"徐英才",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"温宇深",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"许泽宇",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"白宝祥",
             "total_win":"0",
             "total_lose":"1",
@@ -3067,6 +3157,18 @@
          },
          {
             "opponent":"李春宇",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"林斯达",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"刘竑昊",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -13238,6 +13340,132 @@
    "game_records":{
       "1":[
          {
+            "date":"2022-08-19T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"黄越扬",
+            "result":"胜",
+            "competition":"广东省运会个人赛",
+            "edition":16,
+            "round":1
+         },
+         {
+            "date":"2022-08-19T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"吴梓龙",
+            "result":"负",
+            "competition":"广东省运会个人赛",
+            "edition":16,
+            "round":2
+         },
+         {
+            "date":"2022-08-19T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"陈悟德",
+            "result":"胜",
+            "competition":"广东省运会个人赛",
+            "edition":16,
+            "round":3
+         },
+         {
+            "date":"2022-08-20T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"黄毅飞",
+            "result":"负",
+            "competition":"广东省运会个人赛",
+            "edition":16,
+            "round":4
+         },
+         {
+            "date":"2022-08-20T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"苏家文",
+            "result":"胜",
+            "competition":"广东省运会个人赛",
+            "edition":16,
+            "round":5
+         },
+         {
+            "date":"2022-08-20T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"郑岱松",
+            "result":"负",
+            "competition":"广东省运会个人赛",
+            "edition":16,
+            "round":6
+         },
+         {
+            "date":"2022-08-21T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"杨宇祥",
+            "result":"负",
+            "competition":"广东省运会个人赛",
+            "edition":16,
+            "round":7
+         },
+         {
+            "date":"2022-08-23T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"王建忠",
+            "result":"胜",
+            "competition":"广东省运会团体赛",
+            "edition":16,
+            "round":1
+         },
+         {
+            "date":"2022-08-23T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"刘炳心",
+            "result":"胜",
+            "competition":"广东省运会团体赛",
+            "edition":16,
+            "round":2
+         },
+         {
+            "date":"2022-08-23T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"郑伯钧",
+            "result":"胜",
+            "competition":"广东省运会团体赛",
+            "edition":16,
+            "round":3
+         },
+         {
+            "date":"2022-08-24T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"徐英才",
+            "result":"负",
+            "competition":"广东省运会团体赛",
+            "edition":16,
+            "round":4
+         },
+         {
+            "date":"2022-08-24T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"梁航宇",
+            "result":"胜",
+            "competition":"广东省运会团体赛",
+            "edition":16,
+            "round":5
+         },
+         {
+            "date":"2022-08-24T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"温宇深",
+            "result":"负",
+            "competition":"广东省运会团体赛",
+            "edition":16,
+            "round":6
+         },
+         {
+            "date":"2022-08-25T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"许泽宇",
+            "result":"负",
+            "competition":"广东省运会团体赛",
+            "edition":16,
+            "round":7
+         },
+         {
             "date":"2020-12-31T16:00:00.000Z",
             "name":"匡博文",
             "opponent":"李嵘青",
@@ -14001,6 +14229,69 @@
             "competition":"全运选拔团体赛",
             "edition":1,
             "round":6
+         },
+         {
+            "date":"2022-07-08T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"唐鹏云",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":5,
+            "round":1
+         },
+         {
+            "date":"2022-07-08T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"郑伯钧",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":5,
+            "round":2
+         },
+         {
+            "date":"2022-07-08T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"刘子洋",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":5,
+            "round":3
+         },
+         {
+            "date":"2022-07-09T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"蒋谦",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":5,
+            "round":4
+         },
+         {
+            "date":"2022-07-09T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"林斯达",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":5,
+            "round":5
+         },
+         {
+            "date":"2022-07-09T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"刘竑昊",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":5,
+            "round":6
+         },
+         {
+            "date":"2022-07-10T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"李旭",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":5,
+            "round":7
          },
          {
             "date":"2023-09-29T16:00:00.000Z",
@@ -32387,6 +32678,11 @@
             "year":2022,
             "competition":"第5届深圳棋王精英赛 (公开组)",
             "honor":"个人第2名"
+         },
+         {
+            "year":2022,
+            "competition":"第16届广东省运会团体赛 (全民团体组)",
+            "honor":"团体第6名"
          },
          {
             "year":2022,
