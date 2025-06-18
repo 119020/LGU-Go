@@ -80,7 +80,16 @@ function renderCompetitionRecords(records, competitionName) {
             </tr>
         </thead>
         <tbody>
-            ${records.map(record => `
+            ${records.map(record => {
+                const hasValidLink = record.result && 
+                                    (record.result.startsWith('http://') || 
+                                     record.result.startsWith('https://'));
+                
+                const sourceDisplay = hasValidLink 
+                    ? `<a href="${record.result}" target="_blank" class="source-link">查看棋谱</a>` 
+                    : (record.result || '暂无棋谱');
+                
+                return `
                 <tr>
                     <td>${formatBeijingDate(record.date)}</td>
                     <td>${record.round}</td>
@@ -89,9 +98,10 @@ function renderCompetitionRecords(records, competitionName) {
                     <td>${record.black_team}</td>
                     <td>${record.white_player}</td>
                     <td>${record.white_team}</td>
-                    <td>${record.result}</td>
+                    <td>${sourceDisplay}</td>
                 </tr>
-            `).join('')}
+                `;
+            }).join('')}
         </tbody>
     `;
     recordsTable.appendChild(table);
