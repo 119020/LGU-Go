@@ -6817,27 +6817,27 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":1,
-            "table":"'1",
+            "table":"1",
             "black_player":"洪键勋",
             "black_team":"",
             "white_player":"丁泽洋",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkxJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzA1ODAxNiU3RA=="
          },
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":1,
-            "table":"'4",
+            "table":"4",
             "black_player":"蓝子程",
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkxJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzA1NjIxMCU3RA=="
          },
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":1,
-            "table":"'5",
+            "table":"5",
             "black_player":"刘泽伟",
             "black_team":"",
             "white_player":"高君睿",
@@ -6847,7 +6847,7 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":2,
-            "table":"'1",
+            "table":"1",
             "black_player":"梅笑寒",
             "black_team":"",
             "white_player":"刘泽伟",
@@ -6857,17 +6857,17 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":2,
-            "table":"'3",
+            "table":"3",
             "black_player":"匡博文",
             "black_team":"",
             "white_player":"杨靖源",
             "white_team":"",
-            "result":"白超时胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkxJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzA2MTU2OSU3RA=="
          },
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":2,
-            "table":"'4",
+            "table":"4",
             "black_player":"丁泽洋",
             "black_team":"",
             "white_player":"杨鸿哲",
@@ -6877,17 +6877,17 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":3,
-            "table":"'1",
+            "table":"1",
             "black_player":"杨靖源",
             "black_team":"",
             "white_player":"丁泽洋",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkxJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzA2NzE3NCU3RA=="
          },
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":3,
-            "table":"'3",
+            "table":"3",
             "black_player":"刘泽伟",
             "black_team":"",
             "white_player":"孙嘉路",
@@ -6897,37 +6897,37 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":3,
-            "table":"'4",
+            "table":"4",
             "black_player":"匡博文",
             "black_team":"",
             "white_player":"高君睿",
             "white_team":"",
-            "result":"黑胜10.75子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkxJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzA2OTE4OSU3RA=="
          },
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":4,
-            "table":"'2",
+            "table":"2",
             "black_player":"梅笑寒",
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkxJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzA2ODg5MiU3RA=="
          },
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":4,
-            "table":"'3",
+            "table":"3",
             "black_player":"丁泽洋",
             "black_team":"",
             "white_player":"孙嘉路",
             "white_team":"",
-            "result":"黑胜12.75子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkwJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzA3OTE1NyU3RA=="
          },
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":4,
-            "table":"'4",
+            "table":"4",
             "black_player":"杨鸿哲",
             "black_team":"",
             "white_player":"刘泽伟",
@@ -6937,7 +6937,7 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":5,
-            "table":"'1",
+            "table":"1",
             "black_player":"刘泽伟",
             "black_team":"",
             "white_player":"杨靖源",
@@ -6947,7 +6947,7 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":5,
-            "table":"'2",
+            "table":"2",
             "black_player":"熊怀远",
             "black_team":"",
             "white_player":"丁泽洋",
@@ -6957,12 +6957,12 @@
          {
             "date":"2023-09-08T16:00:00.000Z",
             "round":5,
-            "table":"'3",
+            "table":"3",
             "black_player":"孙嘉路",
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"黑胜0.75子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkwJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzA3NTA1OSU3RA=="
          }
       ],
       "24":[
@@ -7034,7 +7034,7 @@
             "black_team":"",
             "white_player":"刘成龙",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg2JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNDgyNTY4MiU3RA=="
          },
          {
             "date":"2023-10-21T16:00:00.000Z",
@@ -7114,7 +7114,7 @@
             "black_team":"",
             "white_player":"郑景容",
             "white_team":"",
-            "result":"黑胜0.75子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg1JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNDg0MTIxNSU3RA=="
          },
          {
             "date":"2023-10-21T16:00:00.000Z",
@@ -7194,7 +7194,7 @@
             "black_team":"",
             "white_player":"刘之昀",
             "white_team":"",
-            "result":"黑胜12.75子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg1JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNDg1NDE4NSU3RA=="
          }
       ],
       "25":[
@@ -7226,7 +7226,7 @@
             "black_team":"哈尔滨工业大学（深圳）",
             "white_player":"匡博文",
             "white_team":"香港中文大学（深圳）",
-            "result":"白胜12.25子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg0JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNTY5MDM5OSU3RA=="
          },
          {
             "date":"2023-11-11T16:00:00.000Z",
@@ -7366,7 +7366,7 @@
             "black_team":"香港中文大学（深圳）",
             "white_player":"薛维哲",
             "white_team":"哈尔滨工业大学（深圳）",
-            "result":"黑胜10.75子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg0JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNTY5NDc2NSU3RA=="
          },
          {
             "date":"2023-11-11T16:00:00.000Z",
@@ -7406,7 +7406,7 @@
             "black_team":"哈尔滨工业大学（深圳）",
             "white_player":"匡博文",
             "white_team":"香港中文大学（深圳）",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg0JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNTY5ODk1OCU3RA=="
          },
          {
             "date":"2023-11-11T16:00:00.000Z",
@@ -7426,7 +7426,7 @@
             "black_team":"香港中文大学（深圳）",
             "white_player":"吴唐子",
             "white_team":"南方科技大学",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg0JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNTc3NzY2OCU3RA=="
          },
          {
             "date":"2023-11-11T16:00:00.000Z",
@@ -7446,7 +7446,7 @@
             "black_team":"深圳大学",
             "white_player":"谢一飞",
             "white_team":"香港中文大学（深圳）",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTgzJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNTc3ODM4NiU3RA=="
          },
          {
             "date":"2023-11-11T16:00:00.000Z",
@@ -7496,7 +7496,7 @@
             "black_team":"香港中文大学（深圳）",
             "white_player":"宿韬锐",
             "white_team":"哈尔滨工业大学（深圳）",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg0JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNTcwMzA0OSU3RA=="
          },
          {
             "date":"2023-11-11T16:00:00.000Z",
@@ -7666,7 +7666,7 @@
             "black_team":"香港中文大学（深圳）",
             "white_player":"邓韵芳",
             "white_team":"深圳大学",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTgzJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNTgwOTAxNSU3RA=="
          },
          {
             "date":"2023-11-14T16:00:00.000Z",
@@ -7806,7 +7806,7 @@
             "black_team":"北大深研院",
             "white_player":"匡博文",
             "white_team":"香港中文大学（深圳）",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTgzJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNTgxNjM1NiU3RA=="
          }
       ],
       "26":[
@@ -8372,7 +8372,7 @@
             "black_team":"",
             "white_player":"陈苏鹏",
             "white_team":"",
-            "result":"白胜1.25子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTc4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzOTA5MTIyNCU3RA=="
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -8432,7 +8432,7 @@
             "black_team":"",
             "white_player":"王启涵",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTc4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzOTA5MTI0NyU3RA=="
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -8452,7 +8452,7 @@
             "black_team":"",
             "white_player":"郑逵",
             "white_team":"",
-            "result":"白胜9.25子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTc4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzOTA5MTQ5OCU3RA=="
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -8512,7 +8512,7 @@
             "black_team":"",
             "white_player":"罗慕冲",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTc4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzOTA5MTI3OCU3RA=="
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -8562,7 +8562,7 @@
             "black_team":"",
             "white_player":"王启涵",
             "white_team":"",
-            "result":"白胜1.25子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTc4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzOTA5MTMxMCU3RA=="
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -8672,7 +8672,7 @@
             "black_team":"",
             "white_player":"谢梓源",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTc4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzOTA5MTM4MCU3RA=="
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -8722,7 +8722,7 @@
             "black_team":"",
             "white_player":"王启涵",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTc4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzOTA5MTQzNyU3RA=="
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -16410,7 +16410,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg5JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzkwOTk0MiU3RA=="
          },
          {
             "date":"2023-09-29T16:00:00.000Z",
@@ -16440,7 +16440,7 @@
             "black_team":"",
             "white_player":"韩斌",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzkxOTczOCU3RA=="
          },
          {
             "date":"2023-09-29T16:00:00.000Z",
@@ -16450,7 +16450,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"白胜1.25子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzkyNTc5NCU3RA=="
          },
          {
             "date":"2023-09-29T16:00:00.000Z",
@@ -16480,7 +16480,7 @@
             "black_team":"",
             "white_player":"王沛然",
             "white_team":"",
-            "result":"白胜4.25子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzk0NjU0NSU3RA=="
          },
          {
             "date":"2023-09-30T16:00:00.000Z",
@@ -16510,7 +16510,7 @@
             "black_team":"",
             "white_player":"陈学伟",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzk1MzE4NiU3RA=="
          },
          {
             "date":"2023-09-30T16:00:00.000Z",
@@ -16560,7 +16560,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzk1ODg3OSU3RA=="
          },
          {
             "date":"2023-09-30T16:00:00.000Z",
@@ -16570,7 +16570,7 @@
             "black_team":"",
             "white_player":"陳立穎",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg4JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzk2OTU4NyU3RA=="
          },
          {
             "date":"2023-09-30T16:00:00.000Z",
@@ -16620,7 +16620,7 @@
             "black_team":"",
             "white_player":"朱弈凯",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg3JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzk5MTA3MiU3RA=="
          },
          {
             "date":"2023-10-01T16:00:00.000Z",
@@ -16640,7 +16640,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"白胜6.25子"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg3JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMzk5NjU2MSU3RA=="
          },
          {
             "date":"2023-10-01T16:00:00.000Z",
@@ -16680,7 +16680,7 @@
             "black_team":"",
             "white_player":"孟繁雄",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTg3JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNDAwMzI1MSU3RA=="
          }
       ],
       "58":[
@@ -16762,7 +16762,7 @@
             "black_team":"",
             "white_player":"解祁森",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTEwMSUyQyUyMmNvbW1hbmQlMjIlM0ElMjJteVVwbG9hZCUyMiUyQyUyMnNnZklkJTIyJTNBMjQ3Mzc1OTQlN0Q="
          },
          {
             "date":"2023-03-01T16:00:00.000Z",
@@ -16782,7 +16782,7 @@
             "black_team":"",
             "white_player":"庄应楠",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTEwMSUyQyUyMmNvbW1hbmQlMjIlM0ElMjJteVVwbG9hZCUyMiUyQyUyMnNnZklkJTIyJTNBMjQ3MzIyNjElN0Q="
          },
          {
             "date":"2023-03-01T16:00:00.000Z",
@@ -16822,7 +16822,7 @@
             "black_team":"",
             "white_player":"庄应楠",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTEwMCUyQyUyMmNvbW1hbmQlMjIlM0ElMjJteVVwbG9hZCUyMiUyQyUyMnNnZklkJTIyJTNBMjQ3NDU1NDAlN0Q="
          },
          {
             "date":"2023-03-02T16:00:00.000Z",
@@ -16842,7 +16842,7 @@
             "black_team":"",
             "white_player":"王晶磊",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTEwMCUyQyUyMmNvbW1hbmQlMjIlM0ElMjJteVVwbG9hZCUyMiUyQyUyMnNnZklkJTIyJTNBMjQ3NzkyNzIlN0Q="
          },
          {
             "date":"2023-03-02T16:00:00.000Z",
@@ -16862,7 +16862,7 @@
             "black_team":"",
             "white_player":"庄应楠",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTEwMCUyQyUyMmNvbW1hbmQlMjIlM0ElMjJteVVwbG9hZCUyMiUyQyUyMnNnZklkJTIyJTNBMjQ3NzkyOTQlN0Q="
          },
          {
             "date":"2023-03-03T16:00:00.000Z",
@@ -16882,7 +16882,7 @@
             "black_team":"",
             "white_player":"王文鑫",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTk5JTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EyNDgwNTI2NiU3RA=="
          }
       ],
       "59":[
@@ -18900,7 +18900,7 @@
             "black_team":"",
             "white_player":"李桂德",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkzJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMTQ4NjE5MiU3RA=="
          },
          {
             "date":"2023-08-05T16:00:00.000Z",
@@ -18910,7 +18910,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkzJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMTQ4OTMzMSU3RA=="
          },
          {
             "date":"2023-08-05T16:00:00.000Z",
@@ -18920,7 +18920,7 @@
             "black_team":"",
             "white_player":"罗俊丰",
             "white_team":"",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkzJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMTQ5NDYwOSU3RA=="
          },
          {
             "date":"2023-08-05T16:00:00.000Z",
@@ -18930,7 +18930,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkzJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMTQ5NzU3MSU3RA=="
          },
          {
             "date":"2023-08-05T16:00:00.000Z",
@@ -18940,7 +18940,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkzJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMTUwMTQxMyU3RA=="
          },
          {
             "date":"2023-08-05T16:00:00.000Z",
@@ -18950,7 +18950,7 @@
             "black_team":"",
             "white_player":"张秦盟",
             "white_team":"",
-            "result":"黑超时胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTkzJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzMTUwNDI5OCU3RA=="
          }
       ],
       "73":[
@@ -22456,7 +22456,7 @@
             "black_team":"珠江公园招商友联队",
             "white_player":"匡博文",
             "white_team":"香雪公园应元棋院队",
-            "result":"黑超时胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTgwJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNzg2NTA0OSU3RA=="
          },
          {
             "date":"2023-12-31T16:00:00.000Z",
@@ -22476,7 +22476,7 @@
             "black_team":"香雪公园应元棋院队",
             "white_player":"任大龙",
             "white_team":"黄花岗公园队",
-            "result":"黑中盘胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTgwJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNzg3OTA3MSU3RA=="
          },
          {
             "date":"2023-12-31T16:00:00.000Z",
@@ -22486,7 +22486,7 @@
             "black_team":"越秀公园东湖棋院队",
             "white_player":"匡博文",
             "white_team":"香雪公园应元棋院队",
-            "result":"黑超时胜"
+            "result":"https://www.19x19.com/engine/sgf/data/JTdCJTIycGFnZSUyMiUzQTgwJTJDJTIyY29tbWFuZCUyMiUzQSUyMm15VXBsb2FkJTIyJTJDJTIyc2dmSWQlMjIlM0EzNzg3NzkwNCU3RA=="
          }
       ],
       "111":[
