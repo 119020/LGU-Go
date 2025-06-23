@@ -6720,7 +6720,7 @@
             "black_team":"深圳高校联队",
             "white_player":"Kim Baek Chan",
             "white_team":"韩国队",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12459884&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=fe57dbfd5f6d5ad0#/desktop"
          },
          {
             "date":"2023-07-10T16:00:00.000Z",
@@ -6750,7 +6750,7 @@
             "black_team":"南方科技大学队",
             "white_player":"匡博文",
             "white_team":"深圳高校联队",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12460990&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=9afa9ccf4dd562fa#/desktop"
          },
          {
             "date":"2023-07-10T16:00:00.000Z",
@@ -6780,7 +6780,7 @@
             "black_team":"中华台北队",
             "white_player":"匡博文",
             "white_team":"深圳高校联队",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12462523&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=e09cda87d0a3305e#/desktop"
          },
          {
             "date":"2023-07-11T16:00:00.000Z",
@@ -6810,7 +6810,7 @@
             "black_team":"中国香港队",
             "white_player":"匡博文",
             "white_team":"深圳高校联队",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12463690&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=b564b835d1e5ff01#/desktop"
          }
       ],
       "23":[
@@ -6994,7 +6994,7 @@
             "black_team":"",
             "white_player":"孙嘉路",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12686101&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=e5d059fe48e4548e#/desktop"
          },
          {
             "date":"2023-10-20T16:00:00.000Z",
@@ -7074,7 +7074,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12687512&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=41b59fae5f74bcd7#/desktop"
          },
          {
             "date":"2023-10-21T16:00:00.000Z",
@@ -7124,7 +7124,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12689479&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=3b15e1e9e1da06b4#/desktop"
          },
          {
             "date":"2023-10-21T16:00:00.000Z",
@@ -7818,7 +7818,7 @@
             "black_team":"深圳市棋类协会三队",
             "white_player":"何桂璋",
             "white_team":"中国香港围棋协会",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12774898&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=fec1e0b89d0a33b6#/desktop"
          },
          {
             "date":"2023-12-08T16:00:00.000Z",
@@ -7898,7 +7898,7 @@
             "black_team":"深圳市棋类协会三队",
             "white_player":"黄永汉",
             "white_team":"江门市棋类协会二队",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12776024&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=dad37b9000e9b0e2#/desktop"
          },
          {
             "date":"2023-12-08T16:00:00.000Z",
@@ -7938,7 +7938,7 @@
             "black_team":"佛山市围棋协会",
             "white_player":"匡博文",
             "white_team":"深圳市棋类协会三队",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12775975&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=18678fa07b38c59f#/desktop"
          },
          {
             "date":"2023-12-08T16:00:00.000Z",
@@ -8028,7 +8028,7 @@
             "black_team":"深圳市棋类协会三队",
             "white_player":"杨靖源",
             "white_team":"深圳市棋类协会一队",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12777582&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=cbfaf086f388efa0#/desktop"
          },
          {
             "date":"2023-12-09T16:00:00.000Z",
@@ -8542,7 +8542,7 @@
             "black_team":"",
             "white_player":"刘炳心",
             "white_team":"",
-            "result":"https://hawkeye.yikeweiqi.com/report/index?token=bc4e2fa7b3a7c3a2&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTAzOTc4MTgsImV4cCI6MTc1MDQ4NDIxOCwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImJjNGUyZmE3YjNhN2MzYTIiLCJpc3ZpcCI6MX19.MDSKHq6lXnqAObkfJUQsktcYqZOLqh_-wCj3QOSQUVg#/desktop"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=bc4e2fa7b3a7c3a2#/desktop"
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -8582,7 +8582,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://hawkeye.yikeweiqi.com/report/index?token=895c31e633711475&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTAzOTc4NjksImV4cCI6MTc1MDQ4NDI2OSwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6Ijg5NWMzMWU2MzM3MTE0NzUiLCJpc3ZpcCI6MX19.dhXbXJsZacMrJM0o7FbUFaMMXqQ1BLS95q2fvWmSgBw#/desktop"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=895c31e633711475#/desktop"
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -8652,7 +8652,7 @@
             "black_team":"",
             "white_player":"陈俊宇",
             "white_team":"",
-            "result":"https://hawkeye.yikeweiqi.com/report/index?token=bea1a99ff2fe8be0&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTAzOTc4OTksImV4cCI6MTc1MDQ4NDI5OSwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImJlYTFhOTlmZjJmZThiZTAiLCJpc3ZpcCI6MX19.s3d82naeFE0nvQLkLe0yASEOfJwAOHH7U6YAITNUFaY#/desktop"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=bea1a99ff2fe8be0#/desktop"
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -8752,7 +8752,7 @@
             "black_team":"",
             "white_player":"李昊苇",
             "white_team":"",
-            "result":"https://hawkeye.yikeweiqi.com/report/index?token=ee7a59ef6f5fbf57&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTAzOTc5MjYsImV4cCI6MTc1MDQ4NDMyNiwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImVlN2E1OWVmNmY1ZmJmNTciLCJpc3ZpcCI6MX19.Zqo887ex0Wynz5NxVnbpikLepeQU-cVq8zOemWlZvNw#/desktop"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=ee7a59ef6f5fbf57#/desktop"
          },
          {
             "date":"2024-01-27T16:00:00.000Z",
@@ -11188,7 +11188,7 @@
             "black_team":"弈秋棋社队",
             "white_player":"朱良均",
             "white_team":"126锦绣队",
-            "result":"https://hawkeye.yikeweiqi.com/report/index?token=d8d63916e5e46296&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTAzOTgyMDMsImV4cCI6MTc1MDQ4NDYwMywiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImQ4ZDYzOTE2ZTVlNDYyOTYiLCJpc3ZpcCI6MX19.448jKpZr0cYuaXoVY_zb7eYDdHpnmkPy-YW_Ulrr2CY#/desktop"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=d8d63916e5e46296#/desktop"
          },
          {
             "date":"2024-06-29T16:00:00.000Z",
@@ -16096,7 +16096,7 @@
             "black_team":"",
             "white_player":"付涵一",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12881210&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=c11169d415a55b34#/desktop"
          },
          {
             "date":"2024-02-03T16:00:00.000Z",
@@ -16106,7 +16106,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12881551&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=beafeba3194187e3#/desktop"
          },
          {
             "date":"2024-02-03T16:00:00.000Z",
@@ -16136,7 +16136,7 @@
             "black_team":"",
             "white_player":"黄皓",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12882681&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=4378300da23678d6#/desktop"
          },
          {
             "date":"2024-02-04T16:00:00.000Z",
@@ -16156,7 +16156,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12883493&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=6ab441f9d6aa5a7d#/desktop"
          },
          {
             "date":"2024-02-04T16:00:00.000Z",
@@ -16196,7 +16196,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12884388&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=7e6caa4a85648546#/desktop"
          },
          {
             "date":"2024-02-05T16:00:00.000Z",
@@ -16216,7 +16216,7 @@
             "black_team":"",
             "white_player":"王英翰",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12884782&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=7b8e7154f58ec4ec#/desktop"
          }
       ],
       "56":[
@@ -16238,7 +16238,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13515639&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=3745ca86c224a40f#/desktop"
          },
          {
             "date":"2025-01-22T16:00:00.000Z",
@@ -16288,7 +16288,7 @@
             "black_team":"",
             "white_player":"武桂宁",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13517277&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=e1102fa5aff80c37#/desktop"
          },
          {
             "date":"2025-01-23T16:00:00.000Z",
@@ -16308,7 +16308,7 @@
             "black_team":"",
             "white_player":"王鹏浩",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13517723&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=a22e904ee207a7d5#/desktop"
          },
          {
             "date":"2025-01-23T16:00:00.000Z",
@@ -16328,7 +16328,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13517928&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=2f3c2b60683424b6#/desktop"
          },
          {
             "date":"2025-01-23T16:00:00.000Z",
@@ -16378,7 +16378,7 @@
             "black_team":"",
             "white_player":"赵启东",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13518963&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=019029833a11e989#/desktop"
          }
       ],
       "57":[
@@ -16722,7 +16722,7 @@
             "black_team":"",
             "white_player":"刘泓弟",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12169637&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=a2bd0106710f272c#/desktop"
          },
          {
             "date":"2023-02-28T16:00:00.000Z",
@@ -16742,7 +16742,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12169910&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=6aa3ed399140842c#/desktop"
          },
          {
             "date":"2023-03-01T16:00:00.000Z",
@@ -16752,7 +16752,7 @@
             "black_team":"",
             "white_player":"郭子逸",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12171020&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=63d30868fd8c6f8a#/desktop"
          },
          {
             "date":"2023-03-01T16:00:00.000Z",
@@ -16772,7 +16772,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12171424&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=0d2bb382a66f5d9f#/desktop"
          },
          {
             "date":"2023-03-01T16:00:00.000Z",
@@ -16792,7 +16792,7 @@
             "black_team":"",
             "white_player":"王晶磊",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12171743&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=8b8446479679c0f9#/desktop"
          },
          {
             "date":"2023-03-01T16:00:00.000Z",
@@ -16812,7 +16812,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12172859&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=58a53777fedd3658#/desktop"
          },
          {
             "date":"2023-03-02T16:00:00.000Z",
@@ -16832,7 +16832,7 @@
             "black_team":"",
             "white_player":"李昭阳",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12173247&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=fcb3212535c8b91f#/desktop"
          },
          {
             "date":"2023-03-02T16:00:00.000Z",
@@ -16852,7 +16852,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12173639&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=aa8cb6646d34ea04#/desktop"
          },
          {
             "date":"2023-03-02T16:00:00.000Z",
@@ -16872,7 +16872,7 @@
             "black_team":"",
             "white_player":"孙嘉路",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12175144&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=a6e57237eba508d1#/desktop"
          },
          {
             "date":"2023-03-03T16:00:00.000Z",
@@ -17006,7 +17006,7 @@
             "black_team":"",
             "white_player":"孟繁雄",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12985223&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=5d0c7e877b23934b#/desktop"
          },
          {
             "date":"2024-04-03T16:00:00.000Z",
@@ -17086,7 +17086,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12987066&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=97fd58a95220c6d7#/desktop"
          },
          {
             "date":"2024-04-04T16:00:00.000Z",
@@ -17126,7 +17126,7 @@
             "black_team":"",
             "white_player":"陈宇驰",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12987539&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=7586877d71dff46b#/desktop"
          },
          {
             "date":"2024-04-04T16:00:00.000Z",
@@ -17136,7 +17136,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12987929&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=35604b9532364c3a#/desktop"
          },
          {
             "date":"2024-04-04T16:00:00.000Z",
@@ -17176,7 +17176,7 @@
             "black_team":"",
             "white_player":"梁景鑫",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12988919&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=cadc2b57020198cc#/desktop"
          },
          {
             "date":"2024-04-05T16:00:00.000Z",
@@ -17196,7 +17196,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12989362&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=7981951d91b78d20#/desktop"
          },
          {
             "date":"2024-04-05T16:00:00.000Z",
@@ -17246,7 +17246,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12989720&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=5f48076a3437ac74#/desktop"
          },
          {
             "date":"2024-04-05T16:00:00.000Z",
@@ -17256,7 +17256,7 @@
             "black_team":"",
             "white_player":"易桢益",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=12990103&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=d9f5a8b6c7dacb72#/desktop"
          },
          {
             "date":"2024-04-05T16:00:00.000Z",
@@ -21686,7 +21686,7 @@
             "black_team":"",
             "white_player":"游瑞鸿",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11326257&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=7bdcd1a1eda41778#/desktop"
          },
          {
             "date":"2022-02-18T16:00:00.000Z",
@@ -21696,7 +21696,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11326581&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=f1b92967162b8ccf#/desktop"
          },
          {
             "date":"2022-02-18T16:00:00.000Z",
@@ -21716,7 +21716,7 @@
             "black_team":"",
             "white_player":"王鸿念",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11327123&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=770e71c5eab5dac0#/desktop"
          },
          {
             "date":"2022-02-18T16:00:00.000Z",
@@ -21736,7 +21736,7 @@
             "black_team":"",
             "white_player":"赵征",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11328236&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=9fce0113f11e25c3#/desktop"
          },
          {
             "date":"2022-02-19T16:00:00.000Z",
@@ -21766,7 +21766,7 @@
             "black_team":"",
             "white_player":"郑凯阳",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11328236&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=bcf9601ce2d137fc#/desktop"
          },
          {
             "date":"2022-02-19T16:00:00.000Z",
@@ -21786,7 +21786,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11329285&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=ae27fc47c371439a#/desktop"
          },
          {
             "date":"2022-02-19T16:00:00.000Z",
@@ -21796,7 +21796,7 @@
             "black_team":"",
             "white_player":"匡博文",
             "white_team":"",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11329725&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=6531b1ac64a255f1#/desktop"
          },
          {
             "date":"2022-02-19T16:00:00.000Z",
@@ -22540,7 +22540,7 @@
             "black_team":"广东省围棋协会",
             "white_player":"唐鹏云",
             "white_team":"广西省围棋协会",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11634814&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=b91361a6a5c9f74a#/desktop"
          },
          {
             "date":"2022-07-08T16:00:00.000Z",
@@ -22550,7 +22550,7 @@
             "black_team":"广东省围棋协会",
             "white_player":"匡博文",
             "white_team":"广东省围棋协会",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11635324&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=710785c426008297#/desktop"
          },
          {
             "date":"2022-07-08T16:00:00.000Z",
@@ -22560,7 +22560,7 @@
             "black_team":"广西省围棋协会",
             "white_player":"匡博文",
             "white_team":"广东省围棋协会",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11635672&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=0283851c34b35645#/desktop"
          },
          {
             "date":"2022-07-09T16:00:00.000Z",
@@ -22570,7 +22570,7 @@
             "black_team":"广东省围棋协会",
             "white_player":"蒋谦",
             "white_team":"广西省围棋协会",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11637161&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=23e9938782cb7c35#/desktop"
          },
          {
             "date":"2022-07-09T16:00:00.000Z",
@@ -22580,7 +22580,7 @@
             "black_team":"广东省围棋协会",
             "white_player":"林斯达",
             "white_team":"广东省围棋协会",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11637885&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=75aca91a76c72219#/desktop"
          },
          {
             "date":"2022-07-09T16:00:00.000Z",
@@ -22590,7 +22590,7 @@
             "black_team":"广西省围棋协会",
             "white_player":"匡博文",
             "white_team":"广东省围棋协会",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11638310&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=2812cc1e952aff9e#/desktop"
          },
          {
             "date":"2022-07-10T16:00:00.000Z",
@@ -22600,7 +22600,7 @@
             "black_team":"广西省围棋协会",
             "white_player":"匡博文",
             "white_team":"广东省围棋协会",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11639683&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=86648908c21f79dd#/desktop"
          }
       ],
       "113":[
@@ -22622,7 +22622,7 @@
             "black_team":"清远市",
             "white_player":"吴梓龙",
             "white_team":"汕头市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11751036&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=ebe4da65a83623ad#/desktop"
          },
          {
             "date":"2022-08-19T16:00:00.000Z",
@@ -22642,7 +22642,7 @@
             "black_team":"清远市",
             "white_player":"黄毅飞",
             "white_team":"佛山市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11752960&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=cb02b0ee8eb98084#/desktop"
          },
          {
             "date":"2022-08-20T16:00:00.000Z",
@@ -22662,7 +22662,7 @@
             "black_team":"惠州市",
             "white_player":"匡博文",
             "white_team":"清远市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11754260&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=5e776b1dd9c21b3f#/desktop"
          },
          {
             "date":"2022-08-21T16:00:00.000Z",
@@ -22672,7 +22672,7 @@
             "black_team":"清远市",
             "white_player":"杨宇祥",
             "white_team":"肇庆市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11755762&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=771b7790cb8df587#/desktop"
          }
       ],
       "114":[
@@ -22694,7 +22694,7 @@
             "black_team":"东莞市",
             "white_player":"匡博文",
             "white_team":"清远市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11762141&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=3fc9df7da3227309#/desktop"
          },
          {
             "date":"2022-08-23T16:00:00.000Z",
@@ -22704,7 +22704,7 @@
             "black_team":"清远市",
             "white_player":"郑伯钧",
             "white_team":"广州市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11762794&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=7b66bb9b1a1e7b02#/desktop"
          },
          {
             "date":"2022-08-24T16:00:00.000Z",
@@ -22714,7 +22714,7 @@
             "black_team":"清远市",
             "white_player":"徐英才",
             "white_team":"珠海市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11763815&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=f7b2b348c8bfaa33#/desktop"
          },
          {
             "date":"2022-08-24T16:00:00.000Z",
@@ -22724,7 +22724,7 @@
             "black_team":"茂名市",
             "white_player":"匡博文",
             "white_team":"清远市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11764589&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=7f15f72a43dbc722#/desktop"
          },
          {
             "date":"2022-08-24T16:00:00.000Z",
@@ -22734,7 +22734,7 @@
             "black_team":"清远市",
             "white_player":"温宇深",
             "white_team":"惠州市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11765379&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=c34623a6c59cae4a#/desktop"
          },
          {
             "date":"2022-08-25T16:00:00.000Z",
@@ -22744,7 +22744,7 @@
             "black_team":"潮州市",
             "white_player":"匡博文",
             "white_team":"清远市",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=11766532&type=0"
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=admin&token=41eb425cba43dd1a#/desktop"
          }
       ]
    }
