@@ -12398,16 +12398,16 @@
       ],
       "53":[
          {
-            "opponent":"",
-            "total_win":"5",
-            "total_lose":"0",
-            "total_game":5
-         },
-         {
             "opponent":"刘之昀",
             "total_win":"0",
             "total_lose":"5",
             "total_game":5
+         },
+         {
+            "opponent":"",
+            "total_win":"4",
+            "total_lose":"0",
+            "total_game":4
          },
          {
             "opponent":"付涵一",
@@ -12507,6 +12507,12 @@
          },
          {
             "opponent":"李弘璽",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"温泽涛",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -31284,7 +31290,7 @@
          {
             "date":"2023-07-11T16:00:00.000Z",
             "name":"丁泽洋",
-            "opponent":"",
+            "opponent":"温泽涛",
             "result":"胜",
             "competition":"四洲杯香港国际大学生赛",
             "edition":1,
