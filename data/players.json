@@ -1049,15 +1049,15 @@
       "25":[
          {
             "year":2021,
-            "total_wins":"1",
-            "total_losses":"4",
-            "win_rate":"20.00"
+            "total_wins":"2",
+            "total_losses":"3",
+            "win_rate":"40.00"
          },
          {
             "year":null,
-            "total_wins":"1",
-            "total_losses":"4",
-            "win_rate":"20.00"
+            "total_wins":"2",
+            "total_losses":"3",
+            "win_rate":"40.00"
          }
       ],
       "26":[
@@ -10818,13 +10818,13 @@
             "total_game":1
          },
          {
-            "opponent":"幸中东",
-            "total_win":"0",
-            "total_lose":"1",
+            "opponent":"刘振宇",
+            "total_win":"1",
+            "total_lose":"0",
             "total_game":1
          },
          {
-            "opponent":"刘振宇",
+            "opponent":"幸中东",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -28826,7 +28826,7 @@
             "date":"2021-11-26T16:00:00.000Z",
             "name":"赵志远",
             "opponent":"刘振宇",
-            "result":"负",
+            "result":"胜",
             "competition":"深圳联赛",
             "edition":7,
             "round":2
