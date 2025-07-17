@@ -1519,15 +1519,15 @@
          },
          {
             "year":2025,
-            "total_wins":"17",
-            "total_losses":"5",
-            "win_rate":"77.27"
+            "total_wins":"23",
+            "total_losses":"10",
+            "win_rate":"69.70"
          },
          {
             "year":null,
-            "total_wins":"130",
-            "total_losses":"64",
-            "win_rate":"67.01"
+            "total_wins":"136",
+            "total_losses":"69",
+            "win_rate":"66.34"
          }
       ],
       "54":[
@@ -12500,6 +12500,42 @@
             "total_game":2
          },
          {
+            "opponent":"冷佳林",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"江恩茗",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"周裕丰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"任宸昊",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"赵方诚",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"申云豪",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"趙禹",
             "total_win":"1",
             "total_lose":"0",
@@ -13151,6 +13187,36 @@
             "opponent":"熊怀远",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"方锶源",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"盛也",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"柯红星",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"山峻哲",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"王思懿",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -31251,6 +31317,105 @@
          }
       ],
       "53":[
+         {
+            "date":"2025-07-10T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"方锶源",
+            "result":"负",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":1
+         },
+         {
+            "date":"2025-07-10T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"盛也",
+            "result":"负",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":2
+         },
+         {
+            "date":"2025-07-11T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"柯红星",
+            "result":"负",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":3
+         },
+         {
+            "date":"2025-07-11T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"冷佳林",
+            "result":"胜",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":4
+         },
+         {
+            "date":"2025-07-12T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"江恩茗",
+            "result":"胜",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":5
+         },
+         {
+            "date":"2025-07-12T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"周裕丰",
+            "result":"胜",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":6
+         },
+         {
+            "date":"2025-07-13T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"山峻哲",
+            "result":"负",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":7
+         },
+         {
+            "date":"2025-07-13T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"任宸昊",
+            "result":"胜",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":8
+         },
+         {
+            "date":"2025-07-14T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"王思懿",
+            "result":"负",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":9
+         },
+         {
+            "date":"2025-07-14T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"赵方诚",
+            "result":"胜",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":10
+         },
+         {
+            "date":"2025-07-15T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"申云豪",
+            "result":"胜",
+            "competition":"全国定段赛初赛",
+            "edition":2,
+            "round":11
+         },
          {
             "date":"2023-07-10T16:00:00.000Z",
             "name":"丁泽洋",
