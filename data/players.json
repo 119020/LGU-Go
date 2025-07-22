@@ -419,15 +419,15 @@
          },
          {
             "year":2025,
-            "total_wins":"22",
+            "total_wins":"26",
             "total_losses":"6",
-            "win_rate":"78.57"
+            "win_rate":"81.25"
          },
          {
             "year":null,
-            "total_wins":"276",
+            "total_wins":"280",
             "total_losses":"76",
-            "win_rate":"78.41"
+            "win_rate":"78.65"
          }
       ],
       "2":[
@@ -559,15 +559,15 @@
          },
          {
             "year":2025,
-            "total_wins":"8",
-            "total_losses":"10",
-            "win_rate":"44.44"
+            "total_wins":"11",
+            "total_losses":"13",
+            "win_rate":"45.83"
          },
          {
             "year":null,
-            "total_wins":"59",
-            "total_losses":"57",
-            "win_rate":"50.86"
+            "total_wins":"62",
+            "total_losses":"60",
+            "win_rate":"50.82"
          }
       ],
       "6":[
@@ -654,10 +654,16 @@
             "win_rate":"80.00"
          },
          {
+            "year":2025,
+            "total_wins":"4",
+            "total_losses":"0",
+            "win_rate":"100.00"
+         },
+         {
             "year":null,
-            "total_wins":"38",
+            "total_wins":"42",
             "total_losses":"10",
-            "win_rate":"79.17"
+            "win_rate":"80.77"
          }
       ],
       "9":[
@@ -1834,6 +1840,30 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"唐伟东",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"嵇成中",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈怡志",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"赵芸霆",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"龙玉山",
@@ -6338,6 +6368,24 @@
             "total_game":2
          },
          {
+            "opponent":"紅林英龍",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"林士堯",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"梁嘉駿",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"吴景添",
             "total_win":"1",
             "total_lose":"0",
@@ -6647,6 +6695,24 @@
             "opponent":"徐睿轩",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"许文立",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"劉向恆",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"安茗炫",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -7550,6 +7616,30 @@
             "total_game":2
          },
          {
+            "opponent":"梁义伟",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
+            "opponent":"李卓轩",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"龙波",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"曾波",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"钟雨宸",
             "total_win":"1",
             "total_lose":"0",
@@ -7593,12 +7683,6 @@
          },
          {
             "opponent":"罗昊程",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"梁义伟",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -13621,6 +13705,42 @@
    },
    "game_records":{
       "1":[
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"唐伟东",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":1
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"嵇成中",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":2
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"陈怡志",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":3
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"赵芸霆",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":4
+         },
          {
             "date":"2022-08-19T16:00:00.000Z",
             "name":"匡博文",
@@ -21694,6 +21814,60 @@
       ],
       "5":[
          {
+            "date":"2025-07-10T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"紅林英龍",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":3,
+            "round":1
+         },
+         {
+            "date":"2025-07-10T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"林士堯",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":3,
+            "round":2
+         },
+         {
+            "date":"2025-07-10T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"许文立",
+            "result":"负",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":3,
+            "round":3
+         },
+         {
+            "date":"2025-07-10T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"劉向恆",
+            "result":"负",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":3,
+            "round":4
+         },
+         {
+            "date":"2025-07-11T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"梁嘉駿",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":3,
+            "round":5
+         },
+         {
+            "date":"2025-07-11T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"安茗炫",
+            "result":"负",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":3,
+            "round":6
+         },
+         {
             "date":"2024-08-31T16:00:00.000Z",
             "name":"刘泽伟",
             "opponent":"姚城浠",
@@ -23876,6 +24050,42 @@
             "competition":"深圳杯",
             "edition":2,
             "round":8
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"李卓轩",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":1
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"梁义伟",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":2
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"龙波",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":3
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"曾波",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":4
          },
          {
             "date":"2024-06-14T16:00:00.000Z",
@@ -33747,6 +33957,11 @@
             "year":2025,
             "competition":"第11届深圳联赛 (超级组)",
             "honor":"团体第3名"
+         },
+         {
+            "year":2025,
+            "competition":"第3届四洲杯香港国际大学生赛 (公开组)",
+            "honor":"团体第6名"
          }
       ],
       "6":[
