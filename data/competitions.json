@@ -665,6 +665,16 @@
             "location":"广东深圳罗湖",
             "total_round":8,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=185378&eventid=0&groupid=246767&type=group"
+         },
+         {
+            "competition_id":120,
+            "year":2025,
+            "competition":"第3届 深圳杯（公开组）",
+            "start_date":"2025-07-18T16:00:00.000Z",
+            "end_date":"2025-09-05T16:00:00.000Z",
+            "location":"广东深圳罗湖",
+            "total_round":8,
+            "source":"云比赛网"
          }
       ],
       "10":[
@@ -953,6 +963,16 @@
             "total_round":6,
             "source":"其他",
             "link":null
+         },
+         {
+            "competition_id":119,
+            "year":2025,
+            "competition":"第3届 四洲杯香港国际大学生赛（公开组）",
+            "start_date":"2025-07-10T16:00:00.000Z",
+            "end_date":"2025-07-11T16:00:00.000Z",
+            "location":"香港西贡",
+            "total_round":6,
+            "source":"其他"
          }
       ],
       "20":[
@@ -23313,6 +23333,150 @@
             "white_player":"丁泽洋",
             "white_team":"",
             "result":"https://h5.foxwq.com/yehunewshare/?chessid=1752636425070001900&title=%E3%80%90%E7%BA%BF%E4%B8%8B%E6%A3%8B%E8%B0%B1%E3%80%91&desc=dzy%20VS%20syh&catelog=8&statisticsShareType=8&clientType=64&boardsize=19&uid=500275995&report=0"
+         }
+      ],
+      "119":[
+         {
+            "date":"2025-07-10T16:00:00.000Z",
+            "round":1,
+            "table":"'9",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学队",
+            "white_player":"紅林英龍",
+            "white_team":"日本队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-07-10T16:00:00.000Z",
+            "round":2,
+            "table":"'11",
+            "black_player":"林士堯",
+            "black_team":"中华台北队",
+            "white_player":"刘泽伟",
+            "white_team":"深圳大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-07-10T16:00:00.000Z",
+            "round":3,
+            "table":"'3",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学队",
+            "white_player":"许文立",
+            "white_team":"泰国队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-07-10T16:00:00.000Z",
+            "round":4,
+            "table":"'12",
+            "black_player":"劉向恆",
+            "black_team":"中华台北队",
+            "white_player":"刘泽伟",
+            "white_team":"深圳大学队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-07-11T16:00:00.000Z",
+            "round":5,
+            "table":"'13",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学队",
+            "white_player":"梁嘉駿",
+            "white_team":"台北佛光大学队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-07-11T16:00:00.000Z",
+            "round":6,
+            "table":"'12",
+            "black_player":"安茗炫",
+            "black_team":"北京大学队",
+            "white_player":"刘泽伟",
+            "white_team":"深圳大学队",
+            "result":"黑中盘胜"
+         }
+      ],
+      "120":[
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "round":1,
+            "table":"'2",
+            "black_player":"李卓轩",
+            "black_team":"",
+            "white_player":"蓝迪",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "round":1,
+            "table":"'44",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"唐伟东",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "round":2,
+            "table":"'25",
+            "black_player":"蓝迪",
+            "black_team":"",
+            "white_player":"梁义伟",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "round":2,
+            "table":"'4",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"嵇成中",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "round":3,
+            "table":"'1",
+            "black_player":"蓝迪",
+            "black_team":"",
+            "white_player":"龙波",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "round":3,
+            "table":"'11",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"陈怡志",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "round":4,
+            "table":"'2",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"赵芸霆",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-07-18T16:00:00.000Z",
+            "round":4,
+            "table":"'7",
+            "black_player":"曾波",
+            "black_team":"",
+            "white_player":"蓝迪",
+            "white_team":"",
+            "result":"白中盘胜"
          }
       ]
    }
