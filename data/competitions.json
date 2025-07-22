@@ -51,7 +51,7 @@
       {
          "competition_base_id":54,
          "competition":"应氏杯全国大学生赛",
-         "first_year":-1,
+         "first_year":1980,
          "last_year":2025,
          "level":"国家级",
          "description":"高校|公开赛|线下|个人赛|记团体成绩"
@@ -60,7 +60,7 @@
          "competition_base_id":5,
          "competition":"青春之城",
          "first_year":2023,
-         "last_year":2024,
+         "last_year":2025,
          "level":"国家级",
          "description":"高校|邀请赛|线下|个人赛|记团体成绩"
       },
@@ -68,7 +68,7 @@
          "competition_base_id":19,
          "competition":"四洲杯香港国际大学生赛",
          "first_year":2023,
-         "last_year":2024,
+         "last_year":2025,
          "level":"国家级",
          "description":"高校|邀请赛|线下|个人赛|记团体成绩"
       },
@@ -412,7 +412,7 @@
          "competition_base_id":4,
          "competition":"龙华杯深台两地交流预选赛",
          "first_year":-1,
-         "last_year":2024,
+         "last_year":2025,
          "level":"区市级",
          "description":"--|公开赛|线下|个人赛|--"
       },
