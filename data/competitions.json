@@ -571,7 +571,7 @@
             "end_date":"2023-08-20T16:00:00.000Z",
             "location":"浙江绍兴上虞",
             "total_round":9,
-            "source":"云比赛网",
+            "source":"https://mp.weixin.qq.com/s/JpWScjv2RpFyQ_Ynmco4HQ",
             "link":null
          },
          {
@@ -588,8 +588,8 @@
             "competition_id":124,
             "year":2025,
             "competition":"第3届 青春之城（公开组）",
-            "start_date":"2024-08-15T16:00:00.000Z",
-            "end_date":"2024-08-18T16:00:00.000Z",
+            "start_date":"2025-08-15T16:00:00.000Z",
+            "end_date":"2025-08-18T16:00:00.000Z",
             "location":"浙江绍兴上虞",
             "total_round":9,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=214359&eventid=0&groupid=288406&type=group"
