@@ -348,7 +348,7 @@
          "competition_base_id":20,
          "competition":"天隆广电杯深圳棋王总决赛",
          "first_year":2017,
-         "last_year":2023,
+         "last_year":2025,
          "level":"区市级",
          "description":"--|邀请赛|线下|个人赛|--"
       },
@@ -356,7 +356,7 @@
          "competition_base_id":38,
          "competition":"天隆广电杯深圳棋王预选赛",
          "first_year":2017,
-         "last_year":2023,
+         "last_year":2025,
          "level":"区市级",
          "description":"--|公开赛|线下|个人赛|--"
       },
@@ -1333,6 +1333,16 @@
             "location":"广东深圳龙岗",
             "total_round":7,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=135146&eventid=0&groupid=175701&type=group"
+         },
+         {
+            "competition_id":125,
+            "year":2025,
+            "competition":"第4届 天隆广电杯深圳棋王预选赛（公开组-龙岗）",
+            "start_date":"2025-08-23T16:00:00.000Z",
+            "end_date":"2025-08-23T16:00:00.000Z",
+            "location":"广东深圳龙岗",
+            "total_round":6,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=216064&eventid=0&groupid=289039&type=group"
          }
       ],
       "39":[
@@ -24565,6 +24575,68 @@
             "white_player":"贾宪清",
             "white_team":"吉林大学队",
             "result":"黑胜2.75子"
+         }
+      ],
+      "125":[
+         {
+            "date":"2025-08-23T16:00:00.000Z",
+            "round":1,
+            "table":"'11",
+            "black_player":"钟宇涛",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-08-23T16:00:00.000Z",
+            "round":2,
+            "table":"'3",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"汪奕譞",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13874211&type=0"
+         },
+         {
+            "date":"2025-08-23T16:00:00.000Z",
+            "round":3,
+            "table":"'13",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"舒心",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13874322&type=0"
+         },
+         {
+            "date":"2025-08-23T16:00:00.000Z",
+            "round":4,
+            "table":"'7",
+            "black_player":"孙嘉路",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13874899&type=0"
+         },
+         {
+            "date":"2025-08-23T16:00:00.000Z",
+            "round":5,
+            "table":"'13",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"周浩然",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-08-23T16:00:00.000Z",
+            "round":6,
+            "table":"'9",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"彭绍辉",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13875090&type=0"
          }
       ]
    }
