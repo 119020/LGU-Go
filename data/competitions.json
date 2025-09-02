@@ -1343,6 +1343,16 @@
             "location":"广东深圳龙岗",
             "total_round":6,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=216064&eventid=0&groupid=289039&type=group"
+         },
+         {
+            "competition_id":126,
+            "year":2025,
+            "competition":"第4届 天隆广电杯深圳棋王预选赛（公开组-南山）",
+            "start_date":"2025-08-30T16:00:00.000Z",
+            "end_date":"2025-08-30T16:00:00.000Z",
+            "location":"广东深圳南山",
+            "total_round":6,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=216913&eventid=0&groupid=290713&type=group"
          }
       ],
       "39":[
@@ -24637,6 +24647,68 @@
             "white_player":"彭绍辉",
             "white_team":"",
             "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13875090&type=0"
+         }
+      ],
+      "126":[
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "round":1,
+            "table":"'11",
+            "black_player":"丁逸先",
+            "black_team":"",
+            "white_player":"刘泽伟",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "round":2,
+            "table":"'13",
+            "black_player":"刘泽伟",
+            "black_team":"",
+            "white_player":"罗宏捷",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "round":3,
+            "table":"'17",
+            "black_player":"龙泽昊",
+            "black_team":"",
+            "white_player":"刘泽伟",
+            "white_team":"",
+            "result":"白弃权胜"
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "round":4,
+            "table":"'13",
+            "black_player":"刘泽伟",
+            "black_team":"",
+            "white_player":"徐梦洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "round":5,
+            "table":"'15",
+            "black_player":"龚卫峰",
+            "black_team":"",
+            "white_player":"刘泽伟",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "round":6,
+            "table":"'11",
+            "black_player":"刘泽伟",
+            "black_team":"",
+            "white_player":"毕文波",
+            "white_team":"",
+            "result":"黑中盘胜"
          }
       ]
    }
