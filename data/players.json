@@ -558,15 +558,15 @@
          },
          {
             "year":2025,
-            "total_wins":"11",
-            "total_losses":"13",
-            "win_rate":"45.83"
+            "total_wins":"14",
+            "total_losses":"16",
+            "win_rate":"46.67"
          },
          {
             "year":null,
-            "total_wins":"62",
-            "total_losses":"60",
-            "win_rate":"50.82"
+            "total_wins":"65",
+            "total_losses":"63",
+            "win_rate":"50.78"
          }
       ],
       "6":[
@@ -6739,6 +6739,24 @@
             "total_game":2
          },
          {
+            "opponent":"龙泽昊",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"龚卫峰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"毕文波",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"紅林英龍",
             "total_win":"1",
             "total_lose":"0",
@@ -7066,6 +7084,24 @@
             "opponent":"徐睿轩",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"丁逸先",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"罗宏捷",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"徐梦洋",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -23422,6 +23458,60 @@
             "competition":"广东联赛",
             "edition":7,
             "round":7
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"丁逸先",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王预选赛",
+            "edition":4,
+            "round":1
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"罗宏捷",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王预选赛",
+            "edition":4,
+            "round":2
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"龙泽昊",
+            "result":"胜",
+            "competition":"天隆广电杯深圳棋王预选赛",
+            "edition":4,
+            "round":3
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"徐梦洋",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王预选赛",
+            "edition":4,
+            "round":4
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"龚卫峰",
+            "result":"胜",
+            "competition":"天隆广电杯深圳棋王预选赛",
+            "edition":4,
+            "round":5
+         },
+         {
+            "date":"2025-08-30T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"毕文波",
+            "result":"胜",
+            "competition":"天隆广电杯深圳棋王预选赛",
+            "edition":4,
+            "round":6
          },
          {
             "date":"2024-11-09T16:00:00.000Z",
