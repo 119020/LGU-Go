@@ -29,6 +29,27 @@
          "amateur_dan":5
       },
       {
+         "id":8,
+         "name":"蓝迪",
+         "enroll_year":2022,
+         "college":"第七",
+         "amateur_dan":6
+      },
+      {
+         "id":2,
+         "name":"曾子荣",
+         "enroll_year":2022,
+         "college":"祥波",
+         "amateur_dan":6
+      },
+      {
+         "id":1,
+         "name":"匡博文",
+         "enroll_year":2019,
+         "college":"逸夫",
+         "amateur_dan":6
+      },
+      {
          "id":15,
          "name":"邓晴文",
          "enroll_year":2017,
@@ -69,13 +90,6 @@
          "enroll_year":2019,
          "college":"逸夫",
          "amateur_dan":5
-      },
-      {
-         "id":1,
-         "name":"匡博文",
-         "enroll_year":2019,
-         "college":"逸夫",
-         "amateur_dan":6
       },
       {
          "id":44,
@@ -239,20 +253,6 @@
          "amateur_dan":5
       },
       {
-         "id":8,
-         "name":"蓝迪",
-         "enroll_year":2022,
-         "college":"第七",
-         "amateur_dan":5
-      },
-      {
-         "id":2,
-         "name":"曾子荣",
-         "enroll_year":2022,
-         "college":"祥波",
-         "amateur_dan":6
-      },
-      {
          "id":47,
          "name":"严来朋",
          "enroll_year":2023,
@@ -412,15 +412,15 @@
          },
          {
             "year":2025,
-            "total_wins":"46",
-            "total_losses":"13",
-            "win_rate":"77.97"
+            "total_wins":"49",
+            "total_losses":"14",
+            "win_rate":"77.78"
          },
          {
             "year":null,
-            "total_wins":"300",
-            "total_losses":"83",
-            "win_rate":"78.33"
+            "total_wins":"303",
+            "total_losses":"84",
+            "win_rate":"78.29"
          }
       ],
       "2":[
@@ -654,15 +654,15 @@
          },
          {
             "year":2025,
-            "total_wins":"4",
-            "total_losses":"0",
-            "win_rate":"100.00"
+            "total_wins":"7",
+            "total_losses":"1",
+            "win_rate":"87.50"
          },
          {
             "year":null,
-            "total_wins":"42",
-            "total_losses":"10",
-            "win_rate":"80.77"
+            "total_wins":"45",
+            "total_losses":"11",
+            "win_rate":"80.36"
          }
       ],
       "9":[
@@ -1619,6 +1619,12 @@
             "total_game":3
          },
          {
+            "opponent":"陈俊宇",
+            "total_win":"0",
+            "total_lose":"3",
+            "total_game":3
+         },
+         {
             "opponent":"孙嘉路",
             "total_win":"0",
             "total_lose":"3",
@@ -1853,12 +1859,6 @@
             "total_game":2
          },
          {
-            "opponent":"陈俊宇",
-            "total_win":"0",
-            "total_lose":"2",
-            "total_game":2
-         },
-         {
             "opponent":"孔祥伊",
             "total_win":"1",
             "total_lose":"0",
@@ -1944,6 +1944,24 @@
          },
          {
             "opponent":"赵芸霆",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"宋子玉",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"阎君",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"宋子然",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -8101,6 +8119,24 @@
             "total_game":1
          },
          {
+            "opponent":"史济东",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"袁梦泽",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"何仲",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"钟雨宸",
             "total_win":"1",
             "total_lose":"0",
@@ -8296,6 +8332,12 @@
             "opponent":"林治昊",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈俊宇",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -14387,6 +14429,42 @@
             "competition":"深圳杯",
             "edition":3,
             "round":4
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"宋子玉",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":5
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"阎君",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":6
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"陈俊宇",
+            "result":"负",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":7
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"宋子然",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":8
          },
          {
             "date":"2022-08-19T16:00:00.000Z",
@@ -25410,6 +25488,42 @@
             "round":4
          },
          {
+            "date":"2025-09-05T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"史济东",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":5
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"陈俊宇",
+            "result":"负",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":6
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"袁梦泽",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":7
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"何仲",
+            "result":"胜",
+            "competition":"深圳杯",
+            "edition":3,
+            "round":8
+         },
+         {
             "date":"2024-06-14T16:00:00.000Z",
             "name":"蓝迪",
             "opponent":"张兆容",
@@ -35364,6 +35478,11 @@
             "year":2025,
             "competition":"第3届青春之城 (公开组)",
             "honor":"团体第10名"
+         },
+         {
+            "year":2025,
+            "competition":"第3届深圳杯 (公开组)",
+            "honor":"个人第3名"
          }
       ],
       "2":[
@@ -35458,6 +35577,11 @@
             "year":2023,
             "competition":"第9届深圳联赛 (甲级组)",
             "honor":"团体第4名"
+         },
+         {
+            "year":2023,
+            "competition":"第1届凯里亚德杯 (公开组)",
+            "honor":"个人第9名"
          },
          {
             "year":2023,
@@ -35703,6 +35827,11 @@
             "year":2024,
             "competition":"第2届深圳杯 (公开组)",
             "honor":"个人第9名"
+         },
+         {
+            "year":2025,
+            "competition":"第3届深圳杯 (公开组)",
+            "honor":"个人第2名"
          }
       ],
       "9":[
@@ -35720,6 +35849,11 @@
             "year":2023,
             "competition":"第9届深圳联赛 (甲级组)",
             "honor":"团体第4名"
+         },
+         {
+            "year":2023,
+            "competition":"第1届凯里亚德杯 (公开组)",
+            "honor":"个人第16名"
          },
          {
             "year":2023,
