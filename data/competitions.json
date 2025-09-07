@@ -684,7 +684,7 @@
             "end_date":"2025-09-05T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":8,
-            "source":"云比赛网"
+            "source":"https://v.dzqzd.com/VfBody.aspx?p=VmbotZvkuovpk77mjqUmVGM9MjE2ODg5OQ=="
          }
       ],
       "10":[
@@ -23533,6 +23533,86 @@
             "round":4,
             "table":"'7",
             "black_player":"曾波",
+            "black_team":"",
+            "white_player":"蓝迪",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "round":5,
+            "table":"'1",
+            "black_player":"史济东",
+            "black_team":"",
+            "white_player":"蓝迪",
+            "white_team":"",
+            "result":"https://m.19x19.com/app/dark/zh/sgf/68045622"
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "round":5,
+            "table":"'3",
+            "black_player":"宋子玉",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13901411&type=0"
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "round":6,
+            "table":"'1",
+            "black_player":"蓝迪",
+            "black_team":"",
+            "white_player":"陈俊宇",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "round":6,
+            "table":"'2",
+            "black_player":"阎君",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13901605&type=0"
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "round":7,
+            "table":"'1",
+            "black_player":"陈俊宇",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=176e054686a84c1e&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTcxNTE2OTMsImV4cCI6MTc1NzIzODA5MywiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6IjE3NmUwNTQ2ODZhODRjMWUiLCJpc3ZpcCI6MX19.4tAWkVGAIPhLdC_sF5irY5F5K2Ry8dcdjbvsaoT41Ps#/desktop"
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "round":7,
+            "table":"'2",
+            "black_player":"蓝迪",
+            "black_team":"",
+            "white_player":"袁梦泽",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "round":8,
+            "table":"'2",
+            "black_player":"宋子然",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=fe3722b833098e3e&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTcxNTE3MjEsImV4cCI6MTc1NzIzODEyMSwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImZlMzcyMmI4MzMwOThlM2UiLCJpc3ZpcCI6MX19.HGPSA4L5CVUaMTxpeESd8l1gJAoRbZfCPJENuq1N6Vk#/desktop"
+         },
+         {
+            "date":"2025-09-05T16:00:00.000Z",
+            "round":8,
+            "table":"'3",
+            "black_player":"何仲",
             "black_team":"",
             "white_player":"蓝迪",
             "white_team":"",
