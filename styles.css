@@ -441,7 +441,7 @@ footer .social-links a:hover {
     color: #ff6347;
 }
 
-/* 标签基础样式 */
+/* 标签基础样式+悬停效果 */
 .tag {
     display: inline-block;
     padding: 4px 8px;
@@ -451,6 +451,24 @@ footer .social-links a:hover {
     font-weight: 500;
     color: white;
     background-color: #6c757d;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.tag:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+    transition: all 0.2s ease;
+}
+
+/* 标签点击效果 */
+.tag:active {
+    transform: translateY(0);
+}
+
+/* 筛选状态下的标签高亮 */
+.tag.filter-active {
+    box-shadow: 0 0 0 2px #007bff;
 }
 
 /* 特定标签样式 */
@@ -493,12 +511,6 @@ footer .social-links a:hover {
     border: 1px solid #dee2e6;
 }
 
-/* 标签悬停效果 */
-.tag:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-    transition: all 0.2s ease;
-}
 
 /* 响应式调整 */
 @media (max-width: 768px) {
@@ -576,6 +588,7 @@ footer .social-links a:hover {
 }
 
 }
+
 
 
 
