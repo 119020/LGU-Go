@@ -493,6 +493,13 @@ footer .social-links a:hover {
     border: 1px solid #dee2e6;
 }
 
+/* 标签悬停效果 */
+.tag:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    transition: all 0.2s ease;
+}
+
 /* 响应式调整 */
 @media (max-width: 768px) {
     .tag {
@@ -569,6 +576,7 @@ footer .social-links a:hover {
 }
 
 }
+
 
 
 
