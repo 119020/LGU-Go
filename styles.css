@@ -441,6 +441,66 @@ footer .social-links a:hover {
     color: #ff6347;
 }
 
+/* 标签基础样式 */
+.tag {
+    display: inline-block;
+    padding: 4px 8px;
+    margin: 2px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: 500;
+    color: white;
+    background-color: #6c757d;
+}
+
+/* 特定标签样式 */
+.tag-school {
+    background-color: #007bff;
+}
+
+.tag-open {
+    background-color: #28a745;
+}
+
+.tag-invitation {
+    background-color: #ffc107;
+    color: #212529;
+}
+
+.tag-offline {
+    background-color: #17a2b8;
+}
+
+.tag-online {
+    background-color: #6f42c1;
+}
+
+.tag-individual {
+    background-color: #fd7e14;
+}
+
+.tag-team {
+    background-color: #e83e8c;
+}
+
+.tag-team-result {
+    background-color: #20c997;
+}
+
+.tag-no-tag {
+    background-color: #f8f9fa;
+    color: #6c757d;
+    border: 1px solid #dee2e6;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+    .tag {
+        font-size: 10px;
+        padding: 2px 6px;
+    }
+}
+
 /* 响应式设计 */
 @media (max-width: 1024px) {
     .news-carousel-inner {
@@ -509,5 +569,6 @@ footer .social-links a:hover {
 }
 
 }
+
 
 
