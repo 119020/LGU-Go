@@ -51,13 +51,37 @@ function renderCompetitions(competitions) {
                     <td>${competition.first_year}</td>
                     <td>${competition.last_year}</td>
                     <td>${competition.level}</td>
-                    <td>${competition.description}</td>
+                    <td>${formatDescriptionTags(competition.description)}</td>
                 </tr>
             `).join('')}
         </tbody>
     `;
     competitionsContainer.appendChild(table);
 }
+
+// 格式化描述标签
+function formatDescriptionTags(description) {
+    if (!description || description === '--') return '<span class="tag no-tag">无标签</span>';
+    
+    const tags = description.split('|').filter(tag => tag && tag !== '--');
+    if (tags.length === 0) return '<span class="tag no-tag">无标签</span>';
+    
+    return tags.map(tag => {
+        let className = 'tag';
+        // 根据标签内容添加特定类名
+        if (tag.includes('高校')) className += ' tag-school';
+        if (tag.includes('公开赛')) className += ' tag-open';
+        if (tag.includes('邀请赛')) className += ' tag-invitation';
+        if (tag.includes('线下')) className += ' tag-offline';
+        if (tag.includes('线上')) className += ' tag-online';
+        if (tag.includes('个人赛')) className += ' tag-individual';
+        if (tag.includes('团体赛')) className += ' tag-team';
+        if (tag.includes('记团体成绩')) className += ' tag-team-result';
+        
+        return `<span class="${className}">${tag}</span>`;
+    }).join(' ');
+}
+
 
 // 渲染队员信息
 // 优化后的 renderPlayers 函数
@@ -117,3 +141,4 @@ function viewHistory(playerId, playerName) {
     // 跳转到 records.html，并将 player_id 和 player_name 作为 URL 参数
     window.location.href = `history.html?player_id=${playerId}&player_name=${encodeURIComponent(playerName)}`;
 }
+
