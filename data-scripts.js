@@ -8,6 +8,13 @@ document.addEventListener('DOMContentLoaded', async () => {
       // 获取所有队员信息并渲染到页面
       //console.log(playData.players);
       renderPlayers(playData.players);
+
+      // 添加键盘事件监听（ESC键清除筛选）
+      document.addEventListener('keydown', function(e) {
+          if (e.key === 'Escape') {
+              clearFilter();
+          }
+      });
 });
 
 // 数据加载函数
@@ -21,8 +28,97 @@ async function loadData(type) {
   }
 }
 
-// 渲染赛事信息
+// 添加标签点击事件
+document.addEventListener('click', function(e) {
+    if (e.target.classList.contains('tag')) {
+        const tagType = e.target.textContent;
+        filterCompetitionsByTag(tagType);
+    }
+});
+
+// 实现按标签筛选赛事的功能
+function filterCompetitionsByTag(tagType) {
+    const competitions = window.allCompetitions || [];
+    const filteredCompetitions = competitions.filter(competition => {
+        if (!competition.description || competition.description === '--') return false;
+        
+        const tags = competition.description.split('|').filter(tag => tag && tag !== '--');
+        return tags.includes(tagType);
+    });
+    
+    renderFilteredCompetitions(filteredCompetitions, tagType);
+}
+
+// 渲染筛选后的赛事
+function renderFilteredCompetitions(competitions, filterTag = '') {
+    const competitionsContainer = document.getElementById('competitions-list');
+    if (!competitionsContainer) return;
+
+    competitionsContainer.innerHTML = ''; // 清空容器
+    
+    if (competitions.length === 0) {
+        competitionsContainer.innerHTML = `
+            <div class="no-results">
+                <i class="fas fa-search"></i>
+                <p>没有找到包含"${filterTag}"标签的赛事</p>
+                <button onclick="clearFilter()" class="clear-filter-btn">
+                    清除筛选
+                </button>
+            </div>
+        `;
+        return;
+    }
+
+    const table = document.createElement('table');
+    table.innerHTML = `
+        <thead>
+            <tr>
+                <th>赛事名称</th>
+                <th>首次举办年份</th>
+                <th>最近举办年份</th>
+                <th>赛事级别</th>
+                <th>赛事标签</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${competitions.map(competition => `
+                <tr>
+                    <td><a href="competitions.html?competition_base_id=${competition.competition_base_id}&competition_name=${encodeURIComponent(competition.competition)}">${competition.competition}</a></td>
+                    <td>${competition.first_year}</td>
+                    <td>${competition.last_year}</td>
+                    <td>${competition.level}</td>
+                    <td>${formatDescriptionTags(competition.description)}</td>
+                </tr>
+            `).join('')}
+        </tbody>
+    `;
+    
+    // 添加筛选状态提示
+    const filterInfo = document.createElement('div');
+    filterInfo.className = 'filter-info';
+    filterInfo.innerHTML = `
+        <span>筛选结果: ${competitions.length} 项赛事 (标签: "${filterTag}")</span>
+        <button onclick="clearFilter()" class="clear-filter-btn">
+            <i class="fas fa-times"></i> 清除筛选
+        </button>
+    `;
+    
+    competitionsContainer.appendChild(filterInfo);
+    competitionsContainer.appendChild(table);
+}
+
+// 清除筛选，显示所有赛事
+function clearFilter() {
+    if (window.allCompetitions) {
+        renderCompetitions(window.allCompetitions);
+    }
+}
+
+// 修改原始的 renderCompetitions 函数，保存所有赛事数据
 function renderCompetitions(competitions) {
+    // 保存所有赛事数据供筛选使用
+    window.allCompetitions = competitions;
+    
     const competitionsContainer = document.getElementById('competitions-list');
     if (!competitionsContainer) return;
 
@@ -41,7 +137,7 @@ function renderCompetitions(competitions) {
                 <th>首次举办年份</th>
                 <th>最近举办年份</th>
                 <th>赛事级别</th>
-                <th>赛事描述</th>
+                <th>赛事标签</th>
             </tr>
         </thead>
         <tbody>
@@ -59,7 +155,7 @@ function renderCompetitions(competitions) {
     competitionsContainer.appendChild(table);
 }
 
-// 格式化描述标签
+// 修改标签格式化函数，添加点击事件
 function formatDescriptionTags(description) {
     if (!description || description === '--') return '<span class="tag no-tag">无标签</span>';
     
@@ -78,7 +174,7 @@ function formatDescriptionTags(description) {
         if (tag.includes('团体赛')) className += ' tag-team';
         if (tag.includes('记团体成绩')) className += ' tag-team-result';
         
-        return `<span class="${className}">${tag}</span>`;
+        return `<span class="${className}" onclick="filterCompetitionsByTag('${tag}')" title="点击筛选包含'${tag}'的赛事">${tag}</span>`;
     }).join(' ');
 }
 
@@ -141,4 +237,5 @@ function viewHistory(playerId, playerName) {
     // 跳转到 records.html，并将 player_id 和 player_name 作为 URL 参数
     window.location.href = `history.html?player_id=${playerId}&player_name=${encodeURIComponent(playerName)}`;
 }
+
 
