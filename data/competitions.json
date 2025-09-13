@@ -1569,6 +1569,26 @@
             "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iOTk5MDc5MyIgU2g9IkNZMzAyMEFOS0FQRSIvPg=="
          },
          {
+            "competition_id":127,
+            "year":2021,
+            "competition":"第7届 广州团体联赛（公开组）",
+            "start_date":"2021-11-20T16:00:00.000Z",
+            "end_date":"2021-12-18T16:00:00.000Z",
+            "location":"广东广州越秀",
+            "total_round":15,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=85073&eventid=19058&groupid=105770&type=group"
+         },
+         {
+            "competition_id":128,
+            "year":2023,
+            "competition":"第8届 广州团体联赛（公开组）",
+            "start_date":"2023-08-18T16:00:00.000Z",
+            "end_date":"2023-08-26T16:00:00.000Z",
+            "location":"广东广州越秀",
+            "total_round":11,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=141472&eventid=41710&groupid=181150&type=group"
+         },
+         {
             "competition_id":98,
             "year":2024,
             "competition":"第9届 广州团体联赛（公开组）",
@@ -24788,6 +24808,120 @@
             "black_team":"",
             "white_player":"毕文波",
             "white_team":"",
+            "result":"黑中盘胜"
+         }
+      ],
+      "127":[
+         {
+            "date":"2021-11-27T16:00:00.000Z",
+            "round":4,
+            "table":"'6-3",
+            "black_player":"李峻",
+            "black_team":"卫生系统队",
+            "white_player":"薛溪瑨",
+            "white_team":"中山大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2021-12-04T16:00:00.000Z",
+            "round":7,
+            "table":"'2-2",
+            "black_player":"薛溪瑨",
+            "black_team":"中山大学",
+            "white_player":"陈永中",
+            "white_team":"省直友谊联队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2021-12-04T16:00:00.000Z",
+            "round":8,
+            "table":"'8-2",
+            "black_player":"莫田德",
+            "black_team":"红棉队",
+            "white_player":"薛溪瑨",
+            "white_team":"中山大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2021-12-04T16:00:00.000Z",
+            "round":9,
+            "table":"'1-3",
+            "black_player":"薛溪瑨",
+            "black_team":"中山大学",
+            "white_player":"郑晓霖",
+            "white_team":"大学生联队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2021-12-04T16:00:00.000Z",
+            "round":10,
+            "table":"'8-1",
+            "black_player":"薛溪瑨",
+            "black_team":"中山大学",
+            "white_player":"范皓嘉",
+            "white_team":"广州小虎队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2021-12-18T16:00:00.000Z",
+            "round":15,
+            "table":"'4-5",
+            "black_player":"易璟鸿",
+            "black_team":"广州港棋协",
+            "white_player":"薛溪瑨",
+            "white_team":"中山大学",
+            "result":"白中盘胜"
+         }
+      ],
+      "128":[
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "round":2,
+            "table":"'3-2",
+            "black_player":"薛溪瑨",
+            "black_team":"中山大学",
+            "white_player":"蒋跃平",
+            "white_team":"公园前一队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-08-18T16:00:00.000Z",
+            "round":3,
+            "table":"'2-2",
+            "black_player":"贺福林",
+            "black_team":"花都二队",
+            "white_player":"薛溪瑨",
+            "white_team":"中山大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "round":4,
+            "table":"'2-3",
+            "black_player":"薛溪瑨",
+            "black_team":"中山大学",
+            "white_player":"孙宝全",
+            "white_team":"招商友联队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2023-08-19T16:00:00.000Z",
+            "round":6,
+            "table":"'3-4",
+            "black_player":"薛溪瑨",
+            "black_team":"中山大学",
+            "white_player":"敬卫军",
+            "white_team":"顺和久队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2023-08-25T16:00:00.000Z",
+            "round":9,
+            "table":"'2-2",
+            "black_player":"孙感之",
+            "black_team":"花都围棋队",
+            "white_player":"薛溪瑨",
+            "white_team":"中山大学",
             "result":"黑中盘胜"
          }
       ]
