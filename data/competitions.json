@@ -20061,6 +20061,16 @@
             "result":"黑中盘胜"
          },
          {
+            "date":"2024-09-21T16:00:00.000Z",
+            "round":1,
+            "table":"'18",
+            "black_player":"薛溪瑨",
+            "black_team":"",
+            "white_player":"谢梓源",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
             "date":"2024-09-20T16:00:00.000Z",
             "round":1,
             "table":"'37",
@@ -20077,6 +20087,16 @@
             "black_player":"杨砺",
             "black_team":"",
             "white_player":"刘泽伟",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-09-21T16:00:00.000Z",
+            "round":2,
+            "table":"'19",
+            "black_player":"胡洪瑞",
+            "black_team":"",
+            "white_player":"薛溪瑨",
             "white_team":"",
             "result":"白中盘胜"
          },
@@ -20141,6 +20161,16 @@
             "result":"白中盘胜"
          },
          {
+            "date":"2024-09-21T16:00:00.000Z",
+            "round":3,
+            "table":"'4",
+            "black_player":"薛溪瑨",
+            "black_team":"",
+            "white_player":"潘思杰",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
             "date":"2024-09-20T16:00:00.000Z",
             "round":4,
             "table":"'11",
@@ -20172,6 +20202,16 @@
          },
          {
             "date":"2024-09-21T16:00:00.000Z",
+            "round":4,
+            "table":"'3",
+            "black_player":"杨梓扬",
+            "black_team":"",
+            "white_player":"薛溪瑨",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-09-21T16:00:00.000Z",
             "round":5,
             "table":"'11",
             "black_player":"卿家瑞",
@@ -20179,6 +20219,16 @@
             "white_player":"马睿雪",
             "white_team":"",
             "result":"白中盘胜"
+         },
+         {
+            "date":"2024-09-21T16:00:00.000Z",
+            "round":5,
+            "table":"'2",
+            "black_player":"薛溪瑨",
+            "black_team":"",
+            "white_player":"陈子弈",
+            "white_team":"",
+            "result":"黑中盘胜"
          },
          {
             "date":"2024-09-21T16:00:00.000Z",
@@ -20203,6 +20253,16 @@
          {
             "date":"2024-09-21T16:00:00.000Z",
             "round":6,
+            "table":"'2",
+            "black_player":"余万捷",
+            "black_team":"",
+            "white_player":"薛溪瑨",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-09-21T16:00:00.000Z",
+            "round":6,
             "table":"'22",
             "black_player":"张方卿",
             "black_team":"",
@@ -20217,6 +20277,16 @@
             "black_player":"马睿雪",
             "black_team":"",
             "white_player":"李智华",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-09-21T16:00:00.000Z",
+            "round":7,
+            "table":"'1",
+            "black_player":"薛溪瑨",
+            "black_team":"",
+            "white_player":"王异新",
             "white_team":"",
             "result":"白中盘胜"
          },
