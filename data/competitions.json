@@ -1766,7 +1766,7 @@
             "end_date":"2025-09-21T16:00:00.000Z",
             "location":"广东深圳龙岗",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"https://mp.weixin.qq.com/s/hPhWlVMR4zjixfeUwg6jKQ"
          }
       ],
       "51":[
@@ -25324,7 +25324,7 @@
             "black_team":"广东省围棋协会",
             "white_player":"王以诺",
             "white_team":"深圳市棋类协会",
-            "result":"白中盘胜"
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13926728&type=0"
          }
       ]
    }
