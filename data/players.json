@@ -476,15 +476,15 @@
          },
          {
             "year":2025,
-            "total_wins":"32",
-            "total_losses":"27",
-            "win_rate":"54.24"
+            "total_wins":"35",
+            "total_losses":"31",
+            "win_rate":"53.03"
          },
          {
             "year":null,
-            "total_wins":"136",
-            "total_losses":"121",
-            "win_rate":"52.92"
+            "total_wins":"139",
+            "total_losses":"125",
+            "win_rate":"52.65"
          }
       ],
       "4":[
@@ -1000,15 +1000,15 @@
          },
          {
             "year":2025,
-            "total_wins":"3",
-            "total_losses":"4",
-            "win_rate":"42.86"
+            "total_wins":"8",
+            "total_losses":"6",
+            "win_rate":"57.14"
          },
          {
             "year":null,
-            "total_wins":"14",
-            "total_losses":"11",
-            "win_rate":"56.00"
+            "total_wins":"19",
+            "total_losses":"13",
+            "win_rate":"59.38"
          }
       ],
       "23":[
@@ -1102,15 +1102,15 @@
          },
          {
             "year":2025,
-            "total_wins":"10",
-            "total_losses":"9",
-            "win_rate":"52.63"
+            "total_wins":"14",
+            "total_losses":"12",
+            "win_rate":"53.85"
          },
          {
             "year":null,
-            "total_wins":"13",
-            "total_losses":"9",
-            "win_rate":"59.09"
+            "total_wins":"17",
+            "total_losses":"12",
+            "win_rate":"58.62"
          }
       ],
       "29":[
@@ -1480,15 +1480,15 @@
          },
          {
             "year":2025,
-            "total_wins":"22",
-            "total_losses":"10",
-            "win_rate":"68.75"
+            "total_wins":"25",
+            "total_losses":"14",
+            "win_rate":"64.10"
          },
          {
             "year":null,
-            "total_wins":"57",
-            "total_losses":"25",
-            "win_rate":"69.51"
+            "total_wins":"60",
+            "total_losses":"29",
+            "win_rate":"67.42"
          }
       ],
       "53":[
@@ -1524,15 +1524,15 @@
          },
          {
             "year":2025,
-            "total_wins":"23",
-            "total_losses":"10",
-            "win_rate":"69.70"
+            "total_wins":"27",
+            "total_losses":"13",
+            "win_rate":"67.50"
          },
          {
             "year":null,
-            "total_wins":"136",
-            "total_losses":"69",
-            "win_rate":"66.34"
+            "total_wins":"140",
+            "total_losses":"72",
+            "win_rate":"66.04"
          }
       ],
       "54":[
@@ -4232,6 +4232,12 @@
       ],
       "3":[
          {
+            "opponent":"漆小洛",
+            "total_win":"2",
+            "total_lose":"1",
+            "total_game":3
+         },
+         {
             "opponent":"丁泽洋",
             "total_win":"1",
             "total_lose":"2",
@@ -4263,12 +4269,6 @@
          },
          {
             "opponent":"林彬",
-            "total_win":"1",
-            "total_lose":"1",
-            "total_game":2
-         },
-         {
-            "opponent":"漆小洛",
             "total_win":"1",
             "total_lose":"1",
             "total_game":2
@@ -4332,6 +4332,18 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"莫玮欣",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"冯波",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"钟宇涛",
@@ -5087,6 +5099,30 @@
             "opponent":"赵家乐",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘楚博",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈志刚",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈子玄",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"黄艺清",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -11260,6 +11296,36 @@
       ],
       "22":[
          {
+            "opponent":"苟家奔",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"彭天佐",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"姚扬浩",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"潘思杰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"曾家睿",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"许纯一",
             "total_win":"1",
             "total_lose":"0",
@@ -11341,6 +11407,18 @@
             "opponent":"夏睿",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"程博涵",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"李昊",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -11542,6 +11620,30 @@
       ],
       "28":[
          {
+            "opponent":"李昊",
+            "total_win":"1",
+            "total_lose":"1",
+            "total_game":2
+         },
+         {
+            "opponent":"王以诺",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"苟家奔",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"董俊杰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"吴彦凝",
             "total_win":"1",
             "total_lose":"0",
@@ -11620,6 +11722,24 @@
             "total_game":1
          },
          {
+            "opponent":"孙嘉路",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"丁泽洋",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"高天鹏",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"张兆容",
             "total_win":"0",
             "total_lose":"1",
@@ -11639,12 +11759,6 @@
          },
          {
             "opponent":"杨弘毅",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"李昊",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -12802,6 +12916,12 @@
             "total_game":2
          },
          {
+            "opponent":"漆小洛",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
             "opponent":"姚城浠",
             "total_win":"2",
             "total_lose":"0",
@@ -12818,6 +12938,24 @@
             "total_win":"1",
             "total_lose":"1",
             "total_game":2
+         },
+         {
+            "opponent":"丁泽洋",
+            "total_win":"0",
+            "total_lose":"2",
+            "total_game":2
+         },
+         {
+            "opponent":"方云帆",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"苟家奔",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"陈彦",
@@ -12923,12 +13061,6 @@
          },
          {
             "opponent":"陈一戈",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"漆小洛",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -13084,6 +13216,24 @@
             "total_game":1
          },
          {
+            "opponent":"高天鹏",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"董俊杰",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"肖志颖",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"张兆熙",
             "total_win":"0",
             "total_lose":"1",
@@ -13109,12 +13259,6 @@
          },
          {
             "opponent":"佟云",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"丁泽洋",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -13290,6 +13434,12 @@
             "total_game":2
          },
          {
+            "opponent":"马睿雪",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
             "opponent":"匡博文",
             "total_win":"1",
             "total_lose":"1",
@@ -13297,6 +13447,12 @@
          },
          {
             "opponent":"董俊杰",
+            "total_win":"1",
+            "total_lose":"1",
+            "total_game":2
+         },
+         {
+            "opponent":"李昊",
             "total_win":"1",
             "total_lose":"1",
             "total_game":2
@@ -13324,6 +13480,24 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"彭韶辉",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"袁功智",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"程博涵",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"冷佳林",
@@ -13470,12 +13644,6 @@
             "total_game":1
          },
          {
-            "opponent":"马睿雪",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
             "opponent":"周轶凡",
             "total_win":"1",
             "total_lose":"0",
@@ -13483,12 +13651,6 @@
          },
          {
             "opponent":"陈一戈",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"李昊",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -14013,6 +14175,18 @@
             "opponent":"熊怀远",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"郑之灏",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"曾家睿",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -36356,7 +36530,11 @@
          
       ],
       "22":[
-         
+         {
+            "year":2025,
+            "competition":"第8届汉酱杯全国赛 (名手组-南部赛区)",
+            "honor":"个人第12名"
+         }
       ],
       "23":[
          {
@@ -36390,6 +36568,11 @@
             "year":2025,
             "competition":"第30届应氏杯全国大学生赛 (男子组)",
             "honor":"团体第4名"
+         },
+         {
+            "year":2025,
+            "competition":"第8届汉酱杯全国赛 (名手组-南部赛区)",
+            "honor":"个人第17名"
          }
       ],
       "29":[
@@ -36675,6 +36858,11 @@
             "year":2025,
             "competition":"第13届深圳体彩杯 (公开组)",
             "honor":"个人第4名"
+         },
+         {
+            "year":2025,
+            "competition":"第8届汉酱杯全国赛 (名手组-南部赛区)",
+            "honor":"个人第19名"
          }
       ],
       "54":[
