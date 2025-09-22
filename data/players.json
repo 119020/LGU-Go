@@ -19464,6 +19464,69 @@
       ],
       "3":[
          {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"刘楚博",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"陈志刚",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"莫玮欣",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"漆小洛",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"陈子玄",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"黄艺清",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":6
+         },
+         {
+            "date":"2025-09-21T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"冯波",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":7
+         },
+         {
             "date":"2025-08-08T16:00:00.000Z",
             "name":"付涵一",
             "opponent":"董俊杰",
@@ -30581,6 +30644,69 @@
       ],
       "22":[
          {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"苟家奔",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"程博涵",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"李昊",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"彭天佐",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"姚扬浩",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"潘思杰",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":6
+         },
+         {
+            "date":"2025-09-21T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"曾家睿",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":7
+         },
+         {
             "date":"2024-07-10T16:00:00.000Z",
             "name":"王以诺",
             "opponent":"蒋周燏",
@@ -30997,6 +31123,69 @@
          }
       ],
       "28":[
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"李昊",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"王以诺",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"孙嘉路",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"丁泽洋",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"苟家奔",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"高天鹏",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":6
+         },
+         {
+            "date":"2025-09-21T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"董俊杰",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":7
+         },
          {
             "date":"2025-08-08T16:00:00.000Z",
             "name":"程博涵",
@@ -32852,6 +33041,69 @@
       ],
       "52":[
          {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"高天鹏",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"董俊杰",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"方云帆",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"肖志颖",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"漆小洛",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"苟家奔",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":6
+         },
+         {
+            "date":"2025-09-21T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"丁泽洋",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":7
+         },
+         {
             "date":"2024-07-25T16:00:00.000Z",
             "name":"马睿雪",
             "opponent":"张艺嘉",
@@ -33591,6 +33843,69 @@
          }
       ],
       "53":[
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"彭韶辉",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"袁功智",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2025-09-19T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"郑之灏",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"程博涵",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"李昊",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2025-09-20T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"曾家睿",
+            "result":"负",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":6
+         },
+         {
+            "date":"2025-09-21T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"马睿雪",
+            "result":"胜",
+            "competition":"汉酱杯全国赛",
+            "edition":8,
+            "round":7
+         },
          {
             "date":"2025-07-10T16:00:00.000Z",
             "name":"丁泽洋",
