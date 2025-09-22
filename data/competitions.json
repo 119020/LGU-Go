@@ -23666,7 +23666,7 @@
             "black_team":"",
             "white_player":"陈俊宇",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13926645&type=0"
          },
          {
             "date":"2025-09-05T16:00:00.000Z",
@@ -23716,7 +23716,7 @@
             "black_team":"",
             "white_player":"蓝迪",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13926646&type=0"
          }
       ],
       "121":[
@@ -25285,6 +25285,46 @@
             "white_player":"潘思杰",
             "white_team":"广东省围棋协会",
             "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13926002&type=0"
+         },
+         {
+            "date":"2025-09-21T16:00:00.000Z",
+            "round":7,
+            "table":"'15",
+            "black_player":"程博涵",
+            "black_team":"深圳市棋类协会",
+            "white_player":"董俊杰",
+            "white_team":"广东省围棋协会",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13926641&type=0"
+         },
+         {
+            "date":"2025-09-21T16:00:00.000Z",
+            "round":7,
+            "table":"'16",
+            "black_player":"马睿雪",
+            "black_team":"广东省围棋协会",
+            "white_player":"丁泽洋",
+            "white_team":"深圳市棋类协会",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13926629&type=0"
+         },
+         {
+            "date":"2025-09-21T16:00:00.000Z",
+            "round":7,
+            "table":"'19",
+            "black_player":"付涵一",
+            "black_team":"深圳市棋类协会",
+            "white_player":"冯波",
+            "white_team":"云南省围棋协会",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13926648&type=0"
+         },
+         {
+            "date":"2025-09-21T16:00:00.000Z",
+            "round":7,
+            "table":"'8",
+            "black_player":"曾家睿",
+            "black_team":"广东省围棋协会",
+            "white_player":"王以诺",
+            "white_team":"深圳市棋类协会",
+            "result":"白中盘胜"
          }
       ]
    }
