@@ -1361,6 +1361,16 @@
             "location":"广东深圳南山",
             "total_round":6,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=216913&eventid=0&groupid=290713&type=group"
+         },
+         {
+            "competition_id":131,
+            "year":2025,
+            "competition":"第4届 天隆广电杯深圳棋王预选赛（公开组-福田）",
+            "start_date":"2025-10-07T16:00:00.000Z",
+            "end_date":"2025-10-07T16:00:00.000Z",
+            "location":"广东深圳福田",
+            "total_round":6,
+            "source":"云比赛网"
          }
       ],
       "39":[
@@ -25488,6 +25498,68 @@
             "black_player":"马睿雪",
             "black_team":"",
             "white_player":"李赵晗",
+            "white_team":"",
+            "result":"白中盘胜"
+         }
+      ],
+      "131":[
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":1,
+            "table":"'12",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"彭凌鋒",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":2,
+            "table":"'6",
+            "black_player":"程潇涵",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":3,
+            "table":"'3",
+            "black_player":"舒心",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":4,
+            "table":"'9",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"漆小洛",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":5,
+            "table":"'4",
+            "black_player":"姚扬浩",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":6,
+            "table":"'3",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"宋子然",
             "white_team":"",
             "result":"白中盘胜"
          }
