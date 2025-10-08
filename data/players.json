@@ -526,15 +526,15 @@
          },
          {
             "year":2025,
-            "total_wins":"9",
-            "total_losses":"8",
-            "win_rate":"52.94"
+            "total_wins":"14",
+            "total_losses":"10",
+            "win_rate":"58.33"
          },
          {
             "year":null,
-            "total_wins":"124",
-            "total_losses":"68",
-            "win_rate":"64.58"
+            "total_wins":"129",
+            "total_losses":"70",
+            "win_rate":"64.82"
          }
       ],
       "5":[
@@ -5716,6 +5716,12 @@
             "total_game":2
          },
          {
+            "opponent":"郑泽鑫",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
             "opponent":"王庆（广州）",
             "total_win":"2",
             "total_lose":"0",
@@ -5744,6 +5750,30 @@
             "total_win":"1",
             "total_lose":"1",
             "total_game":2
+         },
+         {
+            "opponent":"梁任财",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"伍文洪",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"余海林",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张家稀",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"张博涵",
@@ -6083,12 +6113,6 @@
          },
          {
             "opponent":"段崇",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"郑泽鑫",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -6445,6 +6469,18 @@
             "opponent":"王冠骏",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王异新",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"曾家睿",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -22733,6 +22769,69 @@
             "round":7
          },
          {
+            "date":"2025-09-30T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"王异新",
+            "result":"负",
+            "competition":"韶关精英赛",
+            "edition":5,
+            "round":1
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"梁任财",
+            "result":"胜",
+            "competition":"韶关精英赛",
+            "edition":5,
+            "round":2
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"伍文洪",
+            "result":"胜",
+            "competition":"韶关精英赛",
+            "edition":5,
+            "round":3
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"郑泽鑫",
+            "result":"胜",
+            "competition":"韶关精英赛",
+            "edition":5,
+            "round":4
+         },
+         {
+            "date":"2025-10-01T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"余海林",
+            "result":"胜",
+            "competition":"韶关精英赛",
+            "edition":5,
+            "round":5
+         },
+         {
+            "date":"2025-10-01T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"张家稀",
+            "result":"胜",
+            "competition":"韶关精英赛",
+            "edition":5,
+            "round":6
+         },
+         {
+            "date":"2025-10-01T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"曾家睿",
+            "result":"负",
+            "competition":"韶关精英赛",
+            "edition":5,
+            "round":7
+         },
+         {
             "date":"2023-08-26T16:00:00.000Z",
             "name":"庄应楠",
             "opponent":"陈德茂",
@@ -36526,6 +36625,11 @@
             "year":2025,
             "competition":"第10届广州团体联赛 (公开组)",
             "honor":"团体第6名"
+         },
+         {
+            "year":2025,
+            "competition":"第5届韶关精英赛 (公开组)",
+            "honor":"个人第5名"
          }
       ],
       "5":[
@@ -37096,6 +37200,11 @@
             "year":2025,
             "competition":"第30届应氏杯全国大学生赛 (女子组)",
             "honor":"个人第7名|团体第5名"
+         },
+         {
+            "year":2025,
+            "competition":"第5届韶关精英赛 (公开组)",
+            "honor":"个人第6名"
          }
       ],
       "53":[
