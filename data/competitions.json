@@ -225,6 +225,14 @@
          "description":"--|公开赛|线下|个人赛|--"
       },
       {
+         "competition_base_id":56,
+         "competition":"韶关精英赛",
+         "first_year":2021,
+         "last_year":2025,
+         "level":"区市级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":3,
          "competition":"凯里亚德杯",
          "first_year":2023,
@@ -1845,6 +1853,21 @@
             "location":"上海闵行",
             "total_round":9,
             "source":"https://mp.weixin.qq.com/s?__biz=Mzg2NDU1OTExMg==&mid=2247556216&idx=1&sn=b50966ca0206a11310c2b4a251a76ffc&chksm=cfa6ffa57b7d69a1ac1e7237b2964decd61ad4557a4984b7442cf41e8a58f4a21107ad61d278&mpshare=1&scene=24&srcid=0813xEnDEEfK88u5iIl4fysF&sharer_shareinfo=fd4b90735e54a1d4b5c5b2f0c66d984e&sharer_shareinfo_first=fd4b90735e54a1d4b5c5b2f0c66d984e#rd"
+         }
+      ],
+      "55":[
+         
+      ],
+      "56":[
+         {
+            "competition_id":130,
+            "year":2025,
+            "competition":"第5届 韶关精英赛（公开组）",
+            "start_date":"2025-09-30T16:00:00.000Z",
+            "end_date":"2025-10-01T16:00:00.000Z",
+            "location":"广东韶关武江",
+            "total_round":7,
+            "source":"https://v.dzqzd.com/VfBody.aspx?p=VmbotZvkuovpk77mjqUmVGM9MjE3NjU4OA=="
          }
       ]
    },
@@ -25325,6 +25348,148 @@
             "white_player":"王以诺",
             "white_team":"深圳市棋类协会",
             "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13926728&type=0"
+         }
+      ],
+      "130":[
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "round":1,
+            "table":"'13",
+            "black_player":"王异新",
+            "black_team":"",
+            "white_player":"庄应楠",
+            "white_team":"",
+            "result":"黑胜3.75子"
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "round":1,
+            "table":"'24",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"罗宏捷",
+            "white_team":"",
+            "result":"https://h5.txwq.qq.com/txwqshare/index.html?boardsize=19&chessid=1759284906992291630&title=%E3%80%90%E7%BA%BF%E4%B8%8B%E6%A3%8B%E8%B0%B1%E3%80%91%E9%9F%B6%E5%85%B3&desc=%E7%BD%97%20VS%20%E9%A9%AC%E7%9D%BF%E9%9B%AA&catelog=8&statisticsShareType=8&clientType=64&channelId=10484106&isdasai=0&havejieshuo=0"
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "round":2,
+            "table":"'26",
+            "black_player":"庄应楠",
+            "black_team":"",
+            "white_player":"梁任财",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "round":2,
+            "table":"'6",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"谭天涛",
+            "white_team":"",
+            "result":"https://h5.txwq.qq.com/txwqshare/index.html?boardsize=19&chessid=1759286067992291654&title=%E3%80%90%E7%BA%BF%E4%B8%8B%E6%A3%8B%E8%B0%B1%E3%80%91%E9%9F%B6%E5%85%B3%E5%85%AC%E5%BC%80%E8%B5%9B&desc=%E8%B0%AD%E5%A4%A9%E6%B6%9B%20VS%20%E9%A9%AC%E7%9D%BF%E9%9B%AA&catelog=8&statisticsShareType=8&clientType=64&channelId=10484106&isdasai=0&havejieshuo=0"
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "round":3,
+            "table":"'13",
+            "black_player":"庄应楠",
+            "black_team":"",
+            "white_player":"伍文洪",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "round":3,
+            "table":"'6",
+            "black_player":"张家稀",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "round":4,
+            "table":"'14",
+            "black_player":"郑泽鑫",
+            "black_team":"",
+            "white_player":"庄应楠",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-09-30T16:00:00.000Z",
+            "round":4,
+            "table":"'2",
+            "black_player":"董俊杰",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-10-01T16:00:00.000Z",
+            "round":5,
+            "table":"'2",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"杨隽翀",
+            "white_team":"",
+            "result":"https://h5.txwq.qq.com/txwqshare/index.html?boardsize=19&chessid=1759364716992291599&title=%E3%80%90%E7%BA%BF%E4%B8%8B%E6%A3%8B%E8%B0%B1%E3%80%91%E7%AC%AC%E4%BA%94%E8%BD%AE&desc=%E6%9D%A8%E9%9A%BD%E7%BF%80%20VS%20%E9%A9%AC%E7%9D%BF%E9%9B%AA&catelog=8&statisticsShareType=8&clientType=64&channelId=10484106&isdasai=0&havejieshuo=0"
+         },
+         {
+            "date":"2025-10-01T16:00:00.000Z",
+            "round":5,
+            "table":"'5",
+            "black_player":"庄应楠",
+            "black_team":"",
+            "white_player":"余海林",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-10-01T16:00:00.000Z",
+            "round":6,
+            "table":"'2",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"郭嘉亮",
+            "white_team":"",
+            "result":"https://h5.txwq.qq.com/txwqshare/index.html?boardsize=19&chessid=1759372129992291752&title=%E3%80%90%E7%BA%BF%E4%B8%8B%E6%A3%8B%E8%B0%B1%E3%80%91%E7%AC%AC%E5%85%AD%E8%BD%AE%E7%AC%AC2%E5%8F%B0&desc=%E9%83%AD%E5%98%89%E4%BA%AE%20VS%20%E9%A9%AC%E7%9D%BF%E9%9B%AA&catelog=8&statisticsShareType=8&clientType=64&channelId=10484106&isdasai=0&havejieshuo=0"
+         },
+         {
+            "date":"2025-10-01T16:00:00.000Z",
+            "round":6,
+            "table":"'3",
+            "black_player":"张家稀",
+            "black_team":"",
+            "white_player":"庄应楠",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-10-01T16:00:00.000Z",
+            "round":7,
+            "table":"'2",
+            "black_player":"曾家睿",
+            "black_team":"",
+            "white_player":"庄应楠",
+            "white_team":"",
+            "result":"https://h5.txwq.qq.com/txwqshare/index.html?boardsize=19&chessid=1759385318992292002&title=%E3%80%90%E7%BA%BF%E4%B8%8B%E6%A3%8B%E8%B0%B1%E3%80%91%E5%85%AC%E5%BC%80%E8%B5%9B&desc=%E5%BA%84%E5%BA%94%E6%A5%A0%20VS%20%E6%9B%BE%E5%AE%B6%E7%9D%BF&catelog=8&statisticsShareType=8&clientType=64&channelId=10484106&isdasai=0&havejieshuo=0"
+         },
+         {
+            "date":"2025-10-01T16:00:00.000Z",
+            "round":7,
+            "table":"'3",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"李赵晗",
+            "white_team":"",
+            "result":"白中盘胜"
          }
       ]
    }
