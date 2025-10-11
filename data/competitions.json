@@ -1293,6 +1293,16 @@
       ],
       "38":[
          {
+            "competition_id":73,
+            "year":2023,
+            "competition":"第3届 天隆广电杯深圳棋王预选赛（公开组-坪山大鹏）",
+            "start_date":"2023-08-26T16:00:00.000Z",
+            "end_date":"2023-08-26T16:00:00.000Z",
+            "location":"广东深圳坪山",
+            "total_round":5,
+            "source":"深圳市棋类协会"
+         },
+         {
             "competition_id":76,
             "year":2019,
             "competition":"第2届 天隆广电杯深圳棋王预选赛（公开组-南山宝安）",
@@ -1303,14 +1313,14 @@
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=46435&eventid=0&groupid=53992&type=group"
          },
          {
-            "competition_id":73,
+            "competition_id":71,
             "year":2023,
-            "competition":"第3届 天隆广电杯深圳棋王预选赛（公开组-坪山大鹏）",
-            "start_date":"2023-08-26T16:00:00.000Z",
-            "end_date":"2023-08-26T16:00:00.000Z",
-            "location":"广东深圳坪山",
-            "total_round":5,
-            "source":"深圳市棋类协会"
+            "competition":"第3届 天隆广电杯深圳棋王预选赛（公开组-龙岗）",
+            "start_date":"2023-07-29T16:00:00.000Z",
+            "end_date":"2023-07-29T16:00:00.000Z",
+            "location":"广东深圳龙岗",
+            "total_round":7,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=135146&eventid=0&groupid=175701&type=group"
          },
          {
             "competition_id":72,
@@ -1331,16 +1341,6 @@
             "location":"广东深圳龙华",
             "total_round":6,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=142353&eventid=0&groupid=184034&type=group"
-         },
-         {
-            "competition_id":71,
-            "year":2023,
-            "competition":"第3届 天隆广电杯深圳棋王预选赛（公开组-龙岗）",
-            "start_date":"2023-07-29T16:00:00.000Z",
-            "end_date":"2023-07-29T16:00:00.000Z",
-            "location":"广东深圳龙岗",
-            "total_round":7,
-            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=135146&eventid=0&groupid=175701&type=group"
          },
          {
             "competition_id":125,
