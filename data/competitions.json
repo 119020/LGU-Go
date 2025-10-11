@@ -1293,16 +1293,6 @@
       ],
       "38":[
          {
-            "competition_id":73,
-            "year":2023,
-            "competition":"第3届 天隆广电杯深圳棋王预选赛（公开组-坪山大鹏）",
-            "start_date":"2023-08-26T16:00:00.000Z",
-            "end_date":"2023-08-26T16:00:00.000Z",
-            "location":"广东深圳坪山",
-            "total_round":5,
-            "source":"深圳市棋类协会"
-         },
-         {
             "competition_id":76,
             "year":2019,
             "competition":"第2届 天隆广电杯深圳棋王预选赛（公开组-南山宝安）",
@@ -1331,6 +1321,16 @@
             "location":"广东深圳福田",
             "total_round":6,
             "source":"云比赛网"
+         },
+         {
+            "competition_id":73,
+            "year":2023,
+            "competition":"第3届 天隆广电杯深圳棋王预选赛（公开组-坪山大鹏）",
+            "start_date":"2023-08-26T16:00:00.000Z",
+            "end_date":"2023-08-26T16:00:00.000Z",
+            "location":"广东深圳坪山",
+            "total_round":5,
+            "source":"深圳市棋类协会"
          },
          {
             "competition_id":74,
