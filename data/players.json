@@ -99,46 +99,11 @@
          "amateur_dan":5
       },
       {
-         "id":44,
-         "name":"叶啸宇",
-         "enroll_year":2020,
-         "college":"学勤",
-         "amateur_dan":3
-      },
-      {
          "id":41,
          "name":"王桢",
          "enroll_year":2020,
          "college":"逸夫",
          "amateur_dan":3
-      },
-      {
-         "id":39,
-         "name":"袁中方",
-         "enroll_year":2020,
-         "college":"思廷",
-         "amateur_dan":4
-      },
-      {
-         "id":34,
-         "name":"钟文柯",
-         "enroll_year":2020,
-         "college":"学勤",
-         "amateur_dan":5
-      },
-      {
-         "id":31,
-         "name":"王紫藤",
-         "enroll_year":2020,
-         "college":"思廷",
-         "amateur_dan":5
-      },
-      {
-         "id":29,
-         "name":"黄一丁",
-         "enroll_year":2020,
-         "college":"学勤",
-         "amateur_dan":5
       },
       {
          "id":20,
@@ -232,13 +197,6 @@
          "amateur_dan":5
       },
       {
-         "id":57,
-         "name":"张旭博",
-         "enroll_year":2022,
-         "college":"思廷",
-         "amateur_dan":-1
-      },
-      {
          "id":35,
          "name":"陈砚清",
          "enroll_year":2022,
@@ -265,13 +223,6 @@
          "enroll_year":2022,
          "college":"道扬",
          "amateur_dan":5
-      },
-      {
-         "id":58,
-         "name":"韩亚骏",
-         "enroll_year":2023,
-         "college":"",
-         "amateur_dan":-1
       },
       {
          "id":47,
@@ -309,20 +260,6 @@
          "amateur_dan":5
       },
       {
-         "id":50,
-         "name":"崔芳瑞",
-         "enroll_year":2024,
-         "college":"",
-         "amateur_dan":-1
-      },
-      {
-         "id":51,
-         "name":"周泰亿",
-         "enroll_year":2024,
-         "college":"逸夫",
-         "amateur_dan":4
-      },
-      {
          "id":30,
          "name":"江怡萱",
          "enroll_year":2024,
@@ -348,13 +285,6 @@
          "name":"王以诺",
          "enroll_year":2024,
          "college":"学勤",
-         "amateur_dan":5
-      },
-      {
-         "id":56,
-         "name":"郑熙铼",
-         "enroll_year":2025,
-         "college":"",
          "amateur_dan":5
       },
       {
@@ -37419,6 +37349,11 @@
             "year":2023,
             "competition":"第1届宝安杯9+2城市交流赛 (公开组)",
             "honor":"团体第4名"
+         },
+         {
+            "year":2025,
+            "competition":"第5届广东新春赛 (公开组)",
+            "honor":"个人第9名"
          }
       ],
       "11":[
