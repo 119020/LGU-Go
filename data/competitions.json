@@ -105,6 +105,14 @@
          "description":"--|邀请赛|线下|团体赛|记团体成绩"
       },
       {
+         "competition_base_id":55,
+         "competition":"广东大学生联赛",
+         "first_year":2025,
+         "last_year":2025,
+         "level":"省部级",
+         "description":"高校|公开赛|线下|团体赛|记团体成绩"
+      },
+      {
          "competition_base_id":53,
          "competition":"广东大学生锦标赛",
          "first_year":-1,
