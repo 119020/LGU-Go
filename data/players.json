@@ -448,15 +448,15 @@
          },
          {
             "year":2025,
-            "total_wins":"44",
-            "total_losses":"36",
-            "win_rate":"55.00"
+            "total_wins":"46",
+            "total_losses":"39",
+            "win_rate":"54.12"
          },
          {
             "year":null,
-            "total_wins":"148",
-            "total_losses":"130",
-            "win_rate":"53.24"
+            "total_wins":"150",
+            "total_losses":"133",
+            "win_rate":"53.00"
          }
       ],
       "4":[
@@ -1074,15 +1074,15 @@
          },
          {
             "year":2025,
-            "total_wins":"14",
-            "total_losses":"12",
-            "win_rate":"53.85"
+            "total_wins":"16",
+            "total_losses":"15",
+            "win_rate":"51.61"
          },
          {
             "year":null,
-            "total_wins":"17",
-            "total_losses":"12",
-            "win_rate":"58.62"
+            "total_wins":"19",
+            "total_losses":"15",
+            "win_rate":"55.88"
          }
       ],
       "29":[
@@ -1508,15 +1508,15 @@
          },
          {
             "year":2025,
-            "total_wins":"27",
-            "total_losses":"13",
-            "win_rate":"67.50"
+            "total_wins":"31",
+            "total_losses":"14",
+            "win_rate":"68.89"
          },
          {
             "year":null,
-            "total_wins":"140",
-            "total_losses":"72",
-            "win_rate":"66.04"
+            "total_wins":"144",
+            "total_losses":"73",
+            "win_rate":"66.36"
          }
       ],
       "54":[
@@ -4280,6 +4280,12 @@
             "total_game":2
          },
          {
+            "opponent":"谢玄烨",
+            "total_win":"1",
+            "total_lose":"1",
+            "total_game":2
+         },
+         {
             "opponent":"谭继淏",
             "total_win":"1",
             "total_lose":"1",
@@ -4368,6 +4374,18 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"马志远",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘悠然",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"何晓文",
@@ -4880,12 +4898,6 @@
             "total_game":1
          },
          {
-            "opponent":"谢玄烨",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
             "opponent":"史显超",
             "total_win":"1",
             "total_lose":"0",
@@ -5183,6 +5195,18 @@
             "opponent":"赵家乐",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"薛维哲",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"高云舒",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -11866,6 +11890,24 @@
             "total_game":2
          },
          {
+            "opponent":"丁泽洋",
+            "total_win":"0",
+            "total_lose":"2",
+            "total_game":2
+         },
+         {
+            "opponent":"孙清扬",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"吴兆铮",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"王以诺",
             "total_win":"1",
             "total_lose":"0",
@@ -11962,13 +12004,19 @@
             "total_game":1
          },
          {
-            "opponent":"孙嘉路",
+            "opponent":"赵芸霆",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
          },
          {
-            "opponent":"丁泽洋",
+            "opponent":"孔梓鲲",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"孙嘉路",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -13902,6 +13950,12 @@
             "total_game":2
          },
          {
+            "opponent":"程博涵",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
             "opponent":"匡博文",
             "total_win":"1",
             "total_lose":"1",
@@ -13944,6 +13998,24 @@
             "total_game":2
          },
          {
+            "opponent":"李行言",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"卢显宙",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"吴伟浩",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"彭韶辉",
             "total_win":"1",
             "total_lose":"0",
@@ -13951,12 +14023,6 @@
          },
          {
             "opponent":"袁功智",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"程博涵",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -14637,6 +14703,12 @@
             "opponent":"熊怀远",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张予儒",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -21608,6 +21680,51 @@
             "competition":"深圳X9高校院所联盟比赛",
             "edition":2,
             "round":6
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"马志远",
+            "result":"胜",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":1
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"刘悠然",
+            "result":"胜",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":2
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"薛维哲",
+            "result":"负",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":3
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"谢玄烨",
+            "result":"负",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":4
+         },
+         {
+            "date":"2025-11-14T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"高云舒",
+            "result":"负",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":5
          },
          {
             "date":"2025-04-19T16:00:00.000Z",
@@ -32073,6 +32190,51 @@
       ],
       "28":[
          {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"赵芸霆",
+            "result":"负",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":1
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"孙清扬",
+            "result":"胜",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":2
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"丁泽洋",
+            "result":"负",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":3
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"吴兆铮",
+            "result":"胜",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":4
+         },
+         {
+            "date":"2025-11-14T16:00:00.000Z",
+            "name":"程博涵",
+            "opponent":"孔梓鲲",
+            "result":"负",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":5
+         },
+         {
             "date":"2025-09-19T16:00:00.000Z",
             "name":"程博涵",
             "opponent":"李昊",
@@ -35909,6 +36071,51 @@
             "round":7
          },
          {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"李行言",
+            "result":"胜",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":1
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"张予儒",
+            "result":"负",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":2
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"程博涵",
+            "result":"胜",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":3
+         },
+         {
+            "date":"2025-11-13T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"卢显宙",
+            "result":"胜",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":4
+         },
+         {
+            "date":"2025-11-14T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"吴伟浩",
+            "result":"胜",
+            "competition":"深圳X9高校院所联盟比赛",
+            "edition":3,
+            "round":5
+         },
+         {
             "date":"2019-09-06T16:00:00.000Z",
             "name":"丁泽洋",
             "opponent":"何伟",
@@ -38695,6 +38902,11 @@
             "year":2025,
             "competition":"第8届汉酱杯全国赛 (名手组-南部赛区)",
             "honor":"个人第19名"
+         },
+         {
+            "year":2025,
+            "competition":"第3届深圳X9高校院所联盟比赛 (学生组)",
+            "honor":"个人第5名|团体第2名"
          }
       ],
       "54":[
