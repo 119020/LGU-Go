@@ -614,9 +614,9 @@
       "8":[
          {
             "year":2022,
-            "total_wins":"2",
-            "total_losses":"1",
-            "win_rate":"66.67"
+            "total_wins":"10",
+            "total_losses":"8",
+            "win_rate":"55.56"
          },
          {
             "year":2024,
@@ -632,9 +632,9 @@
          },
          {
             "year":null,
-            "total_wins":"45",
-            "total_losses":"11",
-            "win_rate":"80.36"
+            "total_wins":"53",
+            "total_losses":"18",
+            "win_rate":"74.65"
          }
       ],
       "9":[
@@ -1542,15 +1542,15 @@
       "55":[
          {
             "year":2021,
-            "total_wins":"5",
-            "total_losses":"1",
-            "win_rate":"83.33"
+            "total_wins":"14",
+            "total_losses":"7",
+            "win_rate":"66.67"
          },
          {
-            "year":2023,
-            "total_wins":"3",
-            "total_losses":"2",
-            "win_rate":"60.00"
+            "year":2022,
+            "total_wins":"10",
+            "total_losses":"5",
+            "win_rate":"66.67"
          },
          {
             "year":2024,
@@ -1566,9 +1566,9 @@
          },
          {
             "year":null,
-            "total_wins":"20",
-            "total_losses":"4",
-            "win_rate":"83.33"
+            "total_wins":"39",
+            "total_losses":"15",
+            "win_rate":"72.22"
          }
       ],
       "56":[
@@ -8394,6 +8394,54 @@
             "total_game":2
          },
          {
+            "opponent":"李心海",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"卢培昇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"周逸潇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"纪岚钦",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"范国钰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李宸宇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"丁绎衡",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黄誉",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"李卓轩",
             "total_win":"1",
             "total_lose":"0",
@@ -8625,6 +8673,48 @@
             "opponent":"林治昊",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李林璞",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"郭子逸",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"熊益成",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"曾泽润",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"邓启鸣",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"翁翊轲",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"吴邦昊",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -15154,6 +15244,120 @@
       ],
       "55":[
          {
+            "opponent":"孙感之",
+            "total_win":"1",
+            "total_lose":"1",
+            "total_game":2
+         },
+         {
+            "opponent":"陈梦龙",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"成城",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"滕景硕",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"高逸凡",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"童若藩",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"许之恒",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王克裕",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张伟",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"苏凡迪",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黄与值",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"许广文",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"孟炜",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李秉铮",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"叶之泉",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"包轶文",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈子玄",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"解振宇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李知宸",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"孙明睿",
             "total_win":"1",
             "total_lose":"0",
@@ -15274,6 +15478,72 @@
             "total_game":1
          },
          {
+            "opponent":"程时骄",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"潘翰林",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈轶哲",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"梁景鑫",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"行泓丞",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"谢晟武",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"孙正晗",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"毕祖一",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"段博尧",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"何亚傧",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"童弋航",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"郑晓霖",
             "total_win":"0",
             "total_lose":"1",
@@ -15281,12 +15551,6 @@
          },
          {
             "opponent":"孙宝全",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"孙感之",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -26732,6 +26996,141 @@
       ],
       "8":[
          {
+            "date":"2022-07-10T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"李心海",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":1
+         },
+         {
+            "date":"2022-07-10T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"李林璞",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":2
+         },
+         {
+            "date":"2022-07-11T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"卢培昇",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":3
+         },
+         {
+            "date":"2022-07-11T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"郭子逸",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":4
+         },
+         {
+            "date":"2022-07-12T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"周逸潇",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":5
+         },
+         {
+            "date":"2022-07-12T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"熊益成",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":6
+         },
+         {
+            "date":"2022-07-13T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"纪岚钦",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":7
+         },
+         {
+            "date":"2022-07-13T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"范国钰",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":8
+         },
+         {
+            "date":"2022-07-14T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"李宸宇",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":9
+         },
+         {
+            "date":"2022-07-14T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"丁绎衡",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":10
+         },
+         {
+            "date":"2022-07-16T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"曾泽润",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":11
+         },
+         {
+            "date":"2022-07-16T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"黄誉",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":12
+         },
+         {
+            "date":"2022-07-17T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"邓启鸣",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":13
+         },
+         {
+            "date":"2022-07-17T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"翁翊轲",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":14
+         },
+         {
+            "date":"2022-07-18T16:00:00.000Z",
+            "name":"蓝迪",
+            "opponent":"吴邦昊",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":15
+         },
+         {
             "date":"2024-05-17T16:00:00.000Z",
             "name":"蓝迪",
             "opponent":"钟雨宸",
@@ -37469,6 +37868,276 @@
          }
       ],
       "55":[
+         {
+            "date":"2021-07-10T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"陈梦龙",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":1
+         },
+         {
+            "date":"2021-07-10T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"程时骄",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":2
+         },
+         {
+            "date":"2021-07-11T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"成城",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":3
+         },
+         {
+            "date":"2021-07-11T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"滕景硕",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":4
+         },
+         {
+            "date":"2021-07-12T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"高逸凡",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":5
+         },
+         {
+            "date":"2021-07-12T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"潘翰林",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":6
+         },
+         {
+            "date":"2021-07-13T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"童若藩",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":7
+         },
+         {
+            "date":"2021-07-13T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"陈轶哲",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":8
+         },
+         {
+            "date":"2021-07-14T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"孙感之",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":9
+         },
+         {
+            "date":"2021-07-14T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"梁景鑫",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":10
+         },
+         {
+            "date":"2021-07-15T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"许之恒",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":11
+         },
+         {
+            "date":"2021-07-15T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"行泓丞",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":12
+         },
+         {
+            "date":"2021-07-16T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"王克裕",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":13
+         },
+         {
+            "date":"2021-07-16T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"谢晟武",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":14
+         },
+         {
+            "date":"2021-07-17T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"张伟",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":2,
+            "round":15
+         },
+         {
+            "date":"2022-07-10T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"孙正晗",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":1
+         },
+         {
+            "date":"2022-07-10T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"苏凡迪",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":2
+         },
+         {
+            "date":"2022-07-11T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"黄与值",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":3
+         },
+         {
+            "date":"2022-07-11T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"许广文",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":4
+         },
+         {
+            "date":"2022-07-12T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"孟炜",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":5
+         },
+         {
+            "date":"2022-07-12T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"李秉铮",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":6
+         },
+         {
+            "date":"2022-07-13T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"毕祖一",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":7
+         },
+         {
+            "date":"2022-07-13T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"段博尧",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":8
+         },
+         {
+            "date":"2022-07-14T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"叶之泉",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":9
+         },
+         {
+            "date":"2022-07-14T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"包轶文",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":10
+         },
+         {
+            "date":"2022-07-16T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"陈子玄",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":11
+         },
+         {
+            "date":"2022-07-16T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"何亚傧",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":12
+         },
+         {
+            "date":"2022-07-17T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"解振宇",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":13
+         },
+         {
+            "date":"2022-07-17T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"童弋航",
+            "result":"负",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":14
+         },
+         {
+            "date":"2022-07-18T16:00:00.000Z",
+            "name":"薛溪瑨",
+            "opponent":"李知宸",
+            "result":"胜",
+            "competition":"全国定段赛本选赛",
+            "edition":3,
+            "round":15
+         },
          {
             "date":"2025-11-07T16:00:00.000Z",
             "name":"薛溪瑨",
