@@ -121,6 +121,14 @@
          "description":"--|公开赛|线下|个人赛|--"
       },
       {
+         "competition_base_id":67,
+         "competition":"信阳无量杯",
+         "first_year":2025,
+         "last_year":2025,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":66,
          "competition":"江苏海辰药业杯",
          "first_year":2025,
@@ -2165,6 +2173,18 @@
             "location":"江苏南京栖霞",
             "total_round":10,
             "source":"https://mp.weixin.qq.com/s/mxgk-YeTI9nKXadtFcPkOg?scene=1&click_id=40"
+         }
+      ],
+      "67":[
+         {
+            "competition_id":151,
+            "year":2025,
+            "competition":"第1届 信阳无量杯（公开组）",
+            "start_date":"2025-05-19T16:00:00.000Z",
+            "end_date":"2025-05-22T16:00:00.000Z",
+            "location":"河南信阳",
+            "total_round":10,
+            "source":"https://mp.weixin.qq.com/s/Bw03WcAVY2_sBEREnlwQHQ?scene=1&click_id=7"
          }
       ]
    },
@@ -28521,7 +28541,106 @@
          }
       ],
       "151":[
-         
+         {
+            "date":"2025-05-19T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"梅莹莹",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13670917&type=0"
+         },
+         {
+            "date":"2025-05-19T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"程国宏",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13671109&type=0"
+         },
+         {
+            "date":"2025-05-19T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"殷梓宸",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13671314&type=0"
+         },
+         {
+            "date":"2025-05-20T16:00:00.000Z",
+            "round":4,
+            "table":"",
+            "black_player":"孙晓东",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13671912&type=0"
+         },
+         {
+            "date":"2025-05-20T16:00:00.000Z",
+            "round":5,
+            "table":"",
+            "black_player":"孙学文",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13672082&type=0"
+         },
+         {
+            "date":"2025-05-20T16:00:00.000Z",
+            "round":6,
+            "table":"",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"梁军（河南）",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13672433&type=0"
+         },
+         {
+            "date":"2025-05-21T16:00:00.000Z",
+            "round":7,
+            "table":"",
+            "black_player":"张亦弛",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13672974&type=0"
+         },
+         {
+            "date":"2025-05-21T16:00:00.000Z",
+            "round":8,
+            "table":"",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"陈寂云",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13673221&type=0"
+         },
+         {
+            "date":"2025-05-21T16:00:00.000Z",
+            "round":9,
+            "table":"",
+            "black_player":"蔡欣妤",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13673483&type=0"
+         },
+         {
+            "date":"2025-05-22T16:00:00.000Z",
+            "round":10,
+            "table":"",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"张森",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13674061&type=0"
+         }
       ]
    }
 }
