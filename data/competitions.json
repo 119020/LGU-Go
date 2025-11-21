@@ -97,16 +97,8 @@
          "description":"--|公开赛|线下|个人赛|--"
       },
       {
-         "competition_base_id":60,
-         "competition":"青岛出版报杯",
-         "first_year":-1,
-         "last_year":2025,
-         "level":"国家级",
-         "description":"--|公开赛|线下|个人赛|--"
-      },
-      {
          "competition_base_id":27,
-         "competition":"秦山核电公开赛",
+         "competition":"秦山核电杯",
          "first_year":2023,
          "last_year":2025,
          "level":"国家级",
@@ -114,7 +106,7 @@
       },
       {
          "competition_base_id":28,
-         "competition":"金陵无想公开赛",
+         "competition":"金陵无想杯",
          "first_year":2024,
          "last_year":2025,
          "level":"国家级",
@@ -124,6 +116,14 @@
          "competition_base_id":67,
          "competition":"信阳无量杯",
          "first_year":2025,
+         "last_year":2025,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":60,
+         "competition":"青岛出版报杯",
+         "first_year":-1,
          "last_year":2025,
          "level":"国家级",
          "description":"--|公开赛|线下|个人赛|--"
