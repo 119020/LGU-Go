@@ -1130,7 +1130,7 @@
             "end_date":"2023-05-27T16:00:00.000Z",
             "location":"广东深圳坪山",
             "total_round":5,
-            "source":"其他",
+            "source":"https://mp.weixin.qq.com/s/hUladKR2RnpS4rzxUU1OVw",
             "link":null
          },
          {
@@ -1141,8 +1141,18 @@
             "end_date":"2024-05-25T16:00:00.000Z",
             "location":"广东深圳坪山",
             "total_round":5,
-            "source":"其他",
+            "source":"https://mp.weixin.qq.com/s/7veis7byEQoduEYxOUppnQ",
             "link":null
+         },
+         {
+            "competition_id":135,
+            "year":2025,
+            "competition":"第3届 湾区高校联赛（公开组）",
+            "start_date":"2025-11-21T16:00:00.000Z",
+            "end_date":"2025-11-22T16:00:00.000Z",
+            "location":"广东深圳罗湖",
+            "total_round":5,
+            "source":"https://mp.weixin.qq.com/s/k-71L3NWjY-PzDFcDiOItg"
          }
       ],
       "22":[
@@ -26798,7 +26808,56 @@
          }
       ],
       "135":[
-         
+         {
+            "date":"2025-11-21T16:00:00.000Z",
+            "round":1,
+            "table":"'10-2",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学",
+            "white_player":"蔡韫睿",
+            "white_team":"清华深研院",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-11-21T16:00:00.000Z",
+            "round":2,
+            "table":"'1-2",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学",
+            "white_player":"唐小雨",
+            "white_team":"北京大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-11-22T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"",
+            "black_team":"",
+            "white_player":"刘泽伟",
+            "white_team":"深圳大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-11-22T16:00:00.000Z",
+            "round":4,
+            "table":"",
+            "black_player":"申咏收",
+            "black_team":"首尔大学",
+            "white_player":"刘泽伟",
+            "white_team":"深圳大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-11-22T16:00:00.000Z",
+            "round":5,
+            "table":"'3-1",
+            "black_player":"杨湘",
+            "black_team":"新加坡国立大学",
+            "white_player":"刘泽伟",
+            "white_team":"深圳大学",
+            "result":"黑中盘胜"
+         }
       ],
       "136":[
          {
