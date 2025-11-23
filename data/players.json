@@ -530,15 +530,15 @@
          },
          {
             "year":2025,
-            "total_wins":"14",
-            "total_losses":"16",
-            "win_rate":"46.67"
+            "total_wins":"16",
+            "total_losses":"19",
+            "win_rate":"45.71"
          },
          {
             "year":null,
-            "total_wins":"65",
-            "total_losses":"63",
-            "win_rate":"50.78"
+            "total_wins":"67",
+            "total_losses":"66",
+            "win_rate":"50.38"
          }
       ],
       "6":[
@@ -7158,6 +7158,12 @@
             "total_game":2
          },
          {
+            "opponent":"蔡韫睿",
+            "total_win":"0",
+            "total_lose":"2",
+            "total_game":2
+         },
+         {
             "opponent":"杨靖源",
             "total_win":"0",
             "total_lose":"2",
@@ -7186,6 +7192,18 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"申咏收",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"龙泽昊",
@@ -7536,6 +7554,18 @@
             "total_game":1
          },
          {
+            "opponent":"唐小雨",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杨湘",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"丁逸先",
             "total_win":"0",
             "total_lose":"1",
@@ -7741,12 +7771,6 @@
          },
          {
             "opponent":"张景皓",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"蔡韫睿",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -26900,6 +26924,51 @@
             "round":5
          },
          {
+            "date":"2025-11-21T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"蔡韫睿",
+            "result":"负",
+            "competition":"湾区高校联赛",
+            "edition":3,
+            "round":1
+         },
+         {
+            "date":"2025-11-21T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"唐小雨",
+            "result":"负",
+            "competition":"湾区高校联赛",
+            "edition":3,
+            "round":2
+         },
+         {
+            "date":"2025-11-22T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"",
+            "result":"胜",
+            "competition":"湾区高校联赛",
+            "edition":3,
+            "round":3
+         },
+         {
+            "date":"2025-11-22T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"申咏收",
+            "result":"胜",
+            "competition":"湾区高校联赛",
+            "edition":3,
+            "round":4
+         },
+         {
+            "date":"2025-11-22T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"杨湘",
+            "result":"负",
+            "competition":"湾区高校联赛",
+            "edition":3,
+            "round":5
+         },
+         {
             "date":"2023-09-08T16:00:00.000Z",
             "name":"刘泽伟",
             "opponent":"高君睿",
@@ -40932,6 +41001,11 @@
          {
             "year":2025,
             "competition":"第3届四洲杯香港国际大学生赛 (公开组)",
+            "honor":"团体第6名"
+         },
+         {
+            "year":2025,
+            "competition":"第3届湾区高校联赛 (公开组)",
             "honor":"团体第6名"
          }
       ],
