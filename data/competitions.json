@@ -1128,7 +1128,7 @@
             "end_date":"2025-11-29T16:00:00.000Z",
             "location":"广东深圳罗湖",
             "total_round":7,
-            "source":"云比赛网"
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=224284&eventid=60830&groupid=300459&type=group"
          }
       ],
       "21":[
@@ -28840,7 +28840,7 @@
             "black_team":"",
             "white_player":"马睿雪",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"黑中盘胜"
          }
       ]
    }
