@@ -448,15 +448,15 @@
          },
          {
             "year":2025,
-            "total_wins":"51",
-            "total_losses":"44",
-            "win_rate":"53.68"
+            "total_wins":"52",
+            "total_losses":"49",
+            "win_rate":"51.49"
          },
          {
             "year":null,
-            "total_wins":"155",
-            "total_losses":"138",
-            "win_rate":"52.90"
+            "total_wins":"156",
+            "total_losses":"143",
+            "win_rate":"52.17"
          }
       ],
       "4":[
@@ -1470,15 +1470,15 @@
          },
          {
             "year":2025,
-            "total_wins":"58",
-            "total_losses":"43",
-            "win_rate":"57.43"
+            "total_wins":"62",
+            "total_losses":"46",
+            "win_rate":"57.41"
          },
          {
             "year":null,
-            "total_wins":"98",
-            "total_losses":"62",
-            "win_rate":"61.25"
+            "total_wins":"102",
+            "total_losses":"65",
+            "win_rate":"61.08"
          }
       ],
       "53":[
@@ -4490,6 +4490,12 @@
             "total_game":2
          },
          {
+            "opponent":"丁逸先",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"梅莹莹",
             "total_win":"1",
             "total_lose":"0",
@@ -5339,6 +5345,36 @@
             "opponent":"赵家乐",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"栾宇蒙",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"李昊",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"韩一鸣",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"彭博",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"马子旭",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -13864,6 +13900,12 @@
             "total_game":3
          },
          {
+            "opponent":"申沁恺",
+            "total_win":"1",
+            "total_lose":"2",
+            "total_game":3
+         },
+         {
             "opponent":"潘天行",
             "total_win":"2",
             "total_lose":"0",
@@ -13894,12 +13936,6 @@
             "total_game":2
          },
          {
-            "opponent":"申沁恺",
-            "total_win":"1",
-            "total_lose":"1",
-            "total_game":2
-         },
-         {
             "opponent":"欧阳希昶",
             "total_win":"1",
             "total_lose":"1",
@@ -13918,6 +13954,18 @@
             "total_game":2
          },
          {
+            "opponent":"宋子然",
+            "total_win":"1",
+            "total_lose":"1",
+            "total_game":2
+         },
+         {
+            "opponent":"毛屏翔",
+            "total_win":"1",
+            "total_lose":"1",
+            "total_game":2
+         },
+         {
             "opponent":"高天鹏",
             "total_win":"0",
             "total_lose":"2",
@@ -13928,6 +13976,18 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"张皓钧",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张天泽",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"高启航",
@@ -14404,6 +14464,18 @@
             "total_game":1
          },
          {
+            "opponent":"徐川",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈梓铄",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"王异新",
             "total_win":"0",
             "total_lose":"1",
@@ -14572,12 +14644,6 @@
             "total_game":1
          },
          {
-            "opponent":"宋子然",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
             "opponent":"杨隽翀",
             "total_win":"0",
             "total_lose":"1",
@@ -14687,12 +14753,6 @@
          },
          {
             "opponent":"王涵",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"毛屏翔",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -21904,6 +21964,60 @@
             "result":"胜",
             "competition":"天隆广电杯深圳棋王预选赛",
             "edition":3,
+            "round":6
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"丁逸先",
+            "result":"胜",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":1
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"栾宇蒙",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":2
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"李昊",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":3
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"韩一鸣",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":4
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"彭博",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":5
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"马子旭",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
             "round":6
          },
          {
@@ -37363,6 +37477,69 @@
             "competition":"深圳联赛",
             "edition":11,
             "round":11
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"张皓钧",
+            "result":"胜",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":1
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"张天泽",
+            "result":"胜",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":2
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"徐川",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":3
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"宋子然",
+            "result":"胜",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":4
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"陈梓铄",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":5
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"申沁恺",
+            "result":"负",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":6
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"毛屏翔",
+            "result":"胜",
+            "competition":"天隆广电杯深圳棋王总决赛",
+            "edition":4,
+            "round":7
          },
          {
             "date":"2025-10-07T16:00:00.000Z",
