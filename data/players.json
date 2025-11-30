@@ -1470,15 +1470,15 @@
          },
          {
             "year":2025,
-            "total_wins":"62",
-            "total_losses":"46",
-            "win_rate":"57.41"
+            "total_wins":"61",
+            "total_losses":"47",
+            "win_rate":"56.48"
          },
          {
             "year":null,
-            "total_wins":"102",
-            "total_losses":"65",
-            "win_rate":"61.08"
+            "total_wins":"101",
+            "total_losses":"66",
+            "win_rate":"60.48"
          }
       ],
       "53":[
@@ -13961,8 +13961,8 @@
          },
          {
             "opponent":"毛屏翔",
-            "total_win":"1",
-            "total_lose":"1",
+            "total_win":"0",
+            "total_lose":"2",
             "total_game":2
          },
          {
@@ -37536,7 +37536,7 @@
             "date":"2025-11-29T16:00:00.000Z",
             "name":"马睿雪",
             "opponent":"毛屏翔",
-            "result":"胜",
+            "result":"负",
             "competition":"天隆广电杯深圳棋王总决赛",
             "edition":4,
             "round":7
