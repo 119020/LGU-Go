@@ -1119,6 +1119,16 @@
             "location":"广东深圳龙岗",
             "total_round":6,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=145373&eventid=0&groupid=187977&type=group"
+         },
+         {
+            "competition_id":152,
+            "year":2025,
+            "competition":"第4届 天隆广电杯深圳棋王总决赛（公开组）",
+            "start_date":"2025-11-28T16:00:00.000Z",
+            "end_date":"2025-11-29T16:00:00.000Z",
+            "location":"广东深圳罗湖",
+            "total_round":7,
+            "source":"云比赛网"
          }
       ],
       "21":[
@@ -28699,6 +28709,138 @@
             "white_player":"张森",
             "white_team":"",
             "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13674061&type=0"
+         }
+      ],
+      "152":[
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "round":1,
+            "table":"'15",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"丁逸先",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14028179&type=0"
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "round":1,
+            "table":"'28",
+            "black_player":"张皓钧",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "round":2,
+            "table":"'10",
+            "black_player":"栾宇蒙",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14028550&type=0"
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "round":2,
+            "table":"'3",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"张天泽",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "round":3,
+            "table":"'15",
+            "black_player":"李昊",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14028775&type=0"
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "round":3,
+            "table":"'7",
+            "black_player":"徐川",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "round":4,
+            "table":"'26",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"韩一鸣",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14029158&type=0"
+         },
+         {
+            "date":"2025-11-28T16:00:00.000Z",
+            "round":4,
+            "table":"'5",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"宋子然",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "round":5,
+            "table":"'10",
+            "black_player":"陈梓铄",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "round":5,
+            "table":"'24",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"彭博",
+            "white_team":"",
+            "result":"白弃权胜"
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "round":6,
+            "table":"'29",
+            "black_player":"马子旭",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"黑弃权胜"
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "round":6,
+            "table":"'7",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"申沁恺",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-11-29T16:00:00.000Z",
+            "round":7,
+            "table":"'20",
+            "black_player":"毛屏翔",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"白中盘胜"
          }
       ]
    }
