@@ -1919,6 +1919,16 @@
             "location":"广东广州越秀",
             "total_round":4,
             "source":"凭回忆"
+         },
+         {
+            "competition_id":153,
+            "year":2026,
+            "competition":"第7届 广州公园团体赛（公开组）",
+            "start_date":"2025-12-31T16:00:00.000Z",
+            "end_date":"2025-12-31T16:00:00.000Z",
+            "location":"广东广州越秀",
+            "total_round":4,
+            "source":"https://mp.weixin.qq.com/s/RKmKaHNgR6tLw9oPxlSmag"
          }
       ],
       "50":[
@@ -26846,7 +26856,7 @@
             "black_team":"",
             "white_player":"刘泽伟",
             "white_team":"深圳大学",
-            "result":"白中盘胜"
+            "result":"黑中盘胜"
          },
          {
             "date":"2025-11-22T16:00:00.000Z",
@@ -26856,7 +26866,7 @@
             "black_team":"首尔大学",
             "white_player":"刘泽伟",
             "white_team":"深圳大学",
-            "result":"白中盘胜"
+            "result":"黑中盘胜"
          },
          {
             "date":"2025-11-22T16:00:00.000Z",
@@ -28840,6 +28850,148 @@
             "black_team":"",
             "white_player":"马睿雪",
             "white_team":"",
+            "result":"黑中盘胜"
+         }
+      ],
+      "153":[
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"马睿雪",
+            "black_team":"燕岭公园棋友队",
+            "white_player":"张东锐",
+            "white_team":"佛山亚艺公园队",
+            "result":"白胜0.25子"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"孙宝全",
+            "black_team":"佛山亚艺公园队",
+            "white_player":"王以诺",
+            "white_team":"燕岭公园棋友队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":1,
+            "table":"'4-3",
+            "black_player":"匡博文",
+            "black_team":"流花湖公园棋友队",
+            "white_player":"何清泉",
+            "white_team":"天河公园坐隐棋馆队",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=4c43398e6a23c513&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjcyNjg3MjIsImV4cCI6MTc2NzM1NTEyMiwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6IjRjNDMzOThlNmEyM2M1MTMiLCJpc3ZpcCI6MX19.mzcX3AhgVxpk7mHwuLfqGi_2PnQdjJn7Mfb9gAGHHkQ#/desktop"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":1,
+            "table":"'4-5",
+            "black_player":"唐清扬",
+            "black_team":"流花湖公园棋友队",
+            "white_player":"朱娴",
+            "white_team":"天河公园坐隐棋馆队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"王以诺",
+            "black_team":"燕岭公园棋友队",
+            "white_player":"",
+            "white_team":"琶洲公园棋人弈事队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"张汀",
+            "black_team":"荔湾湖公园梦春队",
+            "white_player":"庄应楠",
+            "white_team":"越秀公园应元棋院队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":2,
+            "table":"'4-2",
+            "black_player":"唐清扬",
+            "black_team":"流花湖公园棋友队",
+            "white_player":"朱旻路",
+            "white_team":"珠江公园广雅友联队",
+            "result":"黑胜0.75子"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":2,
+            "table":"'4-3",
+            "black_player":"季丞",
+            "black_team":"珠江公园广雅友联队",
+            "white_player":"匡博文",
+            "white_team":"流花湖公园棋友队",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=e4b130a7f81e9f7e&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjcyNjg4NTEsImV4cCI6MTc2NzM1NTI1MSwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImU0YjEzMGE3ZjgxZTlmN2UiLCJpc3ZpcCI6MX19.-XSNHkrmuPygbSh-_PHXYjHayUaqP0ZALsdqePBwTyQ#/desktop"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"",
+            "black_team":"海珠广场羊城耆英队",
+            "white_player":"马睿雪",
+            "white_team":"燕岭公园棋友队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"",
+            "black_team":"海珠广场羊城耆英队",
+            "white_player":"王以诺",
+            "white_team":"燕岭公园棋友队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":3,
+            "table":"'1-4",
+            "black_player":"唐清扬",
+            "black_team":"流花湖公园棋友队",
+            "white_player":"彭天佐",
+            "white_team":"白云山聪韵棋院队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":3,
+            "table":"'1-5",
+            "black_player":"钟金宏",
+            "black_team":"白云山聪韵棋院队",
+            "white_player":"匡博文",
+            "white_team":"流花湖公园棋友队",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=c6147b2b94b33041&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjcyNjkxMDUsImV4cCI6MTc2NzM1NTUwNSwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImM2MTQ3YjJiOTRiMzMwNDEiLCJpc3ZpcCI6MX19.IvWF2PzdH3mqo7s7enYb9-FwKaTWwBFJsRKIkoWLqWs#/desktop"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":4,
+            "table":"'2-2",
+            "black_player":"王以诺",
+            "black_team":"燕岭公园棋友队",
+            "white_player":"覃国友",
+            "white_team":"越秀公园应元棋院队",
+            "result":"黑胜4.75子"
+         },
+         {
+            "date":"2025-12-31T16:00:00.000Z",
+            "round":4,
+            "table":"'2-6",
+            "black_player":"马睿雪",
+            "black_team":"燕岭公园棋友队",
+            "white_player":"杨子言",
+            "white_team":"越秀公园应元棋院队",
             "result":"黑中盘胜"
          }
       ]
