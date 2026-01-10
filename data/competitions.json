@@ -25,6 +25,14 @@
          "description":"--|邀请赛|线下|个人赛|--"
       },
       {
+         "competition_base_id":68,
+         "competition":"晚报杯",
+         "first_year":1988,
+         "last_year":2026,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":30,
          "competition":"黄河杯",
          "first_year":-1,
@@ -2215,6 +2223,18 @@
             "location":"河南信阳",
             "total_round":10,
             "source":"https://mp.weixin.qq.com/s/Bw03WcAVY2_sBEREnlwQHQ?scene=1&click_id=7"
+         }
+      ],
+      "68":[
+         {
+            "competition_id":154,
+            "year":2026,
+            "competition":"第39届 晚报杯（公开组）",
+            "start_date":"2026-01-04T16:00:00.000Z",
+            "end_date":"2026-01-09T16:00:00.000Z",
+            "location":"海南昌江",
+            "total_round":13,
+            "source":"https://mp.weixin.qq.com/s/OsB2KyBPLEYWy6Uj2G29Ag"
          }
       ]
    },
@@ -28993,6 +29013,138 @@
             "white_player":"杨子言",
             "white_team":"越秀公园应元棋院队",
             "result":"黑中盘胜"
+         }
+      ],
+      "154":[
+         {
+            "date":"2026-01-04T16:00:00.000Z",
+            "round":1,
+            "table":"'28",
+            "black_player":"朱夏俊",
+            "black_team":"",
+            "white_player":"毕楚晨",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-01-04T16:00:00.000Z",
+            "round":2,
+            "table":"'26",
+            "black_player":"王开",
+            "black_team":"",
+            "white_player":"朱夏俊",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-01-05T16:00:00.000Z",
+            "round":3,
+            "table":"'34",
+            "black_player":"伍贤喆",
+            "black_team":"",
+            "white_player":"朱夏俊",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-01-05T16:00:00.000Z",
+            "round":4,
+            "table":"'59",
+            "black_player":"朱夏俊",
+            "black_team":"",
+            "white_player":"项雪松",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-01-05T16:00:00.000Z",
+            "round":5,
+            "table":"'62",
+            "black_player":"刘从一",
+            "black_team":"",
+            "white_player":"朱夏俊",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-01-06T16:00:00.000Z",
+            "round":6,
+            "table":"'73",
+            "black_player":"朱夏俊",
+            "black_team":"",
+            "white_player":"屠新宇",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-01-06T16:00:00.000Z",
+            "round":7,
+            "table":"'76",
+            "black_player":"朱夏俊",
+            "black_team":"",
+            "white_player":"罗奕荃",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-01-07T16:00:00.000Z",
+            "round":8,
+            "table":"'80",
+            "black_player":"高磐",
+            "black_team":"",
+            "white_player":"朱夏俊",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-01-08T16:00:00.000Z",
+            "round":9,
+            "table":"'80",
+            "black_player":"朱夏俊",
+            "black_team":"",
+            "white_player":"余镒",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-01-08T16:00:00.000Z",
+            "round":10,
+            "table":"'80",
+            "black_player":"肖芷谦",
+            "black_team":"",
+            "white_player":"朱夏俊",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-01-08T16:00:00.000Z",
+            "round":11,
+            "table":"'72",
+            "black_player":"朱夏俊",
+            "black_team":"",
+            "white_player":"何志强",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-01-09T16:00:00.000Z",
+            "round":12,
+            "table":"'69",
+            "black_player":"马景云",
+            "black_team":"",
+            "white_player":"朱夏俊",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-01-09T16:00:00.000Z",
+            "round":13,
+            "table":"'69",
+            "black_player":"刘宸汐",
+            "black_team":"",
+            "white_player":"朱夏俊",
+            "white_team":"",
+            "result":"白中盘胜"
          }
       ]
    }
