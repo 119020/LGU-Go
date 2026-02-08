@@ -1228,16 +1228,16 @@
             "total_round":8,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=199920&eventid=0&groupid=268207&type=group"
          },
-  {
-    "competition_id": 155,
-    "year": 2026,
-    "competition": "第4届 深圳个人锦标赛（公开组）",
-    "start_date": "2026-02-06T16:00:00.000Z",
-    "end_date": "2026-02-07T16:00:00.000Z",
-    "location": "广东深圳罗湖",
-    "total_round": 8,
-    "source": "其他"
-  }
+         {
+            "competition_id":155,
+            "year":2026,
+            "competition":"第4届 深圳个人锦标赛（公开组）",
+            "start_date":"2026-02-06T16:00:00.000Z",
+            "end_date":"2026-02-07T16:00:00.000Z",
+            "location":"广东深圳罗湖",
+            "total_round":8,
+            "source":"其他"
+         }
       ],
       "25":[
          {
@@ -29158,86 +29158,86 @@
          }
       ]
    },
-      "155":[
-  {
-    "date": "2026-02-06T16:00:00.000Z",
-    "round": 1,
-    "table": "",
-    "black_player": "丁泽洋",
-    "black_team": "",
-    "white_player": "",
-    "white_team": "",
-    "result": ""
-  },
-  {
-    "date": "2026-02-06T16:00:00.000Z",
-    "round": 2,
-    "table": "",
-    "black_player": "",
-    "black_team": "",
-    "white_player": "丁泽洋",
-    "white_team": "",
-    "result": ""
-  },
-  {
-    "date": "2026-02-06T16:00:00.000Z",
-    "round": 3,
-    "table": "",
-    "black_player": "丁泽洋",
-    "black_team": "",
-    "white_player": "周乐萱",
-    "white_team": "",
-    "result": "https://h5.foxwq.com/yehunewshare/?chessid=1770455800070001123&title=&desc=zlx%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=64&boardsize=19&uid=531722192&report=0"
-  },
-  {
-    "date": "2026-02-06T16:00:00.000Z",
-    "round": 4,
-    "table": "",
-    "black_player": "",
-    "black_team": "",
-    "white_player": "丁泽洋",
-    "white_team": "",
-    "result": ""
-  },
-  {
-    "date": "2026-02-07T16:00:00.000Z",
-    "round": 5,
-    "table": "",
-    "black_player": "丁泽洋",
-    "black_team": "",
-    "white_player": "",
-    "white_team": "",
-    "result": ""
-  },
-  {
-    "date": "2026-02-07T16:00:00.000Z",
-    "round": 6,
-    "table": "",
-    "black_player": "",
-    "black_team": "",
-    "white_player": "丁泽洋",
-    "white_team": "",
-    "result": ""
-  },
-  {
-    "date": "2026-02-07T16:00:00.000Z",
-    "round": 7,
-    "table": "",
-    "black_player": "丁泽洋",
-    "black_team": "",
-    "white_player": "史济东",
-    "white_team": "",
-    "result": "https://h5.foxwq.com/yehunewshare/?chessid=1770524579070002942&title=&desc=sjd%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=64&boardsize=19&uid=531722192&report=0"
-  },
-  {
-    "date": "2026-02-07T16:00:00.000Z",
-    "round": 8,
-    "table": "",
-    "black_player": "",
-    "black_team": "",
-    "white_player": "丁泽洋",
-    "white_team": "",
-    "result": ""
-  }
-   }
+   "155":[
+      {
+         "date":"2026-02-06T16:00:00.000Z",
+         "round":1,
+         "table":"",
+         "black_player":"丁泽洋",
+         "black_team":"",
+         "white_player":"",
+         "white_team":"",
+         "result":""
+      },
+      {
+         "date":"2026-02-06T16:00:00.000Z",
+         "round":2,
+         "table":"",
+         "black_player":"",
+         "black_team":"",
+         "white_player":"丁泽洋",
+         "white_team":"",
+         "result":""
+      },
+      {
+         "date":"2026-02-06T16:00:00.000Z",
+         "round":3,
+         "table":"",
+         "black_player":"丁泽洋",
+         "black_team":"",
+         "white_player":"周乐萱",
+         "white_team":"",
+         "result":"https://h5.foxwq.com/yehunewshare/?chessid=1770455800070001123&title=&desc=zlx%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=64&boardsize=19&uid=531722192&report=0"
+      },
+      {
+         "date":"2026-02-06T16:00:00.000Z",
+         "round":4,
+         "table":"",
+         "black_player":"",
+         "black_team":"",
+         "white_player":"丁泽洋",
+         "white_team":"",
+         "result":""
+      },
+      {
+         "date":"2026-02-07T16:00:00.000Z",
+         "round":5,
+         "table":"",
+         "black_player":"丁泽洋",
+         "black_team":"",
+         "white_player":"",
+         "white_team":"",
+         "result":""
+      },
+      {
+         "date":"2026-02-07T16:00:00.000Z",
+         "round":6,
+         "table":"",
+         "black_player":"",
+         "black_team":"",
+         "white_player":"丁泽洋",
+         "white_team":"",
+         "result":""
+      },
+      {
+         "date":"2026-02-07T16:00:00.000Z",
+         "round":7,
+         "table":"",
+         "black_player":"丁泽洋",
+         "black_team":"",
+         "white_player":"史济东",
+         "white_team":"",
+         "result":"https://h5.foxwq.com/yehunewshare/?chessid=1770524579070002942&title=&desc=sjd%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=64&boardsize=19&uid=531722192&report=0"
+      },
+      {
+         "date":"2026-02-07T16:00:00.000Z",
+         "round":8,
+         "table":"",
+         "black_player":"",
+         "black_team":"",
+         "white_player":"丁泽洋",
+         "white_team":"",
+         "result":""
+      }
+   ]
 }
