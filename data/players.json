@@ -1548,18 +1548,18 @@
             "total_losses":"18",
             "win_rate":"67.27"
          },
-  {
-    "year": 2026,
-    "total_wins": "6",
-    "total_losses": "2",
-    "win_rate": "75.00"
-  },
-  {
-    "year": null,
-    "total_wins": "156",
-    "total_losses": "79",
-    "win_rate": "66.38"
-  }
+         {
+            "year":2026,
+            "total_wins":"6",
+            "total_losses":"2",
+            "win_rate":"75.00"
+         },
+         {
+            "year":null,
+            "total_wins":"156",
+            "total_losses":"79",
+            "win_rate":"66.38"
+         }
       ],
       "54":[
          {
@@ -15827,12 +15827,12 @@
             "total_lose":"0",
             "total_game":1
          },
-  {
-    "opponent": "周乐萱",
-    "total_win": "0",
-    "total_lose": "1",
-    "total_game": 1
-  },
+         {
+            "opponent":"周乐萱",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
          {
             "opponent":"韩金石",
             "total_win":"0",
@@ -39331,78 +39331,78 @@
             "edition":2,
             "round":8
          },
-  {
-    "date": "2026-02-06T16:00:00.000Z",
-    "name": "丁泽洋",
-    "opponent": "",
-    "result": "胜",
-    "competition": "深圳个人锦标赛",
-    "edition": 4,
-    "round": 1
-  },
-  {
-    "date": "2026-02-06T16:00:00.000Z",
-    "name": "丁泽洋",
-    "opponent": "",
-    "result": "胜",
-    "competition": "深圳个人锦标赛",
-    "edition": 4,
-    "round": 2
-  },
-  {
-    "date": "2026-02-06T16:00:00.000Z",
-    "name": "丁泽洋",
-    "opponent": "周乐萱",
-    "result": "负",
-    "competition": "深圳个人锦标赛",
-    "edition": 4,
-    "round": 3
-  },
-  {
-    "date": "2026-02-06T16:00:00.000Z",
-    "name": "丁泽洋",
-    "opponent": "",
-    "result": "胜",
-    "competition": "深圳个人锦标赛",
-    "edition": 4,
-    "round": 4
-  },
-  {
-    "date": "2026-02-07T16:00:00.000Z",
-    "name": "丁泽洋",
-    "opponent": "",
-    "result": "胜",
-    "competition": "深圳个人锦标赛",
-    "edition": 4,
-    "round": 5
-  },
-  {
-    "date": "2026-02-07T16:00:00.000Z",
-    "name": "丁泽洋",
-    "opponent": "",
-    "result": "胜",
-    "competition": "深圳个人锦标赛",
-    "edition": 4,
-    "round": 6
-  },
-  {
-    "date": "2026-02-07T16:00:00.000Z",
-    "name": "丁泽洋",
-    "opponent": "史济东",
-    "result": "负",
-    "competition": "深圳个人锦标赛",
-    "edition": 4,
-    "round": 7
-  },
-  {
-    "date": "2026-02-07T16:00:00.000Z",
-    "name": "丁泽洋",
-    "opponent": "",
-    "result": "胜",
-    "competition": "深圳个人锦标赛",
-    "edition": 4,
-    "round": 8
-  },
+         {
+            "date":"2026-02-06T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"",
+            "result":"胜",
+            "competition":"深圳个人锦标赛",
+            "edition":4,
+            "round":1
+         },
+         {
+            "date":"2026-02-06T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"",
+            "result":"胜",
+            "competition":"深圳个人锦标赛",
+            "edition":4,
+            "round":2
+         },
+         {
+            "date":"2026-02-06T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"周乐萱",
+            "result":"负",
+            "competition":"深圳个人锦标赛",
+            "edition":4,
+            "round":3
+         },
+         {
+            "date":"2026-02-06T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"",
+            "result":"胜",
+            "competition":"深圳个人锦标赛",
+            "edition":4,
+            "round":4
+         },
+         {
+            "date":"2026-02-07T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"",
+            "result":"胜",
+            "competition":"深圳个人锦标赛",
+            "edition":4,
+            "round":5
+         },
+         {
+            "date":"2026-02-07T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"",
+            "result":"胜",
+            "competition":"深圳个人锦标赛",
+            "edition":4,
+            "round":6
+         },
+         {
+            "date":"2026-02-07T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"史济东",
+            "result":"负",
+            "competition":"深圳个人锦标赛",
+            "edition":4,
+            "round":7
+         },
+         {
+            "date":"2026-02-07T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"",
+            "result":"胜",
+            "competition":"深圳个人锦标赛",
+            "edition":4,
+            "round":8
+         },
          {
             "date":"2025-05-24T16:00:00.000Z",
             "name":"丁泽洋",
