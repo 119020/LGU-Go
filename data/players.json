@@ -459,10 +459,16 @@
             "win_rate":"51.49"
          },
          {
+            "year":2026,
+            "total_wins":"6",
+            "total_losses":"4",
+            "win_rate":"60.00"
+         },
+         {
             "year":null,
-            "total_wins":"156",
-            "total_losses":"143",
-            "win_rate":"52.17"
+            "total_wins":"162",
+            "total_losses":"147",
+            "win_rate":"52.43"
          }
       ],
       "4":[
@@ -1002,15 +1008,15 @@
          },
          {
             "year":2026,
-            "total_wins":"3",
-            "total_losses":"1",
-            "win_rate":"75.00"
+            "total_wins":"10",
+            "total_losses":"4",
+            "win_rate":"71.43"
          },
          {
             "year":null,
-            "total_wins":"28",
-            "total_losses":"14",
-            "win_rate":"66.67"
+            "total_wins":"35",
+            "total_losses":"17",
+            "win_rate":"67.31"
          }
       ],
       "23":[
@@ -1630,10 +1636,16 @@
             "win_rate":"33.33"
          },
          {
+            "year":2026,
+            "total_wins":"4",
+            "total_losses":"6",
+            "win_rate":"40.00"
+         },
+         {
             "year":null,
-            "total_wins":"2",
-            "total_losses":"4",
-            "win_rate":"33.33"
+            "total_wins":"6",
+            "total_losses":"10",
+            "win_rate":"37.50"
          }
       ],
       "60":[
@@ -4442,6 +4454,12 @@
             "total_game":3
          },
          {
+            "opponent":"易骏涵",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
             "opponent":"娄涛",
             "total_win":"2",
             "total_lose":"0",
@@ -4542,6 +4560,36 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"刘顺",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"范一唯",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"余浩榕",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"杜沛霖",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"付奥强",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"丁逸先",
@@ -5066,12 +5114,6 @@
             "total_game":1
          },
          {
-            "opponent":"易骏涵",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
             "opponent":"庄应楠",
             "total_win":"1",
             "total_lose":"0",
@@ -5399,6 +5441,30 @@
             "opponent":"赵家乐",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"孙伊璐",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"冷佳林",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"林泽翔",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"王以诺",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -12340,6 +12406,48 @@
             "total_game":2
          },
          {
+            "opponent":"王一韬",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"伏润斯",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈俊羽",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李政达",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"付奥强",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"戴乐其",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"付涵一",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"覃国友",
             "total_win":"1",
             "total_lose":"0",
@@ -12493,6 +12601,24 @@
             "opponent":"夏睿",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"孔令宸",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"唐正赫",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"戴允杰",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -16821,6 +16947,30 @@
       ],
       "59":[
          {
+            "opponent":"王嘉皓",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"林益虎",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"米子宸",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黄野桥",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"石伟清",
             "total_win":"1",
             "total_lose":"0",
@@ -16830,6 +16980,42 @@
             "opponent":"邓彦均",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"戚泽楠",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"王哲",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杜沛霖",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"郁思涵",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"余浩榕",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"徐曦冉",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -21825,6 +22011,96 @@
          }
       ],
       "3":[
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"孙伊璐",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":1
+         },
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"刘顺",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":2
+         },
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"冷佳林",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":3
+         },
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"范一唯",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":4
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"林泽翔",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":5
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"易骏涵",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":6
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"余浩榕",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":7
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"杜沛霖",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":8
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"付奥强",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":9
+         },
+         {
+            "date":"2026-02-27T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"王以诺",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":10
+         },
          {
             "date":"2025-11-07T16:00:00.000Z",
             "name":"付涵一",
@@ -34356,6 +34632,96 @@
       ],
       "22":[
          {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"王一韬",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":1
+         },
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"伏润斯",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":2
+         },
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"孔令宸",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":3
+         },
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"陈俊羽",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":4
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"李政达",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":5
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"唐正赫",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":6
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"付奥强",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":7
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"戴允杰",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":8
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"戴乐其",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":9
+         },
+         {
+            "date":"2026-02-27T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"付涵一",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":10
+         },
+         {
             "date":"2025-12-31T16:00:00.000Z",
             "name":"王以诺",
             "opponent":"孙宝全",
@@ -41603,6 +41969,96 @@
       ],
       "59":[
          {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"王嘉皓",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":1
+         },
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"戚泽楠",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":2
+         },
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"林益虎",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":3
+         },
+         {
+            "date":"2026-02-25T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"王哲",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":4
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"米子宸",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":5
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"杜沛霖",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":6
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"郁思涵",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":7
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"黄野桥",
+            "result":"胜",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":8
+         },
+         {
+            "date":"2026-02-26T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"余浩榕",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":9
+         },
+         {
+            "date":"2026-02-27T16:00:00.000Z",
+            "name":"罗钰林",
+            "opponent":"徐曦冉",
+            "result":"负",
+            "competition":"龙华杯青少年赛",
+            "edition":1,
+            "round":10
+         },
+         {
             "date":"2025-11-07T16:00:00.000Z",
             "name":"罗钰林",
             "opponent":"郑之灏",
@@ -42479,6 +42935,11 @@
             "year":2026,
             "competition":"第7届广州公园团体赛 (公开组)",
             "honor":"团体第2名"
+         },
+         {
+            "year":2026,
+            "competition":"第1届龙华杯青少年赛 (青年组)",
+            "honor":"个人第16名"
          }
       ],
       "23":[
