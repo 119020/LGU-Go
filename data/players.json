@@ -785,10 +785,16 @@
             "win_rate":"58.06"
          },
          {
+            "year":2026,
+            "total_wins":"6",
+            "total_losses":"4",
+            "win_rate":"60.00"
+         },
+         {
             "year":null,
-            "total_wins":"38",
-            "total_losses":"21",
-            "win_rate":"64.41"
+            "total_wins":"44",
+            "total_losses":"25",
+            "win_rate":"63.77"
          }
       ],
       "14":[
@@ -1506,15 +1512,15 @@
          },
          {
             "year":2026,
-            "total_wins":"13",
-            "total_losses":"9",
-            "win_rate":"59.09"
+            "total_wins":"17",
+            "total_losses":"15",
+            "win_rate":"53.13"
          },
          {
             "year":null,
-            "total_wins":"114",
-            "total_losses":"75",
-            "win_rate":"60.32"
+            "total_wins":"118",
+            "total_losses":"81",
+            "win_rate":"59.30"
          }
       ],
       "53":[
@@ -10690,6 +10696,42 @@
             "total_game":2
          },
          {
+            "opponent":"郭子安",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张容迪",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"韩楷",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"郎勃然",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张思毅",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王立国",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"胡竣逸",
             "total_win":"1",
             "total_lose":"0",
@@ -10903,6 +10945,30 @@
             "opponent":"郑梓霖",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"虞宸炫",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"马瀚一",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"刘浩然",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"吴昊",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -14314,6 +14380,12 @@
             "total_game":2
          },
          {
+            "opponent":"张家稀",
+            "total_win":"1",
+            "total_lose":"1",
+            "total_game":2
+         },
+         {
             "opponent":"李梓谦",
             "total_win":"1",
             "total_lose":"1",
@@ -14369,6 +14441,30 @@
          },
          {
             "opponent":"",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陆东",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"徐天昊",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"傅豪",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈依晴",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -14650,12 +14746,6 @@
             "total_game":1
          },
          {
-            "opponent":"张家稀",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
             "opponent":"郭嘉亮",
             "total_win":"1",
             "total_lose":"0",
@@ -14929,6 +15019,36 @@
             "opponent":"何全",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"尹航",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"晋皞熙",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"黄晓迪",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"张翼龙",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"宋瑞莱",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -32139,6 +32259,96 @@
       ],
       "13":[
          {
+            "date":"2026-03-23T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"郭子安",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":1
+         },
+         {
+            "date":"2026-03-23T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"张容迪",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":2
+         },
+         {
+            "date":"2026-03-24T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"虞宸炫",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":3
+         },
+         {
+            "date":"2026-03-24T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"刘浩然",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":4
+         },
+         {
+            "date":"2026-03-24T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"韩楷",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":5
+         },
+         {
+            "date":"2026-03-25T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"马瀚一",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":6
+         },
+         {
+            "date":"2026-03-25T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"郎勃然",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":7
+         },
+         {
+            "date":"2026-03-25T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"张思毅",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":8
+         },
+         {
+            "date":"2026-03-26T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"吴昊",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":9
+         },
+         {
+            "date":"2026-03-26T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"王立国",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":10
+         },
+         {
             "date":"2023-05-19T16:00:00.000Z",
             "name":"吴一博",
             "opponent":"杨钰铉",
@@ -37701,6 +37911,96 @@
             "result":"胜",
             "competition":"江苏海辰药业杯",
             "edition":1,
+            "round":10
+         },
+         {
+            "date":"2026-03-23T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"陆东",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":1
+         },
+         {
+            "date":"2026-03-23T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"尹航",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":2
+         },
+         {
+            "date":"2026-03-24T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"徐天昊",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":3
+         },
+         {
+            "date":"2026-03-24T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"晋皞熙",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":4
+         },
+         {
+            "date":"2026-03-24T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"黄晓迪",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":5
+         },
+         {
+            "date":"2026-03-25T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"傅豪",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":6
+         },
+         {
+            "date":"2026-03-25T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"张翼龙",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":7
+         },
+         {
+            "date":"2026-03-25T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"宋瑞莱",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":8
+         },
+         {
+            "date":"2026-03-26T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"张家稀",
+            "result":"负",
+            "competition":"秦山核电杯",
+            "edition":4,
+            "round":9
+         },
+         {
+            "date":"2026-03-26T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"陈依晴",
+            "result":"胜",
+            "competition":"秦山核电杯",
+            "edition":4,
             "round":10
          },
          {
