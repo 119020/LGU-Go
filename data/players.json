@@ -390,14 +390,14 @@
          },
          {
             "year":2026,
-            "total_wins":"2",
-            "total_losses":"1",
-            "win_rate":"66.67"
+            "total_wins":"9",
+            "total_losses":"3",
+            "win_rate":"75.00"
          },
          {
             "year":null,
-            "total_wins":"317",
-            "total_losses":"92",
+            "total_wins":"324",
+            "total_losses":"94",
             "win_rate":"77.51"
          }
       ],
@@ -1954,6 +1954,12 @@
             "total_game":2
          },
          {
+            "opponent":"李昭阳",
+            "total_win":"0",
+            "total_lose":"2",
+            "total_game":2
+         },
+         {
             "opponent":"易桢益",
             "total_win":"0",
             "total_lose":"2",
@@ -1976,6 +1982,48 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"金伟斌",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张昕焱",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王祥雨",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"皇甫炜",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"何鑫",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李阳",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"樊至真",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"何清泉",
@@ -3406,6 +3454,12 @@
             "total_game":1
          },
          {
+            "opponent":"袁小钢",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"钟金宏",
             "total_win":"0",
             "total_lose":"1",
@@ -3659,12 +3713,6 @@
          },
          {
             "opponent":"袁嘉悦",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"李昭阳",
             "total_win":"0",
             "total_lose":"1",
             "total_game":1
@@ -18796,6 +18844,87 @@
             "competition":"洛阳精英赛",
             "edition":17,
             "round":1
+         },
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"金伟斌",
+            "result":"胜",
+            "competition":"河南桃花杯",
+            "edition":4,
+            "round":1
+         },
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"张昕焱",
+            "result":"胜",
+            "competition":"河南桃花杯",
+            "edition":4,
+            "round":2
+         },
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"王祥雨",
+            "result":"胜",
+            "competition":"河南桃花杯",
+            "edition":4,
+            "round":3
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"皇甫炜",
+            "result":"胜",
+            "competition":"河南桃花杯",
+            "edition":4,
+            "round":4
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"何鑫",
+            "result":"胜",
+            "competition":"河南桃花杯",
+            "edition":4,
+            "round":5
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"李昭阳",
+            "result":"负",
+            "competition":"河南桃花杯",
+            "edition":4,
+            "round":6
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"袁小钢",
+            "result":"负",
+            "competition":"河南桃花杯",
+            "edition":4,
+            "round":7
+         },
+         {
+            "date":"2026-04-05T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"李阳",
+            "result":"胜",
+            "competition":"河南桃花杯",
+            "edition":4,
+            "round":8
+         },
+         {
+            "date":"2026-04-05T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"樊至真",
+            "result":"胜",
+            "competition":"河南桃花杯",
+            "edition":4,
+            "round":9
          },
          {
             "date":"2024-02-03T16:00:00.000Z",
@@ -42993,6 +43122,11 @@
             "year":2025,
             "competition":"第3届深圳杯 (公开组)",
             "honor":"个人第3名"
+         },
+         {
+            "year":2026,
+            "competition":"第4届河南桃花杯 (公开组)",
+            "honor":"个人第6名"
          }
       ],
       "2":[
