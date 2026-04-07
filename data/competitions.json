@@ -161,6 +161,14 @@
          "description":"--|公开赛|线下|个人赛|--"
       },
       {
+         "competition_base_id":70,
+         "competition":"河南桃花杯",
+         "first_year":-1,
+         "last_year":2026,
+         "level":"省部级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":25,
          "competition":"洛阳精英赛",
          "first_year":-1,
@@ -2295,6 +2303,18 @@
             "location":"广东深圳龙华",
             "total_round":10,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=234919&eventid=64346&groupid=315458&type=group"
+         }
+      ],
+      "70":[
+         {
+            "competition_id":160,
+            "year":2026,
+            "competition":"第4届 河南桃花杯（公开组）",
+            "start_date":"2026-04-03T16:00:00.000Z",
+            "end_date":"2026-04-05T16:00:00.000Z",
+            "location":"河南周口西华",
+            "total_round":9,
+            "source":"https://mp.weixin.qq.com/s/tpDJMYk7S73cPhlDuo0PYg"
          }
       ]
    },
@@ -30355,6 +30375,98 @@
             "white_player":"吴一博",
             "white_team":"",
             "result":"白中盘胜"
+         }
+      ],
+      "160":[
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "round":1,
+            "table":"'90",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"金伟斌",
+            "white_team":"",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=31313c45ef280909&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU0OTczNzIsImV4cCI6MTc3NTU4Mzc3MiwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6IjMxMzEzYzQ1ZWYyODA5MDkiLCJpc3ZpcCI6MX19.CS4l6WyldhhIy7d6kG2n_Z6xHZO-ib82clUwi1RiR7o#/desktop"
+         },
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "round":2,
+            "table":"'6",
+            "black_player":"张昕焱",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14187958&type=0"
+         },
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "round":3,
+            "table":"'23",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"王祥雨",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14188651&type=0"
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "round":4,
+            "table":"'2",
+            "black_player":"皇甫炜",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14189150&type=0"
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "round":5,
+            "table":"'6",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"何鑫",
+            "white_team":"",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=ad091052b63386d3&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU0OTc0NjEsImV4cCI6MTc3NTU4Mzg2MSwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImFkMDkxMDUyYjYzMzg2ZDMiLCJpc3ZpcCI6MX19.fWCgDvKmE9bNmzk1him8ySKci-mlsogFvGVAEXnNBPw#/desktop"
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "round":6,
+            "table":"'1",
+            "black_player":"李昭阳",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/golive/room/184854/0/0/ec3ab3e20571c13e1a8573a009ea27e2"
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "round":7,
+            "table":"'10",
+            "black_player":"匡博文",
+            "black_team":"",
+            "white_player":"袁小钢",
+            "white_team":"",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=eabd281fb5f6d772&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU0OTc1NzgsImV4cCI6MTc3NTU4Mzk3OCwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImVhYmQyODFmYjVmNmQ3NzIiLCJpc3ZpcCI6MX19.IoJhdUkfcO5oIH6VrqpkdGRWyUO8ws9Ro8-QabyncOA#/desktop"
+         },
+         {
+            "date":"2026-04-05T16:00:00.000Z",
+            "round":8,
+            "table":"'7",
+            "black_player":"李阳",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=d49a100d62450f78&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU0OTc1OTUsImV4cCI6MTc3NTU4Mzk5NSwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImQ0OWExMDBkNjI0NTBmNzgiLCJpc3ZpcCI6MX19.rTCQV7TDQrqc8tip9uEWL9Y3U_uGtMvs5h8NaxItZOo#/desktop"
+         },
+         {
+            "date":"2026-04-05T16:00:00.000Z",
+            "round":9,
+            "table":"'14",
+            "black_player":"樊至真",
+            "black_team":"",
+            "white_player":"匡博文",
+            "white_team":"",
+            "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=3da3d82065b517da&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU0OTc2MTgsImV4cCI6MTc3NTU4NDAxOCwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6IjNkYTNkODIwNjViNTE3ZGEiLCJpc3ZpcCI6MX19.MiJ5rYm0BJbFQ-DoYQa54PYkci8cxgBME88WAtEJ1hQ#/desktop"
          }
       ]
    }
