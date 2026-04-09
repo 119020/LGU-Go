@@ -36,7 +36,7 @@
          "competition_base_id":30,
          "competition":"黄河杯",
          "first_year":-1,
-         "last_year":2025,
+         "last_year":2026,
          "level":"国家级",
          "description":"--|公开赛|线下|个人赛|--"
       },
@@ -124,7 +124,7 @@
          "competition_base_id":28,
          "competition":"金陵无想杯",
          "first_year":2024,
-         "last_year":2025,
+         "last_year":2026,
          "level":"国家级",
          "description":"--|公开赛|线下|个人赛|--"
       },
@@ -132,7 +132,7 @@
          "competition_base_id":67,
          "competition":"信阳无量杯",
          "first_year":2025,
-         "last_year":2025,
+         "last_year":2026,
          "level":"国家级",
          "description":"--|公开赛|线下|个人赛|--"
       },
@@ -292,7 +292,7 @@
          "competition_base_id":2,
          "competition":"广东联赛",
          "first_year":2019,
-         "last_year":2025,
+         "last_year":2026,
          "level":"省部级",
          "description":"--|公开赛|线下|团体赛|记团体成绩"
       },
@@ -332,7 +332,7 @@
          "competition_base_id":14,
          "competition":"深圳联赛",
          "first_year":2015,
-         "last_year":2025,
+         "last_year":2026,
          "level":"区市级",
          "description":"--|公开赛|线下|团体赛|记团体成绩"
       },
@@ -516,7 +516,7 @@
          "competition_base_id":40,
          "competition":"深圳棋王精英赛",
          "first_year":2018,
-         "last_year":2025,
+         "last_year":2026,
          "level":"区市级",
          "description":"--|公开赛|线下|个人赛|--"
       },
