@@ -89,6 +89,14 @@
          "description":"--|公开赛|线下|个人赛|--"
       },
       {
+         "competition_base_id":71,
+         "competition":"杜鹃花杯",
+         "first_year":-1,
+         "last_year":2026,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":64,
          "competition":"梦百合杯",
          "first_year":2013,
@@ -340,7 +348,7 @@
          "competition_base_id":29,
          "competition":"松山湖精英赛",
          "first_year":2024,
-         "last_year":2025,
+         "last_year":2026,
          "level":"区市级",
          "description":"--|公开赛|线下|个人赛|--"
       },
@@ -2315,6 +2323,18 @@
             "location":"河南周口西华",
             "total_round":9,
             "source":"https://mp.weixin.qq.com/s/tpDJMYk7S73cPhlDuo0PYg"
+         }
+      ],
+      "71":[
+         {
+            "competition_id":161,
+            "year":2026,
+            "competition":"第30届 杜鹃花杯（公开组）",
+            "start_date":"2026-04-07T16:00:00.000Z",
+            "end_date":"2026-04-10T16:00:00.000Z",
+            "location":"贵州毕节",
+            "total_round":9,
+            "source":"https://mp.weixin.qq.com/s/75IZDAwyuZgEMCXd-V8lGQ"
          }
       ]
    },
@@ -30467,6 +30487,98 @@
             "white_player":"匡博文",
             "white_team":"",
             "result":"https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=3da3d82065b517da&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NzU0OTc2MTgsImV4cCI6MTc3NTU4NDAxOCwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6IjNkYTNkODIwNjViNTE3ZGEiLCJpc3ZpcCI6MX19.MiJ5rYm0BJbFQ-DoYQa54PYkci8cxgBME88WAtEJ1hQ#/desktop"
+         }
+      ],
+      "161":[
+         {
+            "date":"2026-04-07T16:00:00.000Z",
+            "round":1,
+            "table":"'12",
+            "black_player":"吴一博",
+            "black_team":"",
+            "white_player":"琴加冕",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-07T16:00:00.000Z",
+            "round":2,
+            "table":"'21",
+            "black_player":"谢云松",
+            "black_team":"",
+            "white_player":"吴一博",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-08T16:00:00.000Z",
+            "round":3,
+            "table":"'17",
+            "black_player":"吴一博",
+            "black_team":"",
+            "white_player":"谢曰山",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-08T16:00:00.000Z",
+            "round":4,
+            "table":"'18",
+            "black_player":"徐劲涛",
+            "black_team":"",
+            "white_player":"吴一博",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-08T16:00:00.000Z",
+            "round":5,
+            "table":"'20",
+            "black_player":"陈玮泷",
+            "black_team":"",
+            "white_player":"吴一博",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-09T16:00:00.000Z",
+            "round":6,
+            "table":"'36",
+            "black_player":"吴一博",
+            "black_team":"",
+            "white_player":"史泓奕",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-04-09T16:00:00.000Z",
+            "round":7,
+            "table":"'34",
+            "black_player":"吴一博",
+            "black_team":"",
+            "white_player":"赵学宾",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-09T16:00:00.000Z",
+            "round":8,
+            "table":"'35",
+            "black_player":"黄泽天",
+            "black_team":"",
+            "white_player":"吴一博",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-04-10T16:00:00.000Z",
+            "round":9,
+            "table":"'20",
+            "black_player":"华星砚",
+            "black_team":"",
+            "white_player":"吴一博",
+            "white_team":"",
+            "result":"白中盘胜"
          }
       ]
    }
