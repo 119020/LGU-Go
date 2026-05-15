@@ -44,7 +44,7 @@
          "competition_base_id":31,
          "competition":"丰城杯",
          "first_year":-1,
-         "last_year":2025,
+         "last_year":2026,
          "level":"国家级",
          "description":"--|公开赛|线下|个人赛|--"
       },
@@ -85,6 +85,14 @@
          "competition":"辽河杯",
          "first_year":2021,
          "last_year":2024,
+         "level":"国家级",
+         "description":"--|公开赛|线下|个人赛|--"
+      },
+      {
+         "competition_base_id":73,
+         "competition":"伟星杯",
+         "first_year":-1,
+         "last_year":2026,
          "level":"国家级",
          "description":"--|公开赛|线下|个人赛|--"
       },
@@ -2355,6 +2363,18 @@
             "location":"广东深圳龙华",
             "total_round":10,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=243222&eventid=66050&groupid=326172&type=group"
+         }
+      ],
+      "73":[
+         {
+            "competition_id":163,
+            "year":2026,
+            "competition":"第10届 伟星杯（公开组）",
+            "start_date":"2026-05-10T16:00:00.000Z",
+            "end_date":"2026-05-14T16:00:00.000Z",
+            "location":"安徽芜湖",
+            "total_round":11,
+            "source":"https://mp.weixin.qq.com/s/fFeXhA6okwsqjselvplFFA"
          }
       ]
    },
@@ -30799,6 +30819,228 @@
             "black_player":"丁月沄",
             "black_team":"",
             "white_player":"江怡萱",
+            "white_team":"",
+            "result":"白中盘胜"
+         }
+      ],
+      "163":[
+         {
+            "date":"2026-05-10T16:00:00.000Z",
+            "round":1,
+            "table":"'29",
+            "black_player":"许政",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14242181&type=0"
+         },
+         {
+            "date":"2026-05-10T16:00:00.000Z",
+            "round":1,
+            "table":"'61",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"宋炎泽",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-05-10T16:00:00.000Z",
+            "round":2,
+            "table":"'29",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"凌志行",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14242309&type=0"
+         },
+         {
+            "date":"2026-05-10T16:00:00.000Z",
+            "round":2,
+            "table":"'65",
+            "black_player":"邓光宇",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-05-10T16:00:00.000Z",
+            "round":3,
+            "table":"'39",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"武庭菲",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14242412&type=0"
+         },
+         {
+            "date":"2026-05-10T16:00:00.000Z",
+            "round":3,
+            "table":"'83",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"张文兴",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-05-11T16:00:00.000Z",
+            "round":4,
+            "table":"'38",
+            "black_player":"严郁文",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14243641&type=0"
+         },
+         {
+            "date":"2026-05-11T16:00:00.000Z",
+            "round":4,
+            "table":"'61",
+            "black_player":"吕行",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-05-11T16:00:00.000Z",
+            "round":5,
+            "table":"'13",
+            "black_player":"尉清扬",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14244077&type=0"
+         },
+         {
+            "date":"2026-05-11T16:00:00.000Z",
+            "round":5,
+            "table":"'77",
+            "black_player":"高伟中",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-05-11T16:00:00.000Z",
+            "round":6,
+            "table":"'36",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"马思源",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14246104&type=0"
+         },
+         {
+            "date":"2026-05-11T16:00:00.000Z",
+            "round":6,
+            "table":"'57",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"杨千逸",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-05-12T16:00:00.000Z",
+            "round":7,
+            "table":"'41",
+            "black_player":"黄文荣",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14247056&type=0"
+         },
+         {
+            "date":"2026-05-12T16:00:00.000Z",
+            "round":7,
+            "table":"'49",
+            "black_player":"高涛",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-05-13T16:00:00.000Z",
+            "round":8,
+            "table":"'55",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"熊益成",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-05-13T16:00:00.000Z",
+            "round":8,
+            "table":"'63",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"岳国奥",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14248666&type=0"
+         },
+         {
+            "date":"2026-05-13T16:00:00.000Z",
+            "round":9,
+            "table":"'65",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"王兆云",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14249144&type=0"
+         },
+         {
+            "date":"2026-05-13T16:00:00.000Z",
+            "round":9,
+            "table":"'71",
+            "black_player":"王姿婷",
+            "black_team":"",
+            "white_player":"马睿雪",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-05-13T16:00:00.000Z",
+            "round":10,
+            "table":"'54",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"张家稀",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-05-13T16:00:00.000Z",
+            "round":10,
+            "table":"'61",
+            "black_player":"林忻嘉",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14249861&type=0"
+         },
+         {
+            "date":"2026-05-14T16:00:00.000Z",
+            "round":11,
+            "table":"'42",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"马可",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14250814&type=0"
+         },
+         {
+            "date":"2026-05-14T16:00:00.000Z",
+            "round":11,
+            "table":"'50",
+            "black_player":"马睿雪",
+            "black_team":"",
+            "white_player":"林佳然",
             "white_team":"",
             "result":"白中盘胜"
          }
