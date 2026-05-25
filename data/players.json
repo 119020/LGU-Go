@@ -390,15 +390,15 @@
          },
          {
             "year":2026,
-            "total_wins":"9",
-            "total_losses":"3",
-            "win_rate":"75.00"
+            "total_wins":"12",
+            "total_losses":"6",
+            "win_rate":"66.67"
          },
          {
             "year":null,
-            "total_wins":"324",
-            "total_losses":"94",
-            "win_rate":"77.51"
+            "total_wins":"327",
+            "total_losses":"97",
+            "win_rate":"77.12"
          }
       ],
       "2":[
@@ -428,15 +428,15 @@
          },
          {
             "year":2026,
-            "total_wins":"7",
-            "total_losses":"3",
-            "win_rate":"70.00"
+            "total_wins":"12",
+            "total_losses":"4",
+            "win_rate":"75.00"
          },
          {
             "year":null,
-            "total_wins":"117",
-            "total_losses":"31",
-            "win_rate":"79.05"
+            "total_wins":"122",
+            "total_losses":"32",
+            "win_rate":"79.22"
          }
       ],
       "3":[
@@ -466,15 +466,15 @@
          },
          {
             "year":2026,
-            "total_wins":"15",
-            "total_losses":"14",
-            "win_rate":"51.72"
+            "total_wins":"16",
+            "total_losses":"19",
+            "win_rate":"45.71"
          },
          {
             "year":null,
-            "total_wins":"171",
-            "total_losses":"157",
-            "win_rate":"52.13"
+            "total_wins":"172",
+            "total_losses":"162",
+            "win_rate":"51.50"
          }
       ],
       "4":[
@@ -522,15 +522,15 @@
          },
          {
             "year":2026,
-            "total_wins":"6",
-            "total_losses":"6",
-            "win_rate":"50.00"
+            "total_wins":"12",
+            "total_losses":"7",
+            "win_rate":"63.16"
          },
          {
             "year":null,
-            "total_wins":"142",
-            "total_losses":"77",
-            "win_rate":"64.84"
+            "total_wins":"148",
+            "total_losses":"78",
+            "win_rate":"65.49"
          }
       ],
       "5":[
@@ -559,10 +559,16 @@
             "win_rate":"40.00"
          },
          {
+            "year":2026,
+            "total_wins":"1",
+            "total_losses":"5",
+            "win_rate":"16.67"
+         },
+         {
             "year":null,
-            "total_wins":"65",
-            "total_losses":"68",
-            "win_rate":"48.87"
+            "total_wins":"66",
+            "total_losses":"73",
+            "win_rate":"47.48"
          }
       ],
       "6":[
@@ -792,15 +798,15 @@
          },
          {
             "year":2026,
-            "total_wins":"11",
-            "total_losses":"8",
-            "win_rate":"57.89"
+            "total_wins":"16",
+            "total_losses":"12",
+            "win_rate":"57.14"
          },
          {
             "year":null,
-            "total_wins":"49",
-            "total_losses":"29",
-            "win_rate":"62.82"
+            "total_wins":"54",
+            "total_losses":"33",
+            "win_rate":"62.07"
          }
       ],
       "14":[
@@ -940,15 +946,15 @@
          },
          {
             "year":2026,
-            "total_wins":"2",
-            "total_losses":"1",
+            "total_wins":"6",
+            "total_losses":"3",
             "win_rate":"66.67"
          },
          {
             "year":null,
-            "total_wins":"38",
-            "total_losses":"21",
-            "win_rate":"64.41"
+            "total_wins":"42",
+            "total_losses":"23",
+            "win_rate":"64.62"
          }
       ],
       "19":[
@@ -1020,15 +1026,15 @@
          },
          {
             "year":2026,
-            "total_wins":"10",
-            "total_losses":"4",
-            "win_rate":"71.43"
+            "total_wins":"13",
+            "total_losses":"7",
+            "win_rate":"65.00"
          },
          {
             "year":null,
-            "total_wins":"35",
-            "total_losses":"17",
-            "win_rate":"67.31"
+            "total_wins":"38",
+            "total_losses":"20",
+            "win_rate":"65.52"
          }
       ],
       "23":[
@@ -1524,15 +1530,15 @@
          },
          {
             "year":2026,
-            "total_wins":"22",
-            "total_losses":"21",
-            "win_rate":"51.16"
+            "total_wins":"24",
+            "total_losses":"25",
+            "win_rate":"48.98"
          },
          {
             "year":null,
-            "total_wins":"123",
-            "total_losses":"87",
-            "win_rate":"58.57"
+            "total_wins":"125",
+            "total_losses":"91",
+            "win_rate":"57.87"
          }
       ],
       "53":[
@@ -1574,15 +1580,15 @@
          },
          {
             "year":2026,
-            "total_wins":"18",
-            "total_losses":"9",
-            "win_rate":"66.67"
+            "total_wins":"21",
+            "total_losses":"12",
+            "win_rate":"63.64"
          },
          {
             "year":null,
-            "total_wins":"168",
-            "total_losses":"86",
-            "win_rate":"66.14"
+            "total_wins":"171",
+            "total_losses":"89",
+            "win_rate":"65.77"
          }
       ],
       "54":[
@@ -1723,6 +1729,12 @@
             "opponent":"陈一戈",
             "total_win":"3",
             "total_lose":"0",
+            "total_game":3
+         },
+         {
+            "opponent":"黄毅飞",
+            "total_win":"2",
+            "total_lose":"1",
             "total_game":3
          },
          {
@@ -1882,6 +1894,12 @@
             "total_game":2
          },
          {
+            "opponent":"陈悟德",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
             "opponent":"袁梦泽",
             "total_win":"1",
             "total_lose":"1",
@@ -1960,9 +1978,15 @@
             "total_game":2
          },
          {
-            "opponent":"黄毅飞",
-            "total_win":"1",
-            "total_lose":"1",
+            "opponent":"徐晶琦",
+            "total_win":"0",
+            "total_lose":"2",
+            "total_game":2
+         },
+         {
+            "opponent":"张予儒",
+            "total_win":"0",
+            "total_lose":"2",
             "total_game":2
          },
          {
@@ -1994,6 +2018,12 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"徐文灿",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"金伟斌",
@@ -2452,12 +2482,6 @@
             "total_game":1
          },
          {
-            "opponent":"陈悟德",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
             "opponent":"苏家文",
             "total_win":"1",
             "total_lose":"0",
@@ -2884,7 +2908,7 @@
             "total_game":1
          },
          {
-            "opponent":"彭绍辉",
+            "opponent":"彭韶辉",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -3466,6 +3490,12 @@
             "total_game":1
          },
          {
+            "opponent":"赵健男",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"袁小钢",
             "total_win":"0",
             "total_lose":"1",
@@ -3748,12 +3778,6 @@
             "total_game":1
          },
          {
-            "opponent":"徐晶琦",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
             "opponent":"孙鹏宇",
             "total_win":"0",
             "total_lose":"1",
@@ -3778,6 +3802,12 @@
             "total_win":"0",
             "total_lose":"3",
             "total_game":3
+         },
+         {
+            "opponent":"甄晓冬",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
          },
          {
             "opponent":"庄应楠",
@@ -3850,6 +3880,30 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"白依鹭",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"程剑龙",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"栾宇蒙",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"林斯达",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"黄晓迪",
@@ -4081,12 +4135,6 @@
          },
          {
             "opponent":"张正",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"甄晓冬",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -4404,6 +4452,12 @@
             "total_game":1
          },
          {
+            "opponent":"周振宇",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"李天意",
             "total_win":"0",
             "total_lose":"1",
@@ -4556,6 +4610,12 @@
             "total_game":3
          },
          {
+            "opponent":"杨靖源",
+            "total_win":"0",
+            "total_lose":"3",
+            "total_game":3
+         },
+         {
             "opponent":"孙嘉路",
             "total_win":"0",
             "total_lose":"3",
@@ -4658,12 +4718,6 @@
             "total_game":2
          },
          {
-            "opponent":"杨靖源",
-            "total_win":"0",
-            "total_lose":"2",
-            "total_game":2
-         },
-         {
             "opponent":"王栋杉",
             "total_win":"0",
             "total_lose":"2",
@@ -4686,6 +4740,12 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"谢金鳞",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"许政",
@@ -4898,7 +4958,7 @@
             "total_game":1
          },
          {
-            "opponent":"彭绍辉",
+            "opponent":"彭韶辉",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -5615,6 +5675,30 @@
             "opponent":"赵家乐",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黄永汉",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"史济东",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"吴梓龙",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈嘉平",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -6364,6 +6448,12 @@
             "total_game":3
          },
          {
+            "opponent":"叶馥嘉",
+            "total_win":"2",
+            "total_lose":"0",
+            "total_game":2
+         },
+         {
             "opponent":"张帆",
             "total_win":"2",
             "total_lose":"0",
@@ -6440,6 +6530,36 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"孙艺鸣",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李东烨",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"彭韶辉",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"胡钧瑞",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"詹广海",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"周天乐",
@@ -6539,12 +6659,6 @@
          },
          {
             "opponent":"卫元瑾",
-            "total_win":"1",
-            "total_lose":"0",
-            "total_game":1
-         },
-         {
-            "opponent":"叶馥嘉",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -7204,6 +7318,12 @@
             "total_game":1
          },
          {
+            "opponent":"张路遥",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"肖丽朵",
             "total_win":"0",
             "total_lose":"1",
@@ -7626,6 +7746,12 @@
             "total_game":2
          },
          {
+            "opponent":"邹子仲",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"龙泽昊",
             "total_win":"1",
             "total_lose":"0",
@@ -7971,6 +8097,36 @@
             "opponent":"徐睿轩",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"马睿雪",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"杨宇祥",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈天朗",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"郑国梁",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"黄越扬",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -10446,7 +10602,7 @@
             "total_game":1
          },
          {
-            "opponent":"彭绍辉",
+            "opponent":"彭韶辉",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -10864,6 +11020,36 @@
             "total_game":2
          },
          {
+            "opponent":"程思薇",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王鸿星",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李宗原",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"熊睿",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王喆鹏",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"琴加冕",
             "total_win":"1",
             "total_lose":"0",
@@ -11143,6 +11329,30 @@
             "opponent":"郑梓霖",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"万奕麟",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"唐天博",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"董嘉诚",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"李昭阳",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -12242,6 +12452,30 @@
             "total_game":2
          },
          {
+            "opponent":"罗宇涵",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"李昊泽",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"罗照轩",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陈天朗",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"肖浚一",
             "total_win":"1",
             "total_lose":"0",
@@ -12437,6 +12671,18 @@
             "opponent":"王兴",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"高骏",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"丁泽洋",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -12724,6 +12970,24 @@
             "total_game":2
          },
          {
+            "opponent":"罗照轩",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘成龙",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"郑国梁",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"王一韬",
             "total_win":"1",
             "total_lose":"0",
@@ -12919,6 +13183,24 @@
             "opponent":"夏睿",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"游星昊",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"冯泽锴",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"刘字轩",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -14662,6 +14944,12 @@
             "total_game":2
          },
          {
+            "opponent":"林斯达",
+            "total_win":"1",
+            "total_lose":"1",
+            "total_game":2
+         },
+         {
             "opponent":"李梓谦",
             "total_win":"1",
             "total_lose":"1",
@@ -14692,6 +14980,12 @@
             "total_game":2
          },
          {
+            "opponent":"杨郁杏",
+            "total_win":"0",
+            "total_lose":"2",
+            "total_game":2
+         },
+         {
             "opponent":"吴适清",
             "total_win":"0",
             "total_lose":"2",
@@ -14717,6 +15011,12 @@
          },
          {
             "opponent":"",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"刘泽伟",
             "total_win":"1",
             "total_lose":"0",
             "total_game":1
@@ -15328,6 +15628,24 @@
             "total_game":1
          },
          {
+            "opponent":"徐肇斌",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"周振宇",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"戚泽楠",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
             "opponent":"邓光宇",
             "total_win":"0",
             "total_lose":"1",
@@ -15676,18 +15994,6 @@
             "total_game":1
          },
          {
-            "opponent":"杨郁杏",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
-            "opponent":"林斯达",
-            "total_win":"0",
-            "total_lose":"1",
-            "total_game":1
-         },
-         {
             "opponent":"张景皓",
             "total_win":"0",
             "total_lose":"1",
@@ -15874,6 +16180,24 @@
             "total_win":"0",
             "total_lose":"2",
             "total_game":2
+         },
+         {
+            "opponent":"林晓聪",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"唐清扬",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"邱泓玮",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
          },
          {
             "opponent":"欧彦楷",
@@ -16689,6 +17013,24 @@
             "opponent":"熊怀远",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"叶子萌",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"郑力秦",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"李昊苇",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -20268,6 +20610,60 @@
             "round":7
          },
          {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"徐晶琦",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"徐文灿",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"张予儒",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"黄毅飞",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"赵健男",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"匡博文",
+            "opponent":"陈悟德",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":6
+         },
+         {
             "date":"2024-04-19T16:00:00.000Z",
             "name":"匡博文",
             "opponent":"周亚泓",
@@ -22239,6 +22635,60 @@
             "competition":"广东联赛",
             "edition":6,
             "round":7
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"曾子荣",
+            "opponent":"白依鹭",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"曾子荣",
+            "opponent":"周振宇",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"曾子荣",
+            "opponent":"程剑龙",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"曾子荣",
+            "opponent":"栾宇蒙",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"曾子荣",
+            "opponent":"林斯达",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"曾子荣",
+            "opponent":"甄晓东",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":6
          },
          {
             "date":"2024-11-09T16:00:00.000Z",
@@ -24617,6 +25067,60 @@
             "competition":"广东联赛",
             "edition":7,
             "round":7
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"谢金鳞",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"杨靖源",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"黄永汉",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"史济东",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"吴梓龙",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"陈嘉平",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":6
          },
          {
             "date":"2023-11-11T16:00:00.000Z",
@@ -27204,6 +27708,69 @@
             "round":7
          },
          {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"叶馥嘉",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"孙艺鸣",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"李东烨",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"张路遥",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"彭韶辉",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"胡钧瑞",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":6
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"庄应楠",
+            "opponent":"詹广海",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":7
+         },
+         {
             "date":"2023-04-28T16:00:00.000Z",
             "name":"庄应楠",
             "opponent":"徐梦洋",
@@ -28059,6 +28626,60 @@
             "competition":"广东联赛",
             "edition":7,
             "round":7
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"邹子仲",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"马睿雪",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"杨宇祥",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"陈天朗",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"郑国梁",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"黄越扬",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":6
          },
          {
             "date":"2025-08-30T16:00:00.000Z",
@@ -32865,6 +33486,87 @@
       ],
       "13":[
          {
+            "date":"2026-05-15T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"程思薇",
+            "result":"胜",
+            "competition":"信阳无量杯",
+            "edition":2,
+            "round":1
+         },
+         {
+            "date":"2026-05-15T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"万奕麟",
+            "result":"负",
+            "competition":"信阳无量杯",
+            "edition":2,
+            "round":2
+         },
+         {
+            "date":"2026-05-15T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"唐天博",
+            "result":"负",
+            "competition":"信阳无量杯",
+            "edition":2,
+            "round":3
+         },
+         {
+            "date":"2026-05-16T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"王鸿星",
+            "result":"胜",
+            "competition":"信阳无量杯",
+            "edition":2,
+            "round":4
+         },
+         {
+            "date":"2026-05-16T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"李宗原",
+            "result":"胜",
+            "competition":"信阳无量杯",
+            "edition":2,
+            "round":5
+         },
+         {
+            "date":"2026-05-16T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"熊睿",
+            "result":"胜",
+            "competition":"信阳无量杯",
+            "edition":2,
+            "round":6
+         },
+         {
+            "date":"2026-05-17T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"董嘉诚",
+            "result":"负",
+            "competition":"信阳无量杯",
+            "edition":2,
+            "round":7
+         },
+         {
+            "date":"2026-05-17T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"李昭阳",
+            "result":"负",
+            "competition":"信阳无量杯",
+            "edition":2,
+            "round":8
+         },
+         {
+            "date":"2026-05-17T16:00:00.000Z",
+            "name":"吴一博",
+            "opponent":"王喆鹏",
+            "result":"胜",
+            "competition":"信阳无量杯",
+            "edition":2,
+            "round":9
+         },
+         {
             "date":"2026-03-23T16:00:00.000Z",
             "name":"吴一博",
             "opponent":"郭子安",
@@ -35269,6 +35971,60 @@
             "round":7
          },
          {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"罗宇涵",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"高骏",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"丁泽洋",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"李昊泽",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"罗照轩",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"陈天朗",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":6
+         },
+         {
             "date":"2019-11-23T16:00:00.000Z",
             "name":"唐清扬",
             "opponent":"霍润恒",
@@ -36193,6 +36949,60 @@
             "competition":"广东联赛",
             "edition":7,
             "round":7
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"罗照轩",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"刘成龙",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"郑国梁",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"游星昊",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"冯泽锴",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"王以诺",
+            "opponent":"刘字轩",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":6
          }
       ],
       "23":[
@@ -39960,6 +40770,60 @@
             "round":7
          },
          {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"杨郁杏",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"刘泽伟",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"徐肇斌",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"周振宇",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"戚泽楠",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"马睿雪",
+            "opponent":"林斯达",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":6
+         },
+         {
             "date":"2023-06-02T16:00:00.000Z",
             "name":"马睿雪",
             "opponent":"柯铭芝",
@@ -41364,6 +42228,60 @@
             "competition":"广东联赛",
             "edition":7,
             "round":7
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"叶子萌",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":1
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"林晓聪",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":2
+         },
+         {
+            "date":"2026-05-22T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"唐清扬",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":3
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"郑力秦",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":4
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"李昊苇",
+            "result":"负",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":5
+         },
+         {
+            "date":"2026-05-23T16:00:00.000Z",
+            "name":"丁泽洋",
+            "opponent":"邱泓玮",
+            "result":"胜",
+            "competition":"广东联赛",
+            "edition":8,
+            "round":6
          },
          {
             "date":"2023-09-29T16:00:00.000Z",
@@ -44735,6 +45653,11 @@
             "year":2026,
             "competition":"第7届广州公园团体赛 (公开组)",
             "honor":"团体第2名"
+         },
+         {
+            "year":2026,
+            "competition":"第8届广东联赛 (甲组)",
+            "honor":"团体第5名"
          }
       ],
       "53":[
