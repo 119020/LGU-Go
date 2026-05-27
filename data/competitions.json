@@ -1385,6 +1385,16 @@
             "location":"江苏南京溧水",
             "total_round":10,
             "source":"http://www.jsqipai.org.cn/Chess/page/mApp/score/score.html#/againstList/202403071619438808580"
+         },
+         {
+            "competition_id":168,
+            "year":2026,
+            "competition":"第3届 金陵无想杯（公开组）",
+            "start_date":"2026-04-03T16:00:00.000Z",
+            "end_date":"2026-04-05T16:00:00.000Z",
+            "location":"江苏南京溧水",
+            "total_round":11,
+            "source":"https://mp.weixin.qq.com/s/kcEEAQ7T-64iiMxcjD7EcA"
          }
       ],
       "29":[
@@ -12392,7 +12402,7 @@
             "table":"4",
             "black_player":"周亚泓",
             "black_team":"",
-            "white_player":"彭绍辉",
+            "white_player":"彭韶辉",
             "white_team":"",
             "result":"黑中盘胜"
          },
@@ -12451,6 +12461,16 @@
          {
             "date":"2024-08-16T16:00:00.000Z",
             "round":1,
+            "table":"'25",
+            "black_player":"张一娄",
+            "black_team":"国防科技大学",
+            "white_player":"谭锴轶",
+            "white_team":"中南大学",
+            "result":"白胜0.25子"
+         },
+         {
+            "date":"2024-08-16T16:00:00.000Z",
+            "round":1,
             "table":"'35",
             "black_player":"付涵一",
             "black_team":"香港中文大学",
@@ -12487,6 +12507,16 @@
             "white_player":"匡博文",
             "white_team":"香港中文大学",
             "result":"https://hawkeye.yikeweiqi.com/report/index?token=8d7a70f0e5346580&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTAzOTgyODMsImV4cCI6MTc1MDQ4NDY4MywiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6IjhkN2E3MGYwZTUzNDY1ODAiLCJpc3ZpcCI6MX19.wP4ECSFHnPIEHL1psPH8Jexw9r_stkvpRvzLiBQPfSI#/desktop"
+         },
+         {
+            "date":"2024-08-16T16:00:00.000Z",
+            "round":2,
+            "table":"'23",
+            "black_player":"谭锴轶",
+            "black_team":"中南大学",
+            "white_player":"曾沚玉",
+            "white_team":"中南大学",
+            "result":"黑中盘胜"
          },
          {
             "date":"2024-08-16T16:00:00.000Z",
@@ -12601,6 +12631,16 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":4,
+            "table":"'33",
+            "black_player":"陈子敬",
+            "black_team":"复旦大学",
+            "white_player":"谭锴轶",
+            "white_team":"中南大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-08-17T16:00:00.000Z",
+            "round":4,
             "table":"'36",
             "black_player":"贺诗丹",
             "black_team":"中国海洋大学",
@@ -12661,6 +12701,16 @@
          {
             "date":"2024-08-17T16:00:00.000Z",
             "round":5,
+            "table":"'36",
+            "black_player":"谭锴轶",
+            "black_team":"中南大学",
+            "white_player":"张亦晴",
+            "white_team":"哈尔滨工业大学",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-08-17T16:00:00.000Z",
+            "round":5,
             "table":"'48",
             "black_player":"丁泽洋",
             "black_team":"南方科技大学",
@@ -12687,6 +12737,16 @@
             "white_player":"匡博文",
             "white_team":"香港中文大学",
             "result":"https://hawkeye.yikeweiqi.com/report/index?token=5d2b074bbf16f7bc&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTAzOTg0MzQsImV4cCI6MTc1MDQ4NDgzNCwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6IjVkMmIwNzRiYmYxNmY3YmMiLCJpc3ZpcCI6MX19.tey7hRDsOSKuqcVwrnXVqfWN9XgU2m6wWdePl8L2Z7E#/desktop"
+         },
+         {
+            "date":"2024-08-18T16:00:00.000Z",
+            "round":6,
+            "table":"'33",
+            "black_player":"谭锴轶",
+            "black_team":"中南大学",
+            "white_player":"张帅",
+            "white_team":"厦门大学",
+            "result":"黑中盘胜"
          },
          {
             "date":"2024-08-18T16:00:00.000Z",
@@ -12741,6 +12801,16 @@
          {
             "date":"2024-08-18T16:00:00.000Z",
             "round":7,
+            "table":"'17",
+            "black_player":"施彦锴",
+            "black_team":"北京大学",
+            "white_player":"谭锴轶",
+            "white_team":"中南大学",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-08-18T16:00:00.000Z",
+            "round":7,
             "table":"'28",
             "black_player":"刘思安",
             "black_team":"香港中文大学",
@@ -12777,6 +12847,16 @@
             "white_player":"赵俊哲",
             "white_team":"上海交通大学",
             "result":"https://hawkeye.yikeweiqi.com/report/index?token=e6552612dd4a4d6f&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTAzOTg0NjQsImV4cCI6MTc1MDQ4NDg2NCwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImU2NTUyNjEyZGQ0YTRkNmYiLCJpc3ZpcCI6MX19.LJYmLQJall2W9vdw57Yc6KYcT0su4A0ks6Roco4n9yk#/desktop"
+         },
+         {
+            "date":"2024-08-18T16:00:00.000Z",
+            "round":8,
+            "table":"'12",
+            "black_player":"谭锴轶",
+            "black_team":"中南大学",
+            "white_player":"周弘毅",
+            "white_team":"清华大学",
+            "result":"白中盘胜"
          },
          {
             "date":"2024-08-18T16:00:00.000Z",
@@ -12837,6 +12917,16 @@
             "white_player":"孙鹏宇",
             "white_team":"大连理工大学",
             "result":"https://hawkeye.yikeweiqi.com/report/index?token=6041dea644395ccf&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTAzOTg1MzcsImV4cCI6MTc1MDQ4NDkzNywiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6IjYwNDFkZWE2NDQzOTVjY2YiLCJpc3ZpcCI6MX19.m7WsUjtGpsLKtF1vlaHarKdgx0ehIHbNd1Fo3m4hTIw#/desktop"
+         },
+         {
+            "date":"2024-08-19T16:00:00.000Z",
+            "round":9,
+            "table":"'21",
+            "black_player":"周靖宇",
+            "black_team":"南京大学",
+            "white_player":"谭锴轶",
+            "white_team":"中南大学",
+            "result":"黑中盘胜"
          },
          {
             "date":"2024-08-19T16:00:00.000Z",
@@ -18920,6 +19010,16 @@
          },
          {
             "date":"2024-07-10T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"张耿宁",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-07-10T16:00:00.000Z",
             "round":2,
             "table":"",
             "black_player":"王以诺",
@@ -18935,6 +19035,16 @@
             "black_player":"吴一博",
             "black_team":"",
             "white_player":"邓光宇",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-07-10T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"轮空",
+            "black_team":"",
+            "white_player":"谭锴轶",
             "white_team":"",
             "result":"白中盘胜"
          },
@@ -18960,6 +19070,16 @@
          },
          {
             "date":"2024-07-11T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"毛永骏",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-07-11T16:00:00.000Z",
             "round":4,
             "table":"",
             "black_player":"王以诺",
@@ -18975,6 +19095,16 @@
             "black_player":"吴一博",
             "black_team":"",
             "white_player":"张耀玮",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-07-11T16:00:00.000Z",
+            "round":4,
+            "table":"",
+            "black_player":"洪一川",
+            "black_team":"",
+            "white_player":"谭锴轶",
             "white_team":"",
             "result":"黑中盘胜"
          },
@@ -19000,6 +19130,16 @@
          },
          {
             "date":"2024-07-12T16:00:00.000Z",
+            "round":5,
+            "table":"",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"赵禹",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-07-12T16:00:00.000Z",
             "round":6,
             "table":"",
             "black_player":"刘明博",
@@ -19017,6 +19157,16 @@
             "white_player":"吴一博",
             "white_team":"",
             "result":"白中盘胜"
+         },
+         {
+            "date":"2024-07-12T16:00:00.000Z",
+            "round":6,
+            "table":"",
+            "black_player":"伊家辰",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"",
+            "result":"黑中盘胜"
          },
          {
             "date":"2024-07-13T16:00:00.000Z",
@@ -19040,6 +19190,16 @@
          },
          {
             "date":"2024-07-13T16:00:00.000Z",
+            "round":7,
+            "table":"",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"黄骏",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2024-07-13T16:00:00.000Z",
             "round":8,
             "table":"",
             "black_player":"王以诺",
@@ -19059,6 +19219,16 @@
             "result":"黑中盘胜"
          },
          {
+            "date":"2024-07-13T16:00:00.000Z",
+            "round":8,
+            "table":"",
+            "black_player":"杨首熙",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
             "date":"2024-07-14T16:00:00.000Z",
             "round":9,
             "table":"",
@@ -19075,6 +19245,16 @@
             "black_player":"吴一博",
             "black_team":"",
             "white_player":"宋瑞祺",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-07-14T16:00:00.000Z",
+            "round":9,
+            "table":"",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"潘思杰",
             "white_team":"",
             "result":"黑中盘胜"
          },
@@ -19099,6 +19279,16 @@
             "result":"白中盘胜"
          },
          {
+            "date":"2024-07-14T16:00:00.000Z",
+            "round":10,
+            "table":"",
+            "black_player":"葛菩佑龙",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
             "date":"2024-07-15T16:00:00.000Z",
             "round":11,
             "table":"",
@@ -19117,6 +19307,16 @@
             "white_player":"吴一博",
             "white_team":"",
             "result":"黑中盘胜"
+         },
+         {
+            "date":"2024-07-15T16:00:00.000Z",
+            "round":11,
+            "table":"",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"谭剑峰",
+            "white_team":"",
+            "result":"白中盘胜"
          }
       ],
       "66":[
@@ -24555,6 +24755,16 @@
          {
             "date":"2025-08-08T16:00:00.000Z",
             "round":1,
+            "table":"'21",
+            "black_player":"吕墨涵",
+            "black_team":"山东大学",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学",
+            "result":"白不计点胜"
+         },
+         {
+            "date":"2025-08-08T16:00:00.000Z",
+            "round":1,
             "table":"'28",
             "black_player":"董俊杰",
             "black_team":"广东工业大学",
@@ -24595,6 +24805,16 @@
          {
             "date":"2025-08-08T16:00:00.000Z",
             "round":2,
+            "table":"'22",
+            "black_player":"谭锴轶",
+            "black_team":"浙江大学",
+            "white_player":"吴恺乐",
+            "white_team":"国防科技大学",
+            "result":"黑不计点胜"
+         },
+         {
+            "date":"2025-08-08T16:00:00.000Z",
+            "round":2,
             "table":"'32",
             "black_player":"程博涵",
             "black_team":"香港中文大学（深圳）",
@@ -24621,6 +24841,16 @@
             "white_player":"景一峰",
             "white_team":"贵州大学",
             "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13805001&type=0"
+         },
+         {
+            "date":"2025-08-08T16:00:00.000Z",
+            "round":3,
+            "table":"'5",
+            "black_player":"林浩云",
+            "black_team":"暨南大学",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学",
+            "result":"白不计点胜"
          },
          {
             "date":"2025-08-08T16:00:00.000Z",
@@ -24695,6 +24925,16 @@
          {
             "date":"2025-08-09T16:00:00.000Z",
             "round":4,
+            "table":"'6",
+            "black_player":"丁世雄",
+            "black_team":"陕西师范大学",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学",
+            "result":"黑不计点胜"
+         },
+         {
+            "date":"2025-08-09T16:00:00.000Z",
+            "round":4,
             "table":"'55",
             "black_player":"程博涵",
             "black_team":"香港中文大学（深圳）",
@@ -24744,13 +24984,13 @@
          },
          {
             "date":"2025-08-09T16:00:00.000Z",
-            "round":6,
-            "table":"'21",
-            "black_player":"曾子荣",
-            "black_team":"香港中文大学（深圳）",
-            "white_player":"汪方泽",
-            "white_team":"南方医科大学",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13805019&type=0"
+            "round":5,
+            "table":"'9",
+            "black_player":"王梓桂",
+            "black_team":"浙江大学",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学",
+            "result":"白不计点胜"
          },
          {
             "date":"2025-08-09T16:00:00.000Z",
@@ -24765,6 +25005,36 @@
          {
             "date":"2025-08-09T16:00:00.000Z",
             "round":6,
+            "table":"'9",
+            "black_player":"付涵一",
+            "black_team":"香港中文大学（深圳）",
+            "white_player":"郭宇昂",
+            "white_team":"华中师范大学",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13804423&type=0"
+         },
+         {
+            "date":"2025-08-09T16:00:00.000Z",
+            "round":6,
+            "table":"'10",
+            "black_player":"谭锴轶",
+            "black_team":"浙江大学",
+            "white_player":"宋卓奇",
+            "white_team":"山东大学",
+            "result":"黑不计点胜"
+         },
+         {
+            "date":"2025-08-09T16:00:00.000Z",
+            "round":6,
+            "table":"'21",
+            "black_player":"曾子荣",
+            "black_team":"香港中文大学（深圳）",
+            "white_player":"汪方泽",
+            "white_team":"南方医科大学",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13805019&type=0"
+         },
+         {
+            "date":"2025-08-09T16:00:00.000Z",
+            "round":6,
             "table":"'50",
             "black_player":"谢明程",
             "black_team":"上海立信会计金融学院",
@@ -24773,14 +25043,14 @@
             "result":"白不计点胜"
          },
          {
-            "date":"2025-08-09T16:00:00.000Z",
-            "round":6,
-            "table":"'9",
-            "black_player":"付涵一",
-            "black_team":"香港中文大学（深圳）",
-            "white_player":"郭宇昂",
-            "white_team":"华中师范大学",
-            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13804423&type=0"
+            "date":"2025-08-10T16:00:00.000Z",
+            "round":7,
+            "table":"'3",
+            "black_player":"翟群智",
+            "black_team":"上海交通大学",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学",
+            "result":"黑不计点胜"
          },
          {
             "date":"2025-08-10T16:00:00.000Z",
@@ -24835,6 +25105,16 @@
          {
             "date":"2025-08-10T16:00:00.000Z",
             "round":8,
+            "table":"'12",
+            "black_player":"胡泽天",
+            "black_team":"清华大学",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学",
+            "result":"黑不计点胜"
+         },
+         {
+            "date":"2025-08-10T16:00:00.000Z",
+            "round":8,
             "table":"'18",
             "black_player":"罗临风",
             "black_team":"武汉大学",
@@ -24861,6 +25141,16 @@
             "white_player":"陈宇驰",
             "white_team":"上海立信会计金融学院",
             "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=13805025&type=0"
+         },
+         {
+            "date":"2025-08-11T16:00:00.000Z",
+            "round":9,
+            "table":"'15",
+            "black_player":"谭锴轶",
+            "black_team":"浙江大学",
+            "white_player":"张益嘉",
+            "white_team":"西南政法大学",
+            "result":"黑不计点胜"
          },
          {
             "date":"2025-08-11T16:00:00.000Z",
@@ -31710,6 +32000,118 @@
             "black_team":"汕尾市城区围棋协会队",
             "white_player":"庄应楠",
             "white_team":"清远博弈棋院队",
+            "result":"白中盘胜"
+         }
+      ],
+      "168":[
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "round":1,
+            "table":"'15",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"张杰翔",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "round":2,
+            "table":"'88",
+            "black_player":"马天放",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "round":3,
+            "table":"'52",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"晁鼎涵",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-03T16:00:00.000Z",
+            "round":4,
+            "table":"'90",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"周磊",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "round":5,
+            "table":"'15",
+            "black_player":"赵胤初",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "round":6,
+            "table":"'32",
+            "black_player":"王晓龙",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "round":7,
+            "table":"'24",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"于天",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-04-04T16:00:00.000Z",
+            "round":8,
+            "table":"'78",
+            "black_player":"王圣杰",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-05T16:00:00.000Z",
+            "round":9,
+            "table":"'68",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"闵子夏",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-04-05T16:00:00.000Z",
+            "round":10,
+            "table":"'78",
+            "black_player":"李嘉豪",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-04-05T16:00:00.000Z",
+            "round":11,
+            "table":"'34",
+            "black_player":"谭锴轶",
+            "black_team":"",
+            "white_player":"陈帅淇",
+            "white_team":"",
             "result":"白中盘胜"
          }
       ]
