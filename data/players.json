@@ -295,6 +295,20 @@
          "amateur_dan":5
       },
       {
+         "id":63,
+         "name":"吴铭昊",
+         "enroll_year":2025,
+         "college":"逸夫",
+         "amateur_dan":5
+      },
+      {
+         "id":64,
+         "name":"王聪越",
+         "enroll_year":2025,
+         "college":"",
+         "amateur_dan":5
+      },
+      {
          "id":60,
          "name":"赵蔚卿",
          "enroll_year":2025,
@@ -349,6 +363,13 @@
          "enroll_year":"√",
          "college":"⚪",
          "amateur_dan":6
+      },
+      {
+         "id":62,
+         "name":"周泽枫",
+         "enroll_year":"√",
+         "college":"⚪",
+         "amateur_dan":5
       }
    ],
    "player_history":{
@@ -1724,6 +1745,26 @@
             "total_losses":"19",
             "win_rate":"52.50"
          }
+      ],
+      "62":[
+         {
+            "year":2026,
+            "total_wins":"3",
+            "total_losses":"3",
+            "win_rate":"50.00"
+         },
+         {
+            "year":null,
+            "total_wins":"3",
+            "total_losses":"3",
+            "win_rate":"50.00"
+         }
+      ],
+      "63":[
+         
+      ],
+      "64":[
+         
       ]
    },
    "opponent_records":{
@@ -18543,6 +18584,50 @@
             "total_lose":"1",
             "total_game":1
          }
+      ],
+      "62":[
+         {
+            "opponent":"轮空",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"白依鹭",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张愉函",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张隽瑞",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"聂可",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"林正",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         }
+      ],
+      "63":[
+         
+      ],
+      "64":[
+         
       ]
    },
    "game_records":{
@@ -45892,6 +45977,68 @@
             "edition":3,
             "round":11
          }
+      ],
+      "62":[
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "name":"周泽枫",
+            "opponent":"轮空",
+            "result":"胜",
+            "competition":"深圳体彩杯",
+            "edition":14,
+            "round":1
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "name":"周泽枫",
+            "opponent":"张隽瑞",
+            "result":"负",
+            "competition":"深圳体彩杯",
+            "edition":14,
+            "round":2
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "name":"周泽枫",
+            "opponent":"聂可",
+            "result":"负",
+            "competition":"深圳体彩杯",
+            "edition":14,
+            "round":3
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "name":"周泽枫",
+            "opponent":"白依鹭",
+            "result":"胜",
+            "competition":"深圳体彩杯",
+            "edition":14,
+            "round":4
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "name":"周泽枫",
+            "opponent":"张愉函",
+            "result":"胜",
+            "competition":"深圳体彩杯",
+            "edition":14,
+            "round":5
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "name":"周泽枫",
+            "opponent":"林正",
+            "result":"负",
+            "competition":"深圳体彩杯",
+            "edition":14,
+            "round":6
+         }
+      ],
+      "63":[
+         
+      ],
+      "64":[
+         
       ]
    },
    "awards":{
@@ -47099,6 +47246,15 @@
             "competition":"第30届应氏杯全国大学生赛 (男子组)",
             "honor":"个人第14名|团体第7名"
          }
+      ],
+      "62":[
+         
+      ],
+      "63":[
+         
+      ],
+      "64":[
+         
       ]
    }
 }
