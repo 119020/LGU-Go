@@ -524,7 +524,7 @@
          "competition_base_id":16,
          "competition":"深圳体彩杯",
          "first_year":-1,
-         "last_year":2025,
+         "last_year":2026,
          "level":"区市级",
          "description":"--|公开赛|线下|个人赛|--"
       },
@@ -1106,6 +1106,16 @@
             "location":"广东深圳龙华",
             "total_round":6,
             "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=206014&eventid=0&groupid=274991&type=group"
+         },
+         {
+            "competition_id":170,
+            "year":2026,
+            "competition":"第14届 深圳体彩杯（公开组）",
+            "start_date":"2026-06-05T16:00:00.000Z",
+            "end_date":"2026-06-05T16:00:00.000Z",
+            "location":"广东深圳罗湖",
+            "total_round":6,
+            "source":"https://m.yunbisai.com/AgainstPlan/eventResult?id=246452&eventid=66851&groupid=330704&type=group"
          }
       ],
       "17":[
@@ -19056,7 +19066,7 @@
             "black_team":"",
             "white_player":"谭锴轶",
             "white_team":"",
-            "result":"白中盘胜"
+            "result":"白弃权胜"
          },
          {
             "date":"2024-07-11T16:00:00.000Z",
@@ -32555,6 +32565,68 @@
             "white_player":"罗钰林",
             "white_team":"",
             "result":"黑中盘胜"
+         }
+      ],
+      "170":[
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "round":1,
+            "table":"'7",
+            "black_player":"轮空",
+            "black_team":"",
+            "white_player":"周泽枫",
+            "white_team":"",
+            "result":"白弃权胜"
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "round":2,
+            "table":"'11",
+            "black_player":"周泽枫",
+            "black_team":"",
+            "white_player":"张隽瑞",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "round":3,
+            "table":"'12",
+            "black_player":"聂可",
+            "black_team":"",
+            "white_player":"周泽枫",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "round":4,
+            "table":"'26",
+            "black_player":"周泽枫",
+            "black_team":"",
+            "white_player":"白依鹭",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "round":5,
+            "table":"'11",
+            "black_player":"张愉函",
+            "black_team":"",
+            "white_player":"周泽枫",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-06-05T16:00:00.000Z",
+            "round":6,
+            "table":"'16",
+            "black_player":"林正",
+            "black_team":"",
+            "white_player":"周泽枫",
+            "white_team":"",
+            "result":"白中盘胜"
          }
       ]
    }
