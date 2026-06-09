@@ -26362,6 +26362,26 @@
          },
          {
             "date":"2025-10-07T16:00:00.000Z",
+            "round":1,
+            "table":"'14",
+            "black_player":"罗钰林",
+            "black_team":"",
+            "white_player":"徐鹏翔",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":2,
+            "table":"'15",
+            "black_player":"林柏涛",
+            "black_team":"",
+            "white_player":"罗钰林",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
             "round":2,
             "table":"'6",
             "black_player":"程潇涵",
@@ -26369,6 +26389,16 @@
             "white_player":"马睿雪",
             "white_team":"",
             "result":"白中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":3,
+            "table":"'12",
+            "black_player":"彭韶辉",
+            "black_team":"",
+            "white_player":"罗钰林",
+            "white_team":"",
+            "result":"黑中盘胜"
          },
          {
             "date":"2025-10-07T16:00:00.000Z",
@@ -26383,10 +26413,30 @@
          {
             "date":"2025-10-07T16:00:00.000Z",
             "round":4,
+            "table":"'15",
+            "black_player":"罗钰林",
+            "black_team":"",
+            "white_player":"彭凌鋒",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":4,
             "table":"'9",
             "black_player":"马睿雪",
             "black_team":"",
             "white_player":"漆小洛",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":5,
+            "table":"'17",
+            "black_player":"梅冉楠",
+            "black_team":"",
+            "white_player":"罗钰林",
             "white_team":"",
             "result":"黑中盘胜"
          },
@@ -26399,6 +26449,16 @@
             "white_player":"马睿雪",
             "white_team":"",
             "result":"白中盘胜"
+         },
+         {
+            "date":"2025-10-07T16:00:00.000Z",
+            "round":6,
+            "table":"'19",
+            "black_player":"彭云林",
+            "black_team":"",
+            "white_player":"罗钰林",
+            "white_team":"",
+            "result":"黑中盘胜"
          },
          {
             "date":"2025-10-07T16:00:00.000Z",
@@ -29641,18 +29701,28 @@
          {
             "date":"2026-02-06T16:00:00.000Z",
             "round":1,
-            "table":"",
+            "table":"'30",
             "black_player":"丁泽洋",
             "black_team":"",
-            "white_player":"",
+            "white_player":"张健烨",
             "white_team":"",
             "result":"黑中盘胜"
          },
          {
             "date":"2026-02-06T16:00:00.000Z",
+            "round":1,
+            "table":"'46",
+            "black_player":"罗钰林",
+            "black_team":"",
+            "white_player":"罗宏捷",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-02-06T16:00:00.000Z",
             "round":2,
-            "table":"",
-            "black_player":"",
+            "table":"'11",
+            "black_player":"彭韶辉",
             "black_team":"",
             "white_player":"丁泽洋",
             "white_team":"",
@@ -29660,8 +29730,48 @@
          },
          {
             "date":"2026-02-06T16:00:00.000Z",
+            "round":2,
+            "table":"'25",
+            "black_player":"黄少辉",
+            "black_team":"",
+            "white_player":"罗钰林",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-02-06T16:00:00.000Z",
             "round":3,
-            "table":"",
+            "table":"'34",
+            "black_player":"罗钰林",
+            "black_team":"",
+            "white_player":"杨曜岭",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-02-06T16:00:00.000Z",
+            "round":3,
+            "table":"'8",
+            "black_player":"史显超",
+            "black_team":"",
+            "white_player":"丁泽洋",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-02-06T16:00:00.000Z",
+            "round":4,
+            "table":"'25",
+            "black_player":"漆四虎",
+            "black_team":"",
+            "white_player":"罗钰林",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-02-06T16:00:00.000Z",
+            "round":4,
+            "table":"'3",
             "black_player":"丁泽洋",
             "black_team":"",
             "white_player":"周乐萱",
@@ -29669,10 +29779,10 @@
             "result":"https://h5.foxwq.com/yehunewshare/?chessid=1770455800070001123&title=&desc=zlx%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=64&boardsize=19&uid=531722192&report=0"
          },
          {
-            "date":"2026-02-06T16:00:00.000Z",
-            "round":4,
-            "table":"",
-            "black_player":"",
+            "date":"2026-02-07T16:00:00.000Z",
+            "round":5,
+            "table":"'10",
+            "black_player":"钱德政",
             "black_team":"",
             "white_player":"丁泽洋",
             "white_team":"",
@@ -29681,27 +29791,27 @@
          {
             "date":"2026-02-07T16:00:00.000Z",
             "round":5,
-            "table":"",
-            "black_player":"丁泽洋",
+            "table":"'30",
+            "black_player":"陈洪涛",
             "black_team":"",
-            "white_player":"",
-            "white_team":"",
-            "result":"黑中盘胜"
-         },
-         {
-            "date":"2026-02-07T16:00:00.000Z",
-            "round":6,
-            "table":"",
-            "black_player":"",
-            "black_team":"",
-            "white_player":"丁泽洋",
+            "white_player":"罗钰林",
             "white_team":"",
             "result":"白中盘胜"
          },
          {
             "date":"2026-02-07T16:00:00.000Z",
-            "round":7,
-            "table":"",
+            "round":6,
+            "table":"'11",
+            "black_player":"罗钰林",
+            "black_team":"",
+            "white_player":"郑逵",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-02-07T16:00:00.000Z",
+            "round":6,
+            "table":"'8",
             "black_player":"丁泽洋",
             "black_team":"",
             "white_player":"史济东",
@@ -29710,13 +29820,43 @@
          },
          {
             "date":"2026-02-07T16:00:00.000Z",
-            "round":8,
-            "table":"",
-            "black_player":"",
+            "round":7,
+            "table":"'13",
+            "black_player":"张志明",
             "black_team":"",
             "white_player":"丁泽洋",
             "white_team":"",
             "result":"白中盘胜"
+         },
+         {
+            "date":"2026-02-07T16:00:00.000Z",
+            "round":7,
+            "table":"'29",
+            "black_player":"王昕",
+            "black_team":"",
+            "white_player":"罗钰林",
+            "white_team":"",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-02-07T16:00:00.000Z",
+            "round":8,
+            "table":"'12",
+            "black_player":"罗钰林",
+            "black_team":"",
+            "white_player":"刘涛",
+            "white_team":"",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-02-07T16:00:00.000Z",
+            "round":8,
+            "table":"'7",
+            "black_player":"丁泽洋",
+            "black_team":"",
+            "white_player":"吴嘉伟",
+            "white_team":"",
+            "result":"黑中盘胜"
          }
       ],
       "156":[
