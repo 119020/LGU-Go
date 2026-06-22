@@ -974,15 +974,15 @@
          },
          {
             "year":2026,
-            "total_wins":"6",
-            "total_losses":"3",
-            "win_rate":"66.67"
+            "total_wins":"12",
+            "total_losses":"8",
+            "win_rate":"60.00"
          },
          {
             "year":null,
-            "total_wins":"42",
-            "total_losses":"23",
-            "win_rate":"64.62"
+            "total_wins":"48",
+            "total_losses":"28",
+            "win_rate":"63.16"
          }
       ],
       "19":[
@@ -12592,6 +12592,42 @@
             "total_game":2
          },
          {
+            "opponent":"唐正男",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"黄子卢",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"孙欣辰",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王爱棋",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王梓",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"盛禹超",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"罗宇涵",
             "total_win":"1",
             "total_lose":"0",
@@ -12811,6 +12847,36 @@
             "opponent":"王兴",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王琛",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"王琦旭",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"孙宗彝",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"李政达",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"吴哲滔",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -36478,6 +36544,105 @@
       ],
       "18":[
          {
+            "date":"2026-06-18T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"唐正男",
+            "result":"胜",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":1
+         },
+         {
+            "date":"2026-06-18T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"黄子卢",
+            "result":"胜",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":2
+         },
+         {
+            "date":"2026-06-18T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"王琛",
+            "result":"负",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":3
+         },
+         {
+            "date":"2026-06-18T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"王琦旭",
+            "result":"负",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":4
+         },
+         {
+            "date":"2026-06-19T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"孙宗彝",
+            "result":"负",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":5
+         },
+         {
+            "date":"2026-06-19T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"王爱棋",
+            "result":"胜",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":6
+         },
+         {
+            "date":"2026-06-19T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"孙欣辰",
+            "result":"胜",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":7
+         },
+         {
+            "date":"2026-06-19T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"李政达",
+            "result":"负",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":8
+         },
+         {
+            "date":"2026-06-20T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"王梓",
+            "result":"胜",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":9
+         },
+         {
+            "date":"2026-06-20T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"盛禹超",
+            "result":"胜",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":10
+         },
+         {
+            "date":"2026-06-20T16:00:00.000Z",
+            "name":"唐清扬",
+            "opponent":"吴哲滔",
+            "result":"负",
+            "competition":"青岛出版报杯",
+            "edition":14,
+            "round":11
+         },
+         {
             "date":"2024-12-08T16:00:00.000Z",
             "name":"唐清扬",
             "opponent":"何天凝",
@@ -46461,6 +46626,11 @@
             "year":2026,
             "competition":"第4届河南桃花杯 (公开组)",
             "honor":"个人第6名"
+         },
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
          }
       ],
       "2":[
@@ -46739,6 +46909,11 @@
             "year":2025,
             "competition":"第3届湾区高校联赛 (公开组)",
             "honor":"团体第6名"
+         },
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (超级组)",
+            "honor":"团体第6名"
          }
       ],
       "6":[
@@ -46840,6 +47015,11 @@
             "year":2025,
             "competition":"第3届深圳杯 (公开组)",
             "honor":"个人第2名"
+         },
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
          }
       ],
       "9":[
@@ -46962,6 +47142,11 @@
             "year":2024,
             "competition":"第24届顺德夏季段级位赛 (4段C组)",
             "honor":"个人第4名"
+         },
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第2名"
          }
       ],
       "15":[
@@ -47094,6 +47279,11 @@
             "year":2025,
             "competition":"第8届汉酱杯全国赛 (名手组-南部赛区)",
             "honor":"个人第17名"
+         },
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
          }
       ],
       "29":[
@@ -47178,13 +47368,22 @@
          }
       ],
       "37":[
-         
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
+         }
       ],
       "38":[
          {
             "year":2024,
             "competition":"第10届深圳联赛 (超级组)",
             "honor":"团体第3名"
+         },
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
          }
       ],
       "39":[
@@ -47228,6 +47427,11 @@
             "year":2023,
             "competition":"第9届深圳联赛 (甲级组)",
             "honor":"团体第4名"
+         },
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
          }
       ],
       "43":[
@@ -47327,6 +47531,11 @@
             "year":2026,
             "competition":"第8届广东联赛 (甲组)",
             "honor":"团体第5名"
+         },
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (超级组)",
+            "honor":"团体第2名"
          }
       ],
       "53":[
@@ -47459,7 +47668,11 @@
          
       ],
       "57":[
-         
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
+         }
       ],
       "58":[
          
@@ -47472,7 +47685,11 @@
          }
       ],
       "60":[
-         
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
+         }
       ],
       "61":[
          {
@@ -47485,10 +47702,18 @@
          
       ],
       "63":[
-         
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
+         }
       ],
       "64":[
-         
+         {
+            "year":2026,
+            "competition":"第12届深圳联赛 (甲级组)",
+            "honor":"团体第5名"
+         }
       ]
    }
 }
