@@ -962,6 +962,16 @@
       ],
       "14":[
          {
+            "competition_id":7,
+            "year":2021,
+            "competition":"第7届 深圳联赛（甲级组）",
+            "start_date":"2021-11-26T16:00:00.000Z",
+            "end_date":"2021-12-10T16:00:00.000Z",
+            "location":"广东深圳罗湖",
+            "total_round":11,
+            "source":"https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAzNEFCS0ZQSiIgRmw9IumYn+S8jSIgWG09IuWbtOajiyIvPg=="
+         },
+         {
             "competition_id":6,
             "year":2021,
             "competition":"第7届 深圳联赛（超级组）",
