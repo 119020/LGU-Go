@@ -494,15 +494,15 @@
          },
          {
             "year":2026,
-            "total_wins":"22",
-            "total_losses":"24",
-            "win_rate":"47.83"
+            "total_wins":"26",
+            "total_losses":"27",
+            "win_rate":"49.06"
          },
          {
             "year":null,
-            "total_wins":"178",
-            "total_losses":"167",
-            "win_rate":"51.59"
+            "total_wins":"182",
+            "total_losses":"170",
+            "win_rate":"51.70"
          }
       ],
       "4":[
@@ -4987,6 +4987,30 @@
             "total_game":2
          },
          {
+            "opponent":"王永吉",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"Omer Naiboglu",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"Zeno Christian",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"Park Ki Hyun",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"符海鸥",
             "total_win":"1",
             "total_lose":"0",
@@ -5956,6 +5980,24 @@
             "opponent":"赵家乐",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"张宇飞",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"李泽楷",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"陈毅霖",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -25336,6 +25378,69 @@
             "result":"胜",
             "competition":"汉酱杯全国赛",
             "edition":8,
+            "round":7
+         },
+         {
+            "date":"2026-07-07T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"张宇飞",
+            "result":"负",
+            "competition":"应氏杯世界大学生赛",
+            "edition":10,
+            "round":1
+         },
+         {
+            "date":"2026-07-07T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"王永吉",
+            "result":"胜",
+            "competition":"应氏杯世界大学生赛",
+            "edition":10,
+            "round":2
+         },
+         {
+            "date":"2026-07-07T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"Omer Naiboglu",
+            "result":"胜",
+            "competition":"应氏杯世界大学生赛",
+            "edition":10,
+            "round":3
+         },
+         {
+            "date":"2026-07-08T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"李泽楷",
+            "result":"负",
+            "competition":"应氏杯世界大学生赛",
+            "edition":10,
+            "round":4
+         },
+         {
+            "date":"2026-07-08T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"Zeno Christian",
+            "result":"胜",
+            "competition":"应氏杯世界大学生赛",
+            "edition":10,
+            "round":5
+         },
+         {
+            "date":"2026-07-08T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"陈毅霖",
+            "result":"负",
+            "competition":"应氏杯世界大学生赛",
+            "edition":10,
+            "round":6
+         },
+         {
+            "date":"2026-07-09T16:00:00.000Z",
+            "name":"付涵一",
+            "opponent":"Park Ki Hyun",
+            "result":"胜",
+            "competition":"应氏杯世界大学生赛",
+            "edition":10,
             "round":7
          },
          {
