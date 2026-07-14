@@ -209,6 +209,22 @@
          "description":"--|公开赛|线下|个人赛|--"
       },
       {
+         "competition_base_id":19,
+         "competition":"四洲杯香港国际大学生赛",
+         "first_year":2023,
+         "last_year":2026,
+         "level":"国家级",
+         "description":"高校|邀请赛|线下|个人赛|记团体成绩"
+      },
+      {
+         "competition_base_id":74,
+         "competition":"应氏杯世界大学生赛",
+         "first_year":2014,
+         "last_year":2026,
+         "level":"国家级",
+         "description":"高校|邀请赛|线下|个人赛|--"
+      },
+      {
          "competition_base_id":54,
          "competition":"应氏杯全国大学生赛",
          "first_year":1991,
@@ -219,14 +235,6 @@
       {
          "competition_base_id":5,
          "competition":"青春之城",
-         "first_year":2023,
-         "last_year":2025,
-         "level":"国家级",
-         "description":"高校|邀请赛|线下|个人赛|记团体成绩"
-      },
-      {
-         "competition_base_id":19,
-         "competition":"四洲杯香港国际大学生赛",
          "first_year":2023,
          "last_year":2025,
          "level":"国家级",
@@ -2475,6 +2483,18 @@
             "location":"安徽芜湖",
             "total_round":11,
             "source":"https://mp.weixin.qq.com/s/fFeXhA6okwsqjselvplFFA"
+         }
+      ],
+      "74":[
+         {
+            "competition_id":174,
+            "year":2026,
+            "competition":"第10届 应氏杯世界大学生赛（男子B组）",
+            "start_date":"2026-07-07T16:00:00.000Z",
+            "end_date":"2026-07-09T16:00:00.000Z",
+            "location":"上海杨浦",
+            "total_round":7,
+            "source":"https://mp.weixin.qq.com/s/Ok1I31DXTnnHDwhrOlcr3w"
          }
       ]
    },
@@ -34143,6 +34163,78 @@
             "white_player":"唐清扬",
             "white_team":"",
             "result":"黑中盘胜"
+         }
+      ],
+      "174":[
+         {
+            "date":"2026-07-07T16:00:00.000Z",
+            "round":1,
+            "table":"",
+            "black_player":"张宇飞",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html?_cb=1784023868426#/sgf/detail?id=14319856&type=0"
+         },
+         {
+            "date":"2026-07-07T16:00:00.000Z",
+            "round":2,
+            "table":"",
+            "black_player":"王永吉",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14320168&type=0"
+         },
+         {
+            "date":"2026-07-07T16:00:00.000Z",
+            "round":3,
+            "table":"",
+            "black_player":"Omer Naiboglu",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14320319&type=0"
+         },
+         {
+            "date":"2026-07-08T16:00:00.000Z",
+            "round":4,
+            "table":"",
+            "black_player":"李泽楷",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14321171&type=0"
+         },
+         {
+            "date":"2026-07-08T16:00:00.000Z",
+            "round":5,
+            "table":"",
+            "black_player":"Zeno Christian",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14321400&type=0"
+         },
+         {
+            "date":"2026-07-08T16:00:00.000Z",
+            "round":6,
+            "table":"",
+            "black_player":"付涵一",
+            "black_team":"",
+            "white_player":"陈毅霖",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14321693&type=0"
+         },
+         {
+            "date":"2026-07-09T16:00:00.000Z",
+            "round":7,
+            "table":"",
+            "black_player":"Park Ki Hyun",
+            "black_team":"",
+            "white_player":"付涵一",
+            "white_team":"",
+            "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14322395&type=0"
          }
       ]
    }
