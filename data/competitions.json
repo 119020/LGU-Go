@@ -228,7 +228,7 @@
          "competition_base_id":54,
          "competition":"应氏杯全国大学生赛",
          "first_year":1991,
-         "last_year":2025,
+         "last_year":2026,
          "level":"国家级",
          "description":"高校|公开赛|线下|个人赛|记团体成绩"
       },
@@ -340,7 +340,7 @@
          "competition_base_id":45,
          "competition":"广州团体联赛",
          "first_year":2016,
-         "last_year":2025,
+         "last_year":2026,
          "level":"区市级",
          "description":"--|公开赛|线下|团体赛|记团体成绩"
       },
@@ -1213,6 +1213,16 @@
             "location":"香港西贡",
             "total_round":6,
             "source":"https://home.yikeweiqi.com/mobile.html#/gonews/detail/79583"
+         },
+         {
+            "competition_id":175,
+            "year":2026,
+            "competition":"第4届 四洲杯香港国际大学生赛（公开组）",
+            "start_date":"2026-07-15T16:00:00.000Z",
+            "end_date":"2026-07-16T16:00:00.000Z",
+            "location":"香港西贡",
+            "total_round":7,
+            "source":"冲段少年"
          }
       ],
       "20":[
@@ -34235,6 +34245,148 @@
             "white_player":"付涵一",
             "white_team":"",
             "result":"https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14322395&type=0"
+         }
+      ],
+      "175":[
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":1,
+            "table":"'34",
+            "black_player":"Souk Phafhc Nepanit",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":1,
+            "table":"'40",
+            "black_player":"孙易炜",
+            "black_team":"",
+            "white_player":"刘泽伟",
+            "white_team":"深圳大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":2,
+            "table":"'3",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学队",
+            "white_player":"熊鲸乔",
+            "white_team":"四川大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":2,
+            "table":"'4",
+            "black_player":"谭锴轶",
+            "black_team":"浙江大学队",
+            "white_player":"楊孚德",
+            "white_team":"中华台北队",
+            "result":"https://home.yikeweiqi.com/mobile.html?_cb=1784384142418#/sgf/detail?id=14330727&type=0"
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":3,
+            "table":"'29",
+            "black_player":"苏炫尹",
+            "black_team":"香港科技大学队",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":3,
+            "table":"'32",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学队",
+            "white_player":"唐祖勋",
+            "white_team":"深圳技术大学队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":4,
+            "table":"'7",
+            "black_player":"王子凌",
+            "black_team":"香港科技大学队",
+            "white_player":"刘泽伟",
+            "white_team":"深圳大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":4,
+            "table":"'9",
+            "black_player":"谭锴轶",
+            "black_team":"浙江大学队",
+            "white_player":"Kojima Futoo",
+            "white_team":"日本队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":5,
+            "table":"'12",
+            "black_player":"陳梓骢",
+            "black_team":"中华台北队",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "round":5,
+            "table":"'14",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学队",
+            "white_player":"曾子倫",
+            "white_team":"中华台北队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-07-16T16:00:00.000Z",
+            "round":6,
+            "table":"'10",
+            "black_player":"Sawaree Phanthasen",
+            "black_team":"",
+            "white_player":"刘泽伟",
+            "white_team":"深圳大学队",
+            "result":"黑中盘胜"
+         },
+         {
+            "date":"2026-07-16T16:00:00.000Z",
+            "round":6,
+            "table":"'4",
+            "black_player":"谭锴轶",
+            "black_team":"浙江大学队",
+            "white_player":"蔡韫睿",
+            "white_team":"清华大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-07-16T16:00:00.000Z",
+            "round":7,
+            "table":"'13",
+            "black_player":"Sawaree Phanthasen",
+            "black_team":"",
+            "white_player":"谭锴轶",
+            "white_team":"浙江大学队",
+            "result":"白中盘胜"
+         },
+         {
+            "date":"2026-07-16T16:00:00.000Z",
+            "round":7,
+            "table":"'28",
+            "black_player":"刘泽伟",
+            "black_team":"深圳大学队",
+            "white_player":"Nhuyen VietLan",
+            "white_team":"越南队",
+            "result":"黑中盘胜"
          }
       ]
    }
