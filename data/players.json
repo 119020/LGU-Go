@@ -588,15 +588,15 @@
          },
          {
             "year":2026,
-            "total_wins":"1",
-            "total_losses":"5",
-            "win_rate":"16.67"
+            "total_wins":"5",
+            "total_losses":"8",
+            "win_rate":"38.46"
          },
          {
             "year":null,
-            "total_wins":"66",
-            "total_losses":"73",
-            "win_rate":"47.48"
+            "total_wins":"70",
+            "total_losses":"76",
+            "win_rate":"47.95"
          }
       ],
       "6":[
@@ -1788,15 +1788,15 @@
          },
          {
             "year":2026,
-            "total_wins":"8",
-            "total_losses":"6",
-            "win_rate":"57.14"
+            "total_wins":"13",
+            "total_losses":"8",
+            "win_rate":"61.90"
          },
          {
             "year":null,
-            "total_wins":"23",
-            "total_losses":"20",
-            "win_rate":"53.49"
+            "total_wins":"28",
+            "total_losses":"22",
+            "win_rate":"56.00"
          }
       ],
       "62":[
@@ -8087,6 +8087,30 @@
             "total_game":2
          },
          {
+            "opponent":"孙易炜",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"唐祖勋",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"王子凌",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"Nhuyen VietLan",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"邹子仲",
             "total_win":"1",
             "total_lose":"0",
@@ -8438,6 +8462,24 @@
             "opponent":"徐睿轩",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"熊鲸乔",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"曾子倫",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"Sawaree Phanthasen",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -19289,6 +19331,36 @@
             "total_game":1
          },
          {
+            "opponent":"Souk Phafhc Nepanit",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"苏炫尹",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"Kojima Futoo",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"陳梓骢",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"Sawaree Phanthasen",
+            "total_win":"1",
+            "total_lose":"0",
+            "total_game":1
+         },
+         {
             "opponent":"郑德信",
             "total_win":"1",
             "total_lose":"0",
@@ -19418,6 +19490,18 @@
             "opponent":"施彦锴",
             "total_win":"1",
             "total_lose":"0",
+            "total_game":1
+         },
+         {
+            "opponent":"楊孚德",
+            "total_win":"0",
+            "total_lose":"1",
+            "total_game":1
+         },
+         {
+            "opponent":"蔡韫睿",
+            "total_win":"0",
+            "total_lose":"1",
             "total_game":1
          },
          {
@@ -30261,6 +30345,69 @@
             "competition":"四洲杯香港国际大学生赛",
             "edition":3,
             "round":6
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"孙易炜",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":1
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"熊鲸乔",
+            "result":"负",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":2
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"唐祖勋",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":3
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"王子凌",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":4
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"曾子倫",
+            "result":"负",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":5
+         },
+         {
+            "date":"2026-07-16T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"Sawaree Phanthasen",
+            "result":"负",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":6
+         },
+         {
+            "date":"2026-07-16T16:00:00.000Z",
+            "name":"刘泽伟",
+            "opponent":"Nhuyen VietLan",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":7
          },
          {
             "date":"2024-08-31T16:00:00.000Z",
@@ -47951,6 +48098,69 @@
       ],
       "61":[
          {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"谭锴轶",
+            "opponent":"Souk Phafhc Nepanit",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":1
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"谭锴轶",
+            "opponent":"楊孚德",
+            "result":"负",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":2
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"谭锴轶",
+            "opponent":"苏炫尹",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":3
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"谭锴轶",
+            "opponent":"Kojima Futoo",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":4
+         },
+         {
+            "date":"2026-07-15T16:00:00.000Z",
+            "name":"谭锴轶",
+            "opponent":"陳梓骢",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":5
+         },
+         {
+            "date":"2026-07-16T16:00:00.000Z",
+            "name":"谭锴轶",
+            "opponent":"蔡韫睿",
+            "result":"负",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":6
+         },
+         {
+            "date":"2026-07-16T16:00:00.000Z",
+            "name":"谭锴轶",
+            "opponent":"Sawaree Phanthasen",
+            "result":"胜",
+            "competition":"四洲杯香港国际大学生赛",
+            "edition":4,
+            "round":7
+         },
+         {
             "date":"2024-07-10T16:00:00.000Z",
             "name":"谭锴轶",
             "opponent":"张耿宁",
@@ -49781,6 +49991,11 @@
             "year":2025,
             "competition":"第30届应氏杯全国大学生赛 (男子组)",
             "honor":"个人第14名|团体第7名"
+         },
+         {
+            "year":2026,
+            "competition":"第4届四洲杯香港国际大学生赛 (公开组)",
+            "honor":"团体第4名"
          }
       ],
       "62":[
