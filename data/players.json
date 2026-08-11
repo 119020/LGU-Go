@@ -5091,7 +5091,7 @@
         "total_game": 2
       },
       {
-        "opponent": "陈俊羽",
+        "opponent": "陈俊羽（大）",
         "total_win": "1",
         "total_lose": "0",
         "total_game": 1
@@ -7781,7 +7781,7 @@
         "total_game": 1
       },
       {
-        "opponent": "杨博文",
+        "opponent": "杨博文（小）",
         "total_win": "1",
         "total_lose": "0",
         "total_game": 1
@@ -26131,7 +26131,7 @@
       {
         "date": "2026-07-26T16:00:00.000Z",
         "name": "付涵一",
-        "opponent": "陈俊羽",
+        "opponent": "陈俊羽（大）",
         "result": "胜",
         "competition": "应氏杯全国大学生赛",
         "edition": 31,
