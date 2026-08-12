@@ -39,7 +39,7 @@
       "id": 8,
       "name": "蓝迪",
       "enroll_year": 2022,
-      "college": "第七",
+      "college": "永平",
       "amateur_dan": 6
     },
     {
@@ -277,7 +277,7 @@
       "id": 32,
       "name": "杨博文",
       "enroll_year": 2024,
-      "college": "第七",
+      "college": "永平",
       "amateur_dan": 5
     },
     {
@@ -291,7 +291,7 @@
       "id": 59,
       "name": "罗钰林",
       "enroll_year": 2025,
-      "college": "",
+      "college": "学勤",
       "amateur_dan": 5
     },
     {
@@ -305,14 +305,14 @@
       "id": 64,
       "name": "王聪越",
       "enroll_year": 2025,
-      "college": "",
+      "college": "逸夫",
       "amateur_dan": 5
     },
     {
       "id": 60,
       "name": "赵蔚卿",
       "enroll_year": 2025,
-      "college": "",
+      "college": "思廷",
       "amateur_dan": -1
     },
     {
