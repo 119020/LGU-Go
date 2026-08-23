@@ -52,7 +52,7 @@
       "competition_base_id": 63,
       "competition": "婺源杯",
       "first_year": -1,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "国家级",
       "description": "--|公开赛|线下|个人赛|记团体成绩"
     },
@@ -132,7 +132,7 @@
       "competition_base_id": 65,
       "competition": "商旅运河杯",
       "first_year": 2024,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "国家级",
       "description": "--|邀请赛|线下|个人赛|--"
     },
@@ -140,7 +140,7 @@
       "competition_base_id": 59,
       "competition": "孙子兵法杯",
       "first_year": 2022,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "国家级",
       "description": "--|公开赛|线下|个人赛|--"
     },
@@ -175,6 +175,14 @@
       "last_year": 2026,
       "level": "国家级",
       "description": "--|公开赛|线下|个人赛|--"
+    },
+    {
+      "competition_base_id": 76,
+      "competition": "浙东唐诗之路公开赛",
+      "first_year": 2020,
+      "last_year": 2026,
+      "level": "省部级",
+      "description": "--|公开赛|线下|个人赛|记团体成绩"
     },
     {
       "competition_base_id": 66,
@@ -212,7 +220,7 @@
       "competition_base_id": 39,
       "competition": "羊城晚报预选赛",
       "first_year": -1,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "区市级",
       "description": "--|公开赛|线下|个人赛|--"
     },
@@ -284,7 +292,7 @@
       "competition_base_id": 55,
       "competition": "广东大学生联赛",
       "first_year": 2025,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "省部级",
       "description": "高校|公开赛|线下|团体赛|记团体成绩"
     },
@@ -300,7 +308,7 @@
       "competition_base_id": 21,
       "competition": "湾区高校联赛",
       "first_year": 2023,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "省部级",
       "description": "高校|邀请赛|线下|团体赛|记团体成绩"
     },
@@ -316,7 +324,7 @@
       "competition_base_id": 22,
       "competition": "广东新春赛",
       "first_year": -1,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "省部级",
       "description": "--|公开赛|线下|个人赛|--"
     },
@@ -340,7 +348,7 @@
       "competition_base_id": 44,
       "competition": "广州市长杯团体赛",
       "first_year": 2016,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "区市级",
       "description": "--|公开赛|线下|团体赛|记团体成绩"
     },
@@ -444,7 +452,7 @@
       "competition_base_id": 10,
       "competition": "深圳大中小学生赛",
       "first_year": 2022,
-      "last_year": 2024,
+      "last_year": 2026,
       "level": "区市级",
       "description": "高校|公开赛|线下|个人赛|--"
     },
@@ -452,7 +460,7 @@
       "competition_base_id": 8,
       "competition": "深圳X9高校院所联盟比赛",
       "first_year": 2023,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "区市级",
       "description": "高校|邀请赛|线下|个人赛|记团体成绩"
     },
@@ -548,7 +556,7 @@
       "competition_base_id": 9,
       "competition": "深圳杯",
       "first_year": 2023,
-      "last_year": 2025,
+      "last_year": 2026,
       "level": "区市级",
       "description": "--|公开赛|线下|个人赛|--"
     },
@@ -588,7 +596,7 @@
       "competition_base_id": 42,
       "competition": "龙岗春季段级位赛",
       "first_year": -1,
-      "last_year": 2025,
+      "last_year": -1,
       "level": "区市级",
       "description": "--|公开赛|线下|个人赛|--"
     },
@@ -596,7 +604,7 @@
       "competition_base_id": 43,
       "competition": "顺德夏季段级位赛",
       "first_year": -1,
-      "last_year": 2025,
+      "last_year": -1,
       "level": "区市级",
       "description": "--|公开赛|线下|个人赛|--"
     }
@@ -2545,6 +2553,18 @@
         "location": "浙江丽水松阳",
         "total_round": 10,
         "source": "https://m.yunbisai.com/AgainstPlan/eventResult?id=252459&eventid=66464&groupid=328466&type=group"
+      }
+    ],
+    "76": [
+      {
+        "competition_id": 179,
+        "year": 2026,
+        "competition": "第7届 浙东唐诗之路公开赛（公开组）",
+        "start_date": "2026-08-20T16:00:00.000Z",
+        "end_date": "2026-08-22T16:00:00.000Z",
+        "location": "浙江绍兴嵊州",
+        "total_round": 9,
+        "source": "https://mp.weixin.qq.com/s/7f8eo05NzD1qrfgascqOCA"
       }
     ]
   },
@@ -35123,6 +35143,98 @@
         "white_player": "吕泽明",
         "white_team": "卫生系统队",
         "result": "黑胜2.75子"
+      }
+    ],
+    "179": [
+      {
+        "date": "2026-08-20T16:00:00.000Z",
+        "round": 1,
+        "table": "'40",
+        "black_player": "吴一博",
+        "black_team": "杭州拱墅区一队",
+        "white_player": "戴铭",
+        "white_team": "绍兴越城区队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-08-20T16:00:00.000Z",
+        "round": 2,
+        "table": "'10",
+        "black_player": "富寅平",
+        "black_team": "嘉兴平湖队",
+        "white_player": "吴一博",
+        "white_team": "杭州拱墅区一队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-08-20T16:00:00.000Z",
+        "round": 3,
+        "table": "'11",
+        "black_player": "吴一博",
+        "black_team": "杭州拱墅区一队",
+        "white_player": "范一唯",
+        "white_team": "宁波高新区队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-08-20T16:00:00.000Z",
+        "round": 4,
+        "table": "'2",
+        "black_player": "陆泓铭",
+        "black_team": "宁波余姚队",
+        "white_player": "吴一博",
+        "white_team": "杭州拱墅区一队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-08-21T16:00:00.000Z",
+        "round": 5,
+        "table": "'13",
+        "black_player": "吴一博",
+        "black_team": "杭州拱墅区一队",
+        "white_player": "董可羽",
+        "white_team": "嵊州市一队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-08-21T16:00:00.000Z",
+        "round": 6,
+        "table": "'4",
+        "black_player": "杨正宇",
+        "black_team": "台州临海队",
+        "white_player": "吴一博",
+        "white_team": "杭州拱墅区一队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-08-21T16:00:00.000Z",
+        "round": 7,
+        "table": "'16",
+        "black_player": "程岩",
+        "black_team": "杭州拱墅区二队",
+        "white_player": "吴一博",
+        "white_team": "杭州拱墅区一队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-08-21T16:00:00.000Z",
+        "round": 8,
+        "table": "'7",
+        "black_player": "吴一博",
+        "black_team": "杭州拱墅区一队",
+        "white_player": "周裕丰",
+        "white_team": "宁波余姚队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-08-22T16:00:00.000Z",
+        "round": 9,
+        "table": "'8",
+        "black_player": "吴敏敏",
+        "black_team": "义乌市队",
+        "white_player": "吴一博",
+        "white_team": "杭州拱墅区一队",
+        "result": "白中盘胜"
       }
     ]
   }
