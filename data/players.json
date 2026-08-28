@@ -1726,15 +1726,15 @@
       },
       {
         "year": 2026,
-        "total_wins": "15",
-        "total_losses": "18",
-        "win_rate": "45.45"
+        "total_wins": "19",
+        "total_losses": "21",
+        "win_rate": "47.50"
       },
       {
         "year": null,
-        "total_wins": "18",
-        "total_losses": "27",
-        "win_rate": "40.00"
+        "total_wins": "22",
+        "total_losses": "30",
+        "win_rate": "42.31"
       }
     ],
     "60": [
@@ -19337,6 +19337,30 @@
     "58": [],
     "59": [
       {
+        "opponent": "余瑞林",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "江锦轩",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "黄俊毅",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "吴悠然",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
         "opponent": "刘博东",
         "total_win": "1",
         "total_lose": "0",
@@ -19442,6 +19466,24 @@
         "opponent": "邓彦均",
         "total_win": "1",
         "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "彭博",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "光宇龙",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "崔向阳",
+        "total_win": "0",
+        "total_lose": "1",
         "total_game": 1
       },
       {
@@ -48677,6 +48719,69 @@
         "competition": "深圳个人锦标赛",
         "edition": 4,
         "round": 8
+      },
+      {
+        "date": "2026-08-25T16:00:00.000Z",
+        "name": "罗钰林",
+        "opponent": "彭博",
+        "result": "负",
+        "competition": "深圳菁英赛",
+        "edition": 1,
+        "round": 1
+      },
+      {
+        "date": "2026-08-25T16:00:00.000Z",
+        "name": "罗钰林",
+        "opponent": "余瑞林",
+        "result": "胜",
+        "competition": "深圳菁英赛",
+        "edition": 1,
+        "round": 2
+      },
+      {
+        "date": "2026-08-25T16:00:00.000Z",
+        "name": "罗钰林",
+        "opponent": "江锦轩",
+        "result": "胜",
+        "competition": "深圳菁英赛",
+        "edition": 1,
+        "round": 3
+      },
+      {
+        "date": "2026-08-25T16:00:00.000Z",
+        "name": "罗钰林",
+        "opponent": "黄俊毅",
+        "result": "胜",
+        "competition": "深圳菁英赛",
+        "edition": 1,
+        "round": 4
+      },
+      {
+        "date": "2026-08-26T16:00:00.000Z",
+        "name": "罗钰林",
+        "opponent": "光宇龙",
+        "result": "负",
+        "competition": "深圳菁英赛",
+        "edition": 1,
+        "round": 5
+      },
+      {
+        "date": "2026-08-26T16:00:00.000Z",
+        "name": "罗钰林",
+        "opponent": "崔向阳",
+        "result": "负",
+        "competition": "深圳菁英赛",
+        "edition": 1,
+        "round": 6
+      },
+      {
+        "date": "2026-08-26T16:00:00.000Z",
+        "name": "罗钰林",
+        "opponent": "吴悠然",
+        "result": "胜",
+        "competition": "深圳菁英赛",
+        "edition": 1,
+        "round": 7
       },
       {
         "date": "2026-05-24T16:00:00.000Z",
