@@ -569,6 +569,14 @@
       "description": "--|公开赛|线下|个人赛|--"
     },
     {
+      "competition_base_id": 77,
+      "competition": "深圳菁英赛",
+      "first_year": 2026,
+      "last_year": 2026,
+      "level": "区市级",
+      "description": "--|公开赛|线下|个人赛|--"
+    },
+    {
       "competition_base_id": 17,
       "competition": "深圳迎新杯精英赛",
       "first_year": -1,
@@ -2565,6 +2573,18 @@
         "location": "浙江绍兴嵊州",
         "total_round": 9,
         "source": "https://mp.weixin.qq.com/s/7f8eo05NzD1qrfgascqOCA"
+      }
+    ],
+    "77": [
+      {
+        "competition_id": 180,
+        "year": 2026,
+        "competition": "第1届 深圳菁英赛（公开组）",
+        "start_date": "2026-08-25T16:00:00.000Z",
+        "end_date": "2026-08-26T16:00:00.000Z",
+        "location": "广东深圳南山",
+        "total_round": 7,
+        "source": "https://mp.weixin.qq.com/s/r6KkLcmtEFOFL1TaWWjVfQ"
       }
     ]
   },
@@ -35235,6 +35255,78 @@
         "white_player": "吴一博",
         "white_team": "杭州拱墅区一队",
         "result": "白中盘胜"
+      }
+    ],
+    "180": [
+      {
+        "date": "2026-08-25T16:00:00.000Z",
+        "round": 1,
+        "table": "'41",
+        "black_player": "罗钰林",
+        "black_team": "",
+        "white_player": "彭博",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-08-25T16:00:00.000Z",
+        "round": 2,
+        "table": "'43",
+        "black_player": "余瑞林",
+        "black_team": "",
+        "white_player": "罗钰林",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-08-25T16:00:00.000Z",
+        "round": 3,
+        "table": "'36",
+        "black_player": "罗钰林",
+        "black_team": "",
+        "white_player": "江锦轩",
+        "white_team": "",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-08-25T16:00:00.000Z",
+        "round": 4,
+        "table": "'18",
+        "black_player": "罗钰林",
+        "black_team": "",
+        "white_player": "黄俊毅",
+        "white_team": "",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-08-26T16:00:00.000Z",
+        "round": 5,
+        "table": "'16",
+        "black_player": "罗钰林",
+        "black_team": "",
+        "white_player": "光宇龙",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-08-26T16:00:00.000Z",
+        "round": 6,
+        "table": "'14",
+        "black_player": "崔向阳",
+        "black_team": "",
+        "white_player": "罗钰林",
+        "white_team": "",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-08-26T16:00:00.000Z",
+        "round": 7,
+        "table": "'35",
+        "black_player": "罗钰林",
+        "black_team": "",
+        "white_player": "吴悠然",
+        "white_team": "",
+        "result": "黑中盘胜"
       }
     ]
   }
