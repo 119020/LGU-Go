@@ -17582,9 +17582,9 @@
       },
       {
         "opponent": "",
-        "total_win": "6",
+        "total_win": "4",
         "total_lose": "0",
-        "total_game": 6
+        "total_game": 4
       },
       {
         "opponent": "李俊乐",
@@ -17636,6 +17636,18 @@
       },
       {
         "opponent": "邹正宁",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "张万意",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "罗秀凯",
         "total_win": "1",
         "total_lose": "0",
         "total_game": 1
@@ -45734,7 +45746,7 @@
       {
         "date": "2026-08-29T16:00:00.000Z",
         "name": "丁泽洋",
-        "opponent": "",
+        "opponent": "张万意",
         "result": "胜",
         "competition": "东莞团体联赛",
         "edition": 2,
@@ -45743,7 +45755,7 @@
       {
         "date": "2026-08-29T16:00:00.000Z",
         "name": "丁泽洋",
-        "opponent": "",
+        "opponent": "罗秀凯",
         "result": "胜",
         "competition": "东莞团体联赛",
         "edition": 2,
@@ -51405,6 +51417,11 @@
         "year": 2026,
         "competition": "第4届桂林希望之星杯 (公开组)",
         "honor": "个人第2名"
+      },
+      {
+        "year": 2026,
+        "competition": "第2届东莞团体联赛 (公开组)",
+        "honor": "团体第4名"
       }
     ],
     "54": [
