@@ -1638,15 +1638,15 @@
       },
       {
         "year": 2026,
-        "total_wins": "28",
-        "total_losses": "14",
-        "win_rate": "66.67"
+        "total_wins": "47",
+        "total_losses": "16",
+        "win_rate": "74.60"
       },
       {
         "year": null,
-        "total_wins": "178",
-        "total_losses": "91",
-        "win_rate": "66.17"
+        "total_wins": "197",
+        "total_losses": "93",
+        "win_rate": "67.93"
       }
     ],
     "54": [
@@ -17449,12 +17449,6 @@
         "total_game": 5
       },
       {
-        "opponent": "",
-        "total_win": "4",
-        "total_lose": "0",
-        "total_game": 4
-      },
-      {
         "opponent": "付涵一",
         "total_win": "2",
         "total_lose": "1",
@@ -17587,6 +17581,12 @@
         "total_game": 2
       },
       {
+        "opponent": "",
+        "total_win": "6",
+        "total_lose": "0",
+        "total_game": 6
+      },
+      {
         "opponent": "李俊乐",
         "total_win": "1",
         "total_lose": "0",
@@ -17630,6 +17630,12 @@
       },
       {
         "opponent": "郑梓轩",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "邹正宁",
         "total_win": "1",
         "total_lose": "0",
         "total_game": 1
@@ -45719,8 +45725,8 @@
       {
         "date": "2026-08-29T16:00:00.000Z",
         "name": "丁泽洋",
-        "opponent": "",
-        "result": "",
+        "opponent": "邹正宁",
+        "result": "胜",
         "competition": "东莞团体联赛",
         "edition": 2,
         "round": 5
@@ -45729,7 +45735,7 @@
         "date": "2026-08-29T16:00:00.000Z",
         "name": "丁泽洋",
         "opponent": "",
-        "result": "",
+        "result": "胜",
         "competition": "东莞团体联赛",
         "edition": 2,
         "round": 6
@@ -45738,7 +45744,7 @@
         "date": "2026-08-29T16:00:00.000Z",
         "name": "丁泽洋",
         "opponent": "",
-        "result": "",
+        "result": "胜",
         "competition": "东莞团体联赛",
         "edition": 2,
         "round": 7
