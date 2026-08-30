@@ -1,14 +1,14 @@
 ## competitions.json
 - competition_bases
-- competitions{"1","2",...,"68"}
-- competition_records{"1","2",...,"155"}
+- competitions{"1","2",...,"79"}
+- competition_records{"1","2",...,"183"}
 
 ## players.json
 - players
-- history{"1","2",...,"60"}
-- opponent{"1","2",...,"60"}
-- records{"1","2",...,"60"}
-- awards{"1","2",...,"60"}
+- history{"1","2",...,"64"}
+- opponent{"1","2",...,"64"}
+- records{"1","2",...,"64"}
+- awards{"1","2",...,"64"}
 
 ### 使用 JSON Formatter & Validator，以确保JSON能被读取正确
 https://jsonformatter.curiousconcept.com/
