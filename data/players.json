@@ -17539,6 +17539,12 @@
         "total_game": 2
       },
       {
+        "opponent": "张玉成",
+        "total_win": "2",
+        "total_lose": "0",
+        "total_game": 2
+      },
+      {
         "opponent": "匡博文",
         "total_win": "1",
         "total_lose": "1",
@@ -17579,6 +17585,90 @@
         "total_win": "0",
         "total_lose": "2",
         "total_game": 2
+      },
+      {
+        "opponent": "李俊乐",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "杨郁杏",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "邬风华",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "刘航",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "刘扬",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "戴筱楠",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "徐肇斌",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "郑梓轩",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "姚钧耀",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "莫云虎",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "李泳泽",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "王熙萌",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "陈思隽",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "杜鸣亮",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
       },
       {
         "opponent": "陈轩清",
@@ -18466,6 +18556,18 @@
         "opponent": "熊怀远",
         "total_win": "1",
         "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "徐乾灏",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "尧潇童",
+        "total_win": "0",
+        "total_lose": "1",
         "total_game": 1
       },
       {
@@ -45516,6 +45618,195 @@
     ],
     "53": [
       {
+        "date": "2026-01-16T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "李俊乐",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 1,
+        "round": 1
+      },
+      {
+        "date": "2026-01-16T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "杨郁杏",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 1,
+        "round": 2
+      },
+      {
+        "date": "2026-01-16T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "邬风华",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 1,
+        "round": 3
+      },
+      {
+        "date": "2026-01-16T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "尧潇童",
+        "result": "负",
+        "competition": "东莞团体联赛",
+        "edition": 1,
+        "round": 4
+      },
+      {
+        "date": "2026-01-17T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "刘航",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 1,
+        "round": 5
+      },
+      {
+        "date": "2026-01-17T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "刘扬",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 1,
+        "round": 6
+      },
+      {
+        "date": "2026-01-17T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "张玉成",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 1,
+        "round": 7
+      },
+      {
+        "date": "2026-08-28T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "戴筱楠",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 2,
+        "round": 1
+      },
+      {
+        "date": "2026-08-28T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "徐肇斌",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 2,
+        "round": 2
+      },
+      {
+        "date": "2026-08-28T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "张玉成",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 2,
+        "round": 3
+      },
+      {
+        "date": "2026-08-28T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "郑梓轩",
+        "result": "胜",
+        "competition": "东莞团体联赛",
+        "edition": 2,
+        "round": 4
+      },
+      {
+        "date": "2026-08-29T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "",
+        "result": "",
+        "competition": "东莞团体联赛",
+        "edition": 2,
+        "round": 5
+      },
+      {
+        "date": "2026-08-29T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "",
+        "result": "",
+        "competition": "东莞团体联赛",
+        "edition": 2,
+        "round": 6
+      },
+      {
+        "date": "2026-08-29T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "",
+        "result": "",
+        "competition": "东莞团体联赛",
+        "edition": 2,
+        "round": 7
+      },
+      {
+        "date": "2026-07-17T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "姚钧耀",
+        "result": "胜",
+        "competition": "桂林希望之星杯",
+        "edition": 4,
+        "round": 1
+      },
+      {
+        "date": "2026-07-17T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "莫云虎",
+        "result": "胜",
+        "competition": "桂林希望之星杯",
+        "edition": 4,
+        "round": 2
+      },
+      {
+        "date": "2026-07-17T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "李泳泽",
+        "result": "胜",
+        "competition": "桂林希望之星杯",
+        "edition": 4,
+        "round": 3
+      },
+      {
+        "date": "2026-07-17T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "王熙萌",
+        "result": "胜",
+        "competition": "桂林希望之星杯",
+        "edition": 4,
+        "round": 4
+      },
+      {
+        "date": "2026-07-18T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "陈思隽",
+        "result": "胜",
+        "competition": "桂林希望之星杯",
+        "edition": 4,
+        "round": 5
+      },
+      {
+        "date": "2026-07-18T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "徐乾灏",
+        "result": "负",
+        "competition": "桂林希望之星杯",
+        "edition": 4,
+        "round": 6
+      },
+      {
+        "date": "2026-07-18T16:00:00.000Z",
+        "name": "丁泽洋",
+        "opponent": "杜鸣亮",
+        "result": "胜",
+        "competition": "桂林希望之星杯",
+        "edition": 4,
+        "round": 7
+      },
+      {
         "date": "2026-03-06T16:00:00.000Z",
         "name": "丁泽洋",
         "opponent": "欧彦楷",
@@ -51098,6 +51389,16 @@
         "year": 2025,
         "competition": "第3届深圳X9高校院所联盟比赛 (学生组)",
         "honor": "个人第5名|团体第2名"
+      },
+      {
+        "year": 2026,
+        "competition": "第1届东莞团体联赛 (公开组)",
+        "honor": "团体第1名"
+      },
+      {
+        "year": 2026,
+        "competition": "第4届桂林希望之星杯 (公开组)",
+        "honor": "个人第2名"
       }
     ],
     "54": [
