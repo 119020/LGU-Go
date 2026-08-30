@@ -217,6 +217,14 @@
       "description": "--|公开赛|线下|个人赛|--"
     },
     {
+      "competition_base_id": 79,
+      "competition": "桂林希望之星杯",
+      "first_year": -1,
+      "last_year": 2026,
+      "level": "区市级",
+      "description": "--|公开赛|线下|个人赛|--"
+    },
+    {
       "competition_base_id": 39,
       "competition": "羊城晚报预选赛",
       "first_year": -1,
@@ -348,6 +356,14 @@
       "competition_base_id": 44,
       "competition": "广州市长杯团体赛",
       "first_year": 2016,
+      "last_year": 2026,
+      "level": "区市级",
+      "description": "--|公开赛|线下|团体赛|记团体成绩"
+    },
+    {
+      "competition_base_id": 78,
+      "competition": "东莞团体联赛",
+      "first_year": 2026,
       "last_year": 2026,
       "level": "区市级",
       "description": "--|公开赛|线下|团体赛|记团体成绩"
@@ -2585,6 +2601,40 @@
         "location": "广东深圳南山",
         "total_round": 7,
         "source": "https://mp.weixin.qq.com/s/r6KkLcmtEFOFL1TaWWjVfQ"
+      }
+    ],
+    "78": [
+      {
+        "competition_id": 181,
+        "year": 2026,
+        "competition": "第1届 东莞团体联赛（公开组）",
+        "start_date": "2026-01-16T16:00:00.000Z",
+        "end_date": "2026-01-17T16:00:00.000Z",
+        "location": "广东东莞东城",
+        "total_round": 7,
+        "source": "https://v.dzqzd.com/VfBody.aspx?p=VmbotZvkuovpk77mjqUmVGM9MjE4ODU0OQ=="
+      },
+      {
+        "competition_id": 182,
+        "year": 2026,
+        "competition": "第2届 东莞团体联赛（公开组）",
+        "start_date": "2026-08-28T16:00:00.000Z",
+        "end_date": "2026-08-29T16:00:00.000Z",
+        "location": "广东东莞东城",
+        "total_round": 7,
+        "source": "手谈赛场"
+      }
+    ],
+    "79": [
+      {
+        "competition_id": 183,
+        "year": 2026,
+        "competition": "第4届 桂林希望之星杯（公开组）",
+        "start_date": "2026-07-17T16:00:00.000Z",
+        "end_date": "2026-07-18T16:00:00.000Z",
+        "location": "广西桂林",
+        "total_round": 7,
+        "source": "https://v.dzqzd.com/VfBody.aspx?p=VmbotZvkuovpk77mjqUmVGM9MjIwMTc5Mw=="
       }
     ]
   },
@@ -35325,6 +35375,151 @@
         "black_player": "罗钰林",
         "black_team": "",
         "white_player": "吴悠然",
+        "white_team": "",
+        "result": "黑中盘胜"
+      }
+    ],
+    "181": [
+      {
+        "date": "2026-01-16T16:00:00.000Z",
+        "round": 1,
+        "table": "'2-4",
+        "black_player": "丁泽洋",
+        "black_team": "松山湖手谈弈语队",
+        "white_player": "李俊乐",
+        "white_team": "莞弈棋院四队（东城）",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1768614728070001599&title=&desc=ljl%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=13&boardsize=19&uid=3220609&report=0"
+      },
+      {
+        "date": "2026-01-16T16:00:00.000Z",
+        "round": 2,
+        "table": "'3-3",
+        "black_player": "丁泽洋",
+        "black_team": "松山湖手谈弈语队",
+        "white_player": "杨郁杏",
+        "white_team": "东城三月坊队",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1768626665070001737&title=&desc=yyj%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=13&boardsize=19&uid=3220609&report=0"
+      },
+      {
+        "date": "2026-01-16T16:00:00.000Z",
+        "round": 3,
+        "table": "'1-3",
+        "black_player": "邬风华",
+        "black_team": "南城弈心棋院队",
+        "white_player": "丁泽洋",
+        "white_team": "松山湖手谈弈语队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-01-16T16:00:00.000Z",
+        "round": 4,
+        "table": "'1-4",
+        "black_player": "丁泽洋",
+        "black_team": "松山湖手谈弈语队",
+        "white_player": "尧潇童",
+        "white_team": "塘厦金石棋院队",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1768646407070001020&title=&desc=yxt%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=13&boardsize=19&uid=3220609&report=0"
+      },
+      {
+        "date": "2026-01-17T16:00:00.000Z",
+        "round": 5,
+        "table": "'1-3",
+        "black_player": "丁泽洋",
+        "black_team": "松山湖手谈弈语队",
+        "white_player": "刘航",
+        "white_team": "虎门振惠队",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1768703963070001277&title=&desc=lh%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=13&boardsize=19&uid=3220609&report=0"
+      },
+      {
+        "date": "2026-01-17T16:00:00.000Z",
+        "round": 6,
+        "table": "'2-3",
+        "black_player": "丁泽洋",
+        "black_team": "松山湖手谈弈语队",
+        "white_player": "刘扬",
+        "white_team": "莞城东瀚棋院队",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1768710491070001338&title=&desc=ly%20VS%20dzy&catelog=8&statisticsShareType=8&clientType=13&boardsize=19&uid=3220609&report=0"
+      },
+      {
+        "date": "2026-01-17T16:00:00.000Z",
+        "round": 7,
+        "table": "'1-3",
+        "black_player": "张玉成",
+        "black_team": "南城棋魂队",
+        "white_player": "丁泽洋",
+        "white_team": "松山湖手谈弈语队",
+        "result": "白中盘胜"
+      }
+    ],
+    "182": [],
+    "183": [
+      {
+        "date": "2026-07-17T16:00:00.000Z",
+        "round": 1,
+        "table": "'5",
+        "black_player": "丁泽洋",
+        "black_team": "",
+        "white_player": "姚钧耀",
+        "white_team": "",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-07-17T16:00:00.000Z",
+        "round": 2,
+        "table": "'12",
+        "black_player": "莫云虎",
+        "black_team": "",
+        "white_player": "丁泽洋",
+        "white_team": "",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1784350081070002223&title=&desc=%E8%8E%AB%E4%BA%91%E8%99%8E%20VS%20%E4%B8%81%E6%B3%BD%E6%B4%8B&catelog=8&statisticsShareType=8&clientType=13&boardsize=19&uid=3220609&report=0"
+      },
+      {
+        "date": "2026-07-17T16:00:00.000Z",
+        "round": 3,
+        "table": "'2",
+        "black_player": "丁泽洋",
+        "black_team": "",
+        "white_player": "李泳泽",
+        "white_team": "",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1784359327070002353&title=&desc=dzy%20VS%20lyz&catelog=8&statisticsShareType=8&clientType=13&boardsize=19&uid=3220609&report=0"
+      },
+      {
+        "date": "2026-07-17T16:00:00.000Z",
+        "round": 4,
+        "table": "'4",
+        "black_player": "王熙萌",
+        "black_team": "",
+        "white_player": "丁泽洋",
+        "white_team": "",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1784372405070002576&title=&desc=%E4%B8%81%E6%B3%BD%E6%B4%8B%20VS%20%E7%8E%8B%E7%86%99%E8%90%8C&catelog=8&statisticsShareType=8&clientType=13&boardsize=19&uid=3220609&report=0"
+      },
+      {
+        "date": "2026-07-18T16:00:00.000Z",
+        "round": 5,
+        "table": "'1",
+        "black_player": "丁泽洋",
+        "black_team": "",
+        "white_player": "陈思隽",
+        "white_team": "",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1784436968070002057&title=&desc=%E9%99%88%E6%80%9D%E9%9A%BD%20VS%20%E4%B8%81%E6%B3%BD%E6%B4%8B&catelog=8&statisticsShareType=8&clientType=13&boardsize=19&uid=3220609&report=0"
+      },
+      {
+        "date": "2026-07-18T16:00:00.000Z",
+        "round": 6,
+        "table": "'1",
+        "black_player": "徐乾灏",
+        "black_team": "",
+        "white_player": "丁泽洋",
+        "white_team": "",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-07-18T16:00:00.000Z",
+        "round": 7,
+        "table": "'2",
+        "black_player": "丁泽洋",
+        "black_team": "",
+        "white_player": "杜鸣亮",
         "white_team": "",
         "result": "黑中盘胜"
       }
