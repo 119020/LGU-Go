@@ -1638,15 +1638,15 @@
       },
       {
         "year": 2026,
-        "total_wins": "47",
-        "total_losses": "16",
-        "win_rate": "74.60"
+        "total_wins": "46",
+        "total_losses": "17",
+        "win_rate": "73.02"
       },
       {
         "year": null,
-        "total_wins": "197",
-        "total_losses": "93",
-        "win_rate": "67.93"
+        "total_wins": "196",
+        "total_losses": "94",
+        "win_rate": "67.59"
       }
     ],
     "54": [
@@ -17563,6 +17563,12 @@
         "total_game": 2
       },
       {
+        "opponent": "徐乾灏",
+        "total_win": "0",
+        "total_lose": "2",
+        "total_game": 2
+      },
+      {
         "opponent": "周乐萱",
         "total_win": "0",
         "total_lose": "2",
@@ -17642,12 +17648,6 @@
       },
       {
         "opponent": "张万意",
-        "total_win": "1",
-        "total_lose": "0",
-        "total_game": 1
-      },
-      {
-        "opponent": "罗秀凯",
         "total_win": "1",
         "total_lose": "0",
         "total_game": 1
@@ -18574,12 +18574,6 @@
         "opponent": "熊怀远",
         "total_win": "1",
         "total_lose": "0",
-        "total_game": 1
-      },
-      {
-        "opponent": "徐乾灏",
-        "total_win": "0",
-        "total_lose": "1",
         "total_game": 1
       },
       {
@@ -45746,8 +45740,8 @@
       {
         "date": "2026-08-29T16:00:00.000Z",
         "name": "丁泽洋",
-        "opponent": "张万意",
-        "result": "胜",
+        "opponent": "徐乾灏",
+        "result": "负",
         "competition": "东莞团体联赛",
         "edition": 2,
         "round": 6
@@ -45755,7 +45749,7 @@
       {
         "date": "2026-08-29T16:00:00.000Z",
         "name": "丁泽洋",
-        "opponent": "罗秀凯",
+        "opponent": "张万意",
         "result": "胜",
         "competition": "东莞团体联赛",
         "edition": 2,
