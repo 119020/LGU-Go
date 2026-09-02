@@ -2622,7 +2622,7 @@
         "end_date": "2026-08-29T16:00:00.000Z",
         "location": "广东东莞东城",
         "total_round": 7,
-        "source": "手谈赛场"
+        "source": "https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iOTk5NTk3MSIgU2g9IkNZMzAyMkFIS0tQQSIgRmw9IumYn+S8jSIgWG09IuWbtOajiyIvPg=="
       }
     ],
     "79": [
@@ -35506,21 +35506,21 @@
         "date": "2026-08-29T16:00:00.000Z",
         "round": 6,
         "table": "",
-        "black_player": "张万意",
-        "black_team": "广东振惠队（虎门）",
+        "black_player": "徐乾灏",
+        "black_team": "大岭山诚中队",
         "white_player": "丁泽洋",
         "white_team": "东城狮子洋队",
-        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1788083982070002859&title=&desc=%E4%B8%81%E6%B3%BD%E6%B4%8B%20VS%20%E5%BC%A0%E4%B8%87%E6%84%8F&catelog=8&statisticsShareType=8&clientType=64&boardsize=19&uid=500275995&report=0"
+        "result": "黑中盘胜"
       },
       {
         "date": "2026-08-29T16:00:00.000Z",
         "round": 7,
         "table": "",
-        "black_player": "丁泽洋",
-        "black_team": "东城狮子洋队",
-        "white_player": "罗秀凯",
-        "white_team": "大岭山诚中队",
-        "result": "黑中盘胜"
+        "black_player": "张万意",
+        "black_team": "广东振惠队（虎门）",
+        "white_player": "丁泽洋",
+        "white_team": "东城狮子洋队",
+        "result": "https://h5.foxwq.com/yehunewshare/?chessid=1788083982070002859&title=&desc=%E4%B8%81%E6%B3%BD%E6%B4%8B%20VS%20%E5%BC%A0%E4%B8%87%E6%84%8F&catelog=8&statisticsShareType=8&clientType=64&boardsize=19&uid=500275995&report=0"
       }
     ],
     "183": [
