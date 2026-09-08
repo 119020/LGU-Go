@@ -1262,7 +1262,7 @@
         "end_date": "2026-07-16T16:00:00.000Z",
         "location": "香港西贡",
         "total_round": 7,
-        "source": "冲段少年"
+        "source": "https://mp.weixin.qq.com/s/xSi1LaWExreczer3c-ENnQ"
       }
     ],
     "20": [
@@ -34382,8 +34382,8 @@
         "date": "2026-07-15T16:00:00.000Z",
         "round": 1,
         "table": "'34",
-        "black_player": "Souk Phafhc Nepanit",
-        "black_team": "",
+        "black_player": "Soukphaphone Phanit",
+        "black_team": "文莱队",
         "white_player": "谭锴轶",
         "white_team": "浙江大学队",
         "result": "白中盘胜"
@@ -34393,7 +34393,7 @@
         "round": 1,
         "table": "'40",
         "black_player": "孙易炜",
-        "black_team": "",
+        "black_team": "广州华商学院",
         "white_player": "刘泽伟",
         "white_team": "深圳大学队",
         "result": "白中盘胜"
@@ -34423,7 +34423,7 @@
         "round": 3,
         "table": "'29",
         "black_player": "苏炫尹",
-        "black_team": "香港科技大学队",
+        "black_team": "武汉大学队",
         "white_player": "谭锴轶",
         "white_team": "浙江大学队",
         "result": "白中盘胜"
@@ -34463,7 +34463,7 @@
         "round": 5,
         "table": "'12",
         "black_player": "陳梓骢",
-        "black_team": "中华台北队",
+        "black_team": "中国香港队",
         "white_player": "谭锴轶",
         "white_team": "浙江大学队",
         "result": "白中盘胜"
@@ -34483,7 +34483,7 @@
         "round": 6,
         "table": "'10",
         "black_player": "Sawaree Phanthasen",
-        "black_team": "",
+        "black_team": "东南亚联队",
         "white_player": "刘泽伟",
         "white_team": "深圳大学队",
         "result": "黑中盘胜"
@@ -34503,7 +34503,7 @@
         "round": 7,
         "table": "'13",
         "black_player": "Sawaree Phanthasen",
-        "black_team": "",
+        "black_team": "东南亚联队",
         "white_player": "谭锴轶",
         "white_team": "浙江大学队",
         "result": "白中盘胜"
