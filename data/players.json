@@ -19517,6 +19517,24 @@
     "58": [],
     "59": [
       {
+        "opponent": "李泳泽",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "徐楚轩",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "唐烨",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
         "opponent": "余瑞林",
         "total_win": "1",
         "total_lose": "0",
@@ -19646,6 +19664,30 @@
         "opponent": "邓彦均",
         "total_win": "1",
         "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "罗宇涵",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "蒋跃平",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "李昊苇",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "李芷颐",
+        "total_win": "0",
+        "total_lose": "1",
         "total_game": 1
       },
       {
