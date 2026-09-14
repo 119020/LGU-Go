@@ -1559,6 +1559,16 @@
         "location": "江西丰城",
         "total_round": 11,
         "source": "https://mp.weixin.qq.com/s/KgZNC-yNyRlcZhAApUOzFg?scene=1&click_id=42"
+      },
+      {
+        "competition_id": 184,
+        "year": 2026,
+        "competition": "第17届 丰城杯（公开组）",
+        "start_date": "2026-09-07T16:00:00.000Z",
+        "end_date": "2026-09-10T16:00:00.000Z",
+        "location": "江西丰城",
+        "total_round": 10,
+        "source": "https://mp.weixin.qq.com/s/t-qg9Juv8Z05OyCJikjxXQ?scene=1&click_id=988314465"
       }
     ],
     "32": [
@@ -1925,6 +1935,16 @@
         "location": "广东广州越秀",
         "total_round": 7,
         "source": "https://v.dzqzd.com/VfBody.aspx?r=PFJlZGkgTnM9IlZmIiBKaz0i6LWb5LqL5L+h5oGvIiBZaD0iMzA2MTM4NSIgU2g9IkNZMzAyMEFNS0ZQQSIvPg=="
+      },
+      {
+        "competition_id": 185,
+        "year": 2026,
+        "competition": "第10届 广州市长杯团体赛（公开组）",
+        "start_date": "2026-09-11T16:00:00.000Z",
+        "end_date": "2026-09-12T16:00:00.000Z",
+        "location": "广东广州越秀",
+        "total_round": 7,
+        "source": "https://mp.weixin.qq.com/s/zSz9NNaloherZk8xSy888A"
       }
     ],
     "45": [
@@ -35592,6 +35612,250 @@
         "black_team": "",
         "white_player": "杜鸣亮",
         "white_team": "",
+        "result": "黑中盘胜"
+      }
+    ],
+    "184": [
+      {
+        "date": "2026-09-07T16:00:00.000Z",
+        "round": 1,
+        "table": "'45",
+        "black_player": "马睿雪",
+        "black_team": "",
+        "white_player": "肖芷谦",
+        "white_team": "",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-09-07T16:00:00.000Z",
+        "round": 2,
+        "table": "'13",
+        "black_player": "刘云彬",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-09-07T16:00:00.000Z",
+        "round": 3,
+        "table": "'11",
+        "black_player": "马睿雪",
+        "black_team": "",
+        "white_player": "马江河",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-09-08T16:00:00.000Z",
+        "round": 4,
+        "table": "'14",
+        "black_player": "郭晋坚",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-09-08T16:00:00.000Z",
+        "round": 5,
+        "table": "'36",
+        "black_player": "马睿雪",
+        "black_team": "",
+        "white_player": "周磊",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-09-08T16:00:00.000Z",
+        "round": 6,
+        "table": "'37",
+        "black_player": "韩璐阳",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-09-09T16:00:00.000Z",
+        "round": 7,
+        "table": "'35",
+        "black_player": "马睿雪",
+        "black_team": "",
+        "white_player": "陈依晴",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-09-09T16:00:00.000Z",
+        "round": 8,
+        "table": "'36",
+        "black_player": "徐逸臣",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-09-09T16:00:00.000Z",
+        "round": 9,
+        "table": "'50",
+        "black_player": "马睿雪",
+        "black_team": "",
+        "white_player": "朱成恺",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-09-10T16:00:00.000Z",
+        "round": 10,
+        "table": "'48",
+        "black_player": "黄巍",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "黑中盘胜"
+      }
+    ],
+    "185": [
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 1,
+        "table": "'13-3",
+        "black_player": "罗宇涵",
+        "black_team": "燕岭棋院队",
+        "white_player": "罗钰林",
+        "white_team": "风起天南队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 1,
+        "table": "'4-1",
+        "black_player": "匡博文",
+        "black_team": "香雪玉岩队",
+        "white_player": "陆锦强",
+        "white_team": "碳索队",
+        "result": "https://home.yikeweiqi.com/mobile.html?_cb=1789365853129#/sgf/detail?id=14403820&type=0"
+      },
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 2,
+        "table": "'6-1",
+        "black_player": "俞双桥",
+        "black_team": "且闲轩棋友二队",
+        "white_player": "匡博文",
+        "white_team": "香雪玉岩队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 2,
+        "table": "'9-3",
+        "black_player": "罗钰林",
+        "black_team": "风起天南队",
+        "white_player": "李泳泽",
+        "white_team": "流花湖棋友二队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 3,
+        "table": "'10-3",
+        "black_player": "蒋跃平",
+        "black_team": "人民公园二队",
+        "white_player": "罗钰林",
+        "white_team": "风起天南队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 3,
+        "table": "'2-1",
+        "black_player": "匡博文",
+        "black_team": "香雪玉岩队",
+        "white_player": "余浩榕",
+        "white_team": "希望之星一队",
+        "result": "https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=fd2af9c7633e9528&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODkyODAzOTMsImV4cCI6MTc4OTM2Njc5MywiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImZkMmFmOWM3NjMzZTk1MjgiLCJpc3ZpcCI6MX19.3FiIYEZXh_bcHhrmTePQGvP8NSm90dA_gAHMvrVVX0k#/desktop"
+      },
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 4,
+        "table": "'1-1",
+        "black_player": "黄永汉",
+        "black_team": "花都一队",
+        "white_player": "匡博文",
+        "white_team": "香雪玉岩队",
+        "result": "https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=f1b0e659b7a46cdf&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODkyODA3MTgsImV4cCI6MTc4OTM2NzExOCwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImYxYjBlNjU5YjdhNDZjZGYiLCJpc3ZpcCI6MX19.V3alpNLBlbCFjMQgS-fFBRLdxY_cznu0EeygCBHLBSA#/mobile"
+      },
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 4,
+        "table": "'10-3",
+        "black_player": "罗钰林",
+        "black_team": "风起天南队",
+        "white_player": "徐楚轩",
+        "white_team": "广州市流年棋友会代表一队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 5,
+        "table": "'10-3",
+        "black_player": "唐烨",
+        "black_team": "中山大学一队",
+        "white_player": "罗钰林",
+        "white_team": "风起天南队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-09-11T16:00:00.000Z",
+        "round": 5,
+        "table": "'4-1",
+        "black_player": "匡博文",
+        "black_team": "香雪玉岩队",
+        "white_player": "何彪",
+        "white_team": "流花湖棋友一队",
+        "result": "https://home.yikeweiqi.com/mobile.html#/sgf/detail?id=14404588&type=0"
+      },
+      {
+        "date": "2026-09-12T16:00:00.000Z",
+        "round": 6,
+        "table": "'3-1",
+        "black_player": "莫韬",
+        "black_team": "广东聪韵棋院队",
+        "white_player": "匡博文",
+        "white_team": "香雪玉岩队",
+        "result": "https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=77268797e5c27b81&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODkyODA3MzYsImV4cCI6MTc4OTM2NzEzNiwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6Ijc3MjY4Nzk3ZTVjMjdiODEiLCJpc3ZpcCI6MX19.coybydpLi7D1EaSULXS6ZjUTT5z08pm6bvBDQdyBmUI#/mobile"
+      },
+      {
+        "date": "2026-09-12T16:00:00.000Z",
+        "round": 6,
+        "table": "'4-3",
+        "black_player": "罗钰林",
+        "black_team": "风起天南队",
+        "white_player": "李昊苇",
+        "white_team": "不要捞我的目队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-09-12T16:00:00.000Z",
+        "round": 7,
+        "table": "'1-1",
+        "black_player": "陈俊宇",
+        "black_team": "天河区围棋协会星河棋院一队",
+        "white_player": "匡博文",
+        "white_team": "香雪玉岩队",
+        "result": "https://hawkeye.yikeweiqi.com/report/mobile?ak=golinksuser&token=c35605d72e7dfee5&code=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3ODkyODA3NzksImV4cCI6MTc4OTM2NzE3OSwiaWQiOjAsImV4dGVuZCI6eyJ0b2tlbiI6ImMzNTYwNWQ3MmU3ZGZlZTUiLCJpc3ZpcCI6MX19.ACTPD4OcM97clVLITw83VcN3waRH9oyXTvB01pLCook#/desktop"
+      },
+      {
+        "date": "2026-09-12T16:00:00.000Z",
+        "round": 7,
+        "table": "'8-3",
+        "black_player": "李芷颐",
+        "black_team": "香雪寓言队",
+        "white_player": "罗钰林",
+        "white_team": "风起天南队",
         "result": "黑中盘胜"
       }
     ]
