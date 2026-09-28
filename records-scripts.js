@@ -79,16 +79,25 @@ function renderRecords(records) {
             </tr>
         </thead>
         <tbody>
-            ${records.map(record => `
-                <tr>
-                    <td>${formatBeijingDate(record.date)}</td>
-                    <td>${record.opponent}</td>
-                    <td>${record.competition}</td>
-                    <td>${record.edition}</td>
-                    <td>${record.round}</td>
-                    <td>${record.result}</td>
-                </tr>
-            `).join('')}
+            ${records.map(record => {
+                let opponentColor = '';
+                if (record.result === '胜') {
+                    opponentColor = 'red';
+                } else if (record.result === '负') {
+                    opponentColor = 'green';
+                }
+                const styleAttr = opponentColor ? `style="color: ${opponentColor};"` : '';
+                return `
+                    <tr>
+                        <td>${formatBeijingDate(record.date)}</td>
+                        <td ${styleAttr}>${record.opponent}</td>
+                        <td>${record.competition}</td>
+                        <td>${record.edition}</td>
+                        <td>${record.round}</td>
+                        <td>${record.result}</td>
+                    </tr>
+                `;
+            }).join('')}
         </tbody>
     `;
     recordsContainer.appendChild(table);
