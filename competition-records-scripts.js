@@ -89,14 +89,27 @@ function renderCompetitionRecords(records, competitionName) {
                     ? `<a href="${record.result}" target="_blank" class="source-link">查看棋谱</a>` 
                     : (record.result || '暂无棋谱');
                 
+                let blackColor = '';
+                let whiteColor = '';
+                
+                if (record.result && record.result.includes('黑')) { // 黑胜
+                    blackColor = 'red';
+                    whiteColor = 'green';
+                } else if (record.result && record.result.includes('白')) { // 白胜
+                    blackColor = 'green';
+                    whiteColor = 'red';
+                }
+                const styleBlackAttr = blackColor ? `style="color: ${blackColor};"` : '';
+                const styleWhiteAttr = whiteColor ? `style="color: ${whiteColor};"` : '';
+                
                 return `
                 <tr>
                     <td>${formatBeijingDate(record.date)}</td>
                     <td>${record.round}</td>
                     <td>${record.table}</td>
-                    <td>${record.black_player}</td>
+                    <td ${styleBlackAttr}>${record.black_player}</td>
                     <td>${record.black_team}</td>
-                    <td>${record.white_player}</td>
+                    <td ${styleWhiteAttr}>${record.white_player}</td>
                     <td>${record.white_team}</td>
                     <td>${sourceDisplay}</td>
                 </tr>
