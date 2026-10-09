@@ -494,15 +494,15 @@
       },
       {
         "year": 2026,
-        "total_wins": "31",
-        "total_losses": "31",
-        "win_rate": "50.00"
+        "total_wins": "37",
+        "total_losses": "36",
+        "win_rate": "50.68"
       },
       {
         "year": null,
-        "total_wins": "187",
-        "total_losses": "174",
-        "win_rate": "51.80"
+        "total_wins": "193",
+        "total_losses": "179",
+        "win_rate": "51.88"
       }
     ],
     "4": [
@@ -5115,6 +5115,42 @@
         "total_game": 2
       },
       {
+        "opponent": "郭凌明",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "何宇航",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "范灏峰",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "俞毅",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "章洋瑞",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "刘洛冰",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
         "opponent": "陈俊羽（大）",
         "total_win": "1",
         "total_lose": "0",
@@ -6138,6 +6174,36 @@
         "opponent": "赵家乐",
         "total_win": "1",
         "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "张喆皓",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "杨子言",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "王梵宇",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "陈启晟",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "彭劲羽",
+        "total_win": "0",
+        "total_lose": "1",
         "total_game": 1
       },
       {
@@ -26085,6 +26151,105 @@
         "competition": "龙华杯青少年赛",
         "edition": 1,
         "round": 10
+      },
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "郭凌明",
+        "result": "胜",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 1
+      },
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "何宇航",
+        "result": "胜",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 2
+      },
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "张喆皓",
+        "result": "负",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 3
+      },
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "杨子言",
+        "result": "负",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 4
+      },
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "王梵宇",
+        "result": "负",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 5
+      },
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "范灏峰",
+        "result": "胜",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 6
+      },
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "陈启晟",
+        "result": "负",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 7
+      },
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "俞毅",
+        "result": "胜",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 8
+      },
+      {
+        "date": "2026-10-04T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "彭劲羽",
+        "result": "负",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 9
+      },
+      {
+        "date": "2026-10-04T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "章洋瑞",
+        "result": "胜",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 10
+      },
+      {
+        "date": "2026-10-05T16:00:00.000Z",
+        "name": "付涵一",
+        "opponent": "刘洛冰",
+        "result": "胜",
+        "competition": "希望之星精英赛",
+        "edition": 1,
+        "round": 11
       },
       {
         "date": "2025-11-07T16:00:00.000Z",
@@ -50893,6 +51058,11 @@
         "year": 2025,
         "competition": "第1届广东大学生联赛 (公开组)",
         "honor": "团体第1名"
+      },
+      {
+        "year": 2026,
+        "competition": "第1届希望之星精英赛 (精英甲组)",
+        "honor": "团体第5名"
       }
     ],
     "4": [
