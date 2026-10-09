@@ -81,6 +81,14 @@
       "description": "--|公开赛|线下|个人赛|--"
     },
     {
+      "competition_base_id": 80,
+      "competition": "希望之星精英赛",
+      "first_year": 2026,
+      "last_year": 2026,
+      "level": "国家级",
+      "description": "--|公开赛|线下|个人赛|记团体成绩"
+    },
+    {
       "competition_base_id": 58,
       "competition": "方太杯",
       "first_year": -1,
@@ -2655,6 +2663,18 @@
         "location": "广西桂林",
         "total_round": 7,
         "source": "https://v.dzqzd.com/VfBody.aspx?p=VmbotZvkuovpk77mjqUmVGM9MjIwMTc5Mw=="
+      }
+    ],
+    "80": [
+      {
+        "competition_id": 186,
+        "year": 2026,
+        "competition": "第1届 希望之星精英赛（精英甲组）",
+        "start_date": "2026-10-02T16:00:00.000Z",
+        "end_date": "2026-10-05T16:00:00.000Z",
+        "location": "重庆黔江",
+        "total_round": 11,
+        "source": "https://mp.weixin.qq.com/s?__biz=MzUzNjg0MTY4OA==&mid=2247542638&idx=1&sn=dd23bc231f0ffc9221defb75bdf2ee0e&chksm=fb9267f74640b73e29daa686123e5f725b7fe70f26d699fa19daab2cf33c8f2ee7ab42c03ef0&mpshare=1&scene=24&srcid=1006tsSTfoCsUUKAzWACVl5G&sharer_shareinfo=0965643438c834f0d2d2a1fba3cbd966&sharer_shareinfo_first=0965643438c834f0d2d2a1fba3cbd966#rd"
       }
     ]
   },
@@ -35856,6 +35876,118 @@
         "black_team": "香雪寓言队",
         "white_player": "罗钰林",
         "white_team": "风起天南队",
+        "result": "黑中盘胜"
+      }
+    ],
+    "186": [
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "round": 1,
+        "table": "",
+        "black_player": "付涵一",
+        "black_team": "农深联队",
+        "white_player": "郭凌明",
+        "white_team": "龙潭一队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "round": 2,
+        "table": "",
+        "black_player": "何宇航",
+        "black_team": "龙潭六队",
+        "white_player": "付涵一",
+        "white_team": "农深联队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "round": 3,
+        "table": "",
+        "black_player": "付涵一",
+        "black_team": "农深联队",
+        "white_player": "张喆皓",
+        "white_team": "围棋折腾群乙组三队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-10-02T16:00:00.000Z",
+        "round": 4,
+        "table": "",
+        "black_player": "杨子言",
+        "black_team": "农深联队",
+        "white_player": "付涵一",
+        "white_team": "农深联队",
+        "result": "黑超时胜"
+      },
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "round": 5,
+        "table": "",
+        "black_player": "付涵一",
+        "black_team": "农深联队",
+        "white_player": "王梵宇",
+        "white_team": "折腾群精英乙组时光队",
+        "result": "白胜1.25子"
+      },
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "round": 6,
+        "table": "",
+        "black_player": "付涵一",
+        "black_team": "农深联队",
+        "white_player": "范灏峰",
+        "white_team": "巴蜀围棋队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "round": 7,
+        "table": "",
+        "black_player": "陈启晟",
+        "black_team": "龙潭十六队",
+        "white_player": "付涵一",
+        "white_team": "农深联队",
+        "result": "黑胜0.75子"
+      },
+      {
+        "date": "2026-10-03T16:00:00.000Z",
+        "round": 8,
+        "table": "",
+        "black_player": "俞毅",
+        "black_team": "云南围棋协会二队",
+        "white_player": "付涵一",
+        "white_team": "农深联队",
+        "result": "白胜10.25子"
+      },
+      {
+        "date": "2026-10-04T16:00:00.000Z",
+        "round": 9,
+        "table": "",
+        "black_player": "付涵一",
+        "black_team": "农深联队",
+        "white_player": "彭劲羽",
+        "white_team": "云南围棋协会二队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-10-04T16:00:00.000Z",
+        "round": 10,
+        "table": "",
+        "black_player": "章洋瑞",
+        "black_team": "云南龙潭二十一队",
+        "white_player": "付涵一",
+        "white_team": "农深联队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-10-05T16:00:00.000Z",
+        "round": 11,
+        "table": "",
+        "black_player": "付涵一",
+        "black_team": "农深联队",
+        "white_player": "刘洛冰",
+        "white_team": "云南围棋协会二队",
         "result": "黑中盘胜"
       }
     ]
