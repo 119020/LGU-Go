@@ -1865,9 +1865,8 @@
       },
       {
         "year": 2022,
-        "total_wins": "20",
-        "total_losses": "8",
-        "total_drawes": "1",
+        "total_wins": "20.5",
+        "total_losses": "8.5",
         "win_rate": "71.43"
       },
       {
@@ -1875,12 +1874,6 @@
         "total_wins": "29",
         "total_losses": "20",
         "win_rate": "59.18"
-      },
-      {
-        "year": 2024,
-        "total_wins": "0",
-        "total_losses": "0",
-        "win_rate": null
       },
       {
         "year": 2025,
@@ -1896,9 +1889,8 @@
       },
       {
         "year": null,
-        "total_wins": "96",
-        "total_losses": "53",
-        "total_drawes": "1",
+        "total_wins": "96.5",
+        "total_losses": "53.5",
         "win_rate": "64.43"
       }
     ]
@@ -20591,9 +20583,8 @@
     "71": [
       {
         "opponent": "房晟涛",
-        "total_win": "0",
-        "total_lose": "0",
-        "total_drawes": "1",
+        "total_win": "0.5",
+        "total_lose": "0.5",
         "total_game": 1
       },
       {
