@@ -12923,6 +12923,16 @@
       {
         "date": "2024-06-29T16:00:00.000Z",
         "round": 2,
+        "table": "",
+        "black_player": "",
+        "black_team": "闲云棋院队",
+        "white_player": "王栋杉",
+        "white_team": "盐田棋协队",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2024-06-29T16:00:00.000Z",
+        "round": 2,
         "table": "3-1",
         "black_player": "娄涛",
         "black_team": "印记围棋队",
@@ -12968,6 +12978,16 @@
         "black_team": "印记围棋队",
         "white_player": "张天一",
         "white_team": "弈秋棋社队",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2024-06-29T16:00:00.000Z",
+        "round": 3,
+        "table": "'1-1",
+        "black_player": "王栋杉",
+        "black_team": "盐田棋协队",
+        "white_player": "曹弋",
+        "white_team": "东区棋社队",
         "result": "黑中盘胜"
       },
       {
