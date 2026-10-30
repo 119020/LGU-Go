@@ -1876,6 +1876,12 @@
         "win_rate": "59.18"
       },
       {
+        "year": 2024,
+        "total_wins": "3",
+        "total_losses": "0",
+        "win_rate": "100.00"
+      },
+      {
         "year": 2025,
         "total_wins": "9",
         "total_losses": "2",
@@ -1889,9 +1895,9 @@
       },
       {
         "year": null,
-        "total_wins": "96.5",
+        "total_wins": "99.5",
         "total_losses": "53.5",
-        "win_rate": "64.43"
+        "win_rate": "65.13"
       }
     ]
   },
@@ -20588,6 +20594,12 @@
         "total_game": 1
       },
       {
+        "opponent": "",
+        "total_win": "3",
+        "total_lose": "0",
+        "total_game": 3
+      },
+      {
         "opponent": "匡博文",
         "total_win": "2",
         "total_lose": "1",
@@ -20600,7 +20612,7 @@
         "total_game": 2
       },
       {
-        "opponent": "",
+        "opponent": "付涵一",
         "total_win": "2",
         "total_lose": "0",
         "total_game": 2
@@ -20658,6 +20670,12 @@
         "total_win": "0",
         "total_lose": "2",
         "total_game": 2
+      },
+      {
+        "opponent": "曹弋",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
       },
       {
         "opponent": "许思康",
@@ -20727,12 +20745,6 @@
       },
       {
         "opponent": "文轩",
-        "total_win": "1",
-        "total_lose": "0",
-        "total_game": 1
-      },
-      {
-        "opponent": "付涵一",
         "total_win": "1",
         "total_lose": "0",
         "total_game": 1
@@ -52347,6 +52359,33 @@
         "round": 1
       },
       {
+        "date": "2024-06-29T16:00:00.000Z",
+        "name": "王栋杉",
+        "opponent": "付涵一",
+        "result": "胜",
+        "competition": "深圳汉酱团体联赛",
+        "edition": 2,
+        "round": 1
+      },
+      {
+        "date": "2024-06-29T16:00:00.000Z",
+        "name": "王栋杉",
+        "opponent": "",
+        "result": "胜",
+        "competition": "深圳汉酱团体联赛",
+        "edition": 2,
+        "round": 2
+      },
+      {
+        "date": "2024-06-29T16:00:00.000Z",
+        "name": "王栋杉",
+        "opponent": "曹弋",
+        "result": "胜",
+        "competition": "深圳汉酱团体联赛",
+        "edition": 2,
+        "round": 3
+      },
+      {
         "date": "2020-10-31T16:00:00.000Z",
         "name": "王栋杉",
         "opponent": "周建辰",
@@ -54374,6 +54413,11 @@
       {
         "year": 2023,
         "competition": "第9届深圳联赛 (甲级组)",
+        "honor": "团体第2名"
+      },
+      {
+        "year": 2024,
+        "competition": "第2届深圳汉酱团体联赛 (公开组)",
         "honor": "团体第2名"
       },
       {
