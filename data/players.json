@@ -1601,15 +1601,15 @@
       },
       {
         "year": 2026,
-        "total_wins": "36",
-        "total_losses": "39",
-        "win_rate": "48.00"
+        "total_wins": "39",
+        "total_losses": "45",
+        "win_rate": "46.43"
       },
       {
         "year": null,
-        "total_wins": "137",
-        "total_losses": "105",
-        "win_rate": "56.61"
+        "total_wins": "140",
+        "total_losses": "111",
+        "win_rate": "55.78"
       }
     ],
     "53": [
@@ -16526,6 +16526,24 @@
         "total_game": 1
       },
       {
+        "opponent": "孙浩轩",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "林忻嘉",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "江翰泽",
+        "total_win": "1",
+        "total_lose": "0",
+        "total_game": 1
+      },
+      {
         "opponent": "肖芷谦",
         "total_win": "1",
         "total_lose": "0",
@@ -17189,6 +17207,42 @@
         "opponent": "何全",
         "total_win": "1",
         "total_lose": "0",
+        "total_game": 1
+      },
+      {
+        "opponent": "林信欣",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "肖丽朵",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "林康",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "叶方家",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "张益硕",
+        "total_win": "0",
+        "total_lose": "1",
+        "total_game": 1
+      },
+      {
+        "opponent": "肖景博",
+        "total_win": "0",
+        "total_lose": "1",
         "total_game": 1
       },
       {
@@ -45792,6 +45846,87 @@
         "result": "负",
         "competition": "商旅运河杯",
         "edition": 2,
+        "round": 9
+      },
+      {
+        "date": "2026-10-30T16:00:00.000Z",
+        "name": "马睿雪",
+        "opponent": "林信欣",
+        "result": "负",
+        "competition": "商旅运河杯",
+        "edition": 3,
+        "round": 1
+      },
+      {
+        "date": "2026-10-30T16:00:00.000Z",
+        "name": "马睿雪",
+        "opponent": "孙浩轩",
+        "result": "胜",
+        "competition": "商旅运河杯",
+        "edition": 3,
+        "round": 2
+      },
+      {
+        "date": "2026-10-30T16:00:00.000Z",
+        "name": "马睿雪",
+        "opponent": "肖丽朵",
+        "result": "负",
+        "competition": "商旅运河杯",
+        "edition": 3,
+        "round": 3
+      },
+      {
+        "date": "2026-10-31T16:00:00.000Z",
+        "name": "马睿雪",
+        "opponent": "林忻嘉",
+        "result": "胜",
+        "competition": "商旅运河杯",
+        "edition": 3,
+        "round": 4
+      },
+      {
+        "date": "2026-10-31T16:00:00.000Z",
+        "name": "马睿雪",
+        "opponent": "林康",
+        "result": "负",
+        "competition": "商旅运河杯",
+        "edition": 3,
+        "round": 5
+      },
+      {
+        "date": "2026-10-31T16:00:00.000Z",
+        "name": "马睿雪",
+        "opponent": "江翰泽",
+        "result": "胜",
+        "competition": "商旅运河杯",
+        "edition": 3,
+        "round": 6
+      },
+      {
+        "date": "2026-11-01T16:00:00.000Z",
+        "name": "马睿雪",
+        "opponent": "叶方家",
+        "result": "负",
+        "competition": "商旅运河杯",
+        "edition": 3,
+        "round": 7
+      },
+      {
+        "date": "2026-11-01T16:00:00.000Z",
+        "name": "马睿雪",
+        "opponent": "张益硕",
+        "result": "负",
+        "competition": "商旅运河杯",
+        "edition": 3,
+        "round": 8
+      },
+      {
+        "date": "2026-11-01T16:00:00.000Z",
+        "name": "马睿雪",
+        "opponent": "肖景博",
+        "result": "负",
+        "competition": "商旅运河杯",
+        "edition": 3,
         "round": 9
       },
       {
