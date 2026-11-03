@@ -2503,6 +2503,16 @@
         "location": "浙江杭州淳安",
         "total_round": 9,
         "source": "https://mp.weixin.qq.com/s/UGO4AZAgs46xS06r0p0NjQ?scene=1&click_id=39"
+      },
+      {
+        "competition_id": 190,
+        "year": 2026,
+        "competition": "第3届 商旅运河杯（公开A组）",
+        "start_date": "2026-10-30T16:00:00.000Z",
+        "end_date": "2026-11-01T16:00:00.000Z",
+        "location": "浙江杭州淳安",
+        "total_round": 9,
+        "source": "https://mp.weixin.qq.com/s/YqY6zA_oTrZj_vhAP77VoA"
       }
     ],
     "66": [
@@ -37455,6 +37465,98 @@
         "white_player": "吴一博",
         "white_team": "",
         "result": "白中盘胜"
+      }
+    ],
+    "190": [
+      {
+        "date": "2026-10-30T16:00:00.000Z",
+        "round": 1,
+        "table": "'27",
+        "black_player": "马睿雪",
+        "black_team": "",
+        "white_player": "林信欣",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-10-30T16:00:00.000Z",
+        "round": 2,
+        "table": "'45",
+        "black_player": "孙浩轩",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-10-30T16:00:00.000Z",
+        "round": 3,
+        "table": "'29",
+        "black_player": "马睿雪",
+        "black_team": "",
+        "white_player": "肖丽朵",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-10-31T16:00:00.000Z",
+        "round": 4,
+        "table": "'41",
+        "black_player": "林忻嘉",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-10-31T16:00:00.000Z",
+        "round": 5,
+        "table": "'29",
+        "black_player": "马睿雪",
+        "black_team": "",
+        "white_player": "林康",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-10-31T16:00:00.000Z",
+        "round": 6,
+        "table": "'41",
+        "black_player": "江翰泽",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-11-01T16:00:00.000Z",
+        "round": 7,
+        "table": "'29",
+        "black_player": "叶方家",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "黑中盘胜"
+      },
+      {
+        "date": "2026-11-01T16:00:00.000Z",
+        "round": 8,
+        "table": "'41",
+        "black_player": "马睿雪",
+        "black_team": "",
+        "white_player": "张益硕",
+        "white_team": "",
+        "result": "白中盘胜"
+      },
+      {
+        "date": "2026-11-01T16:00:00.000Z",
+        "round": 9,
+        "table": "'43",
+        "black_player": "肖景博",
+        "black_team": "",
+        "white_player": "马睿雪",
+        "white_team": "",
+        "result": "黑中盘胜"
       }
     ]
   }
